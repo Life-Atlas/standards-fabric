@@ -12,7 +12,7 @@
   "annulment_date": null,
   "pub_year": 1979,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/55501"
  },
  {
   "id": "55901",
@@ -27,7 +27,7 @@
   "annulment_date": null,
   "pub_year": 1978,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/55901"
  },
  {
   "id": "1020101",
@@ -42,7 +42,7 @@
   "annulment_date": null,
   "pub_year": 1975,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/1020101"
  },
  {
   "id": "1476201",
@@ -57,7 +57,7 @@
   "annulment_date": null,
   "pub_year": 1968,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/1476201"
  },
  {
   "id": "3597501",
@@ -72,7 +72,7 @@
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3597501"
  },
  {
   "id": "3598601",
@@ -87,7 +87,7 @@
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3598601"
  },
  {
   "id": "3119601",
@@ -102,7 +102,7 @@
   "annulment_date": null,
   "pub_year": 2024,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3119601"
  },
  {
   "id": "3306801",
@@ -117,7 +117,7 @@
   "annulment_date": null,
   "pub_year": 2024,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3306801"
  },
  {
   "id": "2016901",
@@ -132,7 +132,7 @@
   "annulment_date": null,
   "pub_year": 2017,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/2016901"
  },
  {
   "id": "1645801",
@@ -147,7 +147,7 @@
   "annulment_date": null,
   "pub_year": 2015,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/1645801"
  },
  {
   "id": "1645901",
@@ -162,7 +162,7 @@
   "annulment_date": null,
   "pub_year": 2015,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/1645901"
  },
  {
   "id": "3119701",
@@ -177,6 +177,6 @@
   "annulment_date": null,
   "pub_year": 2014,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3119701"
  }
 ]

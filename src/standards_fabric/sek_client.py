@@ -119,8 +119,8 @@ def parse_doc(hit: dict) -> Doc:
     status = status_map.get(status_txt or "", None)
     is_sw = bool(sd.get("publyear_sek")) or bool((prefix or "").startswith(("SS", "SEK")))
     title = s.get("title_sv") or s.get("title_en_us") or ""
-    slug = s.get("link") or s.get("slug")
-    url = ("https://elstandard.se" + slug) if isinstance(slug, str) and slug.startswith("/") else None
+    # every catalogue entry has a detail page at /standard/<_id> (route read from the site bundle 2026-08-17)
+    url = f"https://elstandard.se/standard/{hit.get('_id')}" if hit.get("_id") else None
     return Doc(
         id=str(hit.get("_id")), name=name, title=title, prefix=prefix,
         doc_type=_text(sd.get("document_type")), status=status,

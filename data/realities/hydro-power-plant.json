@@ -1,0 +1,30 @@
+{
+  "id": "hydro-power-plant",
+  "class": "facility",
+  "kind": "critical-infrastructure",
+  "name": "Hydro power plant with regional substation (critical infrastructure, NIS2)",
+  "reality_basis": "Reference model - no client behind it. Zones follow a Swedish run-of-river station: intake and gates, turbine hall, generator, transformer yard, 130 kV switchyard, control room with SCADA/RTU, dam monitoring, black-start diesel and the site network. Built to carry the security- and resilience-heavy topics (NIS2, IEC 62443, IEC 61850, dam safety) that a factory or an office does not.",
+  "smile_phase": "contextual-intelligence",
+  "systems": [
+    {"id": "scada", "name": "SCADA / RTU and station automation (IEC 61850, IEC 60870)", "topics": ["grid-control-scada", "industrial-networks", "cybersecurity-products", "power-quality-metering"]},
+    {"id": "protection", "name": "Protection and control (relays, teleprotection)", "topics": ["protection-relays", "grid-control-scada", "emc", "short-circuit"]},
+    {"id": "dam-monitoring", "name": "Dam and structural monitoring (seepage, deformation, level)", "topics": ["iot-core", "interoperability-semantic", "environmental-testing", "digital-twin-core"]},
+    {"id": "condition-monitoring", "name": "Turbine and generator condition monitoring", "topics": ["hydro-turbines", "machines-electrical", "asset-management", "digital-twin-manufacturing", "iot-core"]},
+    {"id": "site-network", "name": "Site network, fibre and remote access", "topics": ["fibre-optics", "data-cabling", "cybersecurity-products", "iot-trustworthiness"]},
+    {"id": "twin", "name": "Plant twin (assets, outages, flow and market data)", "topics": ["digital-twin-core", "energy-management", "asset-management", "interoperability-semantic"]}
+  ],
+  "zones": [
+    {"id": "intake", "name": "Intake, trash rack and gates", "x": 0, "y": 0, "w": 3, "h": 2, "topics": ["machines-electrical", "lv-installations", "ip-enclosures", "environmental-testing", "iot-core", "surge-lightning"]},
+    {"id": "turbine-hall", "name": "Turbine hall (runner, governor, bearings)", "x": 3, "y": 0, "w": 4, "h": 2, "topics": ["hydro-turbines", "machines-electrical", "lv-installations", "emc", "industrial-networks", "digital-twin-manufacturing", "asset-management"]},
+    {"id": "generator", "name": "Generator and excitation", "x": 7, "y": 0, "w": 3, "h": 2, "topics": ["rotating-machines", "machines-electrical", "insulation-materials", "emc", "environmental-testing"]},
+    {"id": "control-room", "name": "Control room (SCADA, HMI, operator)", "x": 10, "y": 0, "w": 2, "h": 2, "topics": ["grid-control-scada", "cybersecurity-products", "it-equipment-safety", "digital-twin-core", "interoperability-semantic", "lighting"]},
+    {"id": "transformer-yard", "name": "Main transformer yard", "x": 0, "y": 2, "w": 3, "h": 2, "topics": ["transformers", "insulating-liquids", "surge-lightning", "short-circuit", "fire-testing", "hv-switchgear"]},
+    {"id": "switchyard", "name": "130 kV switchyard and busbars", "x": 3, "y": 2, "w": 4, "h": 2, "topics": ["hv-switchgear", "insulators", "instrument-transformers", "hv-testing", "surge-lightning", "short-circuit", "hv-system-design"]},
+    {"id": "relay-room", "name": "Relay and protection room", "x": 7, "y": 2, "w": 2, "h": 2, "topics": ["protection-relays", "grid-control-scada", "emc", "lv-installations", "cybersecurity-products"]},
+    {"id": "aux-power", "name": "Auxiliary power, batteries, UPS, black start", "x": 9, "y": 2, "w": 3, "h": 2, "topics": ["ups-power-electronics", "batteries-storage", "lv-switchgear", "lv-installations", "explosive-atmospheres", "fire-testing"]},
+    {"id": "dam", "name": "Dam crest, spillway and monitoring", "x": 0, "y": 4, "w": 5, "h": 1, "topics": ["iot-core", "environmental-testing", "ip-enclosures", "surge-lightning", "interoperability-semantic", "emf-exposure"]},
+    {"id": "fish-way", "name": "Fish way and environmental compliance sensors", "x": 5, "y": 4, "w": 3, "h": 1, "topics": ["iot-core", "environmental-testing", "energy-management"]},
+    {"id": "workshop-store", "name": "Workshop, spare parts and staging", "x": 8, "y": 4, "w": 2, "h": 1, "topics": ["welding", "hand-tools", "machines-electrical", "asset-management"]},
+    {"id": "perimeter", "name": "Perimeter, access control and CCTV", "x": 10, "y": 4, "w": 2, "h": 1, "topics": ["fire-alarm-security", "cybersecurity-products", "lighting", "iot-trustworthiness"]}
+  ]
+}

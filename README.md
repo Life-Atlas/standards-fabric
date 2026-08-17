@@ -4,10 +4,10 @@
 
 Two things in one repo, sharing one data core:
 
-1. **Standards Twin** (`site/`) — pick a reality (a steel-frame plant, an underground test facility, a data centre, an office, a rental block), pick an epoch (2016 · 2026 · 2036), click a zone. You see the SEK/IEC/ISO documents, ontologies, MIMs and EU acts that govern that zone — with the *basis* for every entry (SEK dates, name-year heuristic, pipeline) and a *checked/assumed* flag on every curated reference.
+1. **Standards Twin** (`site/`) — pick a reality (a steel-frame plant, a hydro power plant, an underground test facility, a data centre, an office, a rental block), pick an epoch (2016 · 2026 · 2036), click a zone. You see the SEK/IEC/ISO documents, ontologies, MIMs and EU acts that govern that zone — with the *basis* for every entry (SEK dates, name-year heuristic, pipeline) and a *checked/assumed* flag on every curated reference.
 2. **Agents** (`src/standards_fabric/agents/`) — six deterministic collectors mapped one-to-one on the consortium's core activities, plus a monthly radar over the eight optional efforts. GitHub Actions run them weekly and monthly and commit the digest to `reports/`. An LLM summary is optional and swappable (Anthropic / Ollama / none).
 
-Measured, not written (`python -m standards_fabric gate` re-checks these numbers): **5** realities · **45** topics · **128** curated refs · **46** SEK committees snapshotted · **14104** catalogue documents time-sliced · **19** tests (5 of them prove the gate can say *no*).
+Measured, not written (`python -m standards_fabric gate` re-checks these numbers): **6** realities · **56** topics · **144** curated refs · **53** SEK committees snapshotted · **14824** catalogue documents time-sliced · **19** tests (5 of them prove the gate can say *no*).
 
 ## Why
 
@@ -23,7 +23,7 @@ python -m pip install -e ".[dev]"          # stdlib-only runtime; dev = pytest +
 python -m standards_fabric build           # twin from the committed SEK snapshot → site/index.html (open it)
 python -m standards_fabric report weekly   # run the agents → reports/weekly/<YYYY-Www>/report.md
 python -m standards_fabric gate            # acceptance gate, exit 0 = green
-python -m standards_fabric snapshot        # refresh the SEK catalogue snapshot (46 committees, ~6 min)
+python -m standards_fabric snapshot        # refresh the SEK catalogue snapshot (53 committees, ~8 min)
 ```
 
 Optional editorial summary: `SF_LLM=anthropic ANTHROPIC_API_KEY=… python -m standards_fabric report weekly` (default model `claude-haiku-4-5-20251001`; `SF_LLM=ollama` for a local model; prompt lives in `prompts/summarise.md`).
@@ -31,9 +31,9 @@ Optional editorial summary: `SF_LLM=anthropic ANTHROPIC_API_KEY=… python -m st
 ## Layout
 
 ```
-data/realities/*.json     five facility instances (class = facility; add a sixth = one JSON, zero code)
-data/topics/topics.json   45 topics → SEK committees + international committees + curated refs
-data/topics/curated.json  128 refs the SEK catalogue does not carry: ISO/CEN via SIS, ETSI, W3C, OASC MIMs, EU acts, ontologies
+data/realities/*.json     six facility instances (class = facility; add a sixth = one JSON, zero code)
+data/topics/topics.json   56 topics → SEK committees + international committees + curated refs
+data/topics/curated.json  144 refs the SEK catalogue does not carry: ISO/CEN via SIS, ETSI, W3C, OASC MIMs, EU acts, ontologies
 data/sources/*.json       every feed / API the agents read (feeds, GitHub releases, EU F&T portal, TED, options keywords)
 data/snapshots/sek/       SEK catalogue metadata per committee (all statuses incl. remiss/NWP) — refreshed monthly by CI
 catalog/requirements.json procurement requirements catalogue; each line cites its standards; checked monthly against the snapshot

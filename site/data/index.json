@@ -4,8 +4,8 @@
   "now": 2026,
   "future": 2036
  },
- "docs": 14104,
- "curated": 128,
+ "docs": 14824,
+ "curated": 144,
  "realities": [
   {
    "id": "commercial-office",
@@ -60,6 +60,34 @@
      "curated": 93,
      "pipeline": 61,
      "total": 8397
+    }
+   }
+  },
+  {
+   "id": "hydro-power-plant",
+   "name": "Hydro power plant with regional substation (critical infrastructure, NIS2)",
+   "kind": "critical-infrastructure",
+   "totals": {
+    "past": {
+     "sek": 7013,
+     "swedish": 5787,
+     "curated": 83,
+     "pipeline": 0,
+     "total": 7096
+    },
+    "now": {
+     "sek": 8848,
+     "swedish": 7226,
+     "curated": 103,
+     "pipeline": 0,
+     "total": 8951
+    },
+    "future": {
+     "sek": 8909,
+     "swedish": 7226,
+     "curated": 103,
+     "pipeline": 61,
+     "total": 9012
     }
    }
   },

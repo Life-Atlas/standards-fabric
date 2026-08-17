@@ -22,7 +22,9 @@ def repo(tmp_path):
     (tmp_path / "site/data/twin.json").write_text(json.dumps(twin), encoding="utf-8")
     (tmp_path / "reports/weekly/LATEST.md").write_text("# Standards & Platforms digest — weekly 2026-W01\n", encoding="utf-8")
     (tmp_path / "reports/weekly/2026-W01/findings.json").write_text(json.dumps({"agents": [{"name": "x", "findings": [{"title": "t", "source": "https://e.x"}]}]}), encoding="utf-8")
-    (tmp_path / "README.md").write_text("**1** realities, **45** topics", encoding="utf-8")
+    import json as _json
+    n_topics = len(_json.loads((tmp_path / "data/topics/topics.json").read_text(encoding="utf-8"))["topics"])
+    (tmp_path / "README.md").write_text(f"**1** realities, **{n_topics}** topics", encoding="utf-8")
     return tmp_path
 
 

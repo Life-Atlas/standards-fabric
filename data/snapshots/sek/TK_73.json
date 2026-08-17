@@ -12,7 +12,7 @@
   "annulment_date": null,
   "pub_year": 2016,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/1694801"
  },
  {
   "id": "1047301",
@@ -27,7 +27,7 @@
   "annulment_date": null,
   "pub_year": 2012,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/1047301"
  },
  {
   "id": "506901",
@@ -42,7 +42,7 @@
   "annulment_date": null,
   "pub_year": 2010,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/506901"
  },
  {
   "id": "3805001",
@@ -57,7 +57,7 @@
   "annulment_date": null,
   "pub_year": 2026,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3805001"
  },
  {
   "id": "2761601",
@@ -72,7 +72,7 @@
   "annulment_date": null,
   "pub_year": 2021,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/2761601"
  },
  {
   "id": "1549501",
@@ -87,7 +87,7 @@
   "annulment_date": null,
   "pub_year": 2015,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/1549501"
  },
  {
   "id": "989801",
@@ -102,7 +102,7 @@
   "annulment_date": null,
   "pub_year": 2012,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/989801"
  },
  {
   "id": "219001",
@@ -117,7 +117,7 @@
   "annulment_date": null,
   "pub_year": 2010,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/219001"
  },
  {
   "id": "1865601",
@@ -132,7 +132,7 @@
   "annulment_date": null,
   "pub_year": 2008,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/1865601"
  },
  {
   "id": "1865501",
@@ -147,7 +147,7 @@
   "annulment_date": null,
   "pub_year": 2002,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/1865501"
  },
  {
   "id": "3062401",
@@ -162,7 +162,7 @@
   "annulment_date": null,
   "pub_year": 2000,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3062401"
  },
  {
   "id": "1635501",
@@ -177,7 +177,7 @@
   "annulment_date": null,
   "pub_year": 2016,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/1635501"
  },
  {
   "id": "218801",
@@ -192,7 +192,7 @@
   "annulment_date": "2013-02-28",
   "pub_year": 2004,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/218801"
  },
  {
   "id": "218701",
@@ -207,7 +207,7 @@
   "annulment_date": "2013-02-28",
   "pub_year": 2004,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/218701"
  },
  {
   "id": "507101",
@@ -222,7 +222,7 @@
   "annulment_date": "2019-06-09",
   "pub_year": 2002,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/507101"
  },
  {
   "id": "507001",
@@ -237,7 +237,7 @@
   "annulment_date": "2019-06-09",
   "pub_year": 2002,
   "is_swedish": true,
-  "url": null
+  "url": "https://elstandard.se/standard/507001"
  },
  {
   "id": "1865701",
@@ -252,7 +252,7 @@
   "annulment_date": null,
   "pub_year": 2000,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/1865701"
  },
  {
   "id": "218901",
@@ -267,7 +267,7 @@
   "annulment_date": null,
   "pub_year": 1995,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/218901"
  },
  {
   "id": "1257201",
@@ -282,7 +282,7 @@
   "annulment_date": null,
   "pub_year": 1994,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/1257201"
  },
  {
   "id": "3060601",
@@ -297,6 +297,6 @@
   "annulment_date": null,
   "pub_year": 1991,
   "is_swedish": false,
-  "url": null
+  "url": "https://elstandard.se/standard/3060601"
  }
 ]
