@@ -2,7 +2,7 @@ name: pages
 on:
   push:
     branches: [main]
-    paths: ["site/**", "reports/**", ".github/workflows/pages.yml"]
+    paths: ["site/**", "reports/**", "docs/**", ".github/workflows/pages.yml"]
   workflow_dispatch:
 concurrency:
   group: pages

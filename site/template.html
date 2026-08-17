@@ -15,6 +15,15 @@ header{padding:18px 22px 8px;border-bottom:1px solid var(--line);background:var(
 h1{margin:0;font-size:22px;letter-spacing:-.01em}
 h1 small{font-weight:400;color:var(--muted);font-size:14px;margin-left:8px}
 .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:10px}
+.picker{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin:14px 0 6px}
+.pick{border:1px solid var(--line);border-radius:12px;padding:12px 14px;background:var(--panel);cursor:pointer;text-align:left;min-height:96px;display:flex;flex-direction:column;gap:4px}
+.pick:hover{border-color:var(--accent)}
+.pick[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 25%,transparent)}
+.pick .k{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.pick .t{font-size:17px;font-weight:700;line-height:1.2}
+.pick .s{font-size:12px;color:var(--muted)}
+.pick .b{font-size:11px;color:var(--muted);margin-top:auto}
+.reality-h{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:12px 0 0}
 select,button{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);cursor:pointer}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
 .seg button{border:0;border-radius:0;padding:6px 12px}
@@ -68,7 +77,7 @@ th{color:var(--muted);font-weight:600}
 <header>
   <h1>Standards Twin <small>which standards apply where — <span id="yrs"></span></small></h1>
   <div class="controls">
-    <label>Reality <select id="reality"></select></label>
+    <select id="reality" hidden aria-hidden="true"></select>
     <div class="seg" role="group" aria-label="Epoch">
       <button data-e="past" aria-pressed="false">Past</button>
       <button data-e="now" aria-pressed="true">Now</button>
@@ -77,6 +86,8 @@ th{color:var(--muted);font-weight:600}
     <label><input type="checkbox" id="swonly"> Swedish adoptions only (SS/SEK)</label>
     <label><input type="checkbox" id="pipeonly"> Pipeline only (remiss / NWP)</label>
   </div>
+  <div class="reality-h">Reality — pick the facility class instance</div>
+  <div class="picker" id="picker" role="group" aria-label="Reality"></div>
   <p class="basis" id="basis"></p>
 </header>
 <main>
@@ -101,6 +112,17 @@ const E = DATA.epochs, DOCS = DATA.docs, CUR = DATA.curated, TOPICS = DATA.topic
 document.getElementById('yrs').textContent = `${E.past} · ${E.now} · ${E.future}`;
 const sel = document.getElementById('reality');
 for (const [id, r] of Object.entries(DATA.realities)) { const o = document.createElement('option'); o.value = id; o.textContent = r.name; sel.appendChild(o); }
+const KIND = {factory:'Factory', datacenter:'Data centre', 'commercial-building':'Commercial building', 'residential-rental':'Rental housing', 'underground-lab':'Underground facility'};
+function drawPicker() {
+  const pk = document.getElementById('picker'); pk.innerHTML = '';
+  for (const [id, r] of Object.entries(DATA.realities)) {
+    const b = document.createElement('button'); b.className = 'pick'; b.type = 'button'; b.setAttribute('aria-pressed', sel.value === id ? 'true' : 'false');
+    const t = r.totals || {}; const basisKind = /Anonymised/i.test(r.reality_basis) ? 'from a real twin (anonymised)' : 'reference model';
+    b.innerHTML = `<span class="k">${KIND[r.kind] || r.kind}</span><span class="t">${r.name.replace(/\s*\(.*$/, '')}</span><span class="s">${r.name.match(/\((.*)\)/) ? r.name.match(/\((.*)\)/)[1] : ''}</span><span class="b">${basisKind} · ${r.zones.length} zones · ${(t.now||{}).total ?? '—'} refs now · SMILE: ${r.smile_phase || '—'}</span>`;
+    b.onclick = () => { sel.value = id; sel.onchange(); };
+    pk.appendChild(b);
+  }
+}
 let epoch = 'now', current = null, selectedKey = null;
 const $ = (id) => document.getElementById(id);
 function reality() { return DATA.realities[sel.value]; }
@@ -170,8 +192,9 @@ function showDetail(obj, kind) {
   $('dbody').innerHTML = html; $('dbody').classList.remove('muted');
 }
 document.querySelectorAll('.seg button').forEach(b => b.onclick = () => { epoch = b.dataset.e; document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x === b ? 'true' : 'false')); draw(); });
-sel.onchange = () => { selectedKey = null; $('dtitle').textContent = 'Select a zone or system'; $('dbody').innerHTML = ''; draw(); };
+sel.onchange = () => { selectedKey = null; $('dtitle').textContent = 'Select a zone or system'; $('dbody').innerHTML = ''; drawPicker(); draw(); };
 $('swonly').onchange = $('pipeonly').onchange = () => draw();
+drawPicker();
 draw();
 </script>
 </body>

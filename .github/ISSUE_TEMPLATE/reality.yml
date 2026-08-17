@@ -1,0 +1,25 @@
+name: Propose a reality (facility instance)
+description: A facility type or a real (anonymised) site to add to the twin
+labels: [data, reality]
+body:
+  - type: input
+    id: kind
+    attributes: { label: Facility kind, placeholder: "hospital ward block / water treatment plant / school" }
+    validations: { required: true }
+  - type: textarea
+    id: zones
+    attributes: { label: Zones and cross-cutting systems (one per line, with the topics you think apply) }
+    validations: { required: true }
+  - type: dropdown
+    id: basis
+    attributes:
+      label: Basis
+      options: ["reference model", "anonymised from a real site (no client names, no personal data)"]
+    validations: { required: true }
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: No client names, addresses or personal data in the JSON
+          required: true

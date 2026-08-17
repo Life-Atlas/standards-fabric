@@ -1,0 +1,27 @@
+name: Add or correct a reference
+description: A standard, ontology, MIM or EU act that is missing or wrong in curated.json
+labels: [data, reference]
+body:
+  - type: input
+    id: ref
+    attributes: { label: Reference number / name, placeholder: "ISO/IEC 30188:2026" }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Primary source URL }
+    validations: { required: true }
+  - type: dropdown
+    id: epochs
+    attributes:
+      label: State in 2016 / 2026 / 2036
+      multiple: false
+      options: ["absent / in-force / in-force", "in-force / in-force / in-force", "in-force / superseded / superseded", "absent / draft / in-force", "absent / expected / in-force", "other (explain below)"]
+  - type: textarea
+    id: topics
+    attributes: { label: Which topics should cite it, and which zone types does it govern? }
+  - type: checkboxes
+    id: checked
+    attributes:
+      label: Verification
+      options:
+        - label: I opened the primary source today (mark as `checked <date>`); otherwise it will be added as `assumed`

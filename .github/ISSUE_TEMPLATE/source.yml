@@ -1,0 +1,17 @@
+name: Add a source for the agents
+description: An RSS/Atom feed, GitHub project or keyword set the weekly/monthly agents should watch
+labels: [data, source]
+body:
+  - type: input
+    id: url
+    attributes: { label: Feed URL or GitHub owner/repo }
+    validations: { required: true }
+  - type: dropdown
+    id: activity
+    attributes:
+      label: Which activity does it serve?
+      options: [Standardisation, Standards & Platforms WG, EU engagement, County-wide IoT, Framework agreement procurement, Municipal IoT, Options radar]
+    validations: { required: true }
+  - type: input
+    id: verified
+    attributes: { label: Date you verified the URL answers with XML/JSON }
