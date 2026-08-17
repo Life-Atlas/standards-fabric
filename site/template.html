@@ -68,6 +68,11 @@ li .m{color:var(--muted)}
 .legendbar{font-size:12px;color:var(--muted);margin:0 0 10px;line-height:1.8}
 a{color:var(--accent)}
 footer{padding:12px 22px 28px;color:var(--muted);font-size:12px}
+body.embed h1 small,body.embed .reality-h{display:none}
+body.embed header{padding-top:10px}
+body.embed footer{padding:8px 22px 14px}
+.permalink{font-size:12px;color:var(--muted);margin-left:auto}
+.permalink button{padding:4px 8px;font-size:12px}
 .tbl{overflow-x:auto}
 table{border-collapse:collapse;width:100%;font-size:13px}
 td,th{border-bottom:1px solid var(--line);padding:4px 6px;text-align:left;vertical-align:top}
@@ -86,6 +91,7 @@ th{color:var(--muted);font-weight:600}
     </div>
     <label><input type="checkbox" id="swonly"> Swedish adoptions only (SS/SEK)</label>
     <label><input type="checkbox" id="pipeonly"> Pipeline only (remiss / NWP)</label>
+    <span class="permalink"><button id="copylink" type="button" title="Copy a link to exactly this view">Copy link to this view</button></span>
   </div>
   <div class="reality-h">Reality — pick the facility class instance</div>
   <div class="picker" id="picker" role="group" aria-label="Reality"></div>
@@ -126,6 +132,14 @@ function drawPicker() {
   }
 }
 let epoch = 'now', current = null, selectedKey = null;
+const PARAMS = new URLSearchParams(location.search);
+if (PARAMS.get('embed') === '1') document.body.classList.add('embed');
+function syncUrl() {
+  const q = new URLSearchParams(location.search);
+  q.set('reality', sel.value); q.set('epoch', epoch);
+  if (selectedKey) q.set('zone', selectedKey); else q.delete('zone');
+  history.replaceState(null, '', location.pathname + '?' + q.toString());
+}
 const $ = (id) => document.getElementById(id);
 function reality() { return DATA.realities[sel.value]; }
 function esc(s) { return String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
@@ -147,12 +161,12 @@ function draw() {
     const t1 = document.createElementNS('http://www.w3.org/2000/svg', 'text'); t1.setAttribute('x', z.x * cw + 12); t1.setAttribute('y', z.y * ch + 22); t1.setAttribute('class', 'n'); t1.textContent = z.name.length > 34 ? z.name.slice(0, 33) + '…' : z.name; g.appendChild(t1);
     const c = z.counts[epoch];
     const t2 = document.createElementNS('http://www.w3.org/2000/svg', 'text'); t2.setAttribute('x', z.x * cw + 12); t2.setAttribute('y', z.y * ch + 40); t2.setAttribute('class', 'c'); t2.textContent = `${c.total} refs · ${c.sek} SEK (${c.swedish} SS) · ${c.curated} curated${epoch === 'future' && c.pipeline ? ' · ' + c.pipeline + ' pipeline' : ''}`; g.appendChild(t2);
-    g.addEventListener('click', () => { selectedKey = 'z:' + z.id; draw(); });
+    g.addEventListener('click', () => { selectedKey = 'z:' + z.id; draw(); syncUrl(); });
     g.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); g.click(); } });
     svg.appendChild(g);
   }
   const sys = $('systems'); sys.innerHTML = '';
-  for (const s of r.systems) { const b = document.createElement('button'); b.className = 'chip'; b.textContent = `${s.name} · ${s.counts[epoch].total}`; if (selectedKey === 's:' + s.id) b.setAttribute('aria-selected', 'true'); b.onclick = () => { selectedKey = 's:' + s.id; draw(); }; sys.appendChild(b); }
+  for (const s of r.systems) { const b = document.createElement('button'); b.className = 'chip'; b.textContent = `${s.name} · ${s.counts[epoch].total}`; if (selectedKey === 's:' + s.id) b.setAttribute('aria-selected', 'true'); b.onclick = () => { selectedKey = 's:' + s.id; draw(); syncUrl(); }; sys.appendChild(b); }
   if (selectedKey) { const [k, id] = selectedKey.split(':'); const obj = (k === 'z' ? r.zones : r.systems).find(o => o.id === id); if (obj) showDetail(obj, k === 'z' ? 'Zone' : 'System'); }
 }
 function docLine(id) {
@@ -202,9 +216,20 @@ function showDetail(obj, kind) {
   }
   $('dbody').innerHTML = html; $('dbody').classList.remove('muted');
 }
-document.querySelectorAll('.seg button').forEach(b => b.onclick = () => { epoch = b.dataset.e; document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x === b ? 'true' : 'false')); draw(); });
-sel.onchange = () => { selectedKey = null; $('dtitle').textContent = 'Select a zone or system'; $('dbody').innerHTML = ''; drawPicker(); draw(); };
+document.querySelectorAll('.seg button').forEach(b => b.onclick = () => { epoch = b.dataset.e; document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x === b ? 'true' : 'false')); draw(); syncUrl(); });
+sel.onchange = () => { selectedKey = null; $('dtitle').textContent = 'Select a zone or system'; $('dbody').innerHTML = ''; drawPicker(); draw(); syncUrl(); };
 $('swonly').onchange = $('pipeonly').onchange = () => draw();
+if (PARAMS.get('reality') && DATA.realities[PARAMS.get('reality')]) sel.value = PARAMS.get('reality');
+if (['past', 'now', 'future'].includes(PARAMS.get('epoch'))) {
+  epoch = PARAMS.get('epoch');
+  document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x.dataset.e === epoch ? 'true' : 'false'));
+}
+if (PARAMS.get('zone')) selectedKey = PARAMS.get('zone');
+document.getElementById('copylink').onclick = async () => {
+  syncUrl();
+  try { await navigator.clipboard.writeText(location.href); document.getElementById('copylink').textContent = 'Copied'; setTimeout(() => document.getElementById('copylink').textContent = 'Copy link to this view', 1500); }
+  catch (e) { prompt('Copy this link', location.href); }
+};
 drawPicker();
 draw();
 </script>

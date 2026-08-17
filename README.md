@@ -65,6 +65,17 @@ Every finding carries a source URL and a fetch date; a source that fails is repo
 - `confidence: checked <date>` vs `assumed` on curated refs — assumed means "from working knowledge, verify before quoting externally".
 - Counts on the map are *catalogue documents under the responsible committees* — the shortlist for a project is a subset.
 
+## Embedding it elsewhere
+
+`?embed=1` hides the page chrome; `?reality=…&epoch=…&zone=…` deep-links a view; the **Copy link to this view** button builds the URL for you.
+
+```html
+<iframe src="https://life-atlas.github.io/standards-fabric/?embed=1&reality=hydro-power-plant&epoch=future"
+        title="Standards Twin" loading="lazy" style="width:100%;height:820px;border:0"></iframe>
+```
+
+3D clients (Godot, Unreal, IFC/USD viewers) consume the same published `data/twin.json` — see `docs/ROADMAP-3D-AND-EMBED.md`.
+
 ## Adding a reality (the second-instance test)
 
 Copy any file in `data/realities/`, change zones/systems and their `topics`. Run `build`. If it needs a topic that does not exist, add it to `topics.json` (committees + curated refs). No code changes — that is the point.
