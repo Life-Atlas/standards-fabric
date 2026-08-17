@@ -16,16 +16,21 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
+      - run: echo "START=$(date +%s)" >> $GITHUB_ENV
       - name: run agents (weekly)
         env:
           SF_LLM: ${{ secrets.SF_LLM }}            # none | anthropic | ollama  (unset = none)
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SF_MODEL: ${{ vars.SF_MODEL }}
         run: PYTHONPATH=src python -m standards_fabric report weekly
+      - name: record scheduled run (MVT M3/M10)
+        env:
+          SF_CADENCE: weekly
+        run: python scripts/record_run.py --minutes $(( ( $(date +%s) - $START ) / 60 ))
       - name: commit report
         run: |
           git config user.name "standards-fabric[bot]"
           git config user.email "bot@users.noreply.github.com"
-          git add reports
+          git add reports data/mvt_evidence.json
           git commit -m "weekly digest $(date -u +%G-W%V)" || echo "nothing to commit"
           git push
