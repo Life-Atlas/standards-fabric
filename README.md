@@ -18,7 +18,7 @@ Method: [SMILE](https://doi.org/10.5281/zenodo.21757691) — reality emulation f
 ## Quick start
 
 ```bash
-git clone https://github.com/winniio/standards-fabric && cd standards-fabric
+git clone https://github.com/Life-Atlas/standards-fabric && cd standards-fabric
 python -m pip install -e ".[dev]"          # stdlib-only runtime; dev = pytest + ruff
 python -m standards_fabric build           # twin from the committed SEK snapshot → site/index.html (open it)
 python -m standards_fabric report weekly   # run the agents → reports/weekly/<YYYY-Www>/report.md

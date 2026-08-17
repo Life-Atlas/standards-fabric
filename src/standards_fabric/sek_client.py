@@ -20,7 +20,7 @@ from dataclasses import asdict, dataclass, field
 from typing import Any, Iterable
 
 BASE = "https://elstandard.se/api"
-UA = "standards-fabric/0.1 (+https://github.com/winniio/standards-fabric)"
+UA = "standards-fabric/0.1 (+https://github.com/Life-Atlas/standards-fabric)"
 
 # document_status keys used by the site (from the bundle)
 STATUS = {
