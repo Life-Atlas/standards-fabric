@@ -1,0 +1,1557 @@
+{
+ "period": "2026-W34",
+ "cadence": "weekly",
+ "generated": "2026-08-17",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4645,
+    "baseline_run": true,
+    "pipeline_open": 28
+   },
+   "errors": [
+    "feed sek-news failed: mismatched tag: line 9, column 60"
+   ],
+   "findings": []
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "FIWARE/context.Orion-LD — Orion-LD version 1.12.0",
+     "source": "https://github.com/FIWARE/context.Orion-LD/releases/tag/1.12.0",
+     "date": "2026-01-28T11:47:03Z",
+     "detail": "NGSI-LD context broker (MIM1)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "FIWARE/context.Orion-LD — Orion-LD v1.11.1",
+     "source": "https://github.com/FIWARE/context.Orion-LD/releases/tag/1.11.1",
+     "date": "2026-01-02T12:37:20Z",
+     "detail": "NGSI-LD context broker (MIM1)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "FIWARE/context.Orion-LD — Orion-LD version 1.11.0",
+     "source": "https://github.com/FIWARE/context.Orion-LD/releases/tag/1.11.0",
+     "date": "2025-12-29T11:49:09Z",
+     "detail": "NGSI-LD context broker (MIM1)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "FIWARE/context.Orion-LD — Orion-LD version 1.10.0",
+     "source": "https://github.com/FIWARE/context.Orion-LD/releases/tag/1.10.0",
+     "date": "2025-08-07T07:24:25Z",
+     "detail": "NGSI-LD context broker (MIM1)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "FIWARE/context.Orion-LD — Orion-LD version 1.9.0",
+     "source": "https://github.com/FIWARE/context.Orion-LD/releases/tag/1.9.0",
+     "date": "2025-02-28T16:03:43Z",
+     "detail": "NGSI-LD context broker (MIM1)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "ScorpioBroker/ScorpioBroker — 6.0.1-windows-sqs.exe",
+     "source": "https://github.com/ScorpioBroker/ScorpioBroker/releases/tag/6.0.1-windows-sqs.exe",
+     "date": "2026-01-19T16:45:28Z",
+     "detail": "NGSI-LD broker (NEC)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "ScorpioBroker/ScorpioBroker — 6.0.1-windows-mqtt.exe",
+     "source": "https://github.com/ScorpioBroker/ScorpioBroker/releases/tag/6.0.1-windows-mqtt.exe",
+     "date": "2026-01-19T16:30:09Z",
+     "detail": "NGSI-LD broker (NEC)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "ScorpioBroker/ScorpioBroker — 6.0.1-windows-kafka.exe",
+     "source": "https://github.com/ScorpioBroker/ScorpioBroker/releases/tag/6.0.1-windows-kafka.exe",
+     "date": "2026-01-19T16:29:32Z",
+     "detail": "NGSI-LD broker (NEC)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "ScorpioBroker/ScorpioBroker — 6.0.1-windows-amqp.exe",
+     "source": "https://github.com/ScorpioBroker/ScorpioBroker/releases/tag/6.0.1-windows-amqp.exe",
+     "date": "2026-01-19T16:32:52Z",
+     "detail": "NGSI-LD broker (NEC)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "ScorpioBroker/ScorpioBroker — 6.0.1-windows",
+     "source": "https://github.com/ScorpioBroker/ScorpioBroker/releases/tag/6.0.1-windows",
+     "date": "2026-01-19T16:28:27Z",
+     "detail": "NGSI-LD broker (NEC)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.36.0 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.36.0",
+     "date": "2026-08-07T05:00:42Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.35.1 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.35.1",
+     "date": "2026-07-30T08:36:02Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.35.0 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.35.0",
+     "date": "2026-07-01T09:42:16Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.34.0 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.34.0",
+     "date": "2026-06-11T08:43:52Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.33.0 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.33.0",
+     "date": "2026-05-09T05:49:10Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "OS2iot/OS2IoT-backend — v1.12.0 - Fix downlink desync + smaller QoL",
+     "source": "https://github.com/OS2iot/OS2iot-backend/releases/tag/v1.12.0",
+     "date": "2026-05-13T12:39:59Z",
+     "detail": "Danish municipal shared IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "OS2iot/OS2IoT-backend — v1.11.1 - Fix device model creation",
+     "source": "https://github.com/OS2iot/OS2iot-backend/releases/tag/v1.11.1",
+     "date": "2026-02-02T13:13:56Z",
+     "detail": "Danish municipal shared IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "OS2iot/OS2IoT-backend — v1.11.0 - New ODDK datatarget metadata and security updates",
+     "source": "https://github.com/OS2iot/OS2iot-backend/releases/tag/v1.11.0",
+     "date": "2026-01-05T11:40:02Z",
+     "detail": "Danish municipal shared IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "OS2iot/OS2IoT-backend — v1.10.0 - Time limited access and device copy",
+     "source": "https://github.com/OS2iot/OS2iot-backend/releases/tag/v1.10.0",
+     "date": "2025-09-09T05:52:16Z",
+     "detail": "Danish municipal shared IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "OS2iot/OS2IoT-backend — v1.9.2 - Fix application fetch for moving devices",
+     "source": "https://github.com/OS2iot/OS2iot-backend/releases/tag/v1.9.2",
+     "date": "2025-09-05T06:15:57Z",
+     "detail": "Danish municipal shared IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — v4.19.1",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/v4.19.1",
+     "date": "2026-08-04T08:36:26Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — api/go/v4.19.1",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/api%2Fgo%2Fv4.19.1",
+     "date": "2026-07-31T08:57:03Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — v4.20.0-test.2",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/v4.20.0-test.2",
+     "date": "2026-07-29T10:08:12Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — api/go/v4.20.0-test.2",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/api%2Fgo%2Fv4.20.0-test.2",
+     "date": "2026-07-27T09:27:08Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — v4.19.0",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/v4.19.0",
+     "date": "2026-07-09T13:26:23Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.3.1.3 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.3",
+     "date": "2026-06-30T07:16:22Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.2.2.3 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.2.2.3",
+     "date": "2026-06-30T07:16:09Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.3.1.2 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.2",
+     "date": "2026-05-28T20:16:47Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.2.2.2 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.2.2.2",
+     "date": "2026-05-28T18:29:59Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.3.1.1 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.1",
+     "date": "2026-03-31T08:45:30Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — 3.9.6",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/3.9.6",
+     "date": "2026-07-29T06:14:03Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — helm-chart-4.6.0",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/helm-chart-4.6.0",
+     "date": "2026-07-29T05:17:37Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — 3.9.5",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/3.9.5",
+     "date": "2026-07-28T11:06:48Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — helm-chart-4.5.0",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/helm-chart-4.5.0",
+     "date": "2026-07-28T11:10:23Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — helm-chart-4.4.0",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/helm-chart-4.4.0",
+     "date": "2026-07-28T11:09:18Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.8.2",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.8.2",
+     "date": "2026-08-14T16:39:39Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.8.1",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.8.1",
+     "date": "2026-08-07T18:09:05Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.8.0",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.8.0",
+     "date": "2026-08-05T15:23:11Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.8.0b6",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.8.0b6",
+     "date": "2026-08-05T09:59:47Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.8.0b5",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.8.0b5",
+     "date": "2026-08-04T12:52:02Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 5.0.4",
+     "source": "https://github.com/node-red/node-red/releases/tag/5.0.4",
+     "date": "2026-07-30T21:50:35Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 5.0.3: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/5.0.3",
+     "date": "2026-07-30T21:34:41Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 5.0.2: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/5.0.2",
+     "date": "2026-07-30T08:56:10Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 4.1.13",
+     "source": "https://github.com/node-red/node-red/releases/tag/4.1.13",
+     "date": "2026-07-30T21:57:28Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 4.1.12: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/4.1.12",
+     "date": "2026-07-30T09:29:14Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.128",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.128",
+     "date": "2026-08-15T04:54:24Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.127",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.127",
+     "date": "2026-07-28T02:41:31Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.126",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.126",
+     "date": "2026-07-10T02:52:29Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.125",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.125",
+     "date": "2026-07-09T02:39:36Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.124",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.124",
+     "date": "2026-07-06T12:54:01Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.29.0",
+     "source": "https://github.com/openremote/openremote/releases/tag/1.29.0",
+     "date": "2026-08-10T10:05:49Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.28.1",
+     "source": "https://github.com/openremote/openremote/releases/tag/1.28.1",
+     "date": "2026-07-30T07:59:04Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.28.0",
+     "source": "https://github.com/openremote/openremote/releases/tag/1.28.0",
+     "date": "2026-08-13T09:59:49Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.27.1",
+     "source": "https://github.com/openremote/openremote/releases/tag/1.27.1",
+     "date": "2026-07-23T16:07:24Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.27.0",
+     "source": "https://github.com/openremote/openremote/releases/tag/1.27.0",
+     "date": "2026-08-13T09:58:34Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "absmach/magistrala — v0.51.0",
+     "source": "https://github.com/absmach/magistrala/releases/tag/v0.51.0",
+     "date": "2026-08-05T16:00:38Z",
+     "detail": "IoT platform (ex-Mainflux)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "absmach/magistrala — v0.50.0",
+     "source": "https://github.com/absmach/magistrala/releases/tag/v0.50.0",
+     "date": "2026-08-01T13:12:24Z",
+     "detail": "IoT platform (ex-Mainflux)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "absmach/magistrala — v0.40.0",
+     "source": "https://github.com/absmach/magistrala/releases/tag/v0.40.0",
+     "date": "2026-07-01T19:54:55Z",
+     "detail": "IoT platform (ex-Mainflux)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "absmach/magistrala — v0.30.0",
+     "source": "https://github.com/absmach/magistrala/releases/tag/v0.30.0",
+     "date": "2026-06-12T11:44:52Z",
+     "detail": "IoT platform (ex-Mainflux)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "absmach/magistrala — v0.20.0",
+     "source": "https://github.com/absmach/magistrala/releases/tag/v0.20.0",
+     "date": "2026-04-30T06:49:43Z",
+     "detail": "IoT platform (ex-Mainflux)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-basyx/basyx-java-server-sdk — 2.0.0-milestone-15",
+     "source": "https://github.com/eclipse-basyx/basyx-java-server-sdk/releases/tag/2.0.0-milestone-15",
+     "date": "2026-07-30T12:23:07Z",
+     "detail": "Asset Administration Shell (IEC 63278)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-basyx/basyx-java-server-sdk — 2.0.0-milestone-14",
+     "source": "https://github.com/eclipse-basyx/basyx-java-server-sdk/releases/tag/2.0.0-milestone-14",
+     "date": "2026-07-19T17:33:46Z",
+     "detail": "Asset Administration Shell (IEC 63278)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-basyx/basyx-java-server-sdk — 2.0.0-milestone-13",
+     "source": "https://github.com/eclipse-basyx/basyx-java-server-sdk/releases/tag/2.0.0-milestone-13",
+     "date": "2026-07-03T13:09:49Z",
+     "detail": "Asset Administration Shell (IEC 63278)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-basyx/basyx-java-server-sdk — 2.0.0-milestone-12",
+     "source": "https://github.com/eclipse-basyx/basyx-java-server-sdk/releases/tag/2.0.0-milestone-12",
+     "date": "2026-06-27T21:57:59Z",
+     "detail": "Asset Administration Shell (IEC 63278)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-basyx/basyx-java-server-sdk — 2.0.0-milestone-11",
+     "source": "https://github.com/eclipse-basyx/basyx-java-server-sdk/releases/tag/2.0.0-milestone-11",
+     "date": "2026-06-04T08:42:33Z",
+     "detail": "Asset Administration Shell (IEC 63278)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-aaspe/package-explorer — v2025-10-21.alpha",
+     "source": "https://github.com/eclipse-aaspe/package-explorer/releases/tag/v2025-10-21",
+     "date": "2025-10-22T06:50:41Z",
+     "detail": "AAS tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-aaspe/package-explorer — v2025-03-25.alpha",
+     "source": "https://github.com/eclipse-aaspe/package-explorer/releases/tag/v2025-03-25.alpha",
+     "date": "2025-03-25T09:53:46Z",
+     "detail": "AAS tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-aaspe/package-explorer — v2025-02-25.alpha",
+     "source": "https://github.com/eclipse-aaspe/package-explorer/releases/tag/v2025-02-25.alpha",
+     "date": "2025-02-25T08:00:16Z",
+     "detail": "AAS tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-aaspe/package-explorer — v2024-06-10.alpha",
+     "source": "https://github.com/eclipse-aaspe/package-explorer/releases/tag/v2024-06-10.alpha",
+     "date": "2024-06-10T19:38:19Z",
+     "detail": "AAS tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-aaspe/package-explorer — v2024-05-08.alpha",
+     "source": "https://github.com/eclipse-aaspe/package-explorer/releases/tag/v2024-05-08.alpha",
+     "date": "2024-05-08T07:18:00Z",
+     "detail": "AAS tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "w3c/wot-thing-description — REC 1.1 Release",
+     "source": "https://github.com/w3c/wot-thing-description/releases/tag/REC1.1",
+     "date": "2023-12-19T21:12:08Z",
+     "detail": "W3C WoT Thing Description",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "w3c/wot-thing-description — TD1.1 Version for Proposed Recommendation Request",
+     "source": "https://github.com/w3c/wot-thing-description/releases/tag/TD11-PR",
+     "date": "2023-07-19T14:41:12Z",
+     "detail": "W3C WoT Thing Description",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "w3c/wot-thing-description — TD1.1 Version for Candidate Recommendation request",
+     "source": "https://github.com/w3c/wot-thing-description/releases/tag/TD11-CR-request",
+     "date": "2022-10-26T16:05:33Z",
+     "detail": "W3C WoT Thing Description",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "w3c/wot-thing-description — W3C Thing Description 1.0 Recommendation version",
+     "source": "https://github.com/w3c/wot-thing-description/releases/tag/REC1.0",
+     "date": "2020-04-16T20:09:57Z",
+     "detail": "W3C WoT Thing Description",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "w3c/wot-thing-description — Version for Candidate Recommendation request",
+     "source": "https://github.com/w3c/wot-thing-description/releases/tag/CR-request",
+     "date": "2019-05-09T22:20:30Z",
+     "detail": "W3C WoT Thing Description",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "BrickSchema/Brick — Nightly Build 2026-08-17",
+     "source": "https://github.com/BrickSchema/Brick/releases/tag/nightly",
+     "date": "2026-08-17T03:01:15Z",
+     "detail": "Brick ontology",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "BrickSchema/Brick — v1.5.0 Release Candidate 1",
+     "source": "https://github.com/BrickSchema/Brick/releases/tag/v1.5.0-rc1",
+     "date": "2026-06-11T16:47:20Z",
+     "detail": "Brick ontology",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "BrickSchema/Brick — v1.4.4",
+     "source": "https://github.com/BrickSchema/Brick/releases/tag/v1.4.4",
+     "date": "2025-05-02T05:32:33Z",
+     "detail": "Brick ontology",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "BrickSchema/Brick — v1.4.3",
+     "source": "https://github.com/BrickSchema/Brick/releases/tag/v1.4.3",
+     "date": "2025-03-27T06:06:03Z",
+     "detail": "Brick ontology",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "BrickSchema/Brick — v1.4.2",
+     "source": "https://github.com/BrickSchema/Brick/releases/tag/v1.4.2",
+     "date": "2025-01-16T20:33:49Z",
+     "detail": "Brick ontology",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "RealEstateCore/rec — V4.1-Release -- Warranty, new room types, governance framework",
+     "source": "https://github.com/RealEstateCore/rec/releases/tag/v4.1.0",
+     "date": "2026-06-29T14:18:16Z",
+     "detail": "RealEstateCore ontology (SE)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "RealEstateCore/rec — V4.0-Release -- Brick Schema integration, native DTDL, BSD license",
+     "source": "https://github.com/RealEstateCore/rec/releases/tag/v4.0.0",
+     "date": "2023-02-10T23:35:54Z",
+     "detail": "RealEstateCore ontology (SE)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "RealEstateCore/rec — V4.0.0 Preview 2",
+     "source": "https://github.com/RealEstateCore/rec/releases/tag/v4.0.0-preview2",
+     "date": "2022-11-03T10:07:13Z",
+     "detail": "RealEstateCore ontology (SE)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "RealEstateCore/rec — V4.0-Preview -- Brick Schema integration, native DTDL",
+     "source": "https://github.com/RealEstateCore/rec/releases/tag/v4.0-preview",
+     "date": "2022-08-30T15:20:10Z",
+     "detail": "RealEstateCore ontology (SE)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "RealEstateCore/rec — V3.3 -- Assets, Spatial Model, Capability Model, QUDT",
+     "source": "https://github.com/RealEstateCore/rec/releases/tag/v3.3",
+     "date": "2021-11-30T14:39:43Z",
+     "detail": "RealEstateCore ontology (SE)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.1",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.1",
+     "date": "2026-08-02T13:59:59Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.0",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.0",
+     "date": "2026-07-05T11:32:11Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.0.RC2",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.0.RC2",
+     "date": "2026-07-02T19:48:07Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.0.RC1",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.0.RC1",
+     "date": "2026-06-26T21:50:41Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.0.M6",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.0.M6",
+     "date": "2026-06-19T22:54:17Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "eu-act",
+     "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+     "source": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+     "date": "Fri, 31 Jul 2026 07:00:00 +0000",
+     "detail": "<span>Commission starts enforcing AI Act rules and new transparency requirements on 2 August</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-31T09:00:00+02:00\" title=\"Friday, July 31, 2026 - 09:00\">Fr",
+     "tags": [
+      "AI Act"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "ICT-27-2018-2020: Internet of Things",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ict-27-2018-2020",
+     "date": "2018-04-17",
+     "detail": "status 31094503; query '\"internet of things\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "85676: 85676",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/85676",
+     "date": null,
+     "detail": "status 0; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "DT-NMBP-20-2018: A digital 'plug and produce' online equipment platform for manufacturing (IA)",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/dt-nmbp-20-2018",
+     "date": "2018-03-08",
+     "detail": "status 31094503; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "906943890: 906943890",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/906943890",
+     "date": null,
+     "detail": "status ; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "895737771: 895737771",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/895737771",
+     "date": null,
+     "detail": "status ; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "21674: 21674",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/21674",
+     "date": null,
+     "detail": "status 1; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "16619: 16619",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/16619",
+     "date": null,
+     "detail": "status 1; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "74183: 74183",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/74183",
+     "date": null,
+     "detail": "status 0; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "71706: 71706",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/71706",
+     "date": null,
+     "detail": "status 0; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "21749: 21749",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/21749",
+     "date": null,
+     "detail": "status 0; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43108390101136119nl: Digital Twin voor Europa",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43108390101136119nl",
+     "date": null,
+     "detail": "status Ongoing; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43108390101136119es: Digital Twin para Europa",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43108390101136119es",
+     "date": null,
+     "detail": "status Ongoing; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "HORIZON-MISS-2021-OCEAN-05-01: Underlying models for the European Digital Twin Ocean",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2021-ocean-05-01",
+     "date": "2022-04-12",
+     "detail": "status 31094503; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "HORIZON-CL5-2024-D5-01-03: Advanced battery system integration for next generation vehicles (2ZERO Partnership)",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2024-d5-01-03",
+     "date": "2024-04-18",
+     "detail": "status 31094503; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "18749: 18749",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/18749",
+     "date": null,
+     "detail": "status 0; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "7057: 7057",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/7057",
+     "date": null,
+     "detail": "status 1; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "LC-SC3-SCC-1-2018-2019-2020: Smart Cities and Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/lc-sc3-scc-1-2018-2019-2020",
+     "date": "2019-02-05",
+     "detail": "status 31094503; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "20984: 20984",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/20984",
+     "date": null,
+     "detail": "status 0; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "18784: 18784",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/18784",
+     "date": null,
+     "detail": "status 1; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "DIGITAL-2024-CLOUD-DATA-AI-07-DIGITALTWIN: Towards networked Local Digital Twins in the EU",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-cloud-data-ai-07-digitaltwin",
+     "date": "2024-11-21",
+     "detail": "status 31094503; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "85957: 85957",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/85957",
+     "date": null,
+     "detail": "status 0; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "DIGITAL-2023-CLOUD-AI-04-DEVELOPCITI: Developing citiverse",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2023-cloud-ai-04-developciti",
+     "date": "2023-11-22",
+     "detail": "status 31094503; query 'CitiVerse'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "HORIZON-CL4-2022-DATA-01-04: Technologies and solutions for data trading, monetizing, exchange and interoperability (AI, Data and Robotics Partnership) (IA)",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2022-data-01-04",
+     "date": "2022-04-05",
+     "detail": "status 31094503; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "HORIZON-CL4-2021-DATA-01-03: Technologies for data management (AI, Data and Robotics Partnership) (IA)",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2021-data-01-03",
+     "date": "2021-10-21",
+     "detail": "status 31094503; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "HORIZON-CL5-2021-D3-01-03: Interoperability community",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2021-d3-01-03",
+     "date": "2021-10-20",
+     "detail": "status 31094503; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101194952: Integrated Network for data Space and Interoperable Energy Management in Europe",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101194952",
+     "date": null,
+     "detail": "status Ongoing; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "72005: 72005",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/72005",
+     "date": null,
+     "detail": "status 0; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "DIGITAL-2021-PREPACTS-DS-01-SKILLS: Preparatory actions for the data space for skills",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2021-prepacts-ds-01-skills",
+     "date": "2022-02-22",
+     "detail": "status 31094503; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "DIGITAL-2021-CLOUD-AI-01-SUPPCENTRE: Data Spaces Support Centre  ",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2021-cloud-ai-01-suppcentre",
+     "date": "2022-02-22",
+     "detail": "status 31094503; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "county_iot",
+     "kind": "note",
+     "title": "Årsrapport från Nationella Dataverkstaden – verksamhetsåret 2025",
+     "source": "https://internetstiftelsen.se/dataverkstaden/aktuellt/arsrapport-fran-nationella-dataverkstaden-verksamhetsaret-2025/",
+     "date": "Wed, 18 Feb 2026 13:38:50 +0000",
+     "detail": "<p>Inför de sista dagarna innan julefriden sänker sig kommer här vår årsrapport för 2025 där vi sammanfattar vårt arbete med delad, interoperabel och öppen data. Det omfattar vad Dataverkstaden har fokuserat på under året, vilka resultat so",
+     "tags": [
+      "interoperab"
+     ]
+    },
+    {
+     "agent": "county_iot",
+     "kind": "note",
+     "title": "Lägesrapport för den nationella dataverkstaden, oktober 2025",
+     "source": "https://internetstiftelsen.se/dataverkstaden/aktuellt/lagesrapport-for-den-nationella-dataverkstaden-oktober-2025/",
+     "date": "Tue, 21 Oct 2025 11:25:10 +0000",
+     "detail": "<p>Välkommen till Dataverkstadens lägesrapport, här får du en aktuell överblick över arbetet med delad, interoperabel och öppen data, vad Dataverkstaden fokuserar på just nu, vilka resultat som uppnåtts och hur utvecklingen ser ut inom både",
+     "tags": [
+      "interoperab"
+     ]
+    },
+    {
+     "agent": "county_iot",
+     "kind": "note",
+     "title": "Lägesrapport för den nationella dataverkstaden, september 2025",
+     "source": "https://internetstiftelsen.se/dataverkstaden/aktuellt/lagesrapport-for-den-nationella-dataverkstaden-september-2025/",
+     "date": "Thu, 04 Sep 2025 12:45:00 +0000",
+     "detail": "<p>Välkommen till Dataverkstadens lägesrapport, här får du en aktuell överblick över arbetet med delad, interoperabel och öppen data, vad Dataverkstaden fokuserar på just nu, vilka resultat som uppnåtts och hur utvecklingen ser ut inom både",
+     "tags": [
+      "interoperab"
+     ]
+    },
+    {
+     "agent": "county_iot",
+     "kind": "note",
+     "title": "Öppen geodata – möjlighet till samverkan",
+     "source": "https://internetstiftelsen.se/dataverkstaden/aktuellt/oppen-geodata-mojlighet-till-samverkan/",
+     "date": "Tue, 22 Apr 2025 11:55:00 +0000",
+     "detail": "<p>Nu kan du se webbinariet om geodata som vi anordnade den 11 april 2025, som en del av vårt pågående arbete med att samordna och standardisera öppna geodatamängder. Målet är att säkerställa att geografiska data delas på ett enhetligt sätt",
+     "tags": [
+      "interoperab"
+     ]
+    },
+    {
+     "agent": "county_iot",
+     "kind": "note",
+     "title": "Framgångsrik samverkan för datadelning övergår till Internetstiftelsen",
+     "source": "https://internetstiftelsen.se/dataverkstaden/aktuellt/framgangsrik-samverkan-for-datadelning-overgar-till-internetstiftelsen/",
+     "date": "Fri, 11 Apr 2025 11:48:00 +0000",
+     "detail": "<p>Den Nationella Dataverkstaden för regional och kommunal datadelning är den största satsningen hittills i Sverige för att stödja och driva på arbetet med att tillgängliggöra och använda öppna och delade data.</p>\n<p>Inlägget <a href=\"http",
+     "tags": [
+      "kommun",
+      "region"
+     ]
+    },
+    {
+     "agent": "county_iot",
+     "kind": "note",
+     "title": "Dataverkstaden erbjuder onboardingstöd",
+     "source": "https://internetstiftelsen.se/dataverkstaden/aktuellt/dataverkstaden-erbjuder-onboardingstod/",
+     "date": "Thu, 28 Nov 2024 12:23:00 +0000",
+     "detail": "<p>I de kartläggningar som dataverkstaden löpande genomför kan vi konstatera att antalet regioner och kommuner som publicerar öppna data inte ökat i någon större omfattning det senaste året. </p>\n<p>Inlägget <a href=\"https://internetstiftel",
+     "tags": [
+      "kommun",
+      "region"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "OASC Welcomes Two New Partners: AMETIC and ESA Stakeholder Engagement Facility",
+     "source": "https://oascities.org/oasc-welcomes-two-new-partners-ametic-and-esa-stakeholder-engagement-facility/",
+     "date": "Wed, 15 Jul 2026 13:45:52 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Satellite Data for More Resilient Cities: 5 Winning Innovations to Be Piloted Across Europe with a Funding of €1,25 Million",
+     "source": "https://oascities.org/satellite-data-for-more-resilient-cities-5-winning-innovations-to-be-piloted-across-europe-with-a-funding-of-e125-million/",
+     "date": "Thu, 25 Jun 2026 11:53:23 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Accessible Parking Across Europe: Meet Spot4Dis",
+     "source": "https://oascities.org/accessible-parking-across-europe-meet-spot4dis/",
+     "date": "Thu, 04 Jun 2026 12:25:48 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Welcome to Our Newest Members and Partners",
+     "source": "https://oascities.org/welcome-to-our-newest-members-and-partners/",
+     "date": "Tue, 02 Jun 2026 11:53:16 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "The URBAN-FLOW Approach: Enhancing Liveable Cities with Smart Public Space Management and Sustainable Mobility for Climate Neutrality in Urban Areas",
+     "source": "https://oascities.org/the-urban-flow-approach-enhancing-liveable-cities-with-smart-public-space-management-and-sustainable-mobility-for-climate-neutrality-in-urban-areas/",
+     "date": "Tue, 26 May 2026 12:22:11 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "OASC opens call for Deputy Coordinator of the Council of Cities",
+     "source": "https://oascities.org/oasc-council-of-cities-deputy-coordinator-call/",
+     "date": "Mon, 18 May 2026 09:44:11 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Outcome of the 2nd Citiverse Assembly: Collaboration on Global Standards for the AI-Enabled Citiverse",
+     "source": "https://oascities.org/outcome-of-the-2nd-citiverse-assembly-collaboration-on-global-standards-for-the-ai-enabled-citiverse/",
+     "date": "Wed, 13 May 2026 13:01:51 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "“I want to go there now!” – New Report on Inclusive User Research in the CitiVerse",
+     "source": "https://oascities.org/i-want-to-go-there-now-new-report-on-inclusive-user-research-in-the-citiverse/",
+     "date": "Tue, 12 May 2026 11:44:12 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "The European Data Space for Smart Communities Opens Its 4th Round of Call for Pilots",
+     "source": "https://oascities.org/the-european-data-space-for-smart-communities-opens-its-4th-round-of-call-for-pilots/",
+     "date": "Wed, 08 Apr 2026 14:08:57 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Dublin City University and EMIS s.r.o. Are the Latest Organisations to Join the OASC Network",
+     "source": "https://oascities.org/dublin-city-university-and-emis-s-r-o-are-the-latest-organisations-to-join-the-oasc-network/",
+     "date": "Mon, 23 Mar 2026 11:33:19 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    }
+   ]
+  }
+ ]
+}

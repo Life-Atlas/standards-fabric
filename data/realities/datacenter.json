@@ -1,0 +1,30 @@
+{
+  "id": "datacenter",
+  "class": "facility",
+  "kind": "datacenter",
+  "name": "Colocation data centre (EN 50600 space model, ~2 MW IT)",
+  "reality_basis": "Reference model - no client behind it. Spaces follow EN 50600-1 (computer room, power, cooling, telecoms, security spaces). Use as the template until a real DC is twinned.",
+  "smile_phase": "reality-emulation",
+  "systems": [
+    {"id": "dcim", "name": "DCIM / BMS", "topics": ["datacenter-facility", "building-automation", "energy-management", "digital-twin-core", "interoperability-semantic"]},
+    {"id": "it-mgmt", "name": "IT infrastructure management (Redfish, telemetry)", "topics": ["datacenter-facility", "cybersecurity-products", "iot-trustworthiness"]},
+    {"id": "power-chain", "name": "Power chain: MV -> transformers -> UPS -> PDU", "topics": ["hv-switchgear", "lv-switchgear", "ups-power-electronics", "batteries-storage", "power-quality-metering", "lv-installations"]},
+    {"id": "network", "name": "Structured cabling & fibre", "topics": ["data-cabling", "fibre-optics"]},
+    {"id": "reporting", "name": "Energy & sustainability reporting (EED Art. 12, KPIs)", "topics": ["datacenter-facility", "energy-management"]}
+  ],
+  "zones": [
+    {"id": "computer-room-a", "name": "Computer room A (racks, hot/cold aisle)", "x": 0, "y": 0, "w": 4, "h": 3, "topics": ["datacenter-facility", "data-cabling", "fibre-optics", "it-equipment-safety", "cybersecurity-products", "iot-core", "digital-twin-core", "lighting"]},
+    {"id": "computer-room-b", "name": "Computer room B (HPC/AI, liquid cooling)", "x": 4, "y": 0, "w": 4, "h": 3, "topics": ["datacenter-facility", "data-cabling", "fibre-optics", "it-equipment-safety", "environmental-testing", "iot-core"]},
+    {"id": "meet-me-room", "name": "Meet-me / telecom room", "x": 8, "y": 0, "w": 2, "h": 3, "topics": ["data-cabling", "fibre-optics", "cybersecurity-products"]},
+    {"id": "noc", "name": "NOC / security operations", "x": 10, "y": 0, "w": 2, "h": 3, "topics": ["fire-alarm-security", "cybersecurity-products", "digital-twin-core", "interoperability-semantic", "building-automation"]},
+    {"id": "ups-room", "name": "UPS & battery rooms", "x": 0, "y": 3, "w": 3, "h": 2, "topics": ["ups-power-electronics", "batteries-storage", "lv-installations", "fire-testing", "environmental-testing"]},
+    {"id": "mv-room", "name": "MV switchgear & transformers", "x": 3, "y": 3, "w": 3, "h": 2, "topics": ["hv-switchgear", "short-circuit", "surge-lightning", "power-quality-metering"]},
+    {"id": "lv-room", "name": "LV switchboards & PDUs", "x": 6, "y": 3, "w": 2, "h": 2, "topics": ["lv-switchgear", "lv-installations", "power-quality-metering", "emc"]},
+    {"id": "generators", "name": "Generator yard & fuel", "x": 8, "y": 3, "w": 2, "h": 2, "topics": ["machines-electrical", "explosive-atmospheres", "lv-installations"]},
+    {"id": "cooling-plant", "name": "Cooling plant (chillers, CRAH, heat reuse)", "x": 10, "y": 3, "w": 2, "h": 2, "topics": ["building-automation", "energy-management", "machines-electrical", "datacenter-facility"]},
+    {"id": "roof-pv", "name": "Roof: PV & heat-reuse connection", "x": 0, "y": 5, "w": 4, "h": 1, "topics": ["pv-solar", "energy-management", "surge-lightning"]},
+    {"id": "loading", "name": "Loading & staging", "x": 4, "y": 5, "w": 3, "h": 1, "topics": ["fire-alarm-security", "iot-core"]},
+    {"id": "office", "name": "Office & customer area", "x": 7, "y": 5, "w": 3, "h": 1, "topics": ["building-automation", "lighting", "iot-core", "bim-ifc"]},
+    {"id": "ev-parking", "name": "Parking / EV charging", "x": 10, "y": 5, "w": 2, "h": 1, "topics": ["ev-charging", "lv-installations"]}
+  ]
+}

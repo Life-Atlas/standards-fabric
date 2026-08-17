@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Standards Twin</title>
+<meta name="description" content="Which standards, ontologies and EU acts apply where in a facility — ten years ago, now, ten years ahead.">
+<style>
+:root{--bg:#f6f7f9;--panel:#fff;--ink:#1a1d23;--muted:#5b6472;--line:#dfe3ea;--past:#8b6d3f;--now:#1f6f8b;--future:#5b3fa0;--pipe:#c2410c;--zone:#e8edf3;--zone-ink:#1a1d23;--accent:#0f766e;--chip:#eef2f7}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0f1216;--panel:#161a20;--ink:#e7eaf0;--muted:#9aa4b2;--line:#2a313b;--zone:#1f2731;--zone-ink:#e7eaf0;--chip:#1f2731}}
+:root[data-theme="dark"]{--bg:#0f1216;--panel:#161a20;--ink:#e7eaf0;--muted:#9aa4b2;--line:#2a313b;--zone:#1f2731;--zone-ink:#e7eaf0;--chip:#1f2731}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+header{padding:18px 22px 8px;border-bottom:1px solid var(--line);background:var(--panel)}
+h1{margin:0;font-size:22px;letter-spacing:-.01em}
+h1 small{font-weight:400;color:var(--muted);font-size:14px;margin-left:8px}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:10px}
+select,button{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);cursor:pointer}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{border:0;border-radius:0;padding:6px 12px}
+.seg button[aria-pressed="true"]{color:#fff}
+.seg button[data-e="past"][aria-pressed="true"]{background:var(--past)}
+.seg button[data-e="now"][aria-pressed="true"]{background:var(--now)}
+.seg button[data-e="future"][aria-pressed="true"]{background:var(--future)}
+main{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(320px,1fr);gap:16px;padding:16px 22px}
+@media (max-width:900px){main{grid-template-columns:1fr}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.card h2{margin:0 0 8px;font-size:15px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+svg{width:100%;height:auto;display:block}
+.zone rect{fill:var(--zone);stroke:var(--line);stroke-width:1;rx:6;transition:fill .15s}
+.zone:hover rect,.zone[aria-selected="true"] rect{stroke:var(--accent);stroke-width:2}
+.zone text{fill:var(--zone-ink);font-size:11px;pointer-events:none}
+.zone .n{font-weight:600}
+.zone .c{fill:var(--muted);font-size:10px}
+.legend{display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);font-size:12px;margin-top:8px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;vertical-align:-2px;margin-right:4px}
+.sysrow{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.chip{background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:12px;cursor:pointer}
+.chip[aria-selected="true"]{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent) 30%,transparent)}
+.stat{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:8px 0 12px}
+.stat div{border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.stat b{display:block;font-size:20px}
+.stat span{color:var(--muted);font-size:12px}
+.stat .past b{color:var(--past)}.stat .now b{color:var(--now)}.stat .future b{color:var(--future)}
+details{border-top:1px solid var(--line);padding:8px 0}
+summary{cursor:pointer;font-weight:600}
+summary small{color:var(--muted);font-weight:400}
+ul{margin:6px 0 0;padding-left:18px}
+li{margin:3px 0;font-size:13.5px}
+li .m{color:var(--muted)}
+.tag{display:inline-block;font-size:11px;border-radius:4px;padding:0 6px;margin-left:6px;border:1px solid var(--line);color:var(--muted)}
+.tag.pipe{border-color:var(--pipe);color:var(--pipe)}
+.tag.age{border-color:var(--past);color:var(--past)}
+.tag.assumed{border-style:dashed}
+.diff{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:8px}
+.diff h3{margin:0 0 4px;font-size:13px}
+.muted{color:var(--muted)}
+.basis{font-size:13px;color:var(--muted);margin:4px 0 0}
+a{color:var(--accent)}
+footer{padding:12px 22px 28px;color:var(--muted);font-size:12px}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+td,th{border-bottom:1px solid var(--line);padding:4px 6px;text-align:left;vertical-align:top}
+th{color:var(--muted);font-weight:600}
+</style>
+</head>
+<body>
+<header>
+  <h1>Standards Twin <small>which standards apply where — <span id="yrs"></span></small></h1>
+  <div class="controls">
+    <label>Reality <select id="reality"></select></label>
+    <div class="seg" role="group" aria-label="Epoch">
+      <button data-e="past" aria-pressed="false">Past</button>
+      <button data-e="now" aria-pressed="true">Now</button>
+      <button data-e="future" aria-pressed="false">Future</button>
+    </div>
+    <label><input type="checkbox" id="swonly"> Swedish adoptions only (SS/SEK)</label>
+    <label><input type="checkbox" id="pipeonly"> Pipeline only (remiss / NWP)</label>
+  </div>
+  <p class="basis" id="basis"></p>
+</header>
+<main>
+  <section class="card">
+    <h2>Floor plan — click a zone</h2>
+    <svg id="plan" viewBox="0 0 1200 620" role="img" aria-label="Facility zones"></svg>
+    <div class="legend"><span><i style="background:var(--zone)"></i>zone shade = number of applicable references in the selected epoch</span></div>
+    <h2 style="margin-top:14px">Cross-cutting systems</h2>
+    <div class="sysrow" id="systems"></div>
+  </section>
+  <section class="card" id="detail">
+    <h2 id="dtitle">Select a zone or system</h2>
+    <div id="dbody" class="muted">Counts per epoch appear here; expand a topic to see the documents, with their basis (SEK dates / heuristic / pipeline) and confidence.</div>
+  </section>
+</main>
+<footer>
+  Data: SEK Svensk Elstandard public catalogue API (metadata only) + curated ISO/CEN/ETSI/W3C/OASC/EU references. Past = documents in force at end of the past year; Now = published today; Future = today + pipeline (remiss, NWP, under bearbetning) + curated expected acts. Every entry shows its <em>basis</em>; entries marked <em>assumed</em> have not been re-verified against a primary source. Built by <a href="https://github.com/winniio/standards-fabric">standards-fabric</a> (MIT).
+</footer>
+<script>
+const DATA = /*__DATA__*/null;
+const E = DATA.epochs, DOCS = DATA.docs, CUR = DATA.curated, TOPICS = DATA.topics;
+document.getElementById('yrs').textContent = `${E.past} · ${E.now} · ${E.future}`;
+const sel = document.getElementById('reality');
+for (const [id, r] of Object.entries(DATA.realities)) { const o = document.createElement('option'); o.value = id; o.textContent = r.name; sel.appendChild(o); }
+let epoch = 'now', current = null, selectedKey = null;
+const $ = (id) => document.getElementById(id);
+function reality() { return DATA.realities[sel.value]; }
+function esc(s) { return String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function draw() {
+  const r = reality(); current = r; $('basis').textContent = `${r.reality_basis} — SMILE phase: ${r.smile_phase || '—'}`;
+  const svg = $('plan'); svg.innerHTML = '';
+  const cols = Math.max(...r.zones.map(z => z.x + z.w)), rows = Math.max(...r.zones.map(z => z.y + z.h));
+  const cw = 1200 / cols, ch = 620 / rows;
+  const max = Math.max(...r.zones.map(z => z.counts[epoch].total), 1);
+  const col = epoch === 'past' ? '139,109,63' : epoch === 'now' ? '31,111,139' : '91,63,160';
+  for (const z of r.zones) {
+    const g = document.createElementNS('http://www.w3.org/2000/svg', 'g'); g.setAttribute('class', 'zone'); g.setAttribute('tabindex', '0'); g.setAttribute('role', 'button'); g.setAttribute('aria-label', z.name);
+    if (selectedKey === 'z:' + z.id) g.setAttribute('aria-selected', 'true');
+    const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+    rect.setAttribute('x', z.x * cw + 4); rect.setAttribute('y', z.y * ch + 4); rect.setAttribute('width', z.w * cw - 8); rect.setAttribute('height', z.h * ch - 8);
+    const s = Math.min(1, z.counts[epoch].total / max);
+    rect.style.fill = `color-mix(in srgb, rgb(${col}) ${Math.round(s * 55)}%, var(--zone))`;
+    g.appendChild(rect);
+    const t1 = document.createElementNS('http://www.w3.org/2000/svg', 'text'); t1.setAttribute('x', z.x * cw + 12); t1.setAttribute('y', z.y * ch + 22); t1.setAttribute('class', 'n'); t1.textContent = z.name.length > 34 ? z.name.slice(0, 33) + '…' : z.name; g.appendChild(t1);
+    const c = z.counts[epoch];
+    const t2 = document.createElementNS('http://www.w3.org/2000/svg', 'text'); t2.setAttribute('x', z.x * cw + 12); t2.setAttribute('y', z.y * ch + 40); t2.setAttribute('class', 'c'); t2.textContent = `${c.total} refs · ${c.sek} SEK (${c.swedish} SS) · ${c.curated} curated${epoch === 'future' && c.pipeline ? ' · ' + c.pipeline + ' pipeline' : ''}`; g.appendChild(t2);
+    g.addEventListener('click', () => { selectedKey = 'z:' + z.id; draw(); });
+    g.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); g.click(); } });
+    svg.appendChild(g);
+  }
+  const sys = $('systems'); sys.innerHTML = '';
+  for (const s of r.systems) { const b = document.createElement('button'); b.className = 'chip'; b.textContent = `${s.name} · ${s.counts[epoch].total}`; if (selectedKey === 's:' + s.id) b.setAttribute('aria-selected', 'true'); b.onclick = () => { selectedKey = 's:' + s.id; draw(); }; sys.appendChild(b); }
+  if (selectedKey) { const [k, id] = selectedKey.split(':'); const obj = (k === 'z' ? r.zones : r.systems).find(o => o.id === id); if (obj) showDetail(obj, k === 'z' ? 'Zone' : 'System'); }
+}
+function docLine(id) {
+  const d = DOCS[id]; const tags = [];
+  if (epoch === 'future' && d.pipe) tags.push('<span class="tag pipe">' + esc((d.s || '').replace('_', ' ')) + '</span>');
+  if (epoch === 'future' && d.age) tags.push('<span class="tag age">aging</span>');
+  tags.push('<span class="tag">' + esc((d.b || {})[epoch] || '') + '</span>');
+  const name = d.n || (d.t ? '(draft) ' + d.t : id);
+  const link = d.u ? `<a href="${esc(d.u)}" target="_blank" rel="noopener">${esc(name)}</a>` : esc(name);
+  return `<li>${link} <span class="m">${esc(d.t || '')}${d.y ? ' · ' + d.y : ''} · ${esc(d.c || '')}${d.i ? ' ← ' + esc(d.i) : ''}</span>${tags.join('')}</li>`;
+}
+function curLine(id) {
+  const c = CUR[id]; const conf = /^checked/.test(c.confidence || '') ? '<span class="tag">checked</span>' : '<span class="tag assumed">assumed</span>';
+  const link = c.url ? `<a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.ref)}</a>` : esc(c.ref);
+  return `<li>${link} <span class="m">${esc(c.title)} · ${esc(c.body)} · ${esc(c.kind)}</span><span class="tag">${esc(c.epochs[epoch])}</span>${conf}${c.notes ? '<div class="m" style="font-size:12px">' + esc(c.notes) + '</div>' : ''}</li>`;
+}
+function showDetail(obj, kind) {
+  $('dtitle').textContent = `${kind}: ${obj.name}`;
+  const swonly = $('swonly').checked, pipeonly = $('pipeonly').checked;
+  const c = obj.counts;
+  let html = `<div class="stat"><div class="past"><b>${c.past.total}</b><span>${E.past} · in force then</span></div><div class="now"><b>${c.now.total}</b><span>${E.now} · in force now</span></div><div class="future"><b>${c.future.total}</b><span>${E.future} · now + pipeline (${c.future.pipeline})</span></div></div>`;
+  const ids = (e) => { const s = new Set(); for (const t of obj.topics) { const b = TOPICS[t]; if (!b) continue; for (const id of b.epochs[e].sek) s.add(DOCS[id].n || id); } return s; };
+  const p = ids('past'), n = ids('now');
+  const gone = [...p].filter(x => !n.has(x)).length, added = [...n].filter(x => !p.has(x)).length;
+  html += `<p class="muted" style="margin:0 0 8px">SEK catalogue delta ${E.past}→${E.now}: <b>+${added}</b> new or revised, <b>−${gone}</b> withdrawn or superseded. Counts are catalogue documents under the committees responsible for this ${kind.toLowerCase()}'s topics — a project shortlist is a subset.</p>`;
+  for (const t of obj.topics) {
+    const b = TOPICS[t];
+    if (!b) { html += `<details><summary>${esc(t)} <small>· topic not defined</small></summary></details>`; continue; }
+    let docs = b.epochs[epoch].sek.slice();
+    if (swonly) docs = docs.filter(id => DOCS[id].sw);
+    if (pipeonly) docs = docs.filter(id => DOCS[id].pipe);
+    docs.sort((a, b2) => ((DOCS[b2].pipe|0) - (DOCS[a].pipe|0)) || String(DOCS[a].n || '').localeCompare(String(DOCS[b2].n || '')));
+    const cur = pipeonly ? [] : b.epochs[epoch].curated;
+    html += `<details><summary>${esc(b.label)} <small>· ${docs.length} SEK · ${cur.length} curated · ${esc((b.sek || []).join(', ') || 'no SEK committee')}${b.intl && b.intl.length ? ' ← ' + esc(b.intl.join(', ')) : ''}</small></summary>`;
+    if (cur.length) html += '<div style="margin-top:6px"><b style="font-size:12px;color:var(--muted)">CURATED — ontologies · MIMs · EU acts · non-electrotechnical</b><ul>' + cur.map(curLine).join('') + '</ul></div>';
+    if (docs.length) html += '<div style="margin-top:6px"><b style="font-size:12px;color:var(--muted)">SEK CATALOGUE</b><ul>' + docs.slice(0, 150).map(docLine).join('') + (docs.length > 150 ? `<li class="m">… ${docs.length - 150} more (use the filters)</li>` : '') + '</ul></div>';
+    html += '</details>';
+  }
+  $('dbody').innerHTML = html; $('dbody').classList.remove('muted');
+}
+document.querySelectorAll('.seg button').forEach(b => b.onclick = () => { epoch = b.dataset.e; document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x === b ? 'true' : 'false')); draw(); });
+sel.onchange = () => { selectedKey = null; $('dtitle').textContent = 'Select a zone or system'; $('dbody').innerHTML = ''; draw(); };
+$('swonly').onchange = $('pipeonly').onchange = () => draw();
+draw();
+</script>
+</body>
+</html>

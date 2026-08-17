@@ -1,0 +1,31 @@
+name: weekly-digest
+on:
+  schedule:
+    - cron: "17 5 * * 1"     # Mondays 05:17 UTC
+  workflow_dispatch:
+concurrency:
+  group: weekly
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: run agents (weekly)
+        env:
+          SF_LLM: ${{ secrets.SF_LLM }}            # none | anthropic | ollama  (unset = none)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SF_MODEL: ${{ vars.SF_MODEL }}
+        run: PYTHONPATH=src python -m standards_fabric report weekly
+      - name: commit report
+        run: |
+          git config user.name "standards-fabric[bot]"
+          git config user.email "bot@users.noreply.github.com"
+          git add reports
+          git commit -m "weekly digest $(date -u +%G-W%V)" || echo "nothing to commit"
+          git push

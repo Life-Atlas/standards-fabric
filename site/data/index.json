@@ -1,0 +1,151 @@
+{
+ "epochs": {
+  "past": 2016,
+  "now": 2026,
+  "future": 2036
+ },
+ "docs": 14104,
+ "curated": 128,
+ "realities": [
+  {
+   "id": "commercial-office",
+   "name": "Commercial office building (multi-tenant, ~8 000 m2)",
+   "kind": "commercial-building",
+   "totals": {
+    "past": {
+     "sek": 6826,
+     "swedish": 5559,
+     "curated": 67,
+     "pipeline": 0,
+     "total": 6893
+    },
+    "now": {
+     "sek": 8793,
+     "swedish": 6922,
+     "curated": 83,
+     "pipeline": 0,
+     "total": 8876
+    },
+    "future": {
+     "sek": 8872,
+     "swedish": 6922,
+     "curated": 83,
+     "pipeline": 79,
+     "total": 8955
+    }
+   }
+  },
+  {
+   "id": "datacenter",
+   "name": "Colocation data centre (EN 50600 space model, ~2 MW IT)",
+   "kind": "datacenter",
+   "totals": {
+    "past": {
+     "sek": 6471,
+     "swedish": 5286,
+     "curated": 71,
+     "pipeline": 0,
+     "total": 6542
+    },
+    "now": {
+     "sek": 8243,
+     "swedish": 6634,
+     "curated": 93,
+     "pipeline": 0,
+     "total": 8336
+    },
+    "future": {
+     "sek": 8304,
+     "swedish": 6634,
+     "curated": 93,
+     "pipeline": 61,
+     "total": 8397
+    }
+   }
+  },
+  {
+   "id": "rental-housing",
+   "name": "Rental apartment block (allmannytta, ~120 flats)",
+   "kind": "residential-rental",
+   "totals": {
+    "past": {
+     "sek": 6287,
+     "swedish": 5155,
+     "curated": 63,
+     "pipeline": 0,
+     "total": 6350
+    },
+    "now": {
+     "sek": 8288,
+     "swedish": 6518,
+     "curated": 82,
+     "pipeline": 0,
+     "total": 8370
+    },
+    "future": {
+     "sek": 8364,
+     "swedish": 6518,
+     "curated": 82,
+     "pipeline": 76,
+     "total": 8446
+    }
+   }
+  },
+  {
+   "id": "steel-fabrication-plant",
+   "name": "Steel-frame fabrication plant (SE, ~40 people, ~10 000 m²)",
+   "kind": "factory",
+   "totals": {
+    "past": {
+     "sek": 5990,
+     "swedish": 4964,
+     "curated": 70,
+     "pipeline": 0,
+     "total": 6060
+    },
+    "now": {
+     "sek": 7415,
+     "swedish": 6077,
+     "curated": 90,
+     "pipeline": 0,
+     "total": 7505
+    },
+    "future": {
+     "sek": 7468,
+     "swedish": 6077,
+     "curated": 90,
+     "pipeline": 53,
+     "total": 7558
+    }
+   }
+  },
+  {
+   "id": "underground-test-facility",
+   "name": "Underground test & training facility (tunnels, labs, event hall)",
+   "kind": "underground-lab",
+   "totals": {
+    "past": {
+     "sek": 6013,
+     "swedish": 4947,
+     "curated": 70,
+     "pipeline": 0,
+     "total": 6083
+    },
+    "now": {
+     "sek": 7516,
+     "swedish": 6105,
+     "curated": 86,
+     "pipeline": 0,
+     "total": 7602
+    },
+    "future": {
+     "sek": 7569,
+     "swedish": 6105,
+     "curated": 86,
+     "pipeline": 53,
+     "total": 7655
+    }
+   }
+  }
+ ]
+}

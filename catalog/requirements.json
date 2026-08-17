@@ -1,0 +1,31 @@
+{
+  "_comment": "Requirements catalogue for county/municipal IoT platform procurement. Each requirement cites the standards it rests on; the monthly agent checks every citation against the SEK catalogue (withdrawn? new edition in pipeline? older than 10 years?). Levels: SKALL (must) / BOR (should). Seeded 2026-08-17 from the standards twin; the consortium owns and edits this file.",
+  "version": "0.1.0",
+  "requirements": [
+    {"id": "ARK-01", "area": "Architecture", "level": "SKALL", "text": "Plattformen ska beskrivas mot en referensarkitektur med tydliga domäner (enheter, nätverk, plattform, applikation) och gränssnitt mellan dem.", "standards": ["ISO/IEC 30141:2024", "SS-ISO/IEC 30141, utg 1:2024"]},
+    {"id": "ARK-02", "area": "Architecture", "level": "BOR", "text": "Digitala tvillingar i plattformen ska följa gemensam terminologi.", "standards": ["ISO/IEC 30173:2023", "ISO/IEC 20924:2024"]},
+    {"id": "INT-01", "area": "Interoperability", "level": "SKALL", "text": "Kontextinformation ska exponeras via ett öppet API för kontexthantering (MIM1) med länkade datamodeller (MIM2).", "standards": ["ETSI GS CIM 009 (NGSI-LD)"]},
+    {"id": "INT-02", "area": "Interoperability", "level": "SKALL", "text": "Semantisk interoperabilitet: datamodeller ska publiceras med ontologi/URI:er och kunna mappas mot SAREF eller motsvarande.", "standards": ["ISO/IEC 21823-3:2021", "ETSI TS 103 264 (SAREF)"]},
+    {"id": "INT-03", "area": "Interoperability", "level": "BOR", "text": "Enheter ska kunna beskrivas med W3C Web of Things Thing Description.", "standards": ["W3C WoT TD 1.1"]},
+    {"id": "SEC-01", "area": "Security", "level": "SKALL", "text": "Anslutna produkter ska uppfylla grundläggande säkerhetskrav för konsument-/kommun-IoT (inga standardlösenord, säkra uppdateringar, sårbarhetshantering).", "standards": ["ETSI EN 303 645"]},
+    {"id": "SEC-02", "area": "Security", "level": "SKALL", "text": "Leverantören ska visa hur produkten möter Cyber Resilience Act senast vid tillämpningsdatum 2027-12-11.", "standards": ["Regulation (EU) 2024/2847"]},
+    {"id": "SEC-03", "area": "Security", "level": "SKALL", "text": "OT-/styrsystemskomponenter ska följa IEC 62443 (säkerhetsnivå anges per zon).", "standards": ["SS-EN IEC 62443-3-3", "SS-EN IEC 62443-4-2", "SS-EN IEC 62443-4-1"]},
+    {"id": "SEC-04", "area": "Security", "level": "SKALL", "text": "Radioutrustning ska uppfylla RED:s cybersäkerhetskrav (art. 3.3 d–f).", "standards": ["Delegated Regulation (EU) 2022/30"]},
+    {"id": "TRU-01", "area": "Trustworthiness", "level": "BOR", "text": "Plattformens pålitlighet ska beskrivas enligt IoT-trovärdighetsprinciper.", "standards": ["ISO/IEC TS 30149:2024", "SEK ISO/IEC TS 30149, utg 1:2025"]},
+    {"id": "DAT-01", "area": "Data", "level": "SKALL", "text": "Data från anslutna produkter ska kunna lämnas ut till användaren och tredje part enligt Data Act.", "standards": ["Regulation (EU) 2023/2854"]},
+    {"id": "DAT-02", "area": "Data", "level": "SKALL", "text": "Personuppgifter ska hanteras enligt GDPR med dataminimering; MIM4-principer tillämpas.", "standards": ["Regulation (EU) 2016/679"]},
+    {"id": "NET-01", "area": "Connectivity", "level": "BOR", "text": "LPWAN-anslutning ska stödja LoRaWAN och/eller NB-IoT/LTE-M utan leverantörsinlåsning i nätservern.", "standards": ["LoRaWAN L2 1.0.4", "3GPP Rel-13+"]},
+    {"id": "NET-02", "area": "Connectivity", "level": "SKALL", "text": "Fast infrastruktur (fiber, koppar) ska följa generisk kablingsstandard.", "standards": ["SS-EN 50173-1", "SS-EN 50174-2"]},
+    {"id": "BLD-01", "area": "Buildings", "level": "BOR", "text": "Fastighetsdata ska kunna uttryckas i RealEstateCore/Brick och kopplas till BIM (IFC).", "standards": ["ISO 16739-1:2024", "RealEstateCore 4"]},
+    {"id": "BLD-02", "area": "Buildings", "level": "BOR", "text": "Fastighetsautomation ska bedömas enligt BACS-klass.", "standards": ["SS-EN ISO 52120-1"]},
+    {"id": "ENE-01", "area": "Energy", "level": "SKALL", "text": "Elmätardata ska läsas via öppna gränssnitt (HAN/P1, DLMS/COSEM).", "standards": ["SS-EN IEC 62056-6-1", "SS-EN IEC 62056-7-6"]},
+    {"id": "ENE-02", "area": "Energy", "level": "BOR", "text": "Flexibilitetsstyrning ska kunna använda Customer Energy Manager-gränssnitt.", "standards": ["SS-EN 50491-12-2"]},
+    {"id": "ELS-01", "area": "Electrical safety", "level": "SKALL", "text": "Installation av sensorer och gateways i lågspänningsanläggningar ska följa Elinstallationsreglerna.", "standards": ["SS 436 40 00, utg 4:2023"]},
+    {"id": "ELS-02", "area": "Electrical safety", "level": "SKALL", "text": "IT-utrustning ska vara säkerhetsprovad enligt riskbaserad standard.", "standards": ["SS-EN IEC 62368-1"]},
+    {"id": "EMC-01", "area": "EMC", "level": "SKALL", "text": "Utrustning ska uppfylla EMC-direktivet med harmoniserade standarder för sin miljö.", "standards": ["SS-EN IEC 61000-6-1", "SS-EN IEC 61000-6-3"]},
+    {"id": "ENV-01", "area": "Environment", "level": "BOR", "text": "Utomhusenheter ska ha angiven kapslingsklass och miljötålighet.", "standards": ["SS-EN 60529", "SS-EN 60068-2-1"]},
+    {"id": "OPS-01", "area": "Operations", "level": "SKALL", "text": "Leverantören ska tillhandahålla livscykel- och underhållsdokumentation enligt referensbeteckningssystem.", "standards": ["SS-EN IEC 81346-1"]},
+    {"id": "OPS-02", "area": "Operations", "level": "BOR", "text": "Tillgänglighet och tillförlitlighet ska anges med definierade mått.", "standards": ["SS-EN IEC 60300-3-4"]},
+    {"id": "CTY-01", "area": "City", "level": "BOR", "text": "Indikatorer som plattformen levererar till kommunledning ska kunna mappas mot ISO 37120-serien.", "standards": ["ISO 37120:2018"]}
+  ]
+}

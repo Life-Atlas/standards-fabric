@@ -1,0 +1,33 @@
+{
+  "$schema": "../schema/reality.schema.json",
+  "id": "steel-fabrication-plant",
+  "class": "facility",
+  "kind": "factory",
+  "name": "Steel-frame fabrication plant (SE, ~40 people, ~10 000 m²)",
+  "reality_basis": "Anonymised from a real Swedish steel-concrete frame prefab plant twinned in 2026: nine production stations read from the plant's own production-tracking export (station × date × mark × quantity), ERP/time/production systems as named by the client. Client name withheld on purpose.",
+  "smile_phase": "collective-intelligence",
+  "systems": [
+    {"id": "bim-cad", "name": "BIM/CAD → CNC (structural model to cut lists)", "topics": ["bim-ifc", "documentation-symbols", "classification-sv"]},
+    {"id": "erp", "name": "ERP (orders, material, invoicing)", "topics": ["isa95-mes", "asset-management"]},
+    {"id": "time-system", "name": "Time & payroll system (hours per station)", "topics": ["isa95-mes"]},
+    {"id": "production-tracking", "name": "Production tracking (mark × station × date)", "topics": ["isa95-mes", "iot-core", "digital-twin-manufacturing", "aas-opcua"]},
+    {"id": "plant-network", "name": "Plant network (fibre backbone, Wi-Fi, PLC networks)", "topics": ["fibre-optics", "data-cabling", "industrial-networks", "cybersecurity-products"]},
+    {"id": "power", "name": "LV distribution, switchgear, motors, drives", "topics": ["lv-installations", "lv-switchgear", "machines-electrical", "emc"]},
+    {"id": "twin", "name": "Production twin (floor-plan tracking, capacity, alarms)", "topics": ["digital-twin-core", "digital-twin-manufacturing", "interoperability-semantic", "iot-trustworthiness"]}
+  ],
+  "zones": [
+    {"id": "yard", "name": "Steel yard / goods-in", "x": 0, "y": 0, "w": 3, "h": 2, "topics": ["explosive-atmospheres", "lv-installations", "lighting", "iot-core"]},
+    {"id": "stn-12-02", "name": "Stn 12.02 Cutting (saw/plasma)", "x": 3, "y": 0, "w": 2, "h": 2, "topics": ["machines-electrical", "laser-safety", "emc", "industrial-networks", "isa95-mes"]},
+    {"id": "stn-12-2", "name": "Stn 12.2 Pre-assembly", "x": 5, "y": 0, "w": 2, "h": 2, "topics": ["machines-electrical", "hand-tools", "lighting", "isa95-mes"]},
+    {"id": "stn-13-1", "name": "Stn 13.1 Assembly (beams)", "x": 7, "y": 0, "w": 2, "h": 2, "topics": ["machines-electrical", "hand-tools", "isa95-mes", "iot-core"]},
+    {"id": "stn-14-1", "name": "Stn 14.1 Welding portal (bottleneck)", "x": 9, "y": 0, "w": 3, "h": 2, "topics": ["welding", "machines-electrical", "emc", "emf-exposure", "industrial-networks", "digital-twin-manufacturing", "aas-opcua"]},
+    {"id": "stn-14-3", "name": "Stn 14.3 Post-assembly", "x": 0, "y": 2, "w": 3, "h": 2, "topics": ["hand-tools", "lighting", "isa95-mes"]},
+    {"id": "stn-15-1", "name": "Stn 15.1 Column assembly", "x": 3, "y": 2, "w": 3, "h": 2, "topics": ["machines-electrical", "hand-tools", "isa95-mes"]},
+    {"id": "stn-16", "name": "Stn 16 Concrete casting", "x": 6, "y": 2, "w": 3, "h": 2, "topics": ["machines-electrical", "environmental-testing", "ip-enclosures", "iot-core"]},
+    {"id": "stn-17", "name": "Stn 17 Painting (fire protection)", "x": 9, "y": 2, "w": 3, "h": 2, "topics": ["explosive-atmospheres", "fire-testing", "environmental-testing", "ip-enclosures", "iot-core"]},
+    {"id": "stn-18-1", "name": "Stn 18.1 Steel products hall", "x": 0, "y": 4, "w": 4, "h": 2, "topics": ["welding", "machines-electrical", "hand-tools", "isa95-mes"]},
+    {"id": "el-room", "name": "Electrical room / LV switchboard", "x": 4, "y": 4, "w": 2, "h": 2, "topics": ["lv-installations", "lv-switchgear", "surge-lightning", "short-circuit", "power-quality-metering", "cybersecurity-products"]},
+    {"id": "it-room", "name": "IT/server room", "x": 6, "y": 4, "w": 2, "h": 2, "topics": ["data-cabling", "fibre-optics", "it-equipment-safety", "cybersecurity-products", "iot-trustworthiness"]},
+    {"id": "office", "name": "Office / planning", "x": 8, "y": 4, "w": 4, "h": 2, "topics": ["building-automation", "lighting", "iot-core", "digital-twin-core", "interoperability-semantic", "bim-ifc"]}
+  ]
+}

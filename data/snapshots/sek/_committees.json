@@ -1,0 +1,695 @@
+[
+ {
+  "name": "Elektrotekniska rådet",
+  "title": "Elektrotekniska rådet",
+  "slug": "/kommitte/elektrotekniska-radet/",
+  "id": 8914,
+  "watches": []
+ },
+ {
+  "name": "SK 1",
+  "title": "Smart energi",
+  "slug": "/kommitte/sk-1/",
+  "id": 157,
+  "watches": []
+ },
+ {
+  "name": "SK 2",
+  "title": "Tekniskt omsorgsstöd",
+  "slug": "/kommitte/sk-2/",
+  "id": 156,
+  "watches": []
+ },
+ {
+  "name": "SK 3",
+  "title": "Smarta hållbara städer och samhällen",
+  "slug": "/kommitte/sk-3/",
+  "id": 155,
+  "watches": []
+ },
+ {
+  "name": "SK 4",
+  "title": "Hållbara elektrifierade transporter",
+  "slug": "/kommitte/sk-4/",
+  "id": 28592,
+  "watches": []
+ },
+ {
+  "name": "SK 5",
+  "title": "Biodigital konvergens",
+  "slug": "/kommitte/sk-5/",
+  "id": 29299,
+  "watches": []
+ },
+ {
+  "name": "TK 1",
+  "title": "Terminologi",
+  "slug": "/kommitte/tk-1/",
+  "id": 135,
+  "watches": []
+ },
+ {
+  "name": "TK 10",
+  "title": "Isolervätskor och isolergaser",
+  "slug": "/kommitte/tk-10/",
+  "id": 136,
+  "watches": []
+ },
+ {
+  "name": "TK 100",
+  "title": "Multimedia",
+  "slug": "/kommitte/tk-100/",
+  "id": 198,
+  "watches": []
+ },
+ {
+  "name": "TK 101",
+  "title": "Elektrostatik",
+  "slug": "/kommitte/tk-101/",
+  "id": 199,
+  "watches": []
+ },
+ {
+  "name": "TK 104",
+  "title": "Miljötålighet",
+  "slug": "/kommitte/tk-104/",
+  "id": 200,
+  "watches": []
+ },
+ {
+  "name": "TK 105",
+  "title": "Bränsleceller",
+  "slug": "/kommitte/tk-105/",
+  "id": 201,
+  "watches": []
+ },
+ {
+  "name": "TK 106",
+  "title": "Elektromagnetiska fält – Gränsvärden och mätmetoder",
+  "slug": "/kommitte/tk-106/",
+  "id": 202,
+  "watches": []
+ },
+ {
+  "name": "TK 108",
+  "title": "Säkerhet hos hemelektronik och IT-utrustning",
+  "slug": "/kommitte/tk-108/",
+  "id": 203,
+  "watches": []
+ },
+ {
+  "name": "TK 109",
+  "title": "Isolationsnivå för elektriska anläggningsdelar med märkspänning under 1000 V",
+  "slug": "/kommitte/tk-109/",
+  "id": 204,
+  "watches": []
+ },
+ {
+  "name": "TK 11",
+  "title": "Elektriska luftledningar för starkström",
+  "slug": "/kommitte/tk-11/",
+  "id": 137,
+  "watches": []
+ },
+ {
+  "name": "TK 110",
+  "title": "Elektroniska bildskärmar och andra anordningar för optisk visning",
+  "slug": "/kommitte/tk-110/",
+  "id": 230,
+  "watches": []
+ },
+ {
+  "name": "TK 111",
+  "title": "Miljöaspekter på elektrisk och elektronisk utrustning",
+  "slug": "/kommitte/tk-111/",
+  "id": 205,
+  "watches": []
+ },
+ {
+  "name": "TK 113",
+  "title": "Nanoteknik inom det elektrotekniska området",
+  "slug": "/kommitte/tk-113/",
+  "id": 206,
+  "watches": []
+ },
+ {
+  "name": "TK 114",
+  "title": "Marin energi – Våg- och tidvattenenergiomvandlare",
+  "slug": "/kommitte/tk-114/",
+  "id": 207,
+  "watches": []
+ },
+ {
+  "name": "TK 115",
+  "title": "Högspänd likströmsöverföring för spänningar över 100 kV",
+  "slug": "/kommitte/tk-115/",
+  "id": 208,
+  "watches": []
+ },
+ {
+  "name": "TK 116",
+  "title": "Säkerhet hos elektriska handverktyg",
+  "slug": "/kommitte/tk-116/",
+  "id": 209,
+  "watches": []
+ },
+ {
+  "name": "TK 117",
+  "title": "Termiska solkraftverk",
+  "slug": "/kommitte/tk-117/",
+  "id": 3219,
+  "watches": []
+ },
+ {
+  "name": "TK 119",
+  "title": "Tryckt elektronik",
+  "slug": "/kommitte/tk-119/",
+  "id": 224,
+  "watches": []
+ },
+ {
+  "name": "TK 120",
+  "title": "Elektriska energilagringssystem",
+  "slug": "/kommitte/tk-120/",
+  "id": 225,
+  "watches": []
+ },
+ {
+  "name": "TK 121A",
+  "title": "Kopplingsapparater för lågspänning",
+  "slug": "/kommitte/tk-121a/",
+  "id": 226,
+  "watches": []
+ },
+ {
+  "name": "TK 121B",
+  "title": "Kopplingsutrustning för lågspänning",
+  "slug": "/kommitte/tk-121b/",
+  "id": 227,
+  "watches": []
+ },
+ {
+  "name": "TK 122",
+  "title": "Transmissionssystem för ultrahöga spänningar",
+  "slug": "/kommitte/tk-122/",
+  "id": 228,
+  "watches": []
+ },
+ {
+  "name": "TK 123",
+  "title": "Förvaltning av kraftsystem",
+  "slug": "/kommitte/tk-123/",
+  "id": 229,
+  "watches": []
+ },
+ {
+  "name": "TK 13",
+  "title": "Elmätare och utrustning för belastningsstyrning",
+  "slug": "/kommitte/tk-13/",
+  "id": 138,
+  "watches": []
+ },
+ {
+  "name": "TK 14",
+  "title": "Transformatorer",
+  "slug": "/kommitte/tk-14/",
+  "id": 139,
+  "watches": []
+ },
+ {
+  "name": "TK 15/112",
+  "title": "Isolermaterial och isolersystem",
+  "slug": "/kommitte/tk-15-112/",
+  "id": 140,
+  "watches": []
+ },
+ {
+  "name": "TK 17AC",
+  "title": "Kopplingsapparater och kopplingsutrustning för högspänning",
+  "slug": "/kommitte/tk-17ac/",
+  "id": 141,
+  "watches": []
+ },
+ {
+  "name": "TK 18",
+  "title": "Elinstallationer i fartyg och offshore-enheter",
+  "slug": "/kommitte/tk-18/",
+  "id": 142,
+  "watches": []
+ },
+ {
+  "name": "TK 2",
+  "title": "Elektriska maskiner",
+  "slug": "/kommitte/tk-2/",
+  "id": 143,
+  "watches": []
+ },
+ {
+  "name": "TK 20",
+  "title": "Kraftkablar och installationskablar",
+  "slug": "/kommitte/tk-20/",
+  "id": 144,
+  "watches": []
+ },
+ {
+  "name": "TK 205",
+  "title": "Installationsbussar och signalöverföring på elnät",
+  "slug": "/kommitte/tk-205/",
+  "id": 210,
+  "watches": []
+ },
+ {
+  "name": "TK 21",
+  "title": "Laddningsbara batterier",
+  "slug": "/kommitte/tk-21/",
+  "id": 145,
+  "watches": []
+ },
+ {
+  "name": "TK 214",
+  "title": "Vägtrafiksignaler",
+  "slug": "/kommitte/tk-214/",
+  "id": 211,
+  "watches": []
+ },
+ {
+  "name": "TK 215",
+  "title": "Elektrotekniska aspekter på telenät och teleutrustning",
+  "slug": "/kommitte/tk-215/",
+  "id": 212,
+  "watches": []
+ },
+ {
+  "name": "TK 22",
+  "title": "Strömriktare",
+  "slug": "/kommitte/tk-22/",
+  "id": 146,
+  "watches": []
+ },
+ {
+  "name": "TK 22F",
+  "title": "Kraftelektronik för överföring och distribution av elenergi",
+  "slug": "/kommitte/tk-22f/",
+  "id": 147,
+  "watches": []
+ },
+ {
+  "name": "TK 23",
+  "title": "Installationsmateriel",
+  "slug": "/kommitte/tk-23/",
+  "id": 148,
+  "watches": []
+ },
+ {
+  "name": "TK 25",
+  "title": "Storheter och enheter",
+  "slug": "/kommitte/tk-25/",
+  "id": 149,
+  "watches": []
+ },
+ {
+  "name": "TK 26",
+  "title": "Elsvetsning",
+  "slug": "/kommitte/tk-26/",
+  "id": 159,
+  "watches": []
+ },
+ {
+  "name": "TK 27",
+  "title": "Industriell elvärme",
+  "slug": "/kommitte/tk-27/",
+  "id": 160,
+  "watches": []
+ },
+ {
+  "name": "TK 29",
+  "title": "Elektroakustik",
+  "slug": "/kommitte/tk-29/",
+  "id": 161,
+  "watches": []
+ },
+ {
+  "name": "TK 3",
+  "title": "Dokumentation och grafiska symboler",
+  "slug": "/kommitte/tk-3/",
+  "id": 150,
+  "watches": []
+ },
+ {
+  "name": "TK 31",
+  "title": "Elmateriel för explosiv atmosfär",
+  "slug": "/kommitte/tk-31/",
+  "id": 162,
+  "watches": []
+ },
+ {
+  "name": "TK 32B",
+  "title": "Lågspänningssäkringar",
+  "slug": "/kommitte/tk-32b/",
+  "id": 163,
+  "watches": []
+ },
+ {
+  "name": "TK 33",
+  "title": "Kondensatorer för kraftteknik",
+  "slug": "/kommitte/tk-33/",
+  "id": 164,
+  "watches": []
+ },
+ {
+  "name": "TK 34",
+  "title": "Ljusarmatur med tillbehör",
+  "slug": "/kommitte/tk-34/",
+  "id": 165,
+  "watches": []
+ },
+ {
+  "name": "TK 36",
+  "title": "Isolatorer",
+  "slug": "/kommitte/tk-36/",
+  "id": 197,
+  "watches": []
+ },
+ {
+  "name": "TK 37",
+  "title": "Ventilavledare",
+  "slug": "/kommitte/tk-37/",
+  "id": 167,
+  "watches": []
+ },
+ {
+  "name": "TK 37A",
+  "title": "Överspänningsskydd för lågspänningsinstallationer",
+  "slug": "/kommitte/tk-37a/",
+  "id": 168,
+  "watches": []
+ },
+ {
+  "name": "TK 38",
+  "title": "Mättransformatorer",
+  "slug": "/kommitte/tk-38/",
+  "id": 169,
+  "watches": []
+ },
+ {
+  "name": "TK 4",
+  "title": "Vattenturbiner",
+  "slug": "/kommitte/tk-4/",
+  "id": 151,
+  "watches": []
+ },
+ {
+  "name": "TK 40",
+  "title": "Passiva komponenter",
+  "slug": "/kommitte/tk-40/",
+  "id": 170,
+  "watches": []
+ },
+ {
+  "name": "TK 42",
+  "title": "Högspänningsprovning",
+  "slug": "/kommitte/tk-42/",
+  "id": 171,
+  "watches": []
+ },
+ {
+  "name": "TK 44",
+  "title": "Elutrustning för maskiner",
+  "slug": "/kommitte/tk-44/",
+  "id": 172,
+  "watches": []
+ },
+ {
+  "name": "TK 45",
+  "title": "Kärnteknisk mätutrustning",
+  "slug": "/kommitte/tk-45/",
+  "id": 173,
+  "watches": []
+ },
+ {
+  "name": "TK 46",
+  "title": "Tele- och datakablar med tillbehör",
+  "slug": "/kommitte/tk-46/",
+  "id": 174,
+  "watches": []
+ },
+ {
+  "name": "TK 48B",
+  "title": "Anslutningsdon",
+  "slug": "/kommitte/tk-48b/",
+  "id": 175,
+  "watches": []
+ },
+ {
+  "name": "TK 5",
+  "title": "Ångturbiner",
+  "slug": "/kommitte/tk-5/",
+  "id": 152,
+  "watches": []
+ },
+ {
+  "name": "TK 55",
+  "title": "Lindningstråd",
+  "slug": "/kommitte/tk-55/",
+  "id": 176,
+  "watches": []
+ },
+ {
+  "name": "TK 56",
+  "title": "Tillförlitlighet",
+  "slug": "/kommitte/tk-56/",
+  "id": 177,
+  "watches": []
+ },
+ {
+  "name": "TK 57",
+  "title": "Styrning av kraftsystem och tillhörande kommunikation",
+  "slug": "/kommitte/tk-57/",
+  "id": 178,
+  "watches": []
+ },
+ {
+  "name": "TK 59",
+  "title": "Funktionsprovning av elektriska hushållsapparater",
+  "slug": "/kommitte/tk-59/",
+  "id": 179,
+  "watches": []
+ },
+ {
+  "name": "TK 61",
+  "title": "Säkerhet hos elektriska hushållsapparater",
+  "slug": "/kommitte/tk-61/",
+  "id": 180,
+  "watches": []
+ },
+ {
+  "name": "TK 62",
+  "title": "Elektrisk utrustning för medicinskt bruk",
+  "slug": "/kommitte/tk-62/",
+  "id": 181,
+  "watches": []
+ },
+ {
+  "name": "TK 62BC",
+  "title": "Utrustning för radiologi och diagnostisk bildgivning",
+  "slug": "/kommitte/tk-62bc/",
+  "id": 182,
+  "watches": []
+ },
+ {
+  "name": "TK 64",
+  "title": "Elinstallationer för lågspänning samt skydd mot elchock",
+  "slug": "/kommitte/tk-64/",
+  "id": 183,
+  "watches": []
+ },
+ {
+  "name": "TK 65",
+  "title": "Industriell processtyrning",
+  "slug": "/kommitte/tk-65/",
+  "id": 184,
+  "watches": []
+ },
+ {
+  "name": "TK 66",
+  "title": "Säkerhet hos elektronisk mätutrustning",
+  "slug": "/kommitte/tk-66/",
+  "id": 185,
+  "watches": []
+ },
+ {
+  "name": "TK 68",
+  "title": "Ledande magnetiska material",
+  "slug": "/kommitte/tk-68/",
+  "id": 186,
+  "watches": []
+ },
+ {
+  "name": "TK 69",
+  "title": "Elfordonsladdning – System och infrastruktur",
+  "slug": "/kommitte/tk-69/",
+  "id": 187,
+  "watches": []
+ },
+ {
+  "name": "TK 70",
+  "title": "Kapslingsklasser",
+  "slug": "/kommitte/tk-70/",
+  "id": 188,
+  "watches": []
+ },
+ {
+  "name": "TK 73",
+  "title": "Kortslutningsströmmar och deras verkningar",
+  "slug": "/kommitte/tk-73/",
+  "id": 189,
+  "watches": []
+ },
+ {
+  "name": "TK 76",
+  "title": "Laserutrustningar och optisk strålningssäkerhet",
+  "slug": "/kommitte/tk-76/",
+  "id": 190,
+  "watches": []
+ },
+ {
+  "name": "TK 77C",
+  "title": "Skydd mot elektromagnetiska högeffekttransienter",
+  "slug": "/kommitte/tk-77c/",
+  "id": 191,
+  "watches": []
+ },
+ {
+  "name": "TK 78",
+  "title": "Säkerhet vid arbete – metoder, verktyg och materiel",
+  "slug": "/kommitte/tk-78/",
+  "id": 192,
+  "watches": []
+ },
+ {
+  "name": "TK 79",
+  "title": "Larmsystem",
+  "slug": "/kommitte/tk-79/",
+  "id": 193,
+  "watches": []
+ },
+ {
+  "name": "TK 8",
+  "title": "Elenergiförsörjningssystem",
+  "slug": "/kommitte/tk-8/",
+  "id": 153,
+  "watches": []
+ },
+ {
+  "name": "TK 80",
+  "title": "Marin navigations- och radiokommunikationsutrustning",
+  "slug": "/kommitte/tk-80/",
+  "id": 194,
+  "watches": []
+ },
+ {
+  "name": "TK 81",
+  "title": "Åskskydd",
+  "slug": "/kommitte/tk-81/",
+  "id": 195,
+  "watches": []
+ },
+ {
+  "name": "TK 82",
+  "title": "Direktomvandling av solenergi till elenergi",
+  "slug": "/kommitte/tk-82/",
+  "id": 196,
+  "watches": []
+ },
+ {
+  "name": "TK 85",
+  "title": "Elektrisk mätutrustning",
+  "slug": "/kommitte/tk-85/",
+  "id": 213,
+  "watches": []
+ },
+ {
+  "name": "TK 86",
+  "title": "Fiberoptik",
+  "slug": "/kommitte/tk-86/",
+  "id": 214,
+  "watches": []
+ },
+ {
+  "name": "TK 88",
+  "title": "Säkerhet hos vindgeneratorer",
+  "slug": "/kommitte/tk-88/",
+  "id": 215,
+  "watches": []
+ },
+ {
+  "name": "TK 89",
+  "title": "Brandriskprovning",
+  "slug": "/kommitte/tk-89/",
+  "id": 216,
+  "watches": []
+ },
+ {
+  "name": "TK 9",
+  "title": "Elutrustning för järnvägar och järnvägsfordon",
+  "slug": "/kommitte/tk-9/",
+  "id": 154,
+  "watches": []
+ },
+ {
+  "name": "TK 94/95",
+  "title": "Reläer och reläskydd",
+  "slug": "/kommitte/tk-94-95/",
+  "id": 217,
+  "watches": []
+ },
+ {
+  "name": "TK 97",
+  "title": "Elinstallationer på flygplatser",
+  "slug": "/kommitte/tk-97/",
+  "id": 219,
+  "watches": []
+ },
+ {
+  "name": "TK 99",
+  "title": "Systemkonstruktion och isolationskoordination av högspänningsinstallationer",
+  "slug": "/kommitte/tk-99/",
+  "id": 220,
+  "watches": []
+ },
+ {
+  "name": "TK BTTF 116-2",
+  "title": "Alkolås",
+  "slug": "/kommitte/tk-bttf-116-2/",
+  "id": 222,
+  "watches": []
+ },
+ {
+  "name": "TK EMC",
+  "title": "Elektromagnetisk kompatibilitet",
+  "slug": "/kommitte/tk-emc/",
+  "id": 223,
+  "watches": []
+ },
+ {
+  "name": "TK Hjärna-datorgränssnitt",
+  "title": "Hjärna-datorgränssnitt",
+  "slug": "/kommitte/tk-hjarna-datorgranssnitt/",
+  "id": 28034,
+  "watches": []
+ },
+ {
+  "name": "TK IoT",
+  "title": "Sakernas internet",
+  "slug": "/kommitte/tk-iot/",
+  "id": 158,
+  "watches": []
+ },
+ {
+  "name": "TK Kvantteknik",
+  "title": "Kvantteknik",
+  "slug": "/kommitte/tk-kvantteknik/",
+  "id": 26871,
+  "watches": []
+ }
+]

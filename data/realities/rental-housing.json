@@ -1,0 +1,24 @@
+{
+  "id": "rental-housing",
+  "class": "facility",
+  "kind": "residential-rental",
+  "name": "Rental apartment block (allmannytta, ~120 flats)",
+  "reality_basis": "Reference model for Swedish rental housing (hyresratt): individual metering (IMD), smart locks, laundry booking, heat pumps, EV in garage. Housing-specific: appliances, HBES, tenant data protection.",
+  "smile_phase": "reality-emulation",
+  "systems": [
+    {"id": "imd", "name": "IMD - individual metering (heat, hot water, electricity)", "topics": ["power-quality-metering", "energy-management", "iot-core"]},
+    {"id": "tenant-services", "name": "Tenant app: locks, booking, fault reports", "topics": ["iot-trustworthiness", "installation-bus-home", "cybersecurity-products"]},
+    {"id": "bms", "name": "Heating/ventilation control", "topics": ["building-automation", "energy-management"]},
+    {"id": "property-register", "name": "Property register & maintenance planning", "topics": ["asset-management", "classification-sv", "bim-ifc"]}
+  ],
+  "zones": [
+    {"id": "apartment", "name": "Apartment (typical)", "x": 0, "y": 0, "w": 4, "h": 2, "topics": ["household-appliances", "installation-bus-home", "lv-installations", "iot-trustworthiness", "iot-core", "power-quality-metering"]},
+    {"id": "stairwell", "name": "Stairwell & entrance (locks, intercom)", "x": 4, "y": 0, "w": 2, "h": 2, "topics": ["fire-alarm-security", "installation-bus-home", "lighting", "cybersecurity-products"]},
+    {"id": "laundry", "name": "Shared laundry", "x": 6, "y": 0, "w": 3, "h": 2, "topics": ["household-appliances", "iot-core", "lv-installations"]},
+    {"id": "basement-el", "name": "Basement: electrical central, meters, fibre", "x": 9, "y": 0, "w": 3, "h": 2, "topics": ["lv-installations", "lv-switchgear", "power-quality-metering", "fibre-optics", "data-cabling", "surge-lightning"]},
+    {"id": "heating-plant", "name": "Heating plant (district heating / heat pump)", "x": 0, "y": 2, "w": 4, "h": 2, "topics": ["building-automation", "energy-management", "machines-electrical"]},
+    {"id": "garage", "name": "Garage & EV charging", "x": 4, "y": 2, "w": 4, "h": 2, "topics": ["ev-charging", "lighting", "fire-alarm-security"]},
+    {"id": "courtyard", "name": "Courtyard & outdoor lighting", "x": 8, "y": 2, "w": 4, "h": 2, "topics": ["lighting", "iot-core", "smart-cities"]},
+    {"id": "roof", "name": "Roof: PV & battery", "x": 0, "y": 4, "w": 12, "h": 1, "topics": ["pv-solar", "batteries-storage", "surge-lightning", "energy-management"]}
+  ]
+}

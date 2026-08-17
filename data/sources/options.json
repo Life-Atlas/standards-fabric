@@ -1,0 +1,20 @@
+{
+  "_comment": "The eight optional efforts from the consortium proposal. Keywords drive the monthly radar. Feeds are shared.",
+  "feeds": [
+    {"id": "eu-digital-strategy", "url": "https://digital-strategy.ec.europa.eu/en/rss.xml"},
+    {"id": "oasc", "url": "https://oascities.org/feed/"},
+    {"id": "w3c-blog", "url": "https://www.w3.org/blog/feed/"},
+    {"id": "sek-news", "url": "https://nyheter.elstandard.se/rss"},
+    {"id": "internetstiftelsen", "url": "https://internetstiftelsen.se/feed/"}
+  ],
+  "options": [
+    {"id": "iot-ai-ways-of-working", "label": "Ways of working IoT + AI", "keywords": ["AI Act", "AI-ready", "data governance", "machine learning", "AI", "artificiell intelligens", "data quality", "datakvalitet"]},
+    {"id": "national-case-bank", "label": "National case bank for IoT", "keywords": ["use case", "case study", "business case", "nyttokalkyl", "pilot", "best practice", "goda exempel"]},
+    {"id": "iot-device-register", "label": "Central national register for IoT devices", "keywords": ["Cyber Resilience Act", "CRA", "device register", "product register", "conformity", "CE-märkning", "sensor register", "sensorregister", "totalförsvar", "NIS2"]},
+    {"id": "w3c", "label": "W3C", "keywords": ["Web of Things", "WoT", "Thing Description", "W3C", "Solid", "Verifiable Credentials", "DID"]},
+    {"id": "jtc1", "label": "JTC 1", "keywords": ["JTC 1", "SC 41", "SC 27", "SC 42", "ISO/IEC"]},
+    {"id": "jtc4", "label": "JTC 4 (smart & sustainable cities)", "keywords": ["JTC 4", "sustainable cities", "smart cities", "smarta städer", "ISO 37"]},
+    {"id": "refark", "label": "RefARK → ISO/IEC 30141", "keywords": ["reference architecture", "referensarkitektur", "30141", "RefARK", "architecture"]},
+    {"id": "citiverse", "label": "CitiVerse EDIC / local digital twins", "keywords": ["CitiVerse", "EDIC", "local digital twin", "LDT", "digital twin", "digital tvilling", "metaverse", "XR"]}
+  ]
+}

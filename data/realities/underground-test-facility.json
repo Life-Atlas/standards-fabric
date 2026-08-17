@@ -1,0 +1,25 @@
+{
+  "id": "underground-test-facility",
+  "class": "facility",
+  "kind": "underground-lab",
+  "name": "Underground test & training facility (tunnels, labs, event hall)",
+  "reality_basis": "Anonymised from a real alpine underground research facility twinned in 2026 (tunnel network, laboratories, ventilation, blasting/fire test galleries, visitor/event areas). Names withheld.",
+  "smile_phase": "collective-intelligence",
+  "systems": [
+    {"id": "ventilation", "name": "Tunnel ventilation & air-quality monitoring", "topics": ["building-automation", "iot-core", "environmental-testing", "machines-electrical"]},
+    {"id": "geo-monitoring", "name": "Geotechnical & structural sensing", "topics": ["iot-core", "interoperability-semantic", "digital-twin-core"]},
+    {"id": "network", "name": "Fibre backbone & underground radio", "topics": ["fibre-optics", "data-cabling", "emc"]},
+    {"id": "twin", "name": "Facility twin (visitors, tests, assets)", "topics": ["digital-twin-core", "bim-ifc", "interoperability-semantic", "asset-management"]}
+  ],
+  "zones": [
+    {"id": "portal", "name": "Portal & access control", "x": 0, "y": 0, "w": 3, "h": 2, "topics": ["fire-alarm-security", "lighting", "iot-core", "cybersecurity-products"]},
+    {"id": "main-tunnel", "name": "Main tunnel", "x": 3, "y": 0, "w": 6, "h": 2, "topics": ["lighting", "lv-installations", "ip-enclosures", "environmental-testing", "iot-core", "emc"]},
+    {"id": "fire-gallery", "name": "Fire / smoke test gallery", "x": 9, "y": 0, "w": 3, "h": 2, "topics": ["fire-testing", "environmental-testing", "ip-enclosures", "explosive-atmospheres"]},
+    {"id": "labs", "name": "Laboratories (materials, robotics)", "x": 0, "y": 2, "w": 4, "h": 2, "topics": ["machines-electrical", "laser-safety", "emc", "industrial-networks", "digital-twin-manufacturing"]},
+    {"id": "event-hall", "name": "Event hall / visitor centre", "x": 4, "y": 2, "w": 4, "h": 2, "topics": ["building-automation", "lighting", "fire-alarm-security", "iot-core"]},
+    {"id": "el-room", "name": "Electrical & UPS room", "x": 8, "y": 2, "w": 2, "h": 2, "topics": ["lv-installations", "lv-switchgear", "ups-power-electronics", "surge-lightning", "short-circuit"]},
+    {"id": "server-room", "name": "Server / comms room", "x": 10, "y": 2, "w": 2, "h": 2, "topics": ["data-cabling", "fibre-optics", "it-equipment-safety", "cybersecurity-products"]},
+    {"id": "workshop", "name": "Workshop", "x": 0, "y": 4, "w": 6, "h": 1, "topics": ["welding", "hand-tools", "machines-electrical", "explosive-atmospheres"]},
+    {"id": "outdoor", "name": "Outdoor yard, parking, PV", "x": 6, "y": 4, "w": 6, "h": 1, "topics": ["ev-charging", "pv-solar", "surge-lightning", "lighting"]}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "Every external source the agents read. Add a source here, never in code. Verified = fetched successfully on the date given.",
+  "sek_watchlist": ["TK IoT", "SK 1", "SK 2", "SK 3", "SK 4", "SK 5", "TK 205", "TK 57", "TK 65", "TK 64", "TK EMC", "TK 13", "TK 69", "TK 21", "TK 120", "TK 215", "TK 8", "TK 3", "TK 1"],
+  "keywords": {
+    "iot": ["IoT", "Internet of Things", "sakernas internet", "sensor", "digital twin", "digital tvilling", "smart city", "smart cities", "smarta städer", "interoperab", "ontolog", "data space", "dataspace", "LoRa", "NB-IoT", "5G", "edge", "CitiVerse", "local digital twin", "Cyber Resilience", "Data Act", "AI Act", "SC 41", "JTC 1", "JTC 4", "W3C", "Web of Things", "MIM", "NGSI-LD", "SAREF"]
+  },
+  "feeds": [
+    {"id": "sek-news", "activity": "standardisation", "url": "https://nyheter.elstandard.se/rss", "note": "SEK newsroom — URL returns HTML (Notified newsroom); real feed URL still to be found (2026-08-17)", "disabled": true},
+    {"id": "eu-digital-strategy", "activity": "eu", "url": "https://digital-strategy.ec.europa.eu/en/rss.xml", "note": "DG CONNECT news (verified 2026-08-17)"},
+    {"id": "oasc", "activity": "municipal", "url": "https://oascities.org/feed/", "note": "Open & Agile Smart Cities — MIMs (verified 2026-08-17)"},
+    {"id": "internetstiftelsen", "activity": "county", "url": "https://internetstiftelsen.se/feed/", "note": "Swedish Internet Foundation — consortium lead (verified 2026-08-17)"},
+    {"id": "w3c-blog", "activity": "options-w3c", "url": "https://www.w3.org/blog/feed/", "note": "W3C blog, filter for Web of Things (verified 2026-08-17)"}
+  ],
+  "github_releases": [
+    {"id": "orion-ld", "repo": "FIWARE/context.Orion-LD", "note": "NGSI-LD context broker (MIM1)"},
+    {"id": "scorpio", "repo": "ScorpioBroker/ScorpioBroker", "note": "NGSI-LD broker (NEC)"},
+    {"id": "stellio", "repo": "stellio-hub/stellio-context-broker", "note": "NGSI-LD broker (EGM)"},
+    {"id": "os2iot", "repo": "OS2iot/OS2IoT-backend", "note": "Danish municipal shared IoT platform"},
+    {"id": "chirpstack", "repo": "chirpstack/chirpstack", "note": "LoRaWAN network server"},
+    {"id": "thingsboard", "repo": "thingsboard/thingsboard", "note": "IoT platform"},
+    {"id": "eclipse-ditto", "repo": "eclipse-ditto/ditto", "note": "Digital twin framework"},
+    {"id": "home-assistant", "repo": "home-assistant/core", "note": "Home automation (Matter/Thread adoption signal)"},
+    {"id": "node-red", "repo": "node-red/node-red", "note": "Flow tooling"},
+    {"id": "edgex", "repo": "edgexfoundry/edgex-go", "note": "Edge platform (LF Edge)"},
+    {"id": "openremote", "repo": "openremote/openremote", "note": "Open IoT platform"},
+    {"id": "magistrala", "repo": "absmach/magistrala", "note": "IoT platform (ex-Mainflux)"},
+    {"id": "eclipse-basyx", "repo": "eclipse-basyx/basyx-java-server-sdk", "note": "Asset Administration Shell (IEC 63278)"},
+    {"id": "aas-package-explorer", "repo": "eclipse-aaspe/package-explorer", "note": "AAS tooling"},
+    {"id": "wot-td", "repo": "w3c/wot-thing-description", "note": "W3C WoT Thing Description"},
+    {"id": "brick", "repo": "BrickSchema/Brick", "note": "Brick ontology"},
+    {"id": "realestatecore", "repo": "RealEstateCore/rec", "note": "RealEstateCore ontology (SE)"},
+    {"id": "smart-data-models", "repo": "smart-data-models/data-models", "note": "Smart Data Models (MIM2)"},
+    {"id": "opentwins", "repo": "ertis-research/OpenTwins", "note": "Open digital twin platform"},
+    {"id": "openhab", "repo": "openhab/openhab-core", "note": "Home/building automation"}
+  ],
+  "eu_funding": {"api": "https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA", "queries": ["\"internet of things\"", "\"digital twin\"", "\"smart cities\"", "\"local digital twins\"", "CitiVerse", "interoperability data spaces"], "note": "Funding & Tenders portal search (verified 2026-08-17)"},
+  "ted": {"api": "https://api.ted.europa.eu/v3/notices/search", "country": "SWE", "terms": ["IoT", "Internet of Things", "sakernas internet", "digital tvilling", "digital twin", "sensorplattform", "IoT-plattform"], "note": "TED public notices API v3 — query syntax to be tuned; returns 0 for the first attempts (2026-08-17)"}
+}
