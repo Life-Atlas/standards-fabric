@@ -1,0 +1,12 @@
+{
+  "_comment": "Evidence for the MVT criteria that depend on people outside this repo. Empty arrays mean 'not yet' — never 'assumed fine'. Each entry needs a date and a verifiable pointer (URL, PR number, mail date). See docs/MVT.md.",
+  "consent_to_publish": [
+    {"reality": "steel-fabrication-plant", "owner_role": "plant CEO", "asked": null, "granted": null, "evidence": null,
+     "note": "Derived from a real client twin, anonymised (no company name, no addresses, station names generalised). Consent to publish even the anonymised layout has NOT been asked. Owner: Nicolas."},
+    {"reality": "underground-test-facility", "owner_role": "facility management", "asked": null, "granted": null, "evidence": null,
+     "note": "Derived from a real underground lab twin, anonymised. Consent NOT asked. Owner: Nicolas."}
+  ],
+  "external_contributions": [],
+  "decisions_citing_a_view": [],
+  "scheduled_runs_observed": []
+}

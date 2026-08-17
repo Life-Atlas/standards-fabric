@@ -5,6 +5,7 @@
   python -m standards_fabric report weekly       # run the agents (collectors + optional LLM) → reports/
   python -m standards_fabric report monthly
   python -m standards_fabric gate                # acceptance gate (exit 0 = green)
+  python -m standards_fabric mvt                 # MVT scorecard (exit 0 = MVT reached)
 """
 from __future__ import annotations
 
@@ -58,6 +59,11 @@ def cmd_gate(args: argparse.Namespace) -> int:
     return run_gate()
 
 
+def cmd_mvt(args: argparse.Namespace) -> int:
+    from .mvt import run_mvt
+    return run_mvt(do_network=args.links)
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="standards_fabric")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -72,6 +78,9 @@ def main(argv: list[str] | None = None) -> int:
     r.set_defaults(fn=cmd_report)
     g = sub.add_parser("gate")
     g.set_defaults(fn=cmd_gate)
+    m = sub.add_parser("mvt")
+    m.add_argument("--links", action="store_true", help="also sample-fetch catalogue links (network)")
+    m.set_defaults(fn=cmd_mvt)
     args = p.parse_args(argv)
     return args.fn(args)
 

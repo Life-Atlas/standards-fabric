@@ -9,6 +9,8 @@ Two things in one repo, sharing one data core:
 
 Measured, not written (`python -m standards_fabric gate` re-checks these numbers): **6** realities · **56** topics · **144** curated refs · **53** SEK committees snapshotted · **14824** catalogue documents time-sliced · **19** tests (5 of them prove the gate can say *no*).
 
+**Status: working prototype, not the MVT.** `python -m standards_fabric mvt` scores 2 of 7 owned criteria green (3 more blocked on people) and prints exactly what is missing. The contract, the goal and the critical path are in [docs/MVT.md](docs/MVT.md).
+
 ## Why
 
 The consortium proposal (of US, Aug 2026) names six core activities — Standardisation, the Standards & Platforms working group, EU engagement, County-wide IoT, Framework-agreement procurement, Municipal IoT — and eight options (ways of working IoT+AI, national case bank, national IoT device register, W3C, JTC 1, JTC 4, RefARK → ISO/IEC 30141, CitiVerse). Every one of them needs the same thing first: a **current, sourced picture of which standards, platforms and EU acts move — tied to where they bite in a real facility.** That picture is what this repo produces, on a schedule, in the open.
@@ -23,6 +25,7 @@ python -m pip install -e ".[dev]"          # stdlib-only runtime; dev = pytest +
 python -m standards_fabric build           # twin from the committed SEK snapshot → site/index.html (open it)
 python -m standards_fabric report weekly   # run the agents → reports/weekly/<YYYY-Www>/report.md
 python -m standards_fabric gate            # acceptance gate, exit 0 = green
+python -m standards_fabric mvt             # MVT scorecard, exit 0 = MVT reached (docs/MVT.md)
 python -m standards_fabric snapshot        # refresh the SEK catalogue snapshot (53 committees, ~8 min)
 ```
 
