@@ -88,5 +88,6 @@
  "https://github.com/openhab/openhab-core/releases/tag/5.2.0": "2026-08-17",
  "https://github.com/openhab/openhab-core/releases/tag/5.2.0.RC2": "2026-08-17",
  "https://github.com/openhab/openhab-core/releases/tag/5.2.0.RC1": "2026-08-17",
- "https://github.com/openhab/openhab-core/releases/tag/5.2.0.M6": "2026-08-17"
+ "https://github.com/openhab/openhab-core/releases/tag/5.2.0.M6": "2026-08-17",
+ "https://github.com/home-assistant/core/releases/tag/2026.8.3": "2026-08-24"
 }

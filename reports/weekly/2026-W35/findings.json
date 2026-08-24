@@ -1,0 +1,472 @@
+{
+ "period": "2026-W35",
+ "cadence": "weekly",
+ "generated": "2026-08-24",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4672,
+    "baseline_run": false,
+    "pipeline_open": 32
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61850-7-1:2011/A1:2020/C1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3809301",
+     "date": "2026-08-24",
+     "detail": "Communication networks and systems for power utility automation - Part 7-1: Basic communication structure - Principles and models",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-28:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979301",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-28: Data-link layer service definition - Type 28 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-4-28:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979401",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-28: Data-link layer protocol specification - Type 28 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-27:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979501",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-27: Application layer service definition - Type 27 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-1-22:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979701",
+     "date": "2026-08-24",
+     "detail": "Industrial networks - Profiles - Part 1-22: Fieldbus profiles - Communication Profile Family 22",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-2-19:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979801",
+     "date": "2026-08-24",
+     "detail": "Industrial networks - Profiles - Part 2-19: Additional real-time fieldbus profiles based on ISO/IEC/IEEE 8802-3 - CPF 19",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-2:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2980201",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 2: Physical layer specification and service definition",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-2:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2980301",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-2: Data-link layer service definition - Type 2 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-4-2:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983401",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-2: Data-link layer protocol specification - Type 2 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-23:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983501",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-23: Application layer service definition - Type 23 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-24:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983601",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-24: Application layer service definition - Type 24 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-28:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983901",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-28: Application layer service definition - Type 28 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-1:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2984801",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 1: Overview and guidance for the IEC 61158 and IEC 61784 series",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-24:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2984901",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-24: Data-link layer service definition - Type 24 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-4:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2985001",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-4: Data-link layer service definition - Type 4 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-26:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2985101",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-26: Application layer service definition - Type 26 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-3-3:2021 — publicerad",
+     "source": "https://elstandard.se/standard/2637401",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Profiles - Part 3-3: Functional safety fieldbuses - Additional specifications for CPF 3",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-3-12:2010/A1:2019 — publicerad",
+     "source": "https://elstandard.se/standard/2162001",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Profiles - Part 3-12: Functional safety fieldbuses - Additional specifications for CPF 12",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-302:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1688101",
+     "date": "2026-08-24",
+     "detail": "Field device tool (FDT) interface specification - Part 302: Communication profile integration - IEC 61784 CPF 2",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-309:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1688201",
+     "date": "2026-08-24",
+     "detail": "Field device tool (FDT) interface specification - Part 309: Communication profile integration - IEC 61784 CPF 9",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-3:2016 RLV — upphavd",
+     "source": "https://elstandard.se/standard/1703701",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - Profiles - Part 3: Functional safety fieldbuses - General rules and profile definitions",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62439-3:2016 RLV — upphavd",
+     "source": "https://elstandard.se/standard/1705301",
+     "date": "2026-08-24",
+     "detail": "Industrial communication networks - High availability automation networks - Part 3: Parallel Redundancy Protocol (PRP) and High-availability Seamless Redundancy (HSR)",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4067401",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65B"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "CISPR 16-2-1:2014 — publicerad",
+     "source": "https://elstandard.se/standard/1367501",
+     "date": "2026-08-24",
+     "detail": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-1: Methods of measurement of disturbances and immunity - Conducted disturbance measurements",
+     "tags": [
+      "TK EMC",
+      "CISPR"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "CISPR 16-1-1:2010/A2:2014 — upphavd",
+     "source": "https://elstandard.se/standard/1414901",
+     "date": "2026-08-24",
+     "detail": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus",
+     "tags": [
+      "TK EMC",
+      "CISPR/CIS/A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4069301",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK 21",
+      "TC 35"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4069401",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK 21",
+      ""
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4068301",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK 3",
+      "TC 3"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4068401",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK 3",
+      "TC 3"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SEK TS 63064, utg 1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3809201",
+     "date": "2026-08-24",
+     "detail": "Graphical symbols for diagrams - Guidance on design for standardization in IEC 60617",
+     "tags": [
+      "TK 3",
+      "TC 3"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK IoT"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61508-3:2010 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-4-19:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.8.3",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.8.3",
+     "date": "2026-08-21T20:45:05Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-08-24",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
