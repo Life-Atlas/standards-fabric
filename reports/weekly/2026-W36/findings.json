@@ -1,0 +1,528 @@
+{
+ "period": "2026-W36",
+ "cadence": "weekly",
+ "generated": "2026-08-31",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4660,
+    "baseline_run": false,
+    "pipeline_open": 26
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61508-3:2010 — publicerad",
+     "source": "https://elstandard.se/standard/442701",
+     "date": "2026-08-31",
+     "detail": "Functional safety of electrical/electronic/programmable electronic safety-related systems - Part 3: Software requirements",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-4-19:2014 — upphavd",
+     "source": "https://elstandard.se/standard/1429801",
+     "date": "2026-08-31",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-19: Data-link layer protocol specification - Type 19 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4073101",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK EMC",
+      "CISPR/CIS/A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "ISO/IEC 15045-4-1:2024 — publicerad",
+     "source": "https://elstandard.se/standard/3811001",
+     "date": "2026-08-31",
+     "detail": "Information technology – Home Electronic System (HES) gateway – Part 4-1: Structure – Structural class and module requirements",
+     "tags": [
+      "TK 215",
+      "ISO/IEC JTC 1/SC 25"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "ISO/IEC 15045-4-2:2024 — publicerad",
+     "source": "https://elstandard.se/standard/3811101",
+     "date": "2026-08-31",
+     "detail": "Information technology – Home Electronic System (HES) gateway – Part 4-2 : Structure – Simple gateway",
+     "tags": [
+      "TK 215",
+      "ISO/IEC JTC 1/SC 25"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "ISO/IEC TS 29125:2017/A1:2020/C1:2025 — publicerad",
+     "source": "https://elstandard.se/standard/3810001",
+     "date": "2026-08-31",
+     "detail": "Information technology - Telecommunications cabling requirements for remote powering of terminal equipment",
+     "tags": [
+      "TK 215",
+      "ISO/IEC JTC 1/SC 25"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "ISO/IEC TS 29125:2017/A2:2024/C1:2024 — publicerad",
+     "source": "https://elstandard.se/standard/3810101",
+     "date": "2026-08-31",
+     "detail": "Information technology - Telecommunications cabling requirements for remote powering of terminal equipment",
+     "tags": [
+      "TK 215",
+      "ISO/IEC JTC 1/SC 25"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC TR 63631-1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3809701",
+     "date": "2026-08-31",
+     "detail": "Decentralized Multiple Energy Systems - Part 1: General",
+     "tags": [
+      "TK 8",
+      "TC 8/SC 8B"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "SK 1"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "SK 3"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-1:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-1:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-4:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-4:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-109-1:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-109-1:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-3:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62453-302:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62453-309:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62682:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-6-23:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-6-24:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "CISPR 16-2-3:2010/A2:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.3.1.4 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.4",
+     "date": "2026-08-27T06:40:20Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.2.2.4 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.2.2.4",
+     "date": "2026-08-27T06:40:08Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.9.0b4",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.9.0b4",
+     "date": "2026-08-29T20:55:06Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.9.0b3",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.9.0b3",
+     "date": "2026-08-29T08:46:22Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.9.0b2",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.9.0b2",
+     "date": "2026-08-28T20:12:59Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.9.0b1",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.9.0b1",
+     "date": "2026-08-27T16:35:10Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.9.0b0",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.9.0b0",
+     "date": "2026-08-26T19:15:42Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.3.0.M1",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.3.0.M1",
+     "date": "2026-08-30T13:46:10Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243861842fr: Digital twin for biomass boilers",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243861842fr",
+     "date": null,
+     "detail": "status Ended; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243958310fr: COnstruction-phase diGItal Twin mOdel",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243958310fr",
+     "date": null,
+     "detail": "status Ended; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43353764101140156fr: Digital Twin on Smart Manufacturing",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43353764101140156fr",
+     "date": null,
+     "detail": "status Ongoing; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707fr: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707fr",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43108390101135988fr: AI-Enabled Data Lifecycles Optimization and Data Spaces Integration for Increased Efficiency and Interoperability",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43108390101135988fr",
+     "date": null,
+     "detail": "status Ongoing; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-08-31",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
