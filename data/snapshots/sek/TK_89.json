@@ -1,5 +1,35 @@
 [
  {
+  "id": "4061301",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4061301"
+ },
+ {
+  "id": "4061401",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4061401"
+ },
+ {
   "id": "3247301",
   "name": "SS-EN IEC 60695-2-10, utg 3:2022/AC1:2024",
   "title": "Provning av brandegenskaper - Del 2-10: Provningsmetoder - Glödtrådsapparat och allmänna provningsmetoder",
@@ -1635,21 +1665,6 @@
   "url": "https://elstandard.se/standard/1353701"
  },
  {
-  "id": "1701101",
-  "name": "IEC 60695-2-11:2014 RLV",
-  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2014-09-15",
-  "annulment_date": "2024-12-01",
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1701101"
- },
- {
   "id": "1369101",
   "name": "IEC 60695-9-2:2014",
   "title": "Fire hazard testing - Part 9-2: Surface spread of flame - Summary and relevance of test methods",
@@ -1663,6 +1678,21 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1369101"
+ },
+ {
+  "id": "1701101",
+  "name": "IEC 60695-2-11:2014 RLV",
+  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2014-09-15",
+  "annulment_date": "2024-12-01",
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1701101"
  },
  {
   "id": "1309601",
@@ -1890,21 +1920,6 @@
   "url": "https://elstandard.se/standard/898301"
  },
  {
-  "id": "568301",
-  "name": "IEC 60695-1-11:2010",
-  "title": "Fire hazard testing - Part 1-11: Guidance for assessing the fire hazard of electrotechnical products - Fire hazard assessment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2010-11-21",
-  "annulment_date": "2017-11-11",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/568301"
- },
- {
   "id": "875101",
   "name": "IEC 60695-2-12:2010",
   "title": "Fire hazard testing - Part 2-12: Glowing/hot-wire based test methods - Glow-wire flammability index  (GWFI) test method for materials",
@@ -1933,6 +1948,21 @@
   "pub_year": 2012,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/875201"
+ },
+ {
+  "id": "568301",
+  "name": "IEC 60695-1-11:2010",
+  "title": "Fire hazard testing - Part 1-11: Guidance for assessing the fire hazard of electrotechnical products - Fire hazard assessment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2010-11-21",
+  "annulment_date": "2017-11-11",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/568301"
  },
  {
   "id": "1353401",
@@ -2025,21 +2055,6 @@
   "url": "https://elstandard.se/standard/415801"
  },
  {
-  "id": "415701",
-  "name": "IEC 60695-8-1:2008",
-  "title": "Fire hazard testing - Part 8-1: Heat release - General guidance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2008-10-19",
-  "annulment_date": "2019-12-19",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/415701"
- },
- {
   "id": "360501",
   "name": "IEC 60695-1-30:2008",
   "title": "Fire hazard testing - Part 1-30: Guidance for assessing the fire hazard of electrotechnical products - Preselection testing process - General guidelines",
@@ -2053,6 +2068,21 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/360501"
+ },
+ {
+  "id": "415701",
+  "name": "IEC 60695-8-1:2008",
+  "title": "Fire hazard testing - Part 8-1: Heat release - General guidance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2008-10-19",
+  "annulment_date": "2019-12-19",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/415701"
  },
  {
   "id": "1458601",
@@ -2310,21 +2340,6 @@
   "url": "https://elstandard.se/standard/568401"
  },
  {
-  "id": "568901",
-  "name": "IEC/TS 60695-7-3:2004",
-  "title": "Fire hazard testing - Part 7-3: Toxicity of fire effluent - Use and interpretation of test results",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/568901"
- },
- {
   "id": "877301",
   "name": "IEC/TS 60695-2-20:2004",
   "title": "Fire hazard testing - Part 2-20: Glowing/Hot wire based test methods - Hot-wire coil ignitability: Apparatus, test method and guidance",
@@ -2338,6 +2353,21 @@
   "pub_year": 2004,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/877301"
+ },
+ {
+  "id": "568901",
+  "name": "IEC/TS 60695-7-3:2004",
+  "title": "Fire hazard testing - Part 7-3: Toxicity of fire effluent - Use and interpretation of test results",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/568901"
  },
  {
   "id": "566401",
@@ -2430,21 +2460,6 @@
   "url": "https://elstandard.se/standard/567101"
  },
  {
-  "id": "360401",
-  "name": "SS-EN 60695-1-30, utg 1:2002",
-  "title": "Provning av brandegenskaper - Del 1-30: Vägledning vid bestämning av brandegenskaper hos elektrotekniska produkter - Provning av urval",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2002-12-03",
-  "annulment_date": "2011-09-30",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/360401"
- },
- {
   "id": "566601",
   "name": "SS-EN 60695-10-3, utg 1:2002",
   "title": "Provning av brandegenskaper - Del 10-3: Onormal värme - Deformation till följd av utjämning av spänningar",
@@ -2460,10 +2475,10 @@
   "url": "https://elstandard.se/standard/566601"
  },
  {
-  "id": "360301",
-  "name": "IEC 60695-1-30:2002",
-  "title": "Fire hazard testing - Part 1-30: Guidance for assessing the fire hazard of electrotechnical products - Use of preselection testing procedures",
-  "prefix": "IEC",
+  "id": "360401",
+  "name": "SS-EN 60695-1-30, utg 1:2002",
+  "title": "Provning av brandegenskaper - Del 1-30: Vägledning vid bestämning av brandegenskaper hos elektrotekniska produkter - Provning av urval",
+  "prefix": "SS-EN",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 89",
@@ -2472,7 +2487,7 @@
   "annulment_date": "2011-09-30",
   "pub_year": 2002,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/360301"
+  "url": "https://elstandard.se/standard/360401"
  },
  {
   "id": "566501",
@@ -2488,6 +2503,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/566501"
+ },
+ {
+  "id": "360301",
+  "name": "IEC 60695-1-30:2002",
+  "title": "Fire hazard testing - Part 1-30: Guidance for assessing the fire hazard of electrotechnical products - Use of preselection testing procedures",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2002-12-03",
+  "annulment_date": "2011-09-30",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/360301"
  },
  {
   "id": "783101",
@@ -2595,66 +2625,6 @@
   "url": "https://elstandard.se/standard/3060901"
  },
  {
-  "id": "415601",
-  "name": "SS-EN 60695-8-1, utg 1:2001",
-  "title": "Provning av brandegenskaper - Del 8-1: Värmeavgivning - Vägledning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2011-04-30",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/415601"
- },
- {
-  "id": "112701",
-  "name": "SS-EN 60695-1-1, utg 1:2001",
-  "title": "Provning av brandegenskaper - Del 1-1: Vägledning vid bestämning av brandegenskaper hos elektrotekniska produkter - Vägledning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2013-02-28",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/112701"
- },
- {
-  "id": "566801",
-  "name": "SS-EN 60695-11-10, utg 1:2001",
-  "title": "Provning av brandegenskaper - Del 11-10: Provlågor - 50 W provlåga, vågrät och lodrät",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2016-06-24",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/566801"
- },
- {
-  "id": "567401",
-  "name": "SS-EN 60695-11-20, utg 1:2001",
-  "title": "Provning av brandegenskaper - Del 11-20: Provlågor - 500 W provlåga",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2018-05-26",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/567401"
- },
- {
   "id": "876401",
   "name": "SS-EN 60695-2-13, utg 1:2001",
   "title": "Provning av brandegenskaper - Del 2-12: Provningsmetoder - Provning av antändbarhet med glödtråd - Material",
@@ -2713,6 +2683,66 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/877001"
+ },
+ {
+  "id": "566801",
+  "name": "SS-EN 60695-11-10, utg 1:2001",
+  "title": "Provning av brandegenskaper - Del 11-10: Provlågor - 50 W provlåga, vågrät och lodrät",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2016-06-24",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/566801"
+ },
+ {
+  "id": "567401",
+  "name": "SS-EN 60695-11-20, utg 1:2001",
+  "title": "Provning av brandegenskaper - Del 11-20: Provlågor - 500 W provlåga",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2018-05-26",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/567401"
+ },
+ {
+  "id": "415601",
+  "name": "SS-EN 60695-8-1, utg 1:2001",
+  "title": "Provning av brandegenskaper - Del 8-1: Värmeavgivning - Vägledning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2011-04-30",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/415601"
+ },
+ {
+  "id": "112701",
+  "name": "SS-EN 60695-1-1, utg 1:2001",
+  "title": "Provning av brandegenskaper - Del 1-1: Vägledning vid bestämning av brandegenskaper hos elektrotekniska produkter - Vägledning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2013-02-28",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/112701"
  },
  {
   "id": "568001",
@@ -2865,19 +2895,19 @@
   "url": "https://elstandard.se/standard/886401"
  },
  {
-  "id": "112601",
-  "name": "IEC 60695-1-1:1999",
-  "title": "Fire hazard testing - Part 1-1 Guidance for assessing the fire hazard of electrotechnical products - General guidelines",
+  "id": "886301",
+  "name": "IEC 60707:1999",
+  "title": "Flammability of solid non-metallic materials when exposed to flame sources - List of test methods",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 89",
   "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2013-02-28",
-  "pub_year": 2001,
+  "determination_date": "1999-11-25",
+  "annulment_date": "2012-02-14",
+  "pub_year": 1999,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/112601"
+  "url": "https://elstandard.se/standard/886301"
  },
  {
   "id": "566701",
@@ -2910,19 +2940,19 @@
   "url": "https://elstandard.se/standard/567301"
  },
  {
-  "id": "886301",
-  "name": "IEC 60707:1999",
-  "title": "Flammability of solid non-metallic materials when exposed to flame sources - List of test methods",
+  "id": "112601",
+  "name": "IEC 60695-1-1:1999",
+  "title": "Fire hazard testing - Part 1-1 Guidance for assessing the fire hazard of electrotechnical products - General guidelines",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 89",
   "committee_intl": "TC 89",
-  "determination_date": "1999-11-25",
-  "annulment_date": "2012-02-14",
-  "pub_year": 1999,
+  "determination_date": "2001-12-18",
+  "annulment_date": "2013-02-28",
+  "pub_year": 2001,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/886301"
+  "url": "https://elstandard.se/standard/112601"
  },
  {
   "id": "566901",
@@ -3028,36 +3058,6 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/567901"
- },
- {
-  "id": "4061301",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4061301"
- },
- {
-  "id": "4061401",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4061401"
  },
  {
   "id": "4055001",

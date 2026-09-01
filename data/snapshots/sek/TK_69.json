@@ -566,7 +566,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3797001"
  },
  {
@@ -613,6 +613,21 @@
   "pub_year": 2026,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3784901"
+ },
+ {
+  "id": "3620501",
+  "name": "IEC 63380-1:2025",
+  "title": "Standard interface for connecting charging stations to local energy management systems – Part 1: General requirements, use cases and abstract messages",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 69",
+  "committee_intl": "TC 69",
+  "determination_date": "2026-03-03",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3620501"
  },
  {
   "id": "3634401",
@@ -718,21 +733,6 @@
   "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3660501"
- },
- {
-  "id": "3620501",
-  "name": "IEC 63380-1:2025",
-  "title": "Standard interface for connecting charging stations to local energy management systems – Part 1: General requirements, use cases and abstract messages",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 69",
-  "committee_intl": "TC 69",
-  "determination_date": "2026-03-03",
-  "annulment_date": null,
-  "pub_year": 2026,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3620501"
  },
  {
   "id": "3713801",
@@ -1575,21 +1575,6 @@
   "url": "https://elstandard.se/standard/826601"
  },
  {
-  "id": "826501",
-  "name": "IEC 61851-1:2001",
-  "title": "Electric vehicle conductive charging system - Part 1: General requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 69",
-  "committee_intl": "TC 69",
-  "determination_date": "2001-10-25",
-  "annulment_date": "2014-03-31",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/826501"
- },
- {
   "id": "1159001",
   "name": "IEC 61851-22:2001",
   "title": "Electric vehicle conductive charging system - Part 22: AC electric vehicle charging station",
@@ -1618,6 +1603,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1159201"
+ },
+ {
+  "id": "826501",
+  "name": "IEC 61851-1:2001",
+  "title": "Electric vehicle conductive charging system - Part 1: General requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 69",
+  "committee_intl": "TC 69",
+  "determination_date": "2001-10-25",
+  "annulment_date": "2014-03-31",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/826501"
  },
  {
   "id": "4040401",

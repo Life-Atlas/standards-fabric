@@ -4,7 +4,7 @@
   "now": 2026,
   "future": 2036
  },
- "docs": 14824,
+ "docs": 15415,
  "curated": 144,
  "realities": [
   {
@@ -13,25 +13,25 @@
    "kind": "commercial-building",
    "totals": {
     "past": {
-     "sek": 6826,
-     "swedish": 5559,
+     "sek": 6840,
+     "swedish": 5568,
      "curated": 67,
      "pipeline": 0,
-     "total": 6893
+     "total": 6907
     },
     "now": {
-     "sek": 8793,
-     "swedish": 6922,
+     "sek": 8815,
+     "swedish": 6939,
      "curated": 83,
      "pipeline": 0,
-     "total": 8876
+     "total": 8898
     },
     "future": {
-     "sek": 8872,
-     "swedish": 6922,
+     "sek": 8886,
+     "swedish": 6939,
      "curated": 83,
-     "pipeline": 79,
-     "total": 8955
+     "pipeline": 71,
+     "total": 8969
     }
    }
   },
@@ -41,25 +41,25 @@
    "kind": "datacenter",
    "totals": {
     "past": {
-     "sek": 6471,
-     "swedish": 5286,
+     "sek": 6477,
+     "swedish": 5288,
      "curated": 71,
      "pipeline": 0,
-     "total": 6542
+     "total": 6548
     },
     "now": {
-     "sek": 8243,
-     "swedish": 6634,
+     "sek": 8263,
+     "swedish": 6652,
      "curated": 93,
      "pipeline": 0,
-     "total": 8336
+     "total": 8356
     },
     "future": {
-     "sek": 8304,
-     "swedish": 6634,
+     "sek": 8320,
+     "swedish": 6652,
      "curated": 93,
-     "pipeline": 61,
-     "total": 8397
+     "pipeline": 57,
+     "total": 8413
     }
    }
   },
@@ -69,25 +69,25 @@
    "kind": "critical-infrastructure",
    "totals": {
     "past": {
-     "sek": 7013,
-     "swedish": 5787,
+     "sek": 7389,
+     "swedish": 6135,
      "curated": 83,
      "pipeline": 0,
-     "total": 7096
+     "total": 7472
     },
     "now": {
-     "sek": 8848,
-     "swedish": 7226,
+     "sek": 9329,
+     "swedish": 7670,
      "curated": 103,
      "pipeline": 0,
-     "total": 8951
+     "total": 9432
     },
     "future": {
-     "sek": 8909,
-     "swedish": 7226,
+     "sek": 9394,
+     "swedish": 7670,
      "curated": 103,
-     "pipeline": 61,
-     "total": 9012
+     "pipeline": 65,
+     "total": 9497
     }
    }
   },
@@ -97,25 +97,25 @@
    "kind": "residential-rental",
    "totals": {
     "past": {
-     "sek": 6287,
-     "swedish": 5155,
+     "sek": 6302,
+     "swedish": 5164,
      "curated": 63,
      "pipeline": 0,
-     "total": 6350
+     "total": 6365
     },
     "now": {
-     "sek": 8288,
-     "swedish": 6518,
+     "sek": 8308,
+     "swedish": 6533,
      "curated": 82,
      "pipeline": 0,
-     "total": 8370
+     "total": 8390
     },
     "future": {
-     "sek": 8364,
-     "swedish": 6518,
+     "sek": 8375,
+     "swedish": 6533,
      "curated": 82,
-     "pipeline": 76,
-     "total": 8446
+     "pipeline": 67,
+     "total": 8457
     }
    }
   },
@@ -125,25 +125,25 @@
    "kind": "factory",
    "totals": {
     "past": {
-     "sek": 5990,
+     "sek": 5992,
      "swedish": 4964,
      "curated": 70,
      "pipeline": 0,
-     "total": 6060
+     "total": 6062
     },
     "now": {
-     "sek": 7415,
-     "swedish": 6077,
+     "sek": 7446,
+     "swedish": 6103,
      "curated": 90,
      "pipeline": 0,
-     "total": 7505
+     "total": 7536
     },
     "future": {
-     "sek": 7468,
-     "swedish": 6077,
+     "sek": 7503,
+     "swedish": 6103,
      "curated": 90,
-     "pipeline": 53,
-     "total": 7558
+     "pipeline": 57,
+     "total": 7593
     }
    }
   },
@@ -153,25 +153,25 @@
    "kind": "underground-lab",
    "totals": {
     "past": {
-     "sek": 6013,
+     "sek": 6017,
      "swedish": 4947,
      "curated": 70,
      "pipeline": 0,
-     "total": 6083
+     "total": 6087
     },
     "now": {
-     "sek": 7516,
-     "swedish": 6105,
+     "sek": 7548,
+     "swedish": 6132,
      "curated": 86,
      "pipeline": 0,
-     "total": 7602
+     "total": 7634
     },
     "future": {
-     "sek": 7569,
-     "swedish": 6105,
+     "sek": 7604,
+     "swedish": 6132,
      "curated": 86,
-     "pipeline": 53,
-     "total": 7655
+     "pipeline": 56,
+     "total": 7690
     }
    }
   }

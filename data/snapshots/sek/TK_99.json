@@ -225,21 +225,6 @@
   "url": "https://elstandard.se/standard/1765301"
  },
  {
-  "id": "3047601",
-  "name": "IEC 61936-2:2023",
-  "title": "Power installations exceeding 1 kV AC and 1,5 kV DC - Part 2: DC",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 99",
-  "committee_intl": "TC 99",
-  "determination_date": "2024-05-21",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3047601"
- },
- {
   "id": "3005801",
   "name": "IEC 60071-2:2023",
   "title": "Insulation co-ordination - Part 2: Application guidelines",
@@ -268,6 +253,21 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3005901"
+ },
+ {
+  "id": "3047601",
+  "name": "IEC 61936-2:2023",
+  "title": "Power installations exceeding 1 kV AC and 1,5 kV DC - Part 2: DC",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 99",
+  "committee_intl": "TC 99",
+  "determination_date": "2024-05-21",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3047601"
  },
  {
   "id": "3000501",
@@ -495,21 +495,6 @@
   "url": "https://elstandard.se/standard/1386001"
  },
  {
-  "id": "1471901",
-  "name": "IEC 60071-5:2014",
-  "title": "Insulation co-ordination - Part 5: Procedures for high-voltage direct current (HVDC) converter stations",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 99",
-  "committee_intl": "TC 99",
-  "determination_date": "2015-03-10",
-  "annulment_date": "2025-12-12",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1471901"
- },
- {
   "id": "1367901",
   "name": "IEC 61936-1:2010+AMD1:2014 CSV",
   "title": "Power installations exceeding 1 kV a.c. - Part 1: Common rules",
@@ -523,6 +508,21 @@
   "pub_year": 2010,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1367901"
+ },
+ {
+  "id": "1471901",
+  "name": "IEC 60071-5:2014",
+  "title": "Insulation co-ordination - Part 5: Procedures for high-voltage direct current (HVDC) converter stations",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 99",
+  "committee_intl": "TC 99",
+  "determination_date": "2015-03-10",
+  "annulment_date": "2025-12-12",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1471901"
  },
  {
   "id": "1271601",
@@ -555,21 +555,6 @@
   "url": "https://elstandard.se/standard/1040301"
  },
  {
-  "id": "1111901",
-  "name": "SS-EN 61936-1, utg 1:2011 (sv)",
-  "title": "Starkströmsanläggningar med nominell spänning överstigande 1 kV AC - Del 1: Allmänna fordringar",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 99",
-  "committee_intl": "TC 99",
-  "determination_date": "2011-03-08",
-  "annulment_date": "2024-08-10",
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1111901"
- },
- {
   "id": "928301",
   "name": "SS-EN 61936-1, utg 1:2011 (en)",
   "title": "Starkströmsanläggningar med nominell spänning överstigande 1 kV AC - Del 1: Allmänna fordringar",
@@ -583,6 +568,21 @@
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/928301"
+ },
+ {
+  "id": "1111901",
+  "name": "SS-EN 61936-1, utg 1:2011 (sv)",
+  "title": "Starkströmsanläggningar med nominell spänning överstigande 1 kV AC - Del 1: Allmänna fordringar",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 99",
+  "committee_intl": "TC 99",
+  "determination_date": "2011-03-08",
+  "annulment_date": "2024-08-10",
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1111901"
  },
  {
   "id": "504701",
@@ -735,21 +735,6 @@
   "url": "https://elstandard.se/standard/1385901"
  },
  {
-  "id": "1111801",
-  "name": "SS-EN 50522, utg 1:2011 (sv)",
-  "title": "Starkströmsanläggningar med nominell spänning överstigande 1 kV AC - Jordning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 99",
-  "committee_intl": null,
-  "determination_date": "2011-03-08",
-  "annulment_date": "2025-01-09",
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1111801"
- },
- {
   "id": "928201",
   "name": "SS-EN 50522, utg 1:2011 (en)",
   "title": "Starkströmsanläggningar med nominell spänning överstigande 1 kV AC - Jordning",
@@ -763,6 +748,21 @@
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/928201"
+ },
+ {
+  "id": "1111801",
+  "name": "SS-EN 50522, utg 1:2011 (sv)",
+  "title": "Starkströmsanläggningar med nominell spänning överstigande 1 kV AC - Jordning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 99",
+  "committee_intl": null,
+  "determination_date": "2011-03-08",
+  "annulment_date": "2025-01-09",
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1111801"
  },
  {
   "id": "27601",

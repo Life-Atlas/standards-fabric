@@ -1,5 +1,20 @@
 [
  {
+  "id": "4061701",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Amendment",
+  "status": "remiss",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4061701"
+ },
+ {
   "id": "3774901",
   "name": "SS-EN IEC 61095, utg 3:2026",
   "title": "Elektromekaniska kontaktorer för hushållsändamål och liknande",
@@ -1410,21 +1425,6 @@
   "url": "https://elstandard.se/standard/279901"
  },
  {
-  "id": "261601",
-  "name": "SS-EN 60947-5-9, utg 1:2008",
-  "title": "Kopplingsapparater för högst 1000 V - Del 5-9: Manöverkretsapparater och kopplingselement - Flödesvakter",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2008-04-27",
-  "annulment_date": null,
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/261601"
- },
- {
   "id": "471201",
   "name": "SS-EN 61915-1, utg 1:2008",
   "title": "Kopplingsapparater för högst 1000 V - Apparatprofiler att använda vid nätverksstyrning - Del 1: Allmänna regler för utveckling av apparatprofiler",
@@ -1438,6 +1438,21 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/471201"
+ },
+ {
+  "id": "261601",
+  "name": "SS-EN 60947-5-9, utg 1:2008",
+  "title": "Kopplingsapparater för högst 1000 V - Del 5-9: Manöverkretsapparater och kopplingselement - Flödesvakter",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2008-04-27",
+  "annulment_date": null,
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/261601"
  },
  {
   "id": "55301",
@@ -1650,21 +1665,6 @@
   "url": "https://elstandard.se/standard/260601"
  },
  {
-  "id": "1009801",
-  "name": "SS-EN 61009-2-1, utg 1:1995",
-  "title": "Jordfelsbrytare med inbyggt överströmsskydd för bostadsinstallationer och liknande (RCBO) - Del 2-1: Tillämpningen av de allmänna reglerna för jordfelsbrytare som är funktionellt oberoende av nätspänningen",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": "1995-06-29",
-  "annulment_date": null,
-  "pub_year": 1995,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1009801"
- },
- {
   "id": "1151201",
   "name": "SS-EN 61008-2-1, utg 1:1995",
   "title": "Jordfelsbrytare utan inbyggt överströmsskydd för bostadsinstallationer och liknande (RCCB) - Del 2-1: Tillämpning av de allmänna reglerna för jordfelsbrytare som är funktionellt oberoende av nätspänningen",
@@ -1678,6 +1678,21 @@
   "pub_year": 1995,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1151201"
+ },
+ {
+  "id": "1009801",
+  "name": "SS-EN 61009-2-1, utg 1:1995",
+  "title": "Jordfelsbrytare med inbyggt överströmsskydd för bostadsinstallationer och liknande (RCBO) - Del 2-1: Tillämpningen av de allmänna reglerna för jordfelsbrytare som är funktionellt oberoende av nätspänningen",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": "1995-06-29",
+  "annulment_date": null,
+  "pub_year": 1995,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1009801"
  },
  {
   "id": "3744601",
@@ -1935,21 +1950,6 @@
   "url": "https://elstandard.se/standard/3048001"
  },
  {
-  "id": "2771101",
-  "name": "IEC 60947-8:2021",
-  "title": "Low-voltage switchgear and controlgear - Part 8: Control units for built-in thermal protection (PTC) for rotating electrical machines",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 121/SC 121A",
-  "determination_date": "2023-09-19",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2771101"
- },
- {
   "id": "2633001",
   "name": "IEC 60947-9-2:2021",
   "title": "Low-voltage switchgear and controlgear - Part 9-2: Active arc-fault mitigation systems - Optical-based internal arc-detection and mitigation devices",
@@ -1963,6 +1963,21 @@
   "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2633001"
+ },
+ {
+  "id": "2771101",
+  "name": "IEC 60947-8:2021",
+  "title": "Low-voltage switchgear and controlgear - Part 8: Control units for built-in thermal protection (PTC) for rotating electrical machines",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 121/SC 121A",
+  "determination_date": "2023-09-19",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2771101"
  },
  {
   "id": "2815601",
@@ -2085,6 +2100,21 @@
   "url": "https://elstandard.se/standard/2581501"
  },
  {
+  "id": "2815101",
+  "name": "IEC 60947-3:2020/C1:2021",
+  "title": "Kopplingsapparater för högst 1000 V - Del 3: Lastbrytare, frånskiljare, lastfrånskiljare (i enheter) med och utan säkringar",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 121/SC 121A",
+  "determination_date": "2021-12-14",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2815101"
+ },
+ {
   "id": "2961301",
   "name": "IEC 60947-1:2020/C1:2022",
   "title": "Kopplingsapparater för högst 1000 V - Del 1: Allmänna fordringar",
@@ -2113,21 +2143,6 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3013001"
- },
- {
-  "id": "2815101",
-  "name": "IEC 60947-3:2020/C1:2021",
-  "title": "Kopplingsapparater för högst 1000 V - Del 3: Lastbrytare, frånskiljare, lastfrånskiljare (i enheter) med och utan säkringar",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 121/SC 121A",
-  "determination_date": "2021-12-14",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2815101"
  },
  {
   "id": "3260901",
@@ -2295,21 +2310,6 @@
   "url": "https://elstandard.se/standard/2159501"
  },
  {
-  "id": "2160601",
-  "name": "IEC/TR 63216:2019",
-  "title": "Low-voltage switchgear and controlgear - Electromagnetic compatibility assessment for switchgear and controlgear and their assemblies",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 121/SC 121A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2160601"
- },
- {
   "id": "2110301",
   "name": "IEC/TR 63201:2019",
   "title": "Low-voltage switchgear and controlgear - Guidance for the development of embedded software",
@@ -2323,6 +2323,21 @@
   "pub_year": 2019,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2110301"
+ },
+ {
+  "id": "2160601",
+  "name": "IEC/TR 63216:2019",
+  "title": "Low-voltage switchgear and controlgear - Electromagnetic compatibility assessment for switchgear and controlgear and their assemblies",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 121/SC 121A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2160601"
  },
  {
   "id": "1862501",
@@ -2565,6 +2580,21 @@
   "url": "https://elstandard.se/standard/3809101"
  },
  {
+  "id": "2847501",
+  "name": "IEC 60898-3:2019+AMD1:2022 CSV",
+  "title": "Electrical accessories - Circuit-breakers for overcurrent protection for household and similar installations - Part 3: Circuit-breakers for DC operation",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2847501"
+ },
+ {
   "id": "2943601",
   "name": "IEC 60755-1:2022",
   "title": "General safety requirements for residual current operated protective devices - Part 1: Residual current operated protective devices for DC systems",
@@ -2640,36 +2670,6 @@
   "url": "https://elstandard.se/standard/2958301"
  },
  {
-  "id": "2847501",
-  "name": "IEC 60898-3:2019+AMD1:2022 CSV",
-  "title": "Electrical accessories - Circuit-breakers for overcurrent protection for household and similar installations - Part 3: Circuit-breakers for DC operation",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2847501"
- },
- {
-  "id": "2225201",
-  "name": "IEC 62020-1:2020",
-  "title": "Electrical accessories - Residual current monitors (RCMs) - Part 1: RCMs for household and similar uses",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2021-11-16",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2225201"
- },
- {
   "id": "2566401",
   "name": "IEC 62873-1:2017+AMD1:2020 CSV",
   "title": "Residual current operated circuit-breakers for household and similar use - Part 1: Outline of blocks and modules for residual current device standards",
@@ -2743,6 +2743,21 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2569101"
+ },
+ {
+  "id": "2225201",
+  "name": "IEC 62020-1:2020",
+  "title": "Electrical accessories - Residual current monitors (RCMs) - Part 1: RCMs for household and similar uses",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": "2021-11-16",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2225201"
  },
  {
   "id": "2058801",
@@ -3120,21 +3135,6 @@
   "url": "https://elstandard.se/standard/2988801"
  },
  {
-  "id": "989501",
-  "name": "IEC 61915-2:2011",
-  "title": "Low-voltage switchgear and controlgear - Device profiles for networked industrial devices - Part 2: Root device profiles for starters and similar equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2012-06-12",
-  "annulment_date": null,
-  "pub_year": 2012,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/989501"
- },
- {
   "id": "921101",
   "name": "IEC 62640:2011",
   "title": "Residual current devices with or without overcurrent protection for socket-outlets for household and similar uses",
@@ -3148,6 +3148,21 @@
   "pub_year": 2011,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/921101"
+ },
+ {
+  "id": "989501",
+  "name": "IEC 61915-2:2011",
+  "title": "Low-voltage switchgear and controlgear - Device profiles for networked industrial devices - Part 2: Root device profiles for starters and similar equipment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2012-06-12",
+  "annulment_date": null,
+  "pub_year": 2012,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/989501"
  },
  {
   "id": "1557901",
@@ -3255,21 +3270,6 @@
   "url": "https://elstandard.se/standard/1495401"
  },
  {
-  "id": "1796601",
-  "name": "IEC 62335:2008",
-  "title": "Circuit breakers - Switched protective earth portable residual current devices for class I and battery powered vehicle applications",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2008,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1796601"
- },
- {
   "id": "1257601",
   "name": "IEC 62026-2:2008",
   "title": "Low-voltage switchgear and controlgear - Controller-device interfaces (CDIs) - Part 2: Actuator sensor interface (AS-i)",
@@ -3283,6 +3283,21 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1257601"
+ },
+ {
+  "id": "1796601",
+  "name": "IEC 62335:2008",
+  "title": "Circuit breakers - Switched protective earth portable residual current devices for class I and battery powered vehicle applications",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2008,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1796601"
  },
  {
   "id": "471101",
@@ -3555,21 +3570,6 @@
   "url": "https://elstandard.se/standard/2226001"
  },
  {
-  "id": "2225901",
-  "name": "IEC 60947-4-1:2018/C1:2020",
-  "title": "Low-voltage switchgear and controlgear - Part 4-1: Contactors and motor-starters - Electromechanical contactors and motor-starters",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 121/SC 121A",
-  "determination_date": "2020-06-09",
-  "annulment_date": "2028-09-29",
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2225901"
- },
- {
   "id": "2631601",
   "name": "IEC 60947-4-1:2018/C2:2021",
   "title": "Low-voltage switchgear and controlgear - Part 4-1: Contactors and motor-starters - Electromechanical contactors and motor-starters",
@@ -3583,6 +3583,21 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2631601"
+ },
+ {
+  "id": "2225901",
+  "name": "IEC 60947-4-1:2018/C1:2020",
+  "title": "Low-voltage switchgear and controlgear - Part 4-1: Contactors and motor-starters - Electromechanical contactors and motor-starters",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 121/SC 121A",
+  "determination_date": "2020-06-09",
+  "annulment_date": "2028-09-29",
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2225901"
  },
  {
   "id": "1853801",
@@ -3690,21 +3705,6 @@
   "url": "https://elstandard.se/standard/1702001"
  },
  {
-  "id": "2124001",
-  "name": "IEC 60947-2:2016/A1:2019",
-  "title": "Low-voltage switchgear and controlgear - Part 2: Circuit-breakers",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 121/SC 121A",
-  "determination_date": "2020-03-17",
-  "annulment_date": "2028-02-28",
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2124001"
- },
- {
   "id": "2226101",
   "name": "IEC 60947-5-1:2016/C2:2020",
   "title": "Low-voltage switchgear and controlgear - Part 5-1: Control circuit devices and switching elements - Electromechanical control circuit devices",
@@ -3718,6 +3718,21 @@
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2226101"
+ },
+ {
+  "id": "2124001",
+  "name": "IEC 60947-2:2016/A1:2019",
+  "title": "Low-voltage switchgear and controlgear - Part 2: Circuit-breakers",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 121/SC 121A",
+  "determination_date": "2020-03-17",
+  "annulment_date": "2028-02-28",
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2124001"
  },
  {
   "id": "1575301",
@@ -3795,51 +3810,6 @@
   "url": "https://elstandard.se/standard/2012001"
  },
  {
-  "id": "1726501",
-  "name": "IEC 62873-3-1:2016",
-  "title": "Residual current operated circuit-breakers for household and similar use - Part 3-1: Particular requirements for RCDs with screwless-type terminals for external copper conductors",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1726501"
- },
- {
-  "id": "1726601",
-  "name": "IEC 62873-3-2:2016",
-  "title": "Residual current operated circuit-breakers for household and similar use - Part 3-2: Particular requirements for RCDs with flat quick-connect terminations",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1726601"
- },
- {
-  "id": "1726701",
-  "name": "IEC 62873-3-3:2016",
-  "title": "Residual current operated circuit-breakers for household and similar use - Part 3-3: Specific requirements for RCDs with screw-type terminals for external untreated aluminium conductors and with aluminium screw-type terminals for use with copper or with aluminium conductors",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1726701"
- },
- {
   "id": "1642801",
   "name": "IEC 60670-21:2004+AMD1:2016 CSV",
   "title": "Boxes and enclosures for electrical accessories for household and similar fixed electrical installations - Part 21: Particular requirements for boxes and enclosures with provision for suspension means",
@@ -3885,19 +3855,49 @@
   "url": "https://elstandard.se/standard/1647801"
  },
  {
-  "id": "2069301",
-  "name": "IEC 62752:2016/C1:2019",
-  "title": "In-cable control and protection device for mode 2 charging of electric road vehicles (IC-CPD)",
+  "id": "1726501",
+  "name": "IEC 62873-3-1:2016",
+  "title": "Residual current operated circuit-breakers for household and similar use - Part 3-1: Particular requirements for RCDs with screwless-type terminals for external copper conductors",
   "prefix": "IEC",
-  "doc_type": "Corrigendum",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2019-05-15",
-  "annulment_date": "2027-10-30",
+  "determination_date": null,
+  "annulment_date": null,
   "pub_year": 2016,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2069301"
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1726501"
+ },
+ {
+  "id": "1726601",
+  "name": "IEC 62873-3-2:2016",
+  "title": "Residual current operated circuit-breakers for household and similar use - Part 3-2: Particular requirements for RCDs with flat quick-connect terminations",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1726601"
+ },
+ {
+  "id": "1726701",
+  "name": "IEC 62873-3-3:2016",
+  "title": "Residual current operated circuit-breakers for household and similar use - Part 3-3: Specific requirements for RCDs with screw-type terminals for external untreated aluminium conductors and with aluminium screw-type terminals for use with copper or with aluminium conductors",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1726701"
  },
  {
   "id": "2011901",
@@ -3913,6 +3913,21 @@
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2011901"
+ },
+ {
+  "id": "2069301",
+  "name": "IEC 62752:2016/C1:2019",
+  "title": "In-cable control and protection device for mode 2 charging of electric road vehicles (IC-CPD)",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": "2019-05-15",
+  "annulment_date": "2027-10-30",
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2069301"
  },
  {
   "id": "1507301",
@@ -3990,21 +4005,6 @@
   "url": "https://elstandard.se/standard/1355101"
  },
  {
-  "id": "1440601",
-  "name": "IEC 60947-1:2007+AMD1:2010:AMD2:2014 CSV",
-  "title": "Low-voltage switchgear and controlgear - Part 1: General rules",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1440601"
- },
- {
   "id": "1394601",
   "name": "IEC 60947-4-3:2014",
   "title": "Low-voltage switchgear and controlgear - Part 4-3: Contactors and motor-starters - AC semiconductor controllers and contactors for non-motor loads",
@@ -4018,6 +4018,21 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1394601"
+ },
+ {
+  "id": "1440601",
+  "name": "IEC 60947-1:2007+AMD1:2010:AMD2:2014 CSV",
+  "title": "Low-voltage switchgear and controlgear - Part 1: General rules",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1440601"
  },
  {
   "id": "1299201",
@@ -4140,21 +4155,6 @@
   "url": "https://elstandard.se/standard/1247901"
  },
  {
-  "id": "1297901",
-  "name": "IEC 60947-7-4:2013",
-  "title": "Low-voltage switchgear and controlgear - Part 7-4: Ancillary equipment - PCB terminal blocks for copper conductors",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2014-10-14",
-  "annulment_date": "2022-02-21",
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1297901"
- },
- {
   "id": "1343401",
   "name": "IEC 60947-6-1:2005+AMD1:2013 CSV",
   "title": "Low-voltage switchgear and controlgear - Part 6-1: Multiple function equipment - Transfer switching equipment",
@@ -4168,6 +4168,21 @@
   "pub_year": 2005,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1343401"
+ },
+ {
+  "id": "1297901",
+  "name": "IEC 60947-7-4:2013",
+  "title": "Low-voltage switchgear and controlgear - Part 7-4: Ancillary equipment - PCB terminal blocks for copper conductors",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2014-10-14",
+  "annulment_date": "2022-02-21",
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1297901"
  },
  {
   "id": "1217601",
@@ -4335,21 +4350,6 @@
   "url": "https://elstandard.se/standard/1012901"
  },
  {
-  "id": "1275701",
-  "name": "IEC 60947-5-2:2007+AMD1:2012 CSV",
-  "title": "Low-voltage switchgear and controlgear - Part 5-2: Control circuit devices and switching elements - Proximity switches",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1275701"
- },
- {
   "id": "1152601",
   "name": "IEC 61009-1:2010+AMD1:2012 CSV",
   "title": "Residual current operated circuit-breakers with integral overcurrent protection for household and similar uses (RCBOs) - Part 1: General rules",
@@ -4363,6 +4363,21 @@
   "pub_year": 2010,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1152601"
+ },
+ {
+  "id": "1275701",
+  "name": "IEC 60947-5-2:2007+AMD1:2012 CSV",
+  "title": "Low-voltage switchgear and controlgear - Part 5-2: Control circuit devices and switching elements - Proximity switches",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1275701"
  },
  {
   "id": "1000101",
@@ -4470,34 +4485,19 @@
   "url": "https://elstandard.se/standard/988901"
  },
  {
-  "id": "1310601",
-  "name": "IEC 61009-1:2010/A2:2013",
-  "title": "Residual current operated circuit-breakers with integral overcurrent protection for household and similar uses (RCBOs) - Part 1: General rules",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2014-11-18",
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1310601"
- },
- {
-  "id": "1310701",
-  "name": "IEC 61008-1:2010/A2:2013",
+  "id": "1682701",
+  "name": "IEC 61008-1:2010/A1:2012/C1:2016",
   "title": "Residual current operated circuit-breakers without integral overcurrent protection for household and similar uses (RCCBs) - Part 1: General rules",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Corrigendum",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2014-11-18",
+  "determination_date": "2016-06-28",
   "annulment_date": null,
   "pub_year": 2013,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1310701"
+  "url": "https://elstandard.se/standard/1682701"
  },
  {
   "id": "1043101",
@@ -4530,19 +4530,34 @@
   "url": "https://elstandard.se/standard/1043201"
  },
  {
-  "id": "1682701",
-  "name": "IEC 61008-1:2010/A1:2012/C1:2016",
-  "title": "Residual current operated circuit-breakers without integral overcurrent protection for household and similar uses (RCCBs) - Part 1: General rules",
+  "id": "1310601",
+  "name": "IEC 61009-1:2010/A2:2013",
+  "title": "Residual current operated circuit-breakers with integral overcurrent protection for household and similar uses (RCBOs) - Part 1: General rules",
   "prefix": "IEC",
-  "doc_type": "Corrigendum",
+  "doc_type": "Amendment",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2016-06-28",
+  "determination_date": "2014-11-18",
   "annulment_date": null,
   "pub_year": 2013,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1682701"
+  "url": "https://elstandard.se/standard/1310601"
+ },
+ {
+  "id": "1310701",
+  "name": "IEC 61008-1:2010/A2:2013",
+  "title": "Residual current operated circuit-breakers without integral overcurrent protection for household and similar uses (RCCBs) - Part 1: General rules",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": "2014-11-18",
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1310701"
  },
  {
   "id": "206601",
@@ -4665,21 +4680,6 @@
   "url": "https://elstandard.se/standard/279801"
  },
  {
-  "id": "342001",
-  "name": "IEC 60947-4-1:2009",
-  "title": "Low-voltage switchgear and controlgear - Part 4-1: Contactors and motor-starters - Electromechanical contactors and motor-starters",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2010-05-23",
-  "annulment_date": "2022-03-21",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/342001"
- },
- {
   "id": "54501",
   "name": "IEC 60947-7-1:2009",
   "title": "Low-voltage switchgear and controlgear - Part 7-1: Ancillary equipment - Terminal blocks for copper conductors",
@@ -4693,6 +4693,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/54501"
+ },
+ {
+  "id": "342001",
+  "name": "IEC 60947-4-1:2009",
+  "title": "Low-voltage switchgear and controlgear - Part 4-1: Contactors and motor-starters - Electromechanical contactors and motor-starters",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2010-05-23",
+  "annulment_date": "2022-03-21",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/342001"
  },
  {
   "id": "1065401",
@@ -4770,6 +4785,21 @@
   "url": "https://elstandard.se/standard/484901"
  },
  {
+  "id": "53601",
+  "name": "SS-EN 60947-1, utg 5:2008",
+  "title": "Kopplingsapparater för högst 1000 V - Del 1: Allmänna fordringar",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2008-02-24",
+  "annulment_date": "2024-02-18",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/53601"
+ },
+ {
   "id": "389601",
   "name": "SS-EN 60898-1, utg 1:2003/IS1:2008",
   "title": "Installationsdvärgbrytare - Dvärgbrytare för överströmsskydd för bostadsinstallationer och liknande - Del 1: Dvärgbrytare för växelström",
@@ -4828,21 +4858,6 @@
   "pub_year": 2003,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/389901"
- },
- {
-  "id": "53601",
-  "name": "SS-EN 60947-1, utg 5:2008",
-  "title": "Kopplingsapparater för högst 1000 V - Del 1: Allmänna fordringar",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2008-02-24",
-  "annulment_date": "2024-02-18",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/53601"
  },
  {
   "id": "231201",
@@ -5010,36 +5025,6 @@
   "url": "https://elstandard.se/standard/603401"
  },
  {
-  "id": "259601",
-  "name": "IEC 60947-5-2:2007",
-  "title": "Low-voltage switchgear and controlgear - Part 5-2: Control circuit devices and switching elements - Proximity switches",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2008-04-27",
-  "annulment_date": "2023-03-26",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/259601"
- },
- {
-  "id": "53501",
-  "name": "IEC 60947-1:2007",
-  "title": "Low-voltage switchgear and controlgear - Part 1: General rules",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2008-02-24",
-  "annulment_date": "2024-02-18",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/53501"
- },
- {
   "id": "4101",
   "name": "IEC 62423:2007",
   "title": "Type B residual current operated circuit-breakers with and without integral overcurrent protection for household and similar uses (Type B RCCBs and Type B RCBOs)",
@@ -5070,19 +5055,34 @@
   "url": "https://elstandard.se/standard/484801"
  },
  {
-  "id": "1090101",
-  "name": "IEC 60947-5-2:2007/A1:2012",
+  "id": "259601",
+  "name": "IEC 60947-5-2:2007",
   "title": "Low-voltage switchgear and controlgear - Part 5-2: Control circuit devices and switching elements - Proximity switches",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2013-01-21",
+  "determination_date": "2008-04-27",
   "annulment_date": "2023-03-26",
   "pub_year": 2008,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1090101"
+  "url": "https://elstandard.se/standard/259601"
+ },
+ {
+  "id": "53501",
+  "name": "IEC 60947-1:2007",
+  "title": "Low-voltage switchgear and controlgear - Part 1: General rules",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2008-02-24",
+  "annulment_date": "2024-02-18",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/53501"
  },
  {
   "id": "902301",
@@ -5098,6 +5098,21 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/902301"
+ },
+ {
+  "id": "1090101",
+  "name": "IEC 60947-5-2:2007/A1:2012",
+  "title": "Low-voltage switchgear and controlgear - Part 5-2: Control circuit devices and switching elements - Proximity switches",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2013-01-21",
+  "annulment_date": "2023-03-26",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1090101"
  },
  {
   "id": "1440501",
@@ -5190,21 +5205,6 @@
   "url": "https://elstandard.se/standard/657301"
  },
  {
-  "id": "206701",
-  "name": "IEC 60947-2:2006",
-  "title": "Low-voltage switchgear and controlgear - Part 2: Circuit-breakers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2006-12-17",
-  "annulment_date": "2020-10-12",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/206701"
- },
- {
   "id": "261301",
   "name": "IEC 60947-5-8:2006",
   "title": "Low-voltage switchgear and controlgear - Part 5-8: Control circuit devices and switching elements - Three-position enabling switches",
@@ -5218,6 +5218,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/261301"
+ },
+ {
+  "id": "206701",
+  "name": "IEC 60947-2:2006",
+  "title": "Low-voltage switchgear and controlgear - Part 2: Circuit-breakers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2006-12-17",
+  "annulment_date": "2020-10-12",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/206701"
  },
  {
   "id": "206501",
@@ -5310,21 +5325,6 @@
   "url": "https://elstandard.se/standard/258201"
  },
  {
-  "id": "657701",
-  "name": "SS-EN 61543, utg 1:1995/A12:2005",
-  "title": "Jordfelsbrytare för bostadsinstallationer och liknande - Elektromagnetisk kompatibilitet (EMC)",
-  "prefix": "SS-EN",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": null,
-  "determination_date": "2005-06-14",
-  "annulment_date": "2026-04-18",
-  "pub_year": 1995,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/657701"
- },
- {
   "id": "681101",
   "name": "SS-EN 62020, utg 1:1999/A1:2005",
   "title": "Apparater för jordfelsövervakning i bostadsinstallationer och liknande (RCM)",
@@ -5338,6 +5338,21 @@
   "pub_year": 1999,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/681101"
+ },
+ {
+  "id": "657701",
+  "name": "SS-EN 61543, utg 1:1995/A12:2005",
+  "title": "Jordfelsbrytare för bostadsinstallationer och liknande - Elektromagnetisk kompatibilitet (EMC)",
+  "prefix": "SS-EN",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": null,
+  "determination_date": "2005-06-14",
+  "annulment_date": "2026-04-18",
+  "pub_year": 1995,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/657701"
  },
  {
   "id": "260201",
@@ -5640,6 +5655,21 @@
   "url": "https://elstandard.se/standard/341701"
  },
  {
+  "id": "607501",
+  "name": "IEC 60947-8:2003",
+  "title": "Low-voltage switchgear and controlgear - Part 8: Control units for built-in thermal protection (PTC) for rotating electrical machines",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2004-02-22",
+  "annulment_date": "2026-01-10",
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/607501"
+ },
+ {
   "id": "258501",
   "name": "IEC 60947-5-1:2003",
   "title": "Low-voltage switchgear and controlgear - Part 5-1: Control circuit devices and switching elements - Electromechanical control circuit devices",
@@ -5670,19 +5700,19 @@
   "url": "https://elstandard.se/standard/261101"
  },
  {
-  "id": "607501",
-  "name": "IEC 60947-8:2003",
+  "id": "607701",
+  "name": "IEC 60947-8:2003/A1:2006",
   "title": "Low-voltage switchgear and controlgear - Part 8: Control units for built-in thermal protection (PTC) for rotating electrical machines",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "Amendment",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2004-02-22",
+  "determination_date": "2006-12-17",
   "annulment_date": "2026-01-10",
   "pub_year": 2004,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/607501"
+  "url": "https://elstandard.se/standard/607701"
  },
  {
   "id": "258701",
@@ -5698,21 +5728,6 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/258701"
- },
- {
-  "id": "607701",
-  "name": "IEC 60947-8:2003/A1:2006",
-  "title": "Low-voltage switchgear and controlgear - Part 8: Control units for built-in thermal protection (PTC) for rotating electrical machines",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2006-12-17",
-  "annulment_date": "2026-01-10",
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/607701"
  },
  {
   "id": "947801",
@@ -5775,6 +5790,21 @@
   "url": "https://elstandard.se/standard/602801"
  },
  {
+  "id": "550501",
+  "name": "IEC 60947-6-2:2002",
+  "title": "Low-voltage switchgear and controlgear - Part 6-2: Multiple function equipment - Control and protective switching devices (or equipment) (CPS)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2003-08-25",
+  "annulment_date": "2026-03-02",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/550501"
+ },
+ {
   "id": "53101",
   "name": "IEC 60947-7-1:2002",
   "title": "Low-voltage switchgear and controlgear - Part 7-1: Ancillary equipment - Terminal blocks for copper conductors",
@@ -5835,19 +5865,19 @@
   "url": "https://elstandard.se/standard/388901"
  },
  {
-  "id": "550501",
-  "name": "IEC 60947-6-2:2002",
+  "id": "550701",
+  "name": "IEC 60947-6-2:2002/A1:2007",
   "title": "Low-voltage switchgear and controlgear - Part 6-2: Multiple function equipment - Control and protective switching devices (or equipment) (CPS)",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "Amendment",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2003-08-25",
+  "determination_date": "2007-06-24",
   "annulment_date": "2026-03-02",
   "pub_year": 2003,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/550501"
+  "url": "https://elstandard.se/standard/550701"
  },
  {
   "id": "389101",
@@ -5863,21 +5893,6 @@
   "pub_year": 2003,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/389101"
- },
- {
-  "id": "550701",
-  "name": "IEC 60947-6-2:2002/A1:2007",
-  "title": "Low-voltage switchgear and controlgear - Part 6-2: Multiple function equipment - Control and protective switching devices (or equipment) (CPS)",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2007-06-24",
-  "annulment_date": "2026-03-02",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/550701"
  },
  {
   "id": "2182801",
@@ -5925,21 +5940,6 @@
   "url": "https://elstandard.se/standard/817401"
  },
  {
-  "id": "341501",
-  "name": "SS-EN 60947-4-1, utg 2:2001",
-  "title": "Kopplingsapparater för högst 1000 V - Del 4-1: Kontaktorer och startkopplare - Elektromekaniska kontaktorer och startkopplare",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2001-05-28",
-  "annulment_date": "2013-03-31",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/341501"
- },
- {
   "id": "595901",
   "name": "SS-EN 60934, utg 3:2001",
   "title": "Överlastskydd för bruksföremål och liknande",
@@ -5953,6 +5953,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/595901"
+ },
+ {
+  "id": "341501",
+  "name": "SS-EN 60947-4-1, utg 2:2001",
+  "title": "Kopplingsapparater för högst 1000 V - Del 4-1: Kontaktorer och startkopplare - Elektromekaniska kontaktorer och startkopplare",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2001-05-28",
+  "annulment_date": "2013-03-31",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/341501"
  },
  {
   "id": "279701",
@@ -6000,6 +6015,21 @@
   "url": "https://elstandard.se/standard/603201"
  },
  {
+  "id": "595801",
+  "name": "IEC 60934:2000",
+  "title": "Circuit-breakers for equipment (CBE)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 23/SC 23E",
+  "determination_date": "2001-05-28",
+  "annulment_date": "2022-09-19",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/595801"
+ },
+ {
   "id": "341401",
   "name": "IEC 60947-4-1:2000",
   "title": "Low-voltage switchgear and controlgear - Part 4-1: Contactors and motor-starters - Electromechanical contactors and motor-starters",
@@ -6045,19 +6075,19 @@
   "url": "https://elstandard.se/standard/390201"
  },
  {
-  "id": "595801",
-  "name": "IEC 60934:2000",
+  "id": "596001",
+  "name": "IEC 60934:2000/A1:2007",
   "title": "Circuit-breakers for equipment (CBE)",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "Amendment",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2001-05-28",
+  "determination_date": "2007-03-25",
   "annulment_date": "2022-09-19",
   "pub_year": 2001,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/595801"
+  "url": "https://elstandard.se/standard/596001"
  },
  {
   "id": "341601",
@@ -6088,21 +6118,6 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/341801"
- },
- {
-  "id": "596001",
-  "name": "IEC 60934:2000/A1:2007",
-  "title": "Circuit-breakers for equipment (CBE)",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2007-03-25",
-  "annulment_date": "2022-09-19",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/596001"
  },
  {
   "id": "1217501",
@@ -6225,51 +6240,6 @@
   "url": "https://elstandard.se/standard/259001"
  },
  {
-  "id": "257701",
-  "name": "IEC 60947-3:1999+AMD1:2001+AMD2:2005 CSV",
-  "title": "Low-voltage switchgear and controlgear - Part 3: Switches, disconnectors, switch-disconnectors and fuse-combination units",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "1999-08-19",
-  "annulment_date": "2012-04-30",
-  "pub_year": 1999,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/257701"
- },
- {
-  "id": "259901",
-  "name": "IEC 60947-5-3:1999",
-  "title": "Low-voltage switchgear and controlgear - Part 5-3: Control circuit devices and switching elements - Requirements for proximity devices with defined behaviour under fault conditions (PDF)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
-  "determination_date": "1999-08-19",
-  "annulment_date": "2016-09-09",
-  "pub_year": 1999,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/259901"
- },
- {
-  "id": "537501",
-  "name": "IEC 61540:1997+AMD1:1998 CSV",
-  "title": "Electrical accessories - Portable residual current devices without integral overcurrent protection for household and similar use (PRCDs)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": "2002-05-21",
-  "annulment_date": "2028-12-30",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/537501"
- },
- {
   "id": "602501",
   "name": "IEC 60947-4-2:1999",
   "title": "Low-voltage switchgear and controlgear - Part 4-2: Contactors and motor-starters - AC semiconductor motor controllers and starters",
@@ -6300,49 +6270,49 @@
   "url": "https://elstandard.se/standard/603101"
  },
  {
-  "id": "257901",
-  "name": "IEC 60947-3:1999/A1:2001",
-  "title": "Low-voltage switchgear and controlgear - Part 3: Switches, disconnectors, switch-disconnectors and fuse-combination units",
+  "id": "537501",
+  "name": "IEC 61540:1997+AMD1:1998 CSV",
+  "title": "Electrical accessories - Portable residual current devices without integral overcurrent protection for household and similar use (PRCDs)",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 121A",
-  "committee_intl": "TC 17/SC 17B",
+  "committee_intl": "TC 23/SC 23E",
   "determination_date": "2002-05-21",
-  "annulment_date": "2012-04-30",
-  "pub_year": 1999,
+  "annulment_date": "2028-12-30",
+  "pub_year": 2002,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/257901"
+  "url": "https://elstandard.se/standard/537501"
  },
  {
-  "id": "258101",
-  "name": "IEC 60947-3:1999/A2:2005",
+  "id": "257701",
+  "name": "IEC 60947-3:1999+AMD1:2001+AMD2:2005 CSV",
   "title": "Low-voltage switchgear and controlgear - Part 3: Switches, disconnectors, switch-disconnectors and fuse-combination units",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2005-09-25",
+  "determination_date": "1999-08-19",
   "annulment_date": "2012-04-30",
   "pub_year": 1999,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/258101"
+  "url": "https://elstandard.se/standard/257701"
  },
  {
-  "id": "260101",
-  "name": "IEC 60947-5-3:1999/A1:2005",
+  "id": "259901",
+  "name": "IEC 60947-5-3:1999",
   "title": "Low-voltage switchgear and controlgear - Part 5-3: Control circuit devices and switching elements - Requirements for proximity devices with defined behaviour under fault conditions (PDF)",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 121A",
   "committee_intl": "TC 17/SC 17B",
-  "determination_date": "2005-05-22",
+  "determination_date": "1999-08-19",
   "annulment_date": "2016-09-09",
   "pub_year": 1999,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/260101"
+  "url": "https://elstandard.se/standard/259901"
  },
  {
   "id": "602701",
@@ -6388,6 +6358,51 @@
   "pub_year": 2000,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/603301"
+ },
+ {
+  "id": "257901",
+  "name": "IEC 60947-3:1999/A1:2001",
+  "title": "Low-voltage switchgear and controlgear - Part 3: Switches, disconnectors, switch-disconnectors and fuse-combination units",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2002-05-21",
+  "annulment_date": "2012-04-30",
+  "pub_year": 1999,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/257901"
+ },
+ {
+  "id": "258101",
+  "name": "IEC 60947-3:1999/A2:2005",
+  "title": "Low-voltage switchgear and controlgear - Part 3: Switches, disconnectors, switch-disconnectors and fuse-combination units",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2005-09-25",
+  "annulment_date": "2012-04-30",
+  "pub_year": 1999,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/258101"
+ },
+ {
+  "id": "260101",
+  "name": "IEC 60947-5-3:1999/A1:2005",
+  "title": "Low-voltage switchgear and controlgear - Part 5-3: Control circuit devices and switching elements - Requirements for proximity devices with defined behaviour under fault conditions (PDF)",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 121A",
+  "committee_intl": "TC 17/SC 17B",
+  "determination_date": "2005-05-22",
+  "annulment_date": "2016-09-09",
+  "pub_year": 1999,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/260101"
  },
  {
   "id": "931301",
@@ -6838,35 +6853,5 @@
   "pub_year": 1958,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1254101"
- },
- {
-  "id": "4061701",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Amendment",
-  "status": "remiss",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4061701"
- },
- {
-  "id": "4028501",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "new_work_proposal",
-  "committee_sek": "TK 121A",
-  "committee_intl": "TC 23/SC 23E",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4028501"
  }
 ]

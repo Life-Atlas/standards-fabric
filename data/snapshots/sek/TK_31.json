@@ -1,5 +1,65 @@
 [
  {
+  "id": "4067801",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4067801"
+ },
+ {
+  "id": "4068001",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Amendment",
+  "status": "remiss",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4068001"
+ },
+ {
+  "id": "4068501",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4068501"
+ },
+ {
+  "id": "4073301",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31/SC 31M",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4073301"
+ },
+ {
   "id": "1442101",
   "name": "SS-EN 60079-31, utg 2:2014",
   "title": "Explosiv atmosfär - Del 31: Utrustning i utförande med dammskyddande kapsling \"t\"",
@@ -2085,51 +2145,6 @@
   "url": "https://elstandard.se/standard/1902501"
  },
  {
-  "id": "2168501",
-  "name": "IEC 60079-28:2015/IS1:2019",
-  "title": "Explosive atmospheres - Part 28: Protection of equipment and transmission systems using optical radiation",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2168501"
- },
- {
-  "id": "1730501",
-  "name": "IEC 60079-7:2015/IS1:2016",
-  "title": "Explosive atmospheres - Part 7: Equipment protection by increased safety ''e''",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1730501"
- },
- {
-  "id": "1568801",
-  "name": "IEC 60079-7:2015",
-  "title": "Explosive atmospheres - Part 7: Equipment protection by increased safety 'e'",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2016-02-16",
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1568801"
- },
- {
   "id": "1699301",
   "name": "IEC 60079-5:2015 RLV",
   "title": "Explosive atmospheres - Part 5: Equipment protection by powder filling \"q\"",
@@ -2220,19 +2235,49 @@
   "url": "https://elstandard.se/standard/1536201"
  },
  {
-  "id": "2203201",
-  "name": "IEC 60079-6:2015/A1:2020",
-  "title": "Explosive atmospheres - Part 6: Equipment protection by liquid immersion \"o\"",
+  "id": "1568801",
+  "name": "IEC 60079-7:2015",
+  "title": "Explosive atmospheres - Part 7: Equipment protection by increased safety 'e'",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 31",
   "committee_intl": "TC 31",
-  "determination_date": "2025-02-04",
+  "determination_date": "2016-02-16",
   "annulment_date": null,
   "pub_year": 2016,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2203201"
+  "url": "https://elstandard.se/standard/1568801"
+ },
+ {
+  "id": "1730501",
+  "name": "IEC 60079-7:2015/IS1:2016",
+  "title": "Explosive atmospheres - Part 7: Equipment protection by increased safety ''e''",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "publicerad",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1730501"
+ },
+ {
+  "id": "2168501",
+  "name": "IEC 60079-28:2015/IS1:2019",
+  "title": "Explosive atmospheres - Part 28: Protection of equipment and transmission systems using optical radiation",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "publicerad",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2168501"
  },
  {
   "id": "1710601",
@@ -2263,6 +2308,21 @@
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1864701"
+ },
+ {
+  "id": "2203201",
+  "name": "IEC 60079-6:2015/A1:2020",
+  "title": "Explosive atmospheres - Part 6: Equipment protection by liquid immersion \"o\"",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2025-02-04",
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2203201"
  },
  {
   "id": "2889101",
@@ -2550,36 +2610,6 @@
   "url": "https://elstandard.se/standard/3306601"
  },
  {
-  "id": "3670701",
-  "name": "IEC 60079-11:2023/IS4:2025",
-  "title": "Interpretation Sheet 4 - Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31G",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3670701"
- },
- {
-  "id": "3670801",
-  "name": "IEC 60079-11:2023/IS5:2025",
-  "title": "Interpretation Sheet 5 - Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31G",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3670801"
- },
- {
   "id": "2963601",
   "name": "IEC 60079-11:2023",
   "title": "Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
@@ -2595,19 +2625,34 @@
   "url": "https://elstandard.se/standard/2963601"
  },
  {
-  "id": "3304101",
-  "name": "IEC 60079-11:2023/IS3:2024",
-  "title": "Interpretation Sheet 3 - Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
+  "id": "3087301",
+  "name": "IEC 60079-17:2023",
+  "title": "Explosive atmospheres - Part 17: Electrical installations inspection and maintenance",
   "prefix": "IEC",
-  "doc_type": "IS",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31G",
-  "determination_date": null,
+  "committee_intl": "TC 31/SC 31J",
+  "determination_date": "2024-09-24",
   "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3304101"
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3087301"
+ },
+ {
+  "id": "3087401",
+  "name": "IEC 60079-17:2023 RLV",
+  "title": "Explosive atmospheres - Part 17: Electrical installations inspection and maintenance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31/SC 31J",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3087401"
  },
  {
   "id": "3271201",
@@ -2640,34 +2685,49 @@
   "url": "https://elstandard.se/standard/3271301"
  },
  {
-  "id": "3087301",
-  "name": "IEC 60079-17:2023",
-  "title": "Explosive atmospheres - Part 17: Electrical installations inspection and maintenance",
+  "id": "3304101",
+  "name": "IEC 60079-11:2023/IS3:2024",
+  "title": "Interpretation Sheet 3 - Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "IS",
   "status": "publicerad",
   "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31J",
-  "determination_date": "2024-09-24",
+  "committee_intl": "TC 31/SC 31G",
+  "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3087301"
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3304101"
  },
  {
-  "id": "3087401",
-  "name": "IEC 60079-17:2023 RLV",
-  "title": "Explosive atmospheres - Part 17: Electrical installations inspection and maintenance",
+  "id": "3670701",
+  "name": "IEC 60079-11:2023/IS4:2025",
+  "title": "Interpretation Sheet 4 - Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "IS",
   "status": "publicerad",
   "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31J",
-  "determination_date": "2024-09-24",
+  "committee_intl": "TC 31/SC 31G",
+  "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3087401"
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3670701"
+ },
+ {
+  "id": "3670801",
+  "name": "IEC 60079-11:2023/IS5:2025",
+  "title": "Interpretation Sheet 5 - Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "publicerad",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31/SC 31G",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3670801"
  },
  {
   "id": "3804901",
@@ -2745,21 +2805,6 @@
   "url": "https://elstandard.se/standard/2595101"
  },
  {
-  "id": "2257101",
-  "name": "IEC 60079-25:2020",
-  "title": "Explosive atmospheres - Part 25: Intrinsically safe electrical systems",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31G",
-  "determination_date": "2022-11-15",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2257101"
- },
- {
   "id": "2583201",
   "name": "IEC 60079-10-1:2020",
   "title": "Explosive atmospheres - Part 10-1: Classification of areas - Explosive gas atmospheres",
@@ -2788,6 +2833,21 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2583301"
+ },
+ {
+  "id": "2257101",
+  "name": "IEC 60079-25:2020",
+  "title": "Explosive atmospheres - Part 25: Intrinsically safe electrical systems",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31/SC 31G",
+  "determination_date": "2022-11-15",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2257101"
  },
  {
   "id": "3681301",
@@ -3015,36 +3075,6 @@
   "url": "https://elstandard.se/standard/2212001"
  },
  {
-  "id": "2092001",
-  "name": "IEC 60079-0:2017/IS1:2019",
-  "title": "Explosive atmospheres - Part 0: Equipment - General requirements",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2092001"
- },
- {
-  "id": "2122501",
-  "name": "IEC 60079-0:2017/IS2:2019",
-  "title": "Explosive atmospheres - Part 0: Equipment - General requirements",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2122501"
- },
- {
   "id": "1870201",
   "name": "IEC 60079-18:2014+AMD1:2017 CSV",
   "title": "Explosive atmospheres - Part 18: Equipment protection by encapsulation \"m\"",
@@ -3075,6 +3105,36 @@
   "url": "https://elstandard.se/standard/1903801"
  },
  {
+  "id": "2092001",
+  "name": "IEC 60079-0:2017/IS1:2019",
+  "title": "Explosive atmospheres - Part 0: Equipment - General requirements",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2092001"
+ },
+ {
+  "id": "2122501",
+  "name": "IEC 60079-0:2017/IS2:2019",
+  "title": "Explosive atmospheres - Part 0: Equipment - General requirements",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2122501"
+ },
+ {
   "id": "2188101",
   "name": "IEC 60079-0:2017/C1:2020",
   "title": "Explosive atmospheres - Part 0: Equipment - General requirements",
@@ -3088,6 +3148,21 @@
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2188101"
+ },
+ {
+  "id": "1710801",
+  "name": "IEC 60079-29-1:2016",
+  "title": "Explosive atmospheres - Part 29-1: Gas detectors - Performance requirements of detectors for flammable gases",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2017-03-14",
+  "annulment_date": "2029-01-30",
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1710801"
  },
  {
   "id": "2091601",
@@ -3118,21 +3193,6 @@
   "pub_year": 2016,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2091701"
- },
- {
-  "id": "1710801",
-  "name": "IEC 60079-29-1:2016",
-  "title": "Explosive atmospheres - Part 29-1: Gas detectors - Performance requirements of detectors for flammable gases",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2017-03-14",
-  "annulment_date": "2029-01-30",
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1710801"
  },
  {
   "id": "2211901",
@@ -3255,21 +3315,6 @@
   "url": "https://elstandard.se/standard/1496401"
  },
  {
-  "id": "1995201",
-  "name": "IEC 60079-18:2014/C1:2018",
-  "title": "Explosive atmospheres - Part 18: Equipment protection by encapsulation \"m\"",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2018-10-16",
-  "annulment_date": "2028-10-30",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1995201"
- },
- {
   "id": "1870101",
   "name": "IEC 60079-18:2014/A1:2017",
   "title": "Explosive atmospheres - Part 18: Equipment protection by encapsulation \"m\"",
@@ -3283,6 +3328,21 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1870101"
+ },
+ {
+  "id": "1995201",
+  "name": "IEC 60079-18:2014/C1:2018",
+  "title": "Explosive atmospheres - Part 18: Equipment protection by encapsulation \"m\"",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2018-10-16",
+  "annulment_date": "2028-10-30",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1995201"
  },
  {
   "id": "1336001",
@@ -3510,21 +3570,6 @@
   "url": "https://elstandard.se/standard/915001"
  },
  {
-  "id": "82301",
-  "name": "IEC 60079-20-1:2010",
-  "title": "Explosive atmospheres - Part 20-1: Material characteristics for gas and vapour classification - Test methods and data",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2010-08-22",
-  "annulment_date": "2022-04-29",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/82301"
- },
- {
   "id": "865501",
   "name": "IEC 60079-13:2010",
   "title": "Explosive atmospheres - Part 13: Equipment protection by pressurized room \"p\"",
@@ -3553,6 +3598,21 @@
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/905401"
+ },
+ {
+  "id": "82301",
+  "name": "IEC 60079-20-1:2010",
+  "title": "Explosive atmospheres - Part 20-1: Material characteristics for gas and vapour classification - Test methods and data",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2010-08-22",
+  "annulment_date": "2022-04-29",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/82301"
  },
  {
   "id": "637201",
@@ -3660,21 +3720,6 @@
   "url": "https://elstandard.se/standard/293801"
  },
  {
-  "id": "339301",
-  "name": "IEC 60079-29-4:2009",
-  "title": "Explosive atmospheres - Part 29-4: Gas detectors - Performance requirements of open path detectors for flammable gases",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2010-11-21",
-  "annulment_date": "2029-01-30",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/339301"
- },
- {
   "id": "6701",
   "name": "IEC 60079-18:2009",
   "title": "Explosive atmospheres - Part 18: Equipment protection by encapsulation \"m\"",
@@ -3703,6 +3748,21 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/914901"
+ },
+ {
+  "id": "339301",
+  "name": "IEC 60079-29-4:2009",
+  "title": "Explosive atmospheres - Part 29-4: Gas detectors - Performance requirements of open path detectors for flammable gases",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2010-11-21",
+  "annulment_date": "2029-01-30",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/339301"
  },
  {
   "id": "360801",
@@ -3780,21 +3840,6 @@
   "url": "https://elstandard.se/standard/494101"
  },
  {
-  "id": "418201",
-  "name": "SS-EN 60079-30-1, utg 1:2008",
-  "title": "Explosiv atmosfär - Del 30-1: Värmekablar - Allmänna fordringar och provning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2008-01-20",
-  "annulment_date": "2020-03-05",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/418201"
- },
- {
   "id": "499301",
   "name": "SS-EN 60079-2, utg 2:2008",
   "title": "Explosiv atmosfär - Del 2: Utrustning i trycksatt utförande \"p\"",
@@ -3823,6 +3868,21 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/499801"
+ },
+ {
+  "id": "418201",
+  "name": "SS-EN 60079-30-1, utg 1:2008",
+  "title": "Explosiv atmosfär - Del 30-1: Värmekablar - Allmänna fordringar och provning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2008-01-20",
+  "annulment_date": "2020-03-05",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/418201"
  },
  {
   "id": "262201",
@@ -3870,21 +3930,6 @@
   "url": "https://elstandard.se/standard/444901"
  },
  {
-  "id": "378901",
-  "name": "SS-EN 60079-1, utg 2:2007",
-  "title": "Explosiv atmosfär - Del 1: Utrustning i utförande med explosionstät kapsling \"d\"",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2007-08-12",
-  "annulment_date": "2017-07-31",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/378901"
- },
- {
   "id": "541801",
   "name": "SS-EN 60079-26, utg 2:2007",
   "title": "Explosiv atmosfär - Del 26: Utrustning med skyddsnivå (EPL) Ga",
@@ -3913,6 +3958,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/542001"
+ },
+ {
+  "id": "378901",
+  "name": "SS-EN 60079-1, utg 2:2007",
+  "title": "Explosiv atmosfär - Del 1: Utrustning i utförande med explosionstät kapsling \"d\"",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2007-08-12",
+  "annulment_date": "2017-07-31",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/378901"
  },
  {
   "id": "591701",
@@ -4005,49 +4065,19 @@
   "url": "https://elstandard.se/standard/605201"
  },
  {
-  "id": "293701",
-  "name": "IEC 60079-14:2007",
-  "title": "Explosive atmospheres - Part 14: Electrical installations design, selection and erection",
+  "id": "6401",
+  "name": "IEC 60079-0:2007",
+  "title": "Explosive atmospheres - Part 0: Equipment - General requirements",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 31",
   "committee_intl": "TC 31",
-  "determination_date": "2009-03-29",
-  "annulment_date": "2017-01-01",
+  "determination_date": "2009-10-25",
+  "annulment_date": "2015-04-01",
   "pub_year": 2009,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/293701"
- },
- {
-  "id": "417901",
-  "name": "IEC 60079-30-2:2007",
-  "title": "Explosive atmospheres - Part 30-2: Electrical resistance trace heating - Application guide for design, installation and maintenance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2008-09-21",
-  "annulment_date": "2020-04-02",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/417901"
- },
- {
-  "id": "418101",
-  "name": "IEC 60079-30-1:2007",
-  "title": "Explosive atmospheres - Part 30-1: Electrical resistance trace heating - General and testing requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2008-01-20",
-  "annulment_date": "2020-03-05",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/418101"
+  "url": "https://elstandard.se/standard/6401"
  },
  {
   "id": "444501",
@@ -4063,6 +4093,36 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/444501"
+ },
+ {
+  "id": "499201",
+  "name": "IEC 60079-2:2007",
+  "title": "Explosive atmospheres - Part 2: Equipment protection by pressurized enclosure \"p\"",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2008-01-20",
+  "annulment_date": "2017-08-24",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/499201"
+ },
+ {
+  "id": "499701",
+  "name": "IEC 60079-5:2007",
+  "title": "Explosive atmospheres - Part 5: Equipment protection by powder filling \"q\"",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2008-01-20",
+  "annulment_date": "2018-03-23",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/499701"
  },
  {
   "id": "360701",
@@ -4095,36 +4155,6 @@
   "url": "https://elstandard.se/standard/360901"
  },
  {
-  "id": "378801",
-  "name": "IEC 60079-1:2007",
-  "title": "Explosive atmospheres - Part 1: Equipment protection by flameproof enclosures \"d\"",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2007-08-12",
-  "annulment_date": "2017-07-31",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/378801"
- },
- {
-  "id": "6401",
-  "name": "IEC 60079-0:2007",
-  "title": "Explosive atmospheres - Part 0: Equipment - General requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2009-10-25",
-  "annulment_date": "2015-04-01",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/6401"
- },
- {
   "id": "541901",
   "name": "IEC 60079-6:2007",
   "title": "Explosive atmospheres - Part 6: Equipment protection by oil immersion \"o\"",
@@ -4140,34 +4170,64 @@
   "url": "https://elstandard.se/standard/541901"
  },
  {
-  "id": "499201",
-  "name": "IEC 60079-2:2007",
-  "title": "Explosive atmospheres - Part 2: Equipment protection by pressurized enclosure \"p\"",
+  "id": "293701",
+  "name": "IEC 60079-14:2007",
+  "title": "Explosive atmospheres - Part 14: Electrical installations design, selection and erection",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 31",
   "committee_intl": "TC 31",
-  "determination_date": "2008-01-20",
-  "annulment_date": "2017-08-24",
-  "pub_year": 2008,
+  "determination_date": "2009-03-29",
+  "annulment_date": "2017-01-01",
+  "pub_year": 2009,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/499201"
+  "url": "https://elstandard.se/standard/293701"
  },
  {
-  "id": "499701",
-  "name": "IEC 60079-5:2007",
-  "title": "Explosive atmospheres - Part 5: Equipment protection by powder filling \"q\"",
+  "id": "378801",
+  "name": "IEC 60079-1:2007",
+  "title": "Explosive atmospheres - Part 1: Equipment protection by flameproof enclosures \"d\"",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2007-08-12",
+  "annulment_date": "2017-07-31",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/378801"
+ },
+ {
+  "id": "417901",
+  "name": "IEC 60079-30-2:2007",
+  "title": "Explosive atmospheres - Part 30-2: Electrical resistance trace heating - Application guide for design, installation and maintenance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2008-09-21",
+  "annulment_date": "2020-04-02",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/417901"
+ },
+ {
+  "id": "418101",
+  "name": "IEC 60079-30-1:2007",
+  "title": "Explosive atmospheres - Part 30-1: Electrical resistance trace heating - General and testing requirements",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 31",
   "committee_intl": "TC 31",
   "determination_date": "2008-01-20",
-  "annulment_date": "2018-03-23",
+  "annulment_date": "2020-03-05",
   "pub_year": 2008,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/499701"
+  "url": "https://elstandard.se/standard/418101"
  },
  {
   "id": "630101",
@@ -4215,36 +4275,6 @@
   "url": "https://elstandard.se/standard/405101"
  },
  {
-  "id": "444801",
-  "name": "IEC 60079-28:2006",
-  "title": "Explosive atmospheres - Part 28: Protection of equipment and transmission systems using optical radiation",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2007-08-12",
-  "annulment_date": "2018-06-30",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/444801"
- },
- {
-  "id": "541701",
-  "name": "IEC 60079-26:2006",
-  "title": "Explosive atmospheres - Part 26: Equipment with equipment protection level (EPL) Ga",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2007-08-12",
-  "annulment_date": "2017-12-01",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/541701"
- },
- {
   "id": "591601",
   "name": "IEC 60079-7:2006",
   "title": "Explosive atmospheres - Part 7: Equipment protection by increased safety \"e\"",
@@ -4275,6 +4305,21 @@
   "url": "https://elstandard.se/standard/591801"
  },
  {
+  "id": "444801",
+  "name": "IEC 60079-28:2006",
+  "title": "Explosive atmospheres - Part 28: Protection of equipment and transmission systems using optical radiation",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2007-08-12",
+  "annulment_date": "2018-06-30",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/444801"
+ },
+ {
   "id": "494001",
   "name": "IEC 60079-19:2006",
   "title": "Explosive atmospheres - Part 19: Equipment repair, overhaul and reclamation",
@@ -4288,6 +4333,21 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/494001"
+ },
+ {
+  "id": "541701",
+  "name": "IEC 60079-26:2006",
+  "title": "Explosive atmospheres - Part 26: Equipment with equipment protection level (EPL) Ga",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2007-08-12",
+  "annulment_date": "2017-12-01",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/541701"
  },
  {
   "id": "1399401",
@@ -4305,21 +4365,6 @@
   "url": "https://elstandard.se/standard/1399401"
  },
  {
-  "id": "660901",
-  "name": "SS-EN 60079-15, utg 2:2005",
-  "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 15: Utförande \"n\"",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2005-12-18",
-  "annulment_date": "2013-04-30",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/660901"
- },
- {
   "id": "526401",
   "name": "SS-EN 60079-25, utg 1:2005",
   "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 25: Egensäkra system",
@@ -4333,6 +4378,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/526401"
+ },
+ {
+  "id": "660901",
+  "name": "SS-EN 60079-15, utg 2:2005",
+  "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 15: Utförande \"n\"",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2005-12-18",
+  "annulment_date": "2013-04-30",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/660901"
  },
  {
   "id": "526601",
@@ -4365,21 +4425,6 @@
   "url": "https://elstandard.se/standard/527201"
  },
  {
-  "id": "405001",
-  "name": "IEC 60079-27:2005",
-  "title": "Electrical apparatus for explosive gas atmospheres - Part 27: Fieldbus intrinsically safe concept (FISCO) and Fieldbus non-incendive concept (FNICO)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2006-06-18",
-  "annulment_date": "2011-03-31",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/405001"
- },
- {
   "id": "605101",
   "name": "IEC 61241-11:2005",
   "title": "Electrical apparatus for use in the presence of combustible dust - Part 11: Protection by intrinsic safety  \"iD\"",
@@ -4393,6 +4438,36 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/605101"
+ },
+ {
+  "id": "526501",
+  "name": "IEC 61241-17:2005",
+  "title": "Electrical apparatus for use in the presence of combustible dust - Part 17: Inspection and maintenance of electrical installations in hazardous areas (other than mines)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2005-11-20",
+  "annulment_date": "2010-08-31",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/526501"
+ },
+ {
+  "id": "405001",
+  "name": "IEC 60079-27:2005",
+  "title": "Electrical apparatus for explosive gas atmospheres - Part 27: Fieldbus intrinsically safe concept (FISCO) and Fieldbus non-incendive concept (FNICO)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2006-06-18",
+  "annulment_date": "2011-03-31",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/405001"
  },
  {
   "id": "630001",
@@ -4438,21 +4513,6 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/660801"
- },
- {
-  "id": "526501",
-  "name": "IEC 61241-17:2005",
-  "title": "Electrical apparatus for use in the presence of combustible dust - Part 17: Inspection and maintenance of electrical installations in hazardous areas (other than mines)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2005-11-20",
-  "annulment_date": "2010-08-31",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/526501"
  },
  {
   "id": "6001",
@@ -4650,21 +4710,6 @@
   "url": "https://elstandard.se/standard/20001"
  },
  {
-  "id": "378501",
-  "name": "IEC 60079-1:2003",
-  "title": "Electrical apparatus for explosive gas atmospheres - Part 1: Flameproof enclosures \"d\"",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31",
-  "determination_date": "2004-04-25",
-  "annulment_date": "2010-06-30",
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/378501"
- },
- {
   "id": "526301",
   "name": "IEC 60079-25:2003",
   "title": "Electrical apparatus for explosive gas atmospheres - Part 25: Intrinsically safe systems",
@@ -4678,6 +4723,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/526301"
+ },
+ {
+  "id": "378501",
+  "name": "IEC 60079-1:2003",
+  "title": "Electrical apparatus for explosive gas atmospheres - Part 1: Flameproof enclosures \"d\"",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31",
+  "determination_date": "2004-04-25",
+  "annulment_date": "2010-06-30",
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/378501"
  },
  {
   "id": "19401",
@@ -5235,51 +5295,6 @@
   "url": "https://elstandard.se/standard/941201"
  },
  {
-  "id": "2091501",
-  "name": "IEC 60079-11:2011/IS4:2019",
-  "title": "Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31G",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2091501"
- },
- {
-  "id": "2181701",
-  "name": "IEC 60079-11:2011/IS6:2019",
-  "title": "Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31G",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2181701"
- },
- {
-  "id": "2138301",
-  "name": "IEC 60079-11:2011/IS5:2019",
-  "title": "Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": "TC 31/SC 31G",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2138301"
- },
- {
   "id": "1664001",
   "name": "IEC 60079-11:2011/IS1:2014",
   "title": "Explosive atmospheres Part 11: Equipment protection by intrinsic safety \"i\"",
@@ -5323,6 +5338,51 @@
   "pub_year": 2011,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1713201"
+ },
+ {
+  "id": "2091501",
+  "name": "IEC 60079-11:2011/IS4:2019",
+  "title": "Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31/SC 31G",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2091501"
+ },
+ {
+  "id": "2138301",
+  "name": "IEC 60079-11:2011/IS5:2019",
+  "title": "Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31/SC 31G",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2138301"
+ },
+ {
+  "id": "2181701",
+  "name": "IEC 60079-11:2011/IS6:2019",
+  "title": "Explosive atmospheres - Part 11: Equipment protection by intrinsic safety \"i\"",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": "TC 31/SC 31G",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2181701"
  },
  {
   "id": "896401",
@@ -5415,21 +5475,6 @@
   "url": "https://elstandard.se/standard/1536801"
  },
  {
-  "id": "444701",
-  "name": "SS-EN 60079-28, utg 1:2007/T1:2008",
-  "title": "Explosiv atmosfär - Del 28: Skydd av utrustning och överföringssystem som använder optisk strålning",
-  "prefix": "SS-EN",
-  "doc_type": "Tillägg",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": null,
-  "determination_date": "2008-06-29",
-  "annulment_date": "2018-06-30",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/444701"
- },
- {
   "id": "189701",
   "name": "SS-EN 50402, utg 1:2007/A1:2008",
   "title": "Elektrisk utrustning för detektering och mätning av syre eller brännbara eller giftiga gaser och ångor - Funktionssäkerhet hos fast monterade system för detektering",
@@ -5443,6 +5488,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/189701"
+ },
+ {
+  "id": "444701",
+  "name": "SS-EN 60079-28, utg 1:2007/T1:2008",
+  "title": "Explosiv atmosfär - Del 28: Skydd av utrustning och överföringssystem som använder optisk strålning",
+  "prefix": "SS-EN",
+  "doc_type": "Tillägg",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": null,
+  "determination_date": "2008-06-29",
+  "annulment_date": "2018-06-30",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/444701"
  },
  {
   "id": "5701",
@@ -5505,21 +5565,6 @@
   "url": "https://elstandard.se/standard/7201"
  },
  {
-  "id": "110201",
-  "name": "SS-EN 50050, utg 3:2006",
-  "title": "Explosionsskyddad elektrisk materiel - Handhållen elektrostatisk sprututrustning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": null,
-  "determination_date": "2006-12-17",
-  "annulment_date": "2016-10-13",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/110201"
- },
- {
   "id": "166901",
   "name": "SS-EN 50270, utg 2:2006",
   "title": "Elektriska apparater för detektering och mätning av syre eller brännbara eller giftiga gaser - EMC-fordringar",
@@ -5533,6 +5578,21 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/166901"
+ },
+ {
+  "id": "110201",
+  "name": "SS-EN 50050, utg 3:2006",
+  "title": "Explosionsskyddad elektrisk materiel - Handhållen elektrostatisk sprututrustning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": null,
+  "determination_date": "2006-12-17",
+  "annulment_date": "2016-10-13",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/110201"
  },
  {
   "id": "156201",
@@ -5565,21 +5625,6 @@
   "url": "https://elstandard.se/standard/6501"
  },
  {
-  "id": "378701",
-  "name": "SS-EN 60079-1, utg 1:2004/C1:2006",
-  "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 1: Utförande med explosionstät kapsling \"d\"",
-  "prefix": "SS-EN",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": null,
-  "determination_date": "2006-06-18",
-  "annulment_date": "2010-06-30",
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/378701"
- },
- {
   "id": "6901",
   "name": "SS-EN 60079-18, utg 1:2004/C1:2006",
   "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 18: Utförande med ingjutning \"m\"",
@@ -5595,21 +5640,6 @@
   "url": "https://elstandard.se/standard/6901"
  },
  {
-  "id": "637101",
-  "name": "SS-EN 60079-25, utg 1:2005/C1:2006",
-  "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 25: Egensäkra system",
-  "prefix": "SS-EN",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": null,
-  "determination_date": "2006-06-18",
-  "annulment_date": "2013-09-30",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/637101"
- },
- {
   "id": "499601",
   "name": "SS-EN 60079-2, utg 1:2004/C1:2006",
   "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 2: Utförande med övertrycksventilation",
@@ -5623,6 +5653,36 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/499601"
+ },
+ {
+  "id": "378701",
+  "name": "SS-EN 60079-1, utg 1:2004/C1:2006",
+  "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 1: Utförande med explosionstät kapsling \"d\"",
+  "prefix": "SS-EN",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": null,
+  "determination_date": "2006-06-18",
+  "annulment_date": "2010-06-30",
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/378701"
+ },
+ {
+  "id": "637101",
+  "name": "SS-EN 60079-25, utg 1:2005/C1:2006",
+  "title": "Elektrisk utrustning för områden med explosiv gasatmosfär - Del 25: Egensäkra system",
+  "prefix": "SS-EN",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": null,
+  "determination_date": "2006-06-18",
+  "annulment_date": "2013-09-30",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/637101"
  },
  {
   "id": "2181601",
@@ -5700,21 +5760,6 @@
   "url": "https://elstandard.se/standard/187501"
  },
  {
-  "id": "125501",
-  "name": "SS-EN 50104, utg 3:2002/A1:2004",
-  "title": "Elektriska apparater för detektering och mätning av syrgas - Prestandafordringar och provningsmetoder",
-  "prefix": "SS-EN",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 31",
-  "committee_intl": null,
-  "determination_date": "2004-03-21",
-  "annulment_date": "2013-05-31",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/125501"
- },
- {
   "id": "160301",
   "name": "SS-EN 50241-1, utg 1:1999/A1:2004",
   "title": "Linjedetektorer för detektering av gaser och ångor - Del 1: Allmänna fordringar och provningsmetoder",
@@ -5728,6 +5773,21 @@
   "pub_year": 1999,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/160301"
+ },
+ {
+  "id": "125501",
+  "name": "SS-EN 50104, utg 3:2002/A1:2004",
+  "title": "Elektriska apparater för detektering och mätning av syrgas - Prestandafordringar och provningsmetoder",
+  "prefix": "SS-EN",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 31",
+  "committee_intl": null,
+  "determination_date": "2004-03-21",
+  "annulment_date": "2013-05-31",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/125501"
  },
  {
   "id": "743801",

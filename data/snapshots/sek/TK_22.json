@@ -1,5 +1,20 @@
 [
  {
+  "id": "4056801",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Amendment",
+  "status": "remiss",
+  "committee_sek": "TK 22",
+  "committee_intl": null,
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4056801"
+ },
+ {
   "id": "3758001",
   "name": "SS-EN IEC 61800-9-2, utg 2:2025/A1:2026",
   "title": "Varvtalsstyrda elektriska drivsystem - Del 9-2: Ekodesign för elektriska drivsystem - Bestämning av verkningsgrad och klassificering",
@@ -1035,21 +1050,6 @@
   "url": "https://elstandard.se/standard/894401"
  },
  {
-  "id": "5301",
-  "name": "SS-EN 62501, utg 1:2010",
-  "title": "Spänningsstyva strömriktare (VSC) för elöverföring med högspänd likström (HVDC) - Elektrisk provning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 22",
-  "committee_intl": "TC 22",
-  "determination_date": "2010-02-21",
-  "annulment_date": "2027-05-14",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/5301"
- },
- {
   "id": "42401",
   "name": "SS-EN 61558-2-16, utg 1:2010",
   "title": "Transformatorer, strömförsörjningsdon och liknande - Säkerhet - Del 2-16: Särskilda fordringar på switchade strömförsörjningsenheter och transformatorer för switchade strömförsörjningsenheter",
@@ -1063,6 +1063,21 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/42401"
+ },
+ {
+  "id": "5301",
+  "name": "SS-EN 62501, utg 1:2010",
+  "title": "Spänningsstyva strömriktare (VSC) för elöverföring med högspänd likström (HVDC) - Elektrisk provning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 22",
+  "determination_date": "2010-02-21",
+  "annulment_date": "2027-05-14",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/5301"
  },
  {
   "id": "40401",
@@ -1500,6 +1515,51 @@
   "url": "https://elstandard.se/standard/3295401"
  },
  {
+  "id": "3295501",
+  "name": "IEC 61558-2-5:2024 RLV",
+  "title": "Safety of transformers, reactors, power supply units and combinations thereof – Part 2-5: Particular requirements and tests for transformers for shavers, power supply units for shavers and shaver supply units",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 96",
+  "determination_date": "2025-11-18",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3295501"
+ },
+ {
+  "id": "3295601",
+  "name": "IEC 61558-2-5:2024 EXV",
+  "title": "Safety of transformers, reactors, power supply units and combinations thereof – Part 2-5: Particular requirements and tests for transformers for shavers, power supply units for shavers and shaver supply units",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 96",
+  "determination_date": "2025-11-18",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3295601"
+ },
+ {
+  "id": "3295701",
+  "name": "IEC 61558-2-5:2024 EXV-RLV",
+  "title": "Safety of transformers, reactors, power supply units and combinations thereof – Part 2-5: Particular requirements and tests for transformers for shavers, power supply units for shavers and shaver supply units",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 96",
+  "determination_date": "2025-11-18",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3295701"
+ },
+ {
   "id": "3600101",
   "name": "IEC 60146-1-1:2024/C1:2025",
   "title": "Semiconductor convertors - General requirements and line commutated convertors - Part 1-1: Specification of basic requirements",
@@ -1905,21 +1965,6 @@
   "url": "https://elstandard.se/standard/2952701"
  },
  {
-  "id": "3259801",
-  "name": "IEC 62477-1:2022/C1:2024",
-  "title": "Safety requirements for power electronic converter systems and equipment - Part 1: General",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "publicerad",
-  "committee_sek": "TK 22",
-  "committee_intl": "TC 22",
-  "determination_date": "2024-09-24",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3259801"
- },
- {
   "id": "3042301",
   "name": "IEC 61800-5-1:2022/C1:2023",
   "title": "Adjustable speed electrical power drive systems - Part 5-1: Safety requirements - Electrical, thermal and energy",
@@ -1933,6 +1978,21 @@
   "pub_year": 2022,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3042301"
+ },
+ {
+  "id": "3259801",
+  "name": "IEC 62477-1:2022/C1:2024",
+  "title": "Safety requirements for power electronic converter systems and equipment - Part 1: General",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 22",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3259801"
  },
  {
   "id": "3618801",
@@ -2160,6 +2220,21 @@
   "url": "https://elstandard.se/standard/1654101"
  },
  {
+  "id": "1703901",
+  "name": "IEC 61800-7-301:2015 RLV",
+  "title": "Adjustable speed electrical power drive systems - Part 7-301: Generic interface and use of profiles for power drive systems - Mapping of profile type 1 to network technologies",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 22/SC 22G",
+  "determination_date": "2016-05-10",
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1703901"
+ },
+ {
   "id": "1616601",
   "name": "IEC 61800-7-1:2015",
   "title": "Adjustable speed electrical power drive systems - Part 7-1: Generic interface and use of profiles for power drive systems - Interface definition",
@@ -2295,21 +2370,6 @@
   "url": "https://elstandard.se/standard/1617401"
  },
  {
-  "id": "1703901",
-  "name": "IEC 61800-7-301:2015 RLV",
-  "title": "Adjustable speed electrical power drive systems - Part 7-301: Generic interface and use of profiles for power drive systems - Mapping of profile type 1 to network technologies",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 22",
-  "committee_intl": "TC 22/SC 22G",
-  "determination_date": "2016-05-10",
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1703901"
- },
- {
   "id": "1569901",
   "name": "IEC/TR 60919-2:2008+AMD1:2015 CSV",
   "title": "Performance of high-voltage direct current (HVDC) systems with linecommutated converters - Part 2: Faults and switching",
@@ -2355,21 +2415,6 @@
   "url": "https://elstandard.se/standard/1272501"
  },
  {
-  "id": "989401",
-  "name": "IEC 61148:2011",
-  "title": "Terminal markings for valve device stacks and assemblies and for power conversion equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 22",
-  "committee_intl": "TC 22",
-  "determination_date": "2013-04-11",
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/989401"
- },
- {
   "id": "931401",
   "name": "IEC 62040-3:2011",
   "title": "Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements",
@@ -2383,6 +2428,21 @@
   "pub_year": 2012,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/931401"
+ },
+ {
+  "id": "989401",
+  "name": "IEC 61148:2011",
+  "title": "Terminal markings for valve device stacks and assemblies and for power conversion equipment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 22",
+  "determination_date": "2013-04-11",
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/989401"
  },
  {
   "id": "870401",
@@ -2895,6 +2955,21 @@
   "url": "https://elstandard.se/standard/5201"
  },
  {
+  "id": "554501",
+  "name": "IEC 60146-1-1:2009",
+  "title": "Semiconductor convertors - General requirements and line commutated convertors - Part 1-1: Specification of basic requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 22",
+  "determination_date": "2010-11-21",
+  "annulment_date": "2027-04-22",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/554501"
+ },
+ {
   "id": "40301",
   "name": "IEC 61558-2-6:2009",
   "title": "Safety of transformers, reactors, power supply units and similar products for voltages up to 1 100 V - Part 2-6: Particular requirements and tests for safety isolating transformers and power supply units incorporating safety isolating transformers",
@@ -2925,19 +3000,19 @@
   "url": "https://elstandard.se/standard/42301"
  },
  {
-  "id": "554501",
-  "name": "IEC 60146-1-1:2009",
-  "title": "Semiconductor convertors - General requirements and line commutated convertors - Part 1-1: Specification of basic requirements",
+  "id": "1303301",
+  "name": "IEC 61558-2-16:2009/A1:2013",
+  "title": "Safety of transformers, reactors, power supply units and similar products for voltages up to 1 100 V - Part 2-16: Particular requirements and tests for switch mode power supply units and transformers for switch mode power supply units",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "Amendment",
   "status": "upphavd",
   "committee_sek": "TK 22",
-  "committee_intl": "TC 22",
-  "determination_date": "2010-11-21",
-  "annulment_date": "2027-04-22",
+  "committee_intl": "TC 96",
+  "determination_date": "2014-02-18",
+  "annulment_date": "2028-03-30",
   "pub_year": 2010,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/554501"
+  "url": "https://elstandard.se/standard/1303301"
  },
  {
   "id": "1422401",
@@ -2953,21 +3028,6 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1422401"
- },
- {
-  "id": "1303301",
-  "name": "IEC 61558-2-16:2009/A1:2013",
-  "title": "Safety of transformers, reactors, power supply units and similar products for voltages up to 1 100 V - Part 2-16: Particular requirements and tests for switch mode power supply units and transformers for switch mode power supply units",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 22",
-  "committee_intl": "TC 96",
-  "determination_date": "2014-02-18",
-  "annulment_date": "2028-03-30",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1303301"
  },
  {
   "id": "1548901",
@@ -3180,6 +3240,21 @@
   "url": "https://elstandard.se/standard/160601"
  },
  {
+  "id": "519901",
+  "name": "IEC 61800-5-2:2007",
+  "title": "Adjustable speed electrical power drive systems - Part 5-2: Safety requirements - Functional",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 22",
+  "committee_intl": "TC 22/SC 22G",
+  "determination_date": "2007-11-18",
+  "annulment_date": "2020-04-27",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/519901"
+ },
+ {
   "id": "377301",
   "name": "IEC 61800-5-1:2007",
   "title": "Adjustable speed electrical power drive systems - Part 5-1: Safety requirements - Electrical, thermal and energy",
@@ -3328,21 +3403,6 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/392101"
- },
- {
-  "id": "519901",
-  "name": "IEC 61800-5-2:2007",
-  "title": "Adjustable speed electrical power drive systems - Part 5-2: Safety requirements - Functional",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 22",
-  "committee_intl": "TC 22/SC 22G",
-  "determination_date": "2007-11-18",
-  "annulment_date": "2020-04-27",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/519901"
  },
  {
   "id": "1725601",
@@ -3823,20 +3883,5 @@
   "pub_year": 1978,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3059501"
- },
- {
-  "id": "4056801",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Amendment",
-  "status": "remiss",
-  "committee_sek": "TK 22",
-  "committee_intl": null,
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4056801"
  }
 ]

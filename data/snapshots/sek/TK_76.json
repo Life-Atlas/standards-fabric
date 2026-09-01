@@ -376,7 +376,7 @@
  },
  {
   "id": "3772201",
-  "name": "IEC 60601-2-22+AMD1:2026 CSV",
+  "name": "IEC 60601-2-22:2019+AMD1:2026 CSV",
   "title": "Medical electrical equipment - Part 2-22: Particular requirements for basic safety and essential performance of surgical, cosmetic, therapeutic and diagnostic laser equipment",
   "prefix": "IEC",
   "doc_type": "Standard",
@@ -385,7 +385,7 @@
   "committee_intl": "TC 76",
   "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2026,
+  "pub_year": 2019,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3772201"
  },
@@ -525,6 +525,21 @@
   "url": "https://elstandard.se/standard/3292301"
  },
  {
+  "id": "2868401",
+  "name": "IEC/TR 60825-14:2022",
+  "title": "Safety of laser products - Part 14: A user's guide",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2868401"
+ },
+ {
   "id": "2910601",
   "name": "IEC/TR 60825-3:2022",
   "title": "Safety laser products - Part 3: Guidance for laser displays and shows",
@@ -568,21 +583,6 @@
   "pub_year": 2022,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2929801"
- },
- {
-  "id": "2868401",
-  "name": "IEC/TR 60825-14:2022",
-  "title": "Safety of laser products - Part 14: A user's guide",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 76",
-  "committee_intl": "TC 76",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2868401"
  },
  {
   "id": "2617901",
@@ -1035,21 +1035,6 @@
   "url": "https://elstandard.se/standard/729701"
  },
  {
-  "id": "1989801",
-  "name": "IEC 60825-2:2004/IS2:2018",
-  "title": "Safety of laser products - Part 2: Safety of optical fibre communication systems (OFCS)",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK 76",
-  "committee_intl": "TC 76",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1989801"
- },
- {
   "id": "590601",
   "name": "IEC 60825-2:2004",
   "title": "Safety of laser products - Part 2: Safety of optical fibre communication systems (OFCS)",
@@ -1080,19 +1065,19 @@
   "url": "https://elstandard.se/standard/729601"
  },
  {
-  "id": "590401",
-  "name": "IEC 60825-2:2004/A1:2006",
+  "id": "1989801",
+  "name": "IEC 60825-2:2004/IS2:2018",
   "title": "Safety of laser products - Part 2: Safety of optical fibre communication systems (OFCS)",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "IS",
   "status": "upphavd",
   "committee_sek": "TK 76",
   "committee_intl": "TC 76",
-  "determination_date": "2007-04-22",
-  "annulment_date": "2029-05-30",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/590401"
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1989801"
  },
  {
   "id": "864501",
@@ -1108,6 +1093,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/864501"
+ },
+ {
+  "id": "590401",
+  "name": "IEC 60825-2:2004/A1:2006",
+  "title": "Safety of laser products - Part 2: Safety of optical fibre communication systems (OFCS)",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": "2007-04-22",
+  "annulment_date": "2029-05-30",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/590401"
  },
  {
   "id": "1400501",

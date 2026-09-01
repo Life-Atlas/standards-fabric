@@ -975,21 +975,6 @@
   "url": "https://elstandard.se/standard/1200601"
  },
  {
-  "id": "1231401",
-  "name": "SS-EN 61028, utg 1:1993/A2:1998",
-  "title": "Elektrisk mätutrustning - X-Y-skrivare",
-  "prefix": "SS-EN",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": "1998-06-25",
-  "annulment_date": null,
-  "pub_year": 1993,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1231401"
- },
- {
   "id": "1196801",
   "name": "SS-EN 60523, utg 1:1994/A2:1998",
   "title": "Elektriska mätinstrument - Likströmskompensatorer",
@@ -1048,6 +1033,21 @@
   "pub_year": 1998,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1200801"
+ },
+ {
+  "id": "1231401",
+  "name": "SS-EN 61028, utg 1:1993/A2:1998",
+  "title": "Elektrisk mätutrustning - X-Y-skrivare",
+  "prefix": "SS-EN",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": "1998-06-25",
+  "annulment_date": null,
+  "pub_year": 1993,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1231401"
  },
  {
   "id": "1150901",
@@ -1590,21 +1590,6 @@
   "url": "https://elstandard.se/standard/2951101"
  },
  {
-  "id": "2781101",
-  "name": "IEC 62586-2:2017+AMD1:2021 CSV",
-  "title": "Power quality measurement in power supply systems - Part 2: Functional tests and uncertainty requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2781101"
- },
- {
   "id": "2747301",
   "name": "IEC 61557-12:2018+AMD1:2021 CSV",
   "title": "Electrical safety in low voltage distribution systems up to 1 000 V a.c. and 1 500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 12: Power metering and monitoring devices (PMD)",
@@ -1618,6 +1603,21 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2747301"
+ },
+ {
+  "id": "2781101",
+  "name": "IEC 62586-2:2017+AMD1:2021 CSV",
+  "title": "Power quality measurement in power supply systems - Part 2: Functional tests and uncertainty requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2781101"
  },
  {
   "id": "2608901",
@@ -2025,36 +2025,6 @@
   "url": "https://elstandard.se/standard/2747201"
  },
  {
-  "id": "1837801",
-  "name": "IEC 62586-1:2017",
-  "title": "Power quality measurement in power supply systems - Part 1: Power quality instruments (PQI)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": "2018-01-23",
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1837801"
- },
- {
-  "id": "1838001",
-  "name": "IEC 62754:2017",
-  "title": "Computation of waveform parameter uncertainties",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": "2018-03-13",
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1838001"
- },
- {
   "id": "1801601",
   "name": "IEC 62586-2:2017",
   "title": "Power quality measurement in power supply systems - Part 2: Functional tests and uncertainty requirements",
@@ -2128,6 +2098,36 @@
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1911901"
+ },
+ {
+  "id": "1837801",
+  "name": "IEC 62586-1:2017",
+  "title": "Power quality measurement in power supply systems - Part 1: Power quality instruments (PQI)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": "2018-01-23",
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1837801"
+ },
+ {
+  "id": "1838001",
+  "name": "IEC 62754:2017",
+  "title": "Computation of waveform parameter uncertainties",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": "2018-03-13",
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1838001"
  },
  {
   "id": "1985901",
@@ -2355,21 +2355,6 @@
   "url": "https://elstandard.se/standard/1135901"
  },
  {
-  "id": "1231301",
-  "name": "IEC 61028:1990/A2:1997",
-  "title": "Electrical measuring instruments - X-Y recorders",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": "1998-06-25",
-  "annulment_date": null,
-  "pub_year": 1993,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1231301"
- },
- {
   "id": "1135801",
   "name": "IEC 61028:1990/A1:1995",
   "title": "Electrical measuring instruments - X-Y recorders",
@@ -2383,6 +2368,21 @@
   "pub_year": 1993,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1135801"
+ },
+ {
+  "id": "1231301",
+  "name": "IEC 61028:1990/A2:1997",
+  "title": "Electrical measuring instruments - X-Y recorders",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": "1998-06-25",
+  "annulment_date": null,
+  "pub_year": 1993,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1231301"
  },
  {
   "id": "1265701",
@@ -2745,21 +2745,6 @@
   "url": "https://elstandard.se/standard/1497501"
  },
  {
-  "id": "1779701",
-  "name": "IEC 61557-9:2014/C2:2017",
-  "title": "Electrical safety in low voltage distribution systems up to 1 000 V a.c. and 1 500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 9: Equipment for insulation fault location in IT systems",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": "2017-03-14",
-  "annulment_date": "2028-04-29",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1779701"
- },
- {
   "id": "1687401",
   "name": "IEC 61557-9:2014/C1:2016",
   "title": "Electrical safety in low voltage distribution systems up to 1 000 V a.c. and 1 500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 9: Equipment for insulation fault location in IT systems",
@@ -2773,6 +2758,21 @@
   "pub_year": 2014,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1687401"
+ },
+ {
+  "id": "1779701",
+  "name": "IEC 61557-9:2014/C2:2017",
+  "title": "Electrical safety in low voltage distribution systems up to 1 000 V a.c. and 1 500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 9: Equipment for insulation fault location in IT systems",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": "2017-03-14",
+  "annulment_date": "2028-04-29",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1779701"
  },
  {
   "id": "1263401",
@@ -2955,21 +2955,6 @@
   "url": "https://elstandard.se/standard/525201"
  },
  {
-  "id": "251401",
-  "name": "SS-EN 61557-1, utg 2:2007",
-  "title": "Elsäkerhet i elektriska starkströmsanläggningar för lågspänning - Utrustning för provning, mätning och övervakning av skyddsåtgärder - Del 1: Allmänt",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": "2007-06-24",
-  "annulment_date": "2024-11-09",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/251401"
- },
- {
   "id": "581001",
   "name": "SS-EN 61557-7, utg 2:2007",
   "title": "Elsäkerhet i elektriska starkströmsanläggningar för lågspänning - Utrustning för provning, mätning och övervakning av skyddsåtgärder - Del 7: Fasföljd",
@@ -3045,10 +3030,10 @@
   "url": "https://elstandard.se/standard/581801"
  },
  {
-  "id": "251301",
-  "name": "IEC 61557-1:2007",
-  "title": "Electrical safety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 1: General requirements",
-  "prefix": "IEC",
+  "id": "251401",
+  "name": "SS-EN 61557-1, utg 2:2007",
+  "title": "Elsäkerhet i elektriska starkströmsanläggningar för lågspänning - Utrustning för provning, mätning och övervakning av skyddsåtgärder - Del 1: Allmänt",
+  "prefix": "SS-EN",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 85",
@@ -3057,22 +3042,7 @@
   "annulment_date": "2024-11-09",
   "pub_year": 2007,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/251301"
- },
- {
-  "id": "306201",
-  "name": "IEC 61557-12:2007",
-  "title": "Electrical safety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 12: Performance measuring and monitoring devices (PMD)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 85",
-  "committee_intl": "TC 85",
-  "determination_date": "2009-02-22",
-  "annulment_date": "2026-11-09",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/306201"
+  "url": "https://elstandard.se/standard/251401"
  },
  {
   "id": "580901",
@@ -3150,6 +3120,21 @@
   "url": "https://elstandard.se/standard/581701"
  },
  {
+  "id": "306201",
+  "name": "IEC 61557-12:2007",
+  "title": "Electrical safety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 12: Performance measuring and monitoring devices (PMD)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": "2009-02-22",
+  "annulment_date": "2026-11-09",
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/306201"
+ },
+ {
   "id": "513601",
   "name": "IEC 61557-6:2007",
   "title": "Electrical safety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 6: Effectiveness of residual current devices (RCD) in TT, TN and IT systems",
@@ -3178,6 +3163,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/525101"
+ },
+ {
+  "id": "251301",
+  "name": "IEC 61557-1:2007",
+  "title": "Electrical safety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c. - Equipment for testing, measuring or monitoring of protective measures - Part 1: General requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 85",
+  "committee_intl": "TC 85",
+  "determination_date": "2007-06-24",
+  "annulment_date": "2024-11-09",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/251301"
  },
  {
   "id": "828201",

@@ -1,5 +1,20 @@
 [
  {
+  "id": "4073101",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Amendment",
+  "status": "remiss",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4073101"
+ },
+ {
   "id": "3785601",
   "name": "SS-EN IEC 55016-1-4, utg 5:2026 RLV",
   "title": "EMC - Utrustning och metoder för mätning av radiostörningar och immunitet - Del 1-4: Utstrålade störningar",
@@ -2205,9 +2220,9 @@
   "url": "https://elstandard.se/standard/199901"
  },
  {
-  "id": "245801",
-  "name": "SS-EN 61000-4-14, utg 1:1999/A1:2004",
-  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-14: Mät- och provningsmetoder - Provning av immunitet mot spänningsvariationer",
+  "id": "334201",
+  "name": "SS-EN 61000-4-17, utg 1:1999/A1:2004",
+  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-17: Mät- och provningsmetoder - Provning av immunitet mot rippel på likspänningsingång",
   "prefix": "SS-EN",
   "doc_type": "Amendment",
   "status": "publicerad",
@@ -2217,7 +2232,7 @@
   "annulment_date": null,
   "pub_year": 1999,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/245801"
+  "url": "https://elstandard.se/standard/334201"
  },
  {
   "id": "278601",
@@ -2235,9 +2250,9 @@
   "url": "https://elstandard.se/standard/278601"
  },
  {
-  "id": "334201",
-  "name": "SS-EN 61000-4-17, utg 1:1999/A1:2004",
-  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-17: Mät- och provningsmetoder - Provning av immunitet mot rippel på likspänningsingång",
+  "id": "245801",
+  "name": "SS-EN 61000-4-14, utg 1:1999/A1:2004",
+  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-14: Mät- och provningsmetoder - Provning av immunitet mot spänningsvariationer",
   "prefix": "SS-EN",
   "doc_type": "Amendment",
   "status": "publicerad",
@@ -2247,7 +2262,7 @@
   "annulment_date": null,
   "pub_year": 1999,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/334201"
+  "url": "https://elstandard.se/standard/245801"
  },
  {
   "id": "753801",
@@ -2595,21 +2610,6 @@
   "url": "https://elstandard.se/standard/3730401"
  },
  {
-  "id": "3664001",
-  "name": "IEC 61000-4-34+AMD1:2009+AMD2:2025 CSV",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-34: Testing and measuring techniques - Voltage dips, short interruptions and voltage variations immunity tests for equipment with input current more than 16 A per phase",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2009,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3664001"
- },
- {
   "id": "3598101",
   "name": "IEC 61000-4-2:2025",
   "title": "Electromagnetic compatibility (EMC) - Part 4-2: Testing and measuring techniques - Electrostatic discharge immunity test",
@@ -2623,6 +2623,21 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3598101"
+ },
+ {
+  "id": "3664001",
+  "name": "IEC 61000-4-34+AMD1:2009+AMD2:2025 CSV",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-34: Testing and measuring techniques - Voltage dips, short interruptions and voltage variations immunity tests for equipment with input current more than 16 A per phase",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3664001"
  },
  {
   "id": "3694101",
@@ -2745,21 +2760,6 @@
   "url": "https://elstandard.se/standard/3128601"
  },
  {
-  "id": "3541701",
-  "name": "IEC 61000-4-41:2024",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-41: Testing and measurement techniques - Broadband radiated immunity tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77/SC 77B",
-  "determination_date": "2025-10-21",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3541701"
- },
- {
   "id": "3291101",
   "name": "IEC 61000-2-4:2024",
   "title": "Electromagnetic compatibility (EMC) - Part 2-4: Environment - Compatibility levels in industrial plants for low-frequency conducted disturbances",
@@ -2788,6 +2788,21 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3291201"
+ },
+ {
+  "id": "3541701",
+  "name": "IEC 61000-4-41:2024",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-41: Testing and measurement techniques - Broadband radiated immunity tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77/SC 77B",
+  "determination_date": "2025-10-21",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3541701"
  },
  {
   "id": "3114901",
@@ -2953,6 +2968,21 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3013201"
+ },
+ {
+  "id": "2975101",
+  "name": "IEC/TR 61000-1-1:2023",
+  "title": "Electromagnetic compatibility (EMC) - Part 1-1: General - Application and interpretation of fundamental definitions and terms",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2975101"
  },
  {
   "id": "3020601",
@@ -3420,21 +3450,6 @@
   "url": "https://elstandard.se/standard/2107801"
  },
  {
-  "id": "2149301",
-  "name": "CISPR 32:2015+AMD1:2019 CSV",
-  "title": "Electromagnetic compatibility of multimedia equipment - Emission requirements",
-  "prefix": "CISPR",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/I",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2149301"
- },
- {
   "id": "2118801",
   "name": "CISPR 16-2-3:2016+AMD1:2019 CSV",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-3: Methods of measurement of disturbances and immunity - Radiated disturbance measurements",
@@ -3448,6 +3463,21 @@
   "pub_year": 2016,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2118801"
+ },
+ {
+  "id": "2149301",
+  "name": "CISPR 32:2015+AMD1:2019 CSV",
+  "title": "Electromagnetic compatibility of multimedia equipment - Emission requirements",
+  "prefix": "CISPR",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/I",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2149301"
  },
  {
   "id": "1926701",
@@ -3630,6 +3660,21 @@
   "url": "https://elstandard.se/standard/3286201"
  },
  {
+  "id": "1802901",
+  "name": "IEC 61000-4-39:2017",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-39: Testing and measurement techniques - Radiated fields in close proximity - Immunity test",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77/SC 77B",
+  "determination_date": "2017-12-19",
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1802901"
+ },
+ {
   "id": "1823101",
   "name": "IEC 61000-3-11:2017",
   "title": "Electromagnetic compatibility (EMC) - Part 3-11: Limits - Limitation of voltage changes, voltage fluctuations and flicker in public low-voltage supply systems - Equipment with rated current ? 75 A and subject to conditional connection",
@@ -3673,21 +3718,6 @@
   "pub_year": 2013,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1832901"
- },
- {
-  "id": "1802901",
-  "name": "IEC 61000-4-39:2017",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-39: Testing and measurement techniques - Radiated fields in close proximity - Immunity test",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77/SC 77B",
-  "determination_date": "2017-12-19",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1802901"
  },
  {
   "id": "1849701",
@@ -3900,6 +3930,21 @@
   "url": "https://elstandard.se/standard/1890801"
  },
  {
+  "id": "1665901",
+  "name": "IEC 61000-1-2:2016",
+  "title": "Electromagnetic compatibility (EMC) - Part 1-2: General - Methodology for the achievement of functional safety of electrical and electronic systems including equipment with regard to electromagnetic phenomena",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": "2017-03-14",
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1665901"
+ },
+ {
   "id": "1706201",
   "name": "IEC 61000-4-10:2016",
   "title": "Electromagnetic compatibility (EMC) - Part 4-10: Testing and measurement techniques – Damped oscillatory magnetic field immunity test",
@@ -4035,21 +4080,6 @@
   "url": "https://elstandard.se/standard/1715501"
  },
  {
-  "id": "1665901",
-  "name": "IEC 61000-1-2:2016",
-  "title": "Electromagnetic compatibility (EMC) - Part 1-2: General - Methodology for the achievement of functional safety of electrical and electronic systems including equipment with regard to electromagnetic phenomena",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": "2017-03-14",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1665901"
- },
- {
   "id": "1633501",
   "name": "IEC/TR 61000-4-37:2016",
   "title": "Electromagnetic compatibility (EMC) - Part 4-37: Testing and measurement techniques - Calibration and verification protocol for harmonic emission compliance test systems",
@@ -4093,6 +4123,21 @@
   "pub_year": 2016,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1671001"
+ },
+ {
+  "id": "1657401",
+  "name": "CISPR 16-1-3:2004+AMD1:2016 CSV",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-3: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Disturbance power",
+  "prefix": "CISPR",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1657401"
  },
  {
   "id": "1713901",
@@ -4155,19 +4200,19 @@
   "url": "https://elstandard.se/standard/1769501"
  },
  {
-  "id": "1657401",
-  "name": "CISPR 16-1-3:2004+AMD1:2016 CSV:2016",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-3: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Disturbance power",
+  "id": "2118701",
+  "name": "CISPR 16-2-3:2016/A1:2019",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-3: Methods of measurement of disturbances and immunity - Radiated disturbance measurements",
   "prefix": "CISPR",
-  "doc_type": "Standard",
+  "doc_type": "Amendment",
   "status": "publicerad",
   "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": null,
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": "2019-10-22",
   "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1657401"
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2118701"
  },
  {
   "id": "3014901",
@@ -4185,21 +4230,6 @@
   "url": "https://elstandard.se/standard/3014901"
  },
  {
-  "id": "2118701",
-  "name": "CISPR 16-2-3:2016/A1:2019",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-3: Methods of measurement of disturbances and immunity - Radiated disturbance measurements",
-  "prefix": "CISPR",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/A",
-  "determination_date": "2019-10-22",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2118701"
- },
- {
   "id": "1588601",
   "name": "IEC 61000-6-5:2015",
   "title": "Electromagnetic compatibility (EMC) - Part 6-5: Generic standards - Immunity for equipment used in power station and substation environment",
@@ -4213,21 +4243,6 @@
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1588601"
- },
- {
-  "id": "1702201",
-  "name": "IEC 61000-4-16:2015 RLV",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-16: Testing and measurement techniques - Test for immunity to conducted, common mode disturbances in the frequency range 0 Hz to 150 kHz",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77/SC 77A",
-  "determination_date": "2016-04-12",
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1702201"
  },
  {
   "id": "1624801",
@@ -4260,6 +4275,21 @@
   "url": "https://elstandard.se/standard/1624901"
  },
  {
+  "id": "1702201",
+  "name": "IEC 61000-4-16:2015 RLV",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-16: Testing and measurement techniques - Test for immunity to conducted, common mode disturbances in the frequency range 0 Hz to 150 kHz",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77/SC 77A",
+  "determination_date": "2016-04-12",
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1702201"
+ },
+ {
   "id": "1903101",
   "name": "IEC 61000-6-5:2015/C1:2017",
   "title": "Electromagnetic compatibility (EMC) - Part 6-5: Generic standards - Immunity for equipment used in power station and substation environment",
@@ -4288,6 +4318,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1589201"
+ },
+ {
+  "id": "1699101",
+  "name": "CISPR 32:2015 RLV",
+  "title": "Electromagnetic compatibility of multimedia equipment - Emission requirements",
+  "prefix": "CISPR",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/I",
+  "determination_date": "2015-08-18",
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1699101"
  },
  {
   "id": "1539101",
@@ -4320,21 +4365,6 @@
   "url": "https://elstandard.se/standard/1546901"
  },
  {
-  "id": "1699101",
-  "name": "CISPR 32:2015 RLV",
-  "title": "Electromagnetic compatibility of multimedia equipment - Emission requirements",
-  "prefix": "CISPR",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/I",
-  "determination_date": "2015-08-18",
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1699101"
- },
- {
   "id": "1698301",
   "name": "CISPR 32:2015/C1:2016",
   "title": "Electromagnetic compatibility of multimedia equipment - Emission requirements",
@@ -4363,6 +4393,21 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2149201"
+ },
+ {
+  "id": "1462501",
+  "name": "IEC 61000-6-7:2014",
+  "title": "Electromagnetic compatibility (EMC) - Part 6-7: Generic standards - Immunity requirements for equipment intended to perform functions in a safety-related system (functional safety) in industrial locations",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": "2015-10-20",
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1462501"
  },
  {
   "id": "1394701",
@@ -4395,21 +4440,6 @@
   "url": "https://elstandard.se/standard/1400801"
  },
  {
-  "id": "1462501",
-  "name": "IEC 61000-6-7:2014",
-  "title": "Electromagnetic compatibility (EMC) - Part 6-7: Generic standards - Immunity requirements for equipment intended to perform functions in a safety-related system (functional safety) in industrial locations",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": "2015-10-20",
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1462501"
- },
- {
   "id": "1865101",
   "name": "IEC 61000-4-5:2014/A1:2017",
   "title": "Electromagnetic compatibility (EMC) - Part 4-5: Testing and measurement techniques - Surge immunity test",
@@ -4425,21 +4455,6 @@
   "url": "https://elstandard.se/standard/1865101"
  },
  {
-  "id": "1698701",
-  "name": "CISPR 16-1-2:2014 RLV",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-2: Radio disturbance and immunity measuring apparatus - Coupling devices for conducted disturbance measurements",
-  "prefix": "CISPR",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": "2014-11-18",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1698701"
- },
- {
   "id": "1353001",
   "name": "CISPR 16-4-2:2011+AMD1:2014 CSV",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty",
@@ -4453,6 +4468,36 @@
   "pub_year": 2011,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1353001"
+ },
+ {
+  "id": "1367501",
+  "name": "CISPR 16-2-1:2014",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-1: Methods of measurement of disturbances and immunity - Conducted disturbance measurements",
+  "prefix": "CISPR",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR",
+  "determination_date": "2014-09-15",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1367501"
+ },
+ {
+  "id": "1380501",
+  "name": "CISPR 16-1-2:2014",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-2: Radio disturbance and immunity measuring apparatus - Coupling devices for conducted disturbance measurements",
+  "prefix": "CISPR",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR",
+  "determination_date": "2014-11-18",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1380501"
  },
  {
   "id": "1495901",
@@ -4483,21 +4528,6 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1496001"
- },
- {
-  "id": "1380501",
-  "name": "CISPR 16-1-2:2014",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-2: Radio disturbance and immunity measuring apparatus - Coupling devices for conducted disturbance measurements",
-  "prefix": "CISPR",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": "2014-11-18",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1380501"
  },
  {
   "id": "1769401",
@@ -4560,6 +4590,21 @@
   "url": "https://elstandard.se/standard/1892801"
  },
  {
+  "id": "2858801",
+  "name": "CISPR 16-1-6:2014/A2:2022",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-6: Radio disturbance and immunity measuring apparatus - EMC antenna calibration",
+  "prefix": "CISPR",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": "2022-05-17",
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2858801"
+ },
+ {
   "id": "2272301",
   "name": "CISPR 16-1-5:2014/C1:2020",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Antenna calibration sites and reference test sites for 5 MHz to 18 GHz",
@@ -4588,21 +4633,6 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2272401"
- },
- {
-  "id": "2858801",
-  "name": "CISPR 16-1-6:2014/A2:2022",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-6: Radio disturbance and immunity measuring apparatus - EMC antenna calibration",
-  "prefix": "CISPR",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/A",
-  "determination_date": "2022-05-17",
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2858801"
  },
  {
   "id": "1418201",
@@ -4695,21 +4725,6 @@
   "url": "https://elstandard.se/standard/2833201"
  },
  {
-  "id": "2168401",
-  "name": "CISPR 15:2013/IS1:2019",
-  "title": "Limits and methods of measurement of radio disturbance characteristics of electrical lighting and similar equipment",
-  "prefix": "CISPR",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/F",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2168401"
- },
- {
   "id": "1329101",
   "name": "CISPR 20:2006+AMD1:2013 CSV",
   "title": "Sound and television broadcast receivers and associated equipment - Immunity characteristics - Limits and methods of measurement",
@@ -4723,6 +4738,21 @@
   "pub_year": 2006,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1329101"
+ },
+ {
+  "id": "2168401",
+  "name": "CISPR 15:2013/IS1:2019",
+  "title": "Limits and methods of measurement of radio disturbance characteristics of electrical lighting and similar equipment",
+  "prefix": "CISPR",
+  "doc_type": "IS",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/F",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2168401"
  },
  {
   "id": "1189701",
@@ -4800,19 +4830,19 @@
   "url": "https://elstandard.se/standard/1072301"
  },
  {
-  "id": "2152501",
-  "name": "IEC 61000-3-12:2011/IS1:2012",
-  "title": "Electromagnetic compatibility (EMC) - Part 3-12: Limits - Limits for harmonic currents produced by equipment connected to public low-voltage systems with input current >16 A and ≤75 A per phase",
+  "id": "919801",
+  "name": "IEC 61000-4-21:2011",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-21: Testing and measurement techniques - Reverberation chamber test methods",
   "prefix": "IEC",
-  "doc_type": "IS",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK EMC",
-  "committee_intl": "TC 77/SC 77A",
-  "determination_date": null,
+  "committee_intl": "CISPR",
+  "determination_date": "2011-06-07",
   "annulment_date": null,
   "pub_year": 2011,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2152501"
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/919801"
  },
  {
   "id": "947101",
@@ -4830,19 +4860,19 @@
   "url": "https://elstandard.se/standard/947101"
  },
  {
-  "id": "919801",
-  "name": "IEC 61000-4-21:2011",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-21: Testing and measurement techniques - Reverberation chamber test methods",
+  "id": "2152501",
+  "name": "IEC 61000-3-12:2011/IS1:2012",
+  "title": "Electromagnetic compatibility (EMC) - Part 3-12: Limits - Limits for harmonic currents produced by equipment connected to public low-voltage systems with input current >16 A and ≤75 A per phase",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "IS",
   "status": "publicerad",
   "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": "2011-06-07",
+  "committee_intl": "TC 77/SC 77A",
+  "determination_date": null,
   "annulment_date": null,
   "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/919801"
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2152501"
  },
  {
   "id": "3289801",
@@ -4920,36 +4950,6 @@
   "url": "https://elstandard.se/standard/955801"
  },
  {
-  "id": "2044601",
-  "name": "CISPR 16-4-2:2011/A2:2018/C1:2019",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty",
-  "prefix": "CISPR",
-  "doc_type": "Corrigendum",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/A",
-  "determination_date": "2019-04-09",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2044601"
- },
- {
-  "id": "1998301",
-  "name": "CISPR 16-4-2:2011/A2:2018",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty - Conducted disturbance measurements",
-  "prefix": "CISPR",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/A",
-  "determination_date": "2018-12-11",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1998301"
- },
- {
   "id": "1352901",
   "name": "CISPR 16-4-2:2011/A1:2014",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty",
@@ -4978,6 +4978,36 @@
   "pub_year": 2011,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1353101"
+ },
+ {
+  "id": "1998301",
+  "name": "CISPR 16-4-2:2011/A2:2018",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty - Conducted disturbance measurements",
+  "prefix": "CISPR",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": "2018-12-11",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1998301"
+ },
+ {
+  "id": "2044601",
+  "name": "CISPR 16-4-2:2011/A2:2018/C1:2019",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty",
+  "prefix": "CISPR",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": "2019-04-09",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2044601"
  },
  {
   "id": "851901",
@@ -5025,21 +5055,6 @@
   "url": "https://elstandard.se/standard/1870401"
  },
  {
-  "id": "1959001",
-  "name": "CISPR 16-1-1:2010/IS1:2018",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus",
-  "prefix": "CISPR",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2010,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1959001"
- },
- {
   "id": "850001",
   "name": "CISPR 24:2010",
   "title": "Information technology equipment - Immunity characteristics - Limits and methods of measurement",
@@ -5068,6 +5083,21 @@
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/867401"
+ },
+ {
+  "id": "1959001",
+  "name": "CISPR 16-1-1:2010/IS1:2018",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus",
+  "prefix": "CISPR",
+  "doc_type": "IS",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2010,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1959001"
  },
  {
   "id": "1546801",
@@ -5145,6 +5175,21 @@
   "url": "https://elstandard.se/standard/1852301"
  },
  {
+  "id": "868701",
+  "name": "IEC/TR 61000-3-13:2008",
+  "title": "Electromagnetic compatibility (EMC) - Part 3-13: Limits - Assessment of emission limits for the connection of unbalanced installations to MV, HV and EHV power systems",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2008,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/868701"
+ },
+ {
   "id": "2084101",
   "name": "IEC/TR 61000-3-6:2008",
   "title": "Electromagnetic compatibility (EMC) - Part 3-6: Assessment of harmonic emission limits for the connection of distorting installations to MV, HV and EHV power systems",
@@ -5173,21 +5218,6 @@
   "pub_year": 2008,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2205801"
- },
- {
-  "id": "868701",
-  "name": "IEC/TR 61000-3-13:2008",
-  "title": "Electromagnetic compatibility (EMC) - Part 3-13: Limits - Assessment of emission limits for the connection of unbalanced installations to MV, HV and EHV power systems",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2008,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/868701"
  },
  {
   "id": "620301",
@@ -5400,21 +5430,6 @@
   "url": "https://elstandard.se/standard/1657301"
  },
  {
-  "id": "2192901",
-  "name": "CISPR 16-1-3:2004/A2:2020",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-3: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Disturbance power",
-  "prefix": "CISPR",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/A",
-  "determination_date": "2020-06-09",
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2192901"
- },
- {
   "id": "1657201",
   "name": "CISPR 16-1-3:2004/A1:2016",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-3: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Disturbance power",
@@ -5428,6 +5443,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1657201"
+ },
+ {
+  "id": "2192901",
+  "name": "CISPR 16-1-3:2004/A2:2020",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-3: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Disturbance power",
+  "prefix": "CISPR",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": "2020-06-09",
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2192901"
  },
  {
   "id": "1851701",
@@ -5896,7 +5926,7 @@
  },
  {
   "id": "3806401",
-  "name": "IEC TR 61000-1-9:2014+AMD1:2026 CSV",
+  "name": "IEC TR 61000-1-9:2024+AMD1:2026 CSV",
   "title": "Electromagnetic compatibility (EMC) - Part 1-9: General - Evaluation of uncertainty for the measurement of harmonic current emissions",
   "prefix": "IEC TR",
   "doc_type": "Standard",
@@ -5905,7 +5935,7 @@
   "committee_intl": "TC 77/SC 77A",
   "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2014,
+  "pub_year": 2024,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3806401"
  },
@@ -6210,36 +6240,6 @@
   "url": "https://elstandard.se/standard/1653401"
  },
  {
-  "id": "1834701",
-  "name": "CISPR 14-1:2016/IS1:2017",
-  "title": "Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 1: Emission",
-  "prefix": "CISPR",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/F",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1834701"
- },
- {
-  "id": "1834801",
-  "name": "CISPR 14-1:2016/IS2:2017",
-  "title": "Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 1: Emission",
-  "prefix": "CISPR",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/F",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1834801"
- },
- {
   "id": "1690801",
   "name": "CISPR 11:2015+AMD1:2016 CSV",
   "title": "Industrial, scientific and medical equipment - Radio-frequency disturbance characteristics - Limits and methods of measurement",
@@ -6283,6 +6283,36 @@
   "pub_year": 2017,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1744301"
+ },
+ {
+  "id": "1834701",
+  "name": "CISPR 14-1:2016/IS1:2017",
+  "title": "Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 1: Emission",
+  "prefix": "CISPR",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/F",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1834701"
+ },
+ {
+  "id": "1834801",
+  "name": "CISPR 14-1:2016/IS2:2017",
+  "title": "Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 1: Emission",
+  "prefix": "CISPR",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/F",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1834801"
  },
  {
   "id": "1884301",
@@ -6405,21 +6435,6 @@
   "url": "https://elstandard.se/standard/2608501"
  },
  {
-  "id": "1539001",
-  "name": "CISPR 15:2013+AMD1:2015 CSV",
-  "title": "Limits and methods of measurement of radio disturbance characteristics of electrical lighting and similar equipment",
-  "prefix": "CISPR",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1539001"
- },
- {
   "id": "1565301",
   "name": "CISPR 11:2015",
   "title": "Industrial, scientific and medical equipment - Radio-frequency disturbance characteristics - Limits and methods of measurement",
@@ -6508,6 +6523,21 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1521401"
+ },
+ {
+  "id": "1539001",
+  "name": "CISPR 15:2013+AMD1:2015 CSV",
+  "title": "Limits and methods of measurement of radio disturbance characteristics of electrical lighting and similar equipment",
+  "prefix": "CISPR",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1539001"
  },
  {
   "id": "1507601",
@@ -7290,21 +7320,6 @@
   "url": "https://elstandard.se/standard/1063401"
  },
  {
-  "id": "211001",
-  "name": "CISPR 16-1-1:2010",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus",
-  "prefix": "CISPR",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": "2010-04-25",
-  "annulment_date": "2022-06-25",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/211001"
- },
- {
   "id": "463101",
   "name": "CISPR 16-1-4:2010",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements",
@@ -7335,19 +7350,19 @@
   "url": "https://elstandard.se/standard/463301"
  },
  {
-  "id": "1063301",
-  "name": "CISPR 16-1-4:2010/A1:2012",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements",
+  "id": "211001",
+  "name": "CISPR 16-1-1:2010",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus",
   "prefix": "CISPR",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/A",
-  "determination_date": "2013-01-21",
-  "annulment_date": "2022-02-11",
+  "committee_intl": "CISPR",
+  "determination_date": "2010-04-25",
+  "annulment_date": "2022-06-25",
   "pub_year": 2010,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1063301"
+  "url": "https://elstandard.se/standard/211001"
  },
  {
   "id": "874001",
@@ -7395,6 +7410,21 @@
   "url": "https://elstandard.se/standard/1374401"
  },
  {
+  "id": "1063301",
+  "name": "CISPR 16-1-4:2010/A1:2012",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements",
+  "prefix": "CISPR",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": "2013-01-21",
+  "annulment_date": "2022-02-11",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1063301"
+ },
+ {
   "id": "1414901",
   "name": "CISPR 16-1-1:2010/A2:2014",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus",
@@ -7408,6 +7438,21 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1414901"
+ },
+ {
+  "id": "1778801",
+  "name": "CISPR 16-1-4:2010/A2:2017",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements",
+  "prefix": "CISPR",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR/CIS/A",
+  "determination_date": "2017-09-05",
+  "annulment_date": "2022-02-11",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1778801"
  },
  {
   "id": "558301",
@@ -7875,6 +7920,21 @@
   "url": "https://elstandard.se/standard/255701"
  },
  {
+  "id": "37201",
+  "name": "IEC 61000-4-2:2008",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-2: Testing and measuring techniques - Electrostatic discharge immunity test",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": "2009-05-24",
+  "annulment_date": "2028-04-29",
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/37201"
+ },
+ {
   "id": "298401",
   "name": "IEC 61000-4-30:2008",
   "title": "Electromagnetic compatibility (EMC) - Part 4-30: Testing and measurement techniques - Power quality measurement methods",
@@ -7903,21 +7963,6 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/400901"
- },
- {
-  "id": "37201",
-  "name": "IEC 61000-4-2:2008",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-2: Testing and measuring techniques - Electrostatic discharge immunity test",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": "2009-05-24",
-  "annulment_date": "2028-04-29",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/37201"
  },
  {
   "id": "1080601",
@@ -7965,21 +8010,6 @@
   "url": "https://elstandard.se/standard/1399701"
  },
  {
-  "id": "873101",
-  "name": "CISPR 16-2-1:2008/A1:2010",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-1: Methods of measurement of disturbances and immunity - Conducted disturbance measurements",
-  "prefix": "CISPR",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": "2011-05-03",
-  "annulment_date": "2017-04-01",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/873101"
- },
- {
   "id": "1254201",
   "name": "CISPR 16-2-1:2008/A2:2013",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-1: Methods of measurement of disturbances and immunity - Conducted disturbance measurements",
@@ -7993,6 +8023,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1254201"
+ },
+ {
+  "id": "873101",
+  "name": "CISPR 16-2-1:2008/A1:2010",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-1: Methods of measurement of disturbances and immunity - Conducted disturbance measurements",
+  "prefix": "CISPR",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR",
+  "determination_date": "2011-05-03",
+  "annulment_date": "2017-04-01",
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/873101"
  },
  {
   "id": "510401",
@@ -8085,21 +8130,6 @@
   "url": "https://elstandard.se/standard/254801"
  },
  {
-  "id": "400801",
-  "name": "SS-EN 61000-3-3, utg 1:1995/IS1:2007",
-  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 3: Gränsvärden - Begränsning av spänningsfluktuationer och flimmer i lågspänningsdistributionssystem förorsakade av apparater med märkström högst 16A",
-  "prefix": "SS-EN",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": null,
-  "determination_date": "2007-06-24",
-  "annulment_date": "2011-08-31",
-  "pub_year": 1995,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/400801"
- },
- {
   "id": "198301",
   "name": "SS-EN 55016-1-1, utg 2:2007",
   "title": "EMC - Utrustning och metoder för mätning av radiostörningar och immunitet - Del 1-1: Mätutrustning",
@@ -8113,6 +8143,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/198301"
+ },
+ {
+  "id": "400801",
+  "name": "SS-EN 61000-3-3, utg 1:1995/IS1:2007",
+  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 3: Gränsvärden - Begränsning av spänningsfluktuationer och flimmer i lågspänningsdistributionssystem förorsakade av apparater med märkström högst 16A",
+  "prefix": "SS-EN",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": null,
+  "determination_date": "2007-06-24",
+  "annulment_date": "2011-08-31",
+  "pub_year": 1995,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/400801"
  },
  {
   "id": "557201",
@@ -8565,21 +8610,6 @@
   "url": "https://elstandard.se/standard/254901"
  },
  {
-  "id": "1796101",
-  "name": "IEC 61000-4-3:2006/IS1:2008",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-3: Testing and measurement techniques - Radiated, radio-frequency, electromagnetic field immunity test",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2006,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1796101"
- },
- {
   "id": "557101",
   "name": "IEC 61000-4-18:2006",
   "title": "Electromagnetic compatibility (EMC) - Part: 4-18: Testing and measurement techniques - Damped oscillatory wave immunity test",
@@ -8653,6 +8683,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/603501"
+ },
+ {
+  "id": "1796101",
+  "name": "IEC 61000-4-3:2006/IS1:2008",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-3: Testing and measurement techniques - Radiated, radio-frequency, electromagnetic field immunity test",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2006,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1796101"
  },
  {
   "id": "255101",
@@ -8880,19 +8925,19 @@
   "url": "https://elstandard.se/standard/199701"
  },
  {
-  "id": "372601",
-  "name": "SS-EN 61000-4-4, utg 2:2005",
-  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-4: Mät- och provningsmetoder - Provning av immunitet mot snabba transienter och pulsskurar",
+  "id": "333501",
+  "name": "SS-EN 55016-2-1, utg 1:2005",
+  "title": "EMC - Utrustning och metoder för mätning av radiostörningar och immunitet - Del 2-1: Mätning av ledningsbundna störningar",
   "prefix": "SS-EN",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
+  "committee_intl": "CISPR",
   "determination_date": "2005-01-23",
-  "annulment_date": "2015-06-03",
+  "annulment_date": "2012-02-29",
   "pub_year": 2005,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/372601"
+  "url": "https://elstandard.se/standard/333501"
  },
  {
   "id": "198601",
@@ -8953,6 +8998,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/200001"
+ },
+ {
+  "id": "372601",
+  "name": "SS-EN 61000-4-4, utg 2:2005",
+  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-4: Mät- och provningsmetoder - Provning av immunitet mot snabba transienter och pulsskurar",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": "2005-01-23",
+  "annulment_date": "2015-06-03",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/372601"
  },
  {
   "id": "225901",
@@ -9195,6 +9255,21 @@
   "url": "https://elstandard.se/standard/728001"
  },
  {
+  "id": "720501",
+  "name": "IEC 61000-4-11:2004",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-11: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations immunity tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": "2004-09-26",
+  "annulment_date": "2023-03-02",
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/720501"
+ },
+ {
   "id": "372501",
   "name": "IEC 61000-4-4:2004",
   "title": "Electromagnetic compatibility (EMC) - Part 4-4: Testing and measurement techniques - Electrical fast transient/burst immunity test",
@@ -9223,21 +9298,6 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/685701"
- },
- {
-  "id": "720501",
-  "name": "IEC 61000-4-11:2004",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-11: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations immunity tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": "2004-09-26",
-  "annulment_date": "2023-03-02",
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/720501"
  },
  {
   "id": "334801",
@@ -9300,21 +9360,6 @@
   "url": "https://elstandard.se/standard/1389001"
  },
  {
-  "id": "545601",
-  "name": "SS-EN 61000-4-20, utg 1:2003",
-  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-20: Mät- och provningsmetoder - Mätning av emission och immunitet i TEM-vågledare",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77/SC 77C",
-  "determination_date": "2003-08-25",
-  "annulment_date": "2013-09-30",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/545601"
- },
- {
   "id": "298301",
   "name": "SS-EN 61000-4-30, utg 1:2003",
   "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-30: Mät- och provningsmetoder - Mätning av spänningsgodhet och elkvalitet",
@@ -9328,6 +9373,21 @@
   "pub_year": 2003,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/298301"
+ },
+ {
+  "id": "545601",
+  "name": "SS-EN 61000-4-20, utg 1:2003",
+  "title": "Elektromagnetisk kompatibilitet (EMC) - Del 4-20: Mät- och provningsmetoder - Mätning av emission och immunitet i TEM-vågledare",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77/SC 77C",
+  "determination_date": "2003-08-25",
+  "annulment_date": "2013-09-30",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/545601"
  },
  {
   "id": "197601",
@@ -9405,21 +9465,6 @@
   "url": "https://elstandard.se/standard/255401"
  },
  {
-  "id": "545501",
-  "name": "IEC 61000-4-20:2003",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-20: Testing and measurement techniques - Emission and immunity testing in transverse electromagnetic (TEM) waveguides",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77/SC 77C",
-  "determination_date": "2003-08-25",
-  "annulment_date": "2013-09-30",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/545501"
- },
- {
   "id": "298201",
   "name": "IEC 61000-4-30:2003",
   "title": "Electromagnetic compatibility (EMC) - Part 4-30: Testing and measurement techniques - Power quality measurement methods",
@@ -9448,6 +9493,21 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/728201"
+ },
+ {
+  "id": "545501",
+  "name": "IEC 61000-4-20:2003",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-20: Testing and measurement techniques - Emission and immunity testing in transverse electromagnetic (TEM) waveguides",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77/SC 77C",
+  "determination_date": "2003-08-25",
+  "annulment_date": "2013-09-30",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/545501"
  },
  {
   "id": "545701",
@@ -9510,21 +9570,6 @@
   "url": "https://elstandard.se/standard/986901"
  },
  {
-  "id": "1092401",
-  "name": "CISPR 16-1-5:2003",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Antenna calibration test sites for 30 MHz to 1 000 MHz",
-  "prefix": "CISPR",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": "2005-01-23",
-  "annulment_date": "2018-01-20",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1092401"
- },
- {
   "id": "1698801",
   "name": "CISPR 16-1-2:2003",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-2: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Conducted disturbances",
@@ -9538,6 +9583,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1698801"
+ },
+ {
+  "id": "1092401",
+  "name": "CISPR 16-1-5:2003",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Antenna calibration test sites for 30 MHz to 1 000 MHz",
+  "prefix": "CISPR",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR",
+  "determination_date": "2005-01-23",
+  "annulment_date": "2018-01-20",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1092401"
  },
  {
   "id": "44301",
@@ -9600,21 +9660,6 @@
   "url": "https://elstandard.se/standard/933101"
  },
  {
-  "id": "1059501",
-  "name": "CISPR 16-1-5:2003/A1:2012",
-  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Specifications and validation procedures for CALTS and REFTS from 30 MHz to 1 000 MHz",
-  "prefix": "CISPR",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR",
-  "determination_date": "2013-01-21",
-  "annulment_date": "2018-01-20",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1059501"
- },
- {
   "id": "1698901",
   "name": "CISPR 16-1-2:2003/A1:2004",
   "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-2: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Conducted disturbances",
@@ -9643,6 +9688,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1699001"
+ },
+ {
+  "id": "1059501",
+  "name": "CISPR 16-1-5:2003/A1:2012",
+  "title": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Specifications and validation procedures for CALTS and REFTS from 30 MHz to 1 000 MHz",
+  "prefix": "CISPR",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "CISPR",
+  "determination_date": "2013-01-21",
+  "annulment_date": "2018-01-20",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1059501"
  },
  {
   "id": "1851401",
@@ -9930,21 +9990,6 @@
   "url": "https://elstandard.se/standard/37101"
  },
  {
-  "id": "1448001",
-  "name": "IEC/TS 61000-6-5:2001",
-  "title": "Electromagnetic compatibility (EMC) - Part 6-5: Generic standards - Immunity for power station and substation environments",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2001,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1448001"
- },
- {
   "id": "1666001",
   "name": "IEC/TS 61000-1-2:2001",
   "title": "Electromagnetic Compatibility (EMC) - Part 1-2: General - Methodology for the achievement of functional safety of electrical and electronic equipment with regard to electromagnetic phenomena",
@@ -9958,6 +10003,21 @@
   "pub_year": 2001,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1666001"
+ },
+ {
+  "id": "1448001",
+  "name": "IEC/TS 61000-6-5:2001",
+  "title": "Electromagnetic compatibility (EMC) - Part 6-5: Generic standards - Immunity for power station and substation environments",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2001,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1448001"
  },
  {
   "id": "990501",
@@ -10395,21 +10455,6 @@
   "url": "https://elstandard.se/standard/400501"
  },
  {
-  "id": "39001",
-  "name": "IEC 61000-4-8:1993+AMD1:2000 CSV",
-  "title": "Electromagnetic compatibility (EMC) - Part 4: Testing and measurement techniques - Section 8: Power frequency magnetic field immunity test - Basic EMC Publication",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77",
-  "determination_date": "1994-01-02",
-  "annulment_date": "2013-01-31",
-  "pub_year": 1994,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/39001"
- },
- {
   "id": "845901",
   "name": "IEC 61000-4-9:1993+AMD1:2000 CSV",
   "title": "Electromagnetic compatibility (EMC) - Part 4: Testing and measurement techniques - Section 9: Pulse magnetic field immunity test - Basic EMC Publication",
@@ -10440,19 +10485,19 @@
   "url": "https://elstandard.se/standard/846101"
  },
  {
-  "id": "48201",
-  "name": "IEC 61000-4-8:1993/A1:2000",
-  "title": "Electromagnetic compatibility (EMC) - Part 4-8: Testing and measurement techniques - Power frequency magnetic field immunity test",
+  "id": "39001",
+  "name": "IEC 61000-4-8:1993+AMD1:2000 CSV",
+  "title": "Electromagnetic compatibility (EMC) - Part 4: Testing and measurement techniques - Section 8: Power frequency magnetic field immunity test - Basic EMC Publication",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK EMC",
   "committee_intl": "TC 77",
-  "determination_date": "2001-10-25",
+  "determination_date": "1994-01-02",
   "annulment_date": "2013-01-31",
   "pub_year": 1994,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/48201"
+  "url": "https://elstandard.se/standard/39001"
  },
  {
   "id": "827701",
@@ -10483,6 +10528,21 @@
   "pub_year": 1994,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/827901"
+ },
+ {
+  "id": "48201",
+  "name": "IEC 61000-4-8:1993/A1:2000",
+  "title": "Electromagnetic compatibility (EMC) - Part 4-8: Testing and measurement techniques - Power frequency magnetic field immunity test",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK EMC",
+  "committee_intl": "TC 77",
+  "determination_date": "2001-10-25",
+  "annulment_date": "2013-01-31",
+  "pub_year": 1994,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/48201"
  },
  {
   "id": "100801",
@@ -10558,65 +10618,5 @@
   "pub_year": 1989,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/863401"
- },
- {
-  "id": "4042501",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK EMC",
-  "committee_intl": "TC 77/SC 77B",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4042501"
- },
- {
-  "id": "4042201",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/F",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4042201"
- },
- {
-  "id": "4042301",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/F",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4042301"
- },
- {
-  "id": "4042401",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK EMC",
-  "committee_intl": "CISPR/CIS/F",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4042401"
  }
 ]

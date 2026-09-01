@@ -15,21 +15,6 @@
   "url": "https://elstandard.se/standard/2176801"
  },
  {
-  "id": "3652001",
-  "name": "IEC SRD 63417:2025",
-  "title": "Guidance and plan to develop smart energy ontologies",
-  "prefix": "IEC SRD",
-  "doc_type": "SRD",
-  "status": "publicerad",
-  "committee_sek": "SK 1",
-  "committee_intl": "SyC Smart Energy",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3652001"
- },
- {
   "id": "3562301",
   "name": "IEC SRD 63460:2025",
   "title": "Architecture and use-cases for EVs to provide grid support functions",
@@ -43,6 +28,21 @@
   "pub_year": 2025,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3562301"
+ },
+ {
+  "id": "3652001",
+  "name": "IEC SRD 63417:2025",
+  "title": "Guidance and plan to develop smart energy ontologies",
+  "prefix": "IEC SRD",
+  "doc_type": "SRD",
+  "status": "publicerad",
+  "committee_sek": "SK 1",
+  "committee_intl": "SyC Smart Energy",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3652001"
  },
  {
   "id": "2917401",
@@ -268,20 +268,5 @@
   "pub_year": 2019,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2105701"
- },
- {
-  "id": "4029101",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "SRD",
-  "status": "new_work_proposal",
-  "committee_sek": "SK 1",
-  "committee_intl": "SyC Smart Energy",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4029101"
  }
 ]

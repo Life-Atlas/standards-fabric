@@ -1245,6 +1245,21 @@
   "url": "https://elstandard.se/standard/1322401"
  },
  {
+  "id": "1221801",
+  "name": "SS-EN 50131-2-7-3, utg 1:2013",
+  "title": "Larmsystem - Inbrotts- och överfallslarm - Del 2-7-3: Glaskrossdetektorer (aktiva)",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 79",
+  "committee_intl": null,
+  "determination_date": "2013-01-21",
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1221801"
+ },
+ {
   "id": "1221601",
   "name": "SS-EN 50131-2-7-1, utg 1:2013",
   "title": "Larmsystem - Inbrotts- och överfallslarm - Del 2-7-1: Glaskrossdetektorer (akustiska)",
@@ -1273,21 +1288,6 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1221701"
- },
- {
-  "id": "1221801",
-  "name": "SS-EN 50131-2-7-3, utg 1:2013",
-  "title": "Larmsystem - Inbrotts- och överfallslarm - Del 2-7-3: Glaskrossdetektorer (aktiva)",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 79",
-  "committee_intl": null,
-  "determination_date": "2013-01-21",
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1221801"
  },
  {
   "id": "1057301",
@@ -1725,36 +1725,6 @@
   "url": "https://elstandard.se/standard/1906201"
  },
  {
-  "id": "1754001",
-  "name": "IEC 60839-11-31:2016",
-  "title": "Alarm and electronic security systems - Part 11-31: Electronic access control systems - Core interoperability protocol based on Web services",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 79",
-  "committee_intl": "TC 79",
-  "determination_date": "2017-09-05",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1754001"
- },
- {
-  "id": "1754101",
-  "name": "IEC 60839-11-32:2016",
-  "title": "Alarm and electronic security systems - Part 11-32: Electronic access control systems - Access control monitoring based on Web services",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 79",
-  "committee_intl": "TC 79",
-  "determination_date": "2017-09-05",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1754101"
- },
- {
   "id": "1643001",
   "name": "IEC 60839-5-2:2016",
   "title": "Alarm and electronic security systems - Part 5-2: Alarm transmission systems - Requirements for supervised premises transceiver (SPT)",
@@ -1783,6 +1753,36 @@
   "pub_year": 2016,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1643101"
+ },
+ {
+  "id": "1754001",
+  "name": "IEC 60839-11-31:2016",
+  "title": "Alarm and electronic security systems - Part 11-31: Electronic access control systems - Core interoperability protocol based on Web services",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 79",
+  "committee_intl": "TC 79",
+  "determination_date": "2017-09-05",
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1754001"
+ },
+ {
+  "id": "1754101",
+  "name": "IEC 60839-11-32:2016",
+  "title": "Alarm and electronic security systems - Part 11-32: Electronic access control systems - Access control monitoring based on Web services",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 79",
+  "committee_intl": "TC 79",
+  "determination_date": "2017-09-05",
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1754101"
  },
  {
   "id": "1603301",
@@ -1935,34 +1935,19 @@
   "url": "https://elstandard.se/standard/1275001"
  },
  {
-  "id": "1341101",
-  "name": "IEC 62676-2-1:2013",
-  "title": "Video surveillance systems for use in security applications - Part 2-1: Video transmission protocols - General requirements",
+  "id": "1296401",
+  "name": "IEC 62676-3:2013",
+  "title": "Video surveillance systems for use in security applications - Part 3: Analog and digital video interfaces",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 79",
   "committee_intl": "TC 79",
-  "determination_date": "2014-02-18",
+  "determination_date": "2015-08-18",
   "annulment_date": null,
-  "pub_year": 2014,
+  "pub_year": 2015,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1341101"
- },
- {
-  "id": "1341201",
-  "name": "IEC 62676-2-2:2013",
-  "title": "Video surveillance systems for use in security applications - Part 2-2: Video transmission protocols - IP interoperability implementation based on HTTP and REST services",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 79",
-  "committee_intl": "TC 79",
-  "determination_date": "2014-02-18",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1341201"
+  "url": "https://elstandard.se/standard/1296401"
  },
  {
   "id": "1329701",
@@ -1995,19 +1980,34 @@
   "url": "https://elstandard.se/standard/1329801"
  },
  {
-  "id": "1296401",
-  "name": "IEC 62676-3:2013",
-  "title": "Video surveillance systems for use in security applications - Part 3: Analog and digital video interfaces",
+  "id": "1341101",
+  "name": "IEC 62676-2-1:2013",
+  "title": "Video surveillance systems for use in security applications - Part 2-1: Video transmission protocols - General requirements",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 79",
   "committee_intl": "TC 79",
-  "determination_date": "2015-08-18",
+  "determination_date": "2014-02-18",
   "annulment_date": null,
-  "pub_year": 2015,
+  "pub_year": 2014,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1296401"
+  "url": "https://elstandard.se/standard/1341101"
+ },
+ {
+  "id": "1341201",
+  "name": "IEC 62676-2-2:2013",
+  "title": "Video surveillance systems for use in security applications - Part 2-2: Video transmission protocols - IP interoperability implementation based on HTTP and REST services",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 79",
+  "committee_intl": "TC 79",
+  "determination_date": "2014-02-18",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1341201"
  },
  {
   "id": "921801",
@@ -2053,21 +2053,6 @@
   "pub_year": 2011,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/921901"
- },
- {
-  "id": "579701",
-  "name": "IEC 62642-1:2010",
-  "title": "Alarm systems - Intrusion and hold-up systems - Part 1: System requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 79",
-  "committee_intl": "TC 79",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2010,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/579701"
  },
  {
   "id": "866101",
@@ -2220,19 +2205,19 @@
   "url": "https://elstandard.se/standard/904501"
  },
  {
-  "id": "701701",
-  "name": "SS-IEC 60839-7-5, utg 1:2001",
-  "title": "Larmsystem - Del 7-5: Meddelandeformat och protokoll för seriellt datagränssnitt i larmöverföringssystem - Gränssnitt för tvåledare enligt ISO/IEC 8482",
-  "prefix": "SS-IEC",
+  "id": "579701",
+  "name": "IEC 62642-1:2010",
+  "title": "Alarm systems - Intrusion and hold-up systems - Part 1: System requirements",
+  "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 79",
   "committee_intl": "TC 79",
-  "determination_date": "2001-09-27",
-  "annulment_date": "2023-10-21",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/701701"
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2010,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/579701"
  },
  {
   "id": "818801",
@@ -2355,6 +2340,21 @@
   "url": "https://elstandard.se/standard/820201"
  },
  {
+  "id": "701701",
+  "name": "SS-IEC 60839-7-5, utg 1:2001",
+  "title": "Larmsystem - Del 7-5: Meddelandeformat och protokoll för seriellt datagränssnitt i larmöverföringssystem - Gränssnitt för tvåledare enligt ISO/IEC 8482",
+  "prefix": "SS-IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 79",
+  "committee_intl": "TC 79",
+  "determination_date": "2001-09-27",
+  "annulment_date": "2023-10-21",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/701701"
+ },
+ {
   "id": "1280401",
   "name": "SS-IEC 60839-7-1, utg 1:2001",
   "title": "Larmsystem - Del 7-1: Meddelandeformat och protokoll för seriellt datagränssnitt i larmöverföringssystem - Allmänt",
@@ -2443,21 +2443,6 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1341301"
- },
- {
-  "id": "701601",
-  "name": "IEC 60839-7-5:2001",
-  "title": "Alarm systems - Part 7-5: Message formats and protocols for serial data interfaces in alarm transmission systems - Alarm system interface employing a 2-wire configuration in accordance with ISO 8482",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 79",
-  "committee_intl": "TC 79",
-  "determination_date": "2001-09-27",
-  "annulment_date": "2023-10-21",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/701601"
  },
  {
   "id": "818701",
@@ -2593,6 +2578,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/820301"
+ },
+ {
+  "id": "701601",
+  "name": "IEC 60839-7-5:2001",
+  "title": "Alarm systems - Part 7-5: Message formats and protocols for serial data interfaces in alarm transmission systems - Alarm system interface employing a 2-wire configuration in accordance with ISO 8482",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 79",
+  "committee_intl": "TC 79",
+  "determination_date": "2001-09-27",
+  "annulment_date": "2023-10-21",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/701601"
  },
  {
   "id": "1983301",

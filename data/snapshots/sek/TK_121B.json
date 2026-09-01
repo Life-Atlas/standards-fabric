@@ -840,6 +840,21 @@
   "url": "https://elstandard.se/standard/2931401"
  },
  {
+  "id": "2266801",
+  "name": "IEC 61439-2:2020",
+  "title": "Low-voltage switchgear and controlgear assemblies - Part 2: Power switchgear and controlgear assemblies",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121B",
+  "committee_intl": "TC 121/SC 121B",
+  "determination_date": "2021-06-15",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2266801"
+ },
+ {
   "id": "2230201",
   "name": "IEC 61439-1:2020",
   "title": "Low-voltage switchgear and controlgear assemblies - Part 1: General rules",
@@ -870,19 +885,19 @@
   "url": "https://elstandard.se/standard/2230301"
  },
  {
-  "id": "2266801",
-  "name": "IEC 61439-2:2020",
-  "title": "Low-voltage switchgear and controlgear assemblies - Part 2: Power switchgear and controlgear assemblies",
+  "id": "2818901",
+  "name": "IEC 61439-1:2020/C1:2021",
+  "title": "Low-voltage switchgear and controlgear assemblies - Part 1: General rules",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "Corrigendum",
   "status": "publicerad",
   "committee_sek": "TK 121B",
   "committee_intl": "TC 121/SC 121B",
-  "determination_date": "2021-06-15",
+  "determination_date": "2022-02-15",
   "annulment_date": null,
   "pub_year": 2021,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2266801"
+  "url": "https://elstandard.se/standard/2818901"
  },
  {
   "id": "3061901",
@@ -898,21 +913,6 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3061901"
- },
- {
-  "id": "2818901",
-  "name": "IEC 61439-1:2020/C1:2021",
-  "title": "Low-voltage switchgear and controlgear assemblies - Part 1: General rules",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "publicerad",
-  "committee_sek": "TK 121B",
-  "committee_intl": "TC 121/SC 121B",
-  "determination_date": "2022-02-15",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2818901"
  },
  {
   "id": "2229401",

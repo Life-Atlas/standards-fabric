@@ -566,7 +566,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3795801"
  },
  {
@@ -581,7 +581,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3795901"
  },
  {
@@ -795,36 +795,6 @@
   "url": "https://elstandard.se/standard/3018301"
  },
  {
-  "id": "3087501",
-  "name": "IEC 62561-5:2023",
-  "title": "Lightning protection system components (LPSC) - Part 5: Requirements for earth electrode inspection housings and earth electrode seals",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 81",
-  "committee_intl": "TC 81",
-  "determination_date": "2024-09-24",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3087501"
- },
- {
-  "id": "3087601",
-  "name": "IEC 62561-5:2023 RLV",
-  "title": "Lightning protection system components (LPSC) - Part 5: Requirements for earth electrode inspection housings and earth electrode seals",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 81",
-  "committee_intl": "TC 81",
-  "determination_date": "2024-09-24",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3087601"
- },
- {
   "id": "3064901",
   "name": "IEC 62561-4:2023",
   "title": "Lightning protection system components (LPSC) - Part 4: Requirements for conductor fasteners",
@@ -853,6 +823,36 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3065001"
+ },
+ {
+  "id": "3087501",
+  "name": "IEC 62561-5:2023",
+  "title": "Lightning protection system components (LPSC) - Part 5: Requirements for earth electrode inspection housings and earth electrode seals",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 81",
+  "committee_intl": "TC 81",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3087501"
+ },
+ {
+  "id": "3087601",
+  "name": "IEC 62561-5:2023 RLV",
+  "title": "Lightning protection system components (LPSC) - Part 5: Requirements for earth electrode inspection housings and earth electrode seals",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 81",
+  "committee_intl": "TC 81",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3087601"
  },
  {
   "id": "2281801",
@@ -1335,6 +1335,21 @@
   "url": "https://elstandard.se/standard/1004301"
  },
  {
+  "id": "906501",
+  "name": "IEC 62561-4:2010",
+  "title": "Lightning protection system components (LPSC) - Part 4: Requirements for conductor fasteners",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 81",
+  "committee_intl": "TC 81",
+  "determination_date": "2012-02-14",
+  "annulment_date": "2020-11-30",
+  "pub_year": 2012,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/906501"
+ },
+ {
   "id": "903501",
   "name": "IEC 62305-1:2010",
   "title": "Protection against lightning - Part 1: General principles",
@@ -1393,21 +1408,6 @@
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/903901"
- },
- {
-  "id": "906501",
-  "name": "IEC 62561-4:2010",
-  "title": "Lightning protection system components (LPSC) - Part 4: Requirements for conductor fasteners",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 81",
-  "committee_intl": "TC 81",
-  "determination_date": "2012-02-14",
-  "annulment_date": "2020-11-30",
-  "pub_year": 2012,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/906501"
  },
  {
   "id": "826101",

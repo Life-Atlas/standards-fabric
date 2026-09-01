@@ -900,21 +900,6 @@
   "url": "https://elstandard.se/standard/2793501"
  },
  {
-  "id": "2756501",
-  "name": "IEC 60076-22-8:2021",
-  "title": "Power transformers - Part 22-8: Power transformer and reactor fittings - Devices suitable for use in communication networks",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": "2021-11-16",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2756501"
- },
- {
   "id": "2585801",
   "name": "IEC 60076-22-5:2021",
   "title": "Power transformers - Part 22-5: Power transformer and reactor fittings - Electric pumps for transformers",
@@ -943,6 +928,21 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2585901"
+ },
+ {
+  "id": "2756501",
+  "name": "IEC 60076-22-8:2021",
+  "title": "Power transformers - Part 22-8: Power transformer and reactor fittings - Devices suitable for use in communication networks",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": "2021-11-16",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2756501"
  },
  {
   "id": "2231101",
@@ -1140,21 +1140,6 @@
   "url": "https://elstandard.se/standard/1950601"
  },
  {
-  "id": "2261201",
-  "name": "IEC 60076-11:2018/IS1:2020",
-  "title": "Power transformers - Part 11: Dry-type transformers",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2261201"
- },
- {
   "id": "1998501",
   "name": "IEC 60076-11:2018",
   "title": "Power transformers - Part 11: Dry-type transformers",
@@ -1185,6 +1170,21 @@
   "url": "https://elstandard.se/standard/1998601"
  },
  {
+  "id": "2261201",
+  "name": "IEC 60076-11:2018/IS1:2020",
+  "title": "Power transformers - Part 11: Dry-type transformers",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2261201"
+ },
+ {
   "id": "1915401",
   "name": "IEC/TS 60076-23:2018",
   "title": "Power transformers - Part 23: DC magnetic bias suppression devices",
@@ -1198,21 +1198,6 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1915401"
- },
- {
-  "id": "2037801",
-  "name": "IEC/IEEE 60076-21:2018",
-  "title": "Power transformers - Part 21: Standard requirements, terminology, and test code for step-voltage regulators",
-  "prefix": "IEC/IEEE",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2037801"
  },
  {
   "id": "2017701",
@@ -1243,6 +1228,21 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2017801"
+ },
+ {
+  "id": "2037801",
+  "name": "IEC/IEEE 60076-21:2018",
+  "title": "Power transformers - Part 21: Standard requirements, terminology, and test code for step-voltage regulators",
+  "prefix": "IEC/IEEE",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2037801"
  },
  {
   "id": "1784401",
@@ -1455,6 +1455,21 @@
   "url": "https://elstandard.se/standard/1063501"
  },
  {
+  "id": "923701",
+  "name": "IEC 60076-2:2011",
+  "title": "Power transformers - Part 2: Temperature rise for liquid-immersed transformers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": "2011-05-03",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/923701"
+ },
+ {
   "id": "939801",
   "name": "IEC 60076-1:2011",
   "title": "Power transformers - Part 1: General",
@@ -1483,21 +1498,6 @@
   "pub_year": 2012,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/969101"
- },
- {
-  "id": "923701",
-  "name": "IEC 60076-2:2011",
-  "title": "Power transformers - Part 2: Temperature rise for liquid-immersed transformers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": "2011-05-03",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/923701"
  },
  {
   "id": "1263701",
@@ -1875,21 +1875,6 @@
   "url": "https://elstandard.se/standard/811201"
  },
  {
-  "id": "822401",
-  "name": "IEC 61378-2:2001",
-  "title": "Convertor transformers - Part 2: Transformers for HVDC applications",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": "2001-09-27",
-  "annulment_date": null,
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/822401"
- },
- {
   "id": "794001",
   "name": "IEC 60076-10:2001",
   "title": "Power transformers -  Part 10: Determination of sound levels",
@@ -1903,6 +1888,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/794001"
+ },
+ {
+  "id": "822401",
+  "name": "IEC 61378-2:2001",
+  "title": "Convertor transformers - Part 2: Transformers for HVDC applications",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": "2001-09-27",
+  "annulment_date": null,
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/822401"
  },
  {
   "id": "793801",
@@ -2475,21 +2475,6 @@
   "url": "https://elstandard.se/standard/91701"
  },
  {
-  "id": "990701",
-  "name": "SS-EN 60076-1, utg 1:1998/A12:2002",
-  "title": "Krafttransformatorer - Del 1: Allmänt",
-  "prefix": "SS-EN",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 14",
-  "committee_intl": null,
-  "determination_date": "2002-05-21",
-  "annulment_date": "2014-05-24",
-  "pub_year": 1998,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/990701"
- },
- {
   "id": "403101",
   "name": "SS-EN 60289, utg 1:1995/A11:2002",
   "title": "Krafttransformatorer - Reaktorer",
@@ -2503,6 +2488,21 @@
   "pub_year": 1995,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/403101"
+ },
+ {
+  "id": "990701",
+  "name": "SS-EN 60076-1, utg 1:1998/A12:2002",
+  "title": "Krafttransformatorer - Del 1: Allmänt",
+  "prefix": "SS-EN",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 14",
+  "committee_intl": null,
+  "determination_date": "2002-05-21",
+  "annulment_date": "2014-05-24",
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/990701"
  },
  {
   "id": "158201",

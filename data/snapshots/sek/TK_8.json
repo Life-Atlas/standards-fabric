@@ -480,21 +480,6 @@
   "url": "https://elstandard.se/standard/3714201"
  },
  {
-  "id": "3293501",
-  "name": "IEC TR 63282:2024",
-  "title": "LVDC systems - Assessment of standard voltages and power quality requirements",
-  "prefix": "IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8",
-  "determination_date": "2025-02-04",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3293501"
- },
- {
   "id": "3271601",
   "name": "IEC TS 63222-3:2024",
   "title": "Power quality management – Part 3: User characteristics modelling",
@@ -508,6 +493,21 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3271601"
+ },
+ {
+  "id": "3293501",
+  "name": "IEC TR 63282:2024",
+  "title": "LVDC systems - Assessment of standard voltages and power quality requirements",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8",
+  "determination_date": "2025-02-04",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3293501"
  },
  {
   "id": "3034201",
@@ -915,6 +915,21 @@
   "url": "https://elstandard.se/standard/3801501"
  },
  {
+  "id": "3809701",
+  "name": "IEC TR 63631-1:2026",
+  "title": "Decentralized Multiple Energy Systems - Part 1: General",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8/SC 8B",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3809701"
+ },
+ {
   "id": "3599301",
   "name": "IEC 63515:2025",
   "title": "Conceptual framework of power system resilience",
@@ -945,21 +960,6 @@
   "url": "https://elstandard.se/standard/3692201"
  },
  {
-  "id": "3636101",
-  "name": "IEC TR 63534:2025",
-  "title": "Integrating distributed PV into LVDC systems and use cases",
-  "prefix": "IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8/SC 8A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3636101"
- },
- {
   "id": "3559701",
   "name": "IEC TR 63411:2025",
   "title": "Grid connection of offshore wind via VSC-HVDC systems",
@@ -975,6 +975,21 @@
   "url": "https://elstandard.se/standard/3559701"
  },
  {
+  "id": "3636101",
+  "name": "IEC TR 63534:2025",
+  "title": "Integrating distributed PV into LVDC systems and use cases",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8/SC 8A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3636101"
+ },
+ {
   "id": "3104801",
   "name": "IEC/TS 62898-3-2:2024",
   "title": "Microgrids - Technical requirements - Energy Management Systems",
@@ -988,6 +1003,21 @@
   "pub_year": 2024,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3104801"
+ },
+ {
+  "id": "2990601",
+  "name": "IEC/TR 63410:2023",
+  "title": "Decentralized electrical energy systems roadmap",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8/SC 8B",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2990601"
  },
  {
   "id": "2996501",
@@ -1020,19 +1050,19 @@
   "url": "https://elstandard.se/standard/3093401"
  },
  {
-  "id": "2990601",
-  "name": "IEC/TR 63410:2023",
-  "title": "Decentralized electrical energy systems roadmap",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
+  "id": "2989601",
+  "name": "IEC/TS 63384-1:2023",
+  "title": "Power System Stability Control &ndash; Part 1: Guideline for framework design of power system stability control",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
   "status": "publicerad",
   "committee_sek": "TK 8",
-  "committee_intl": "TC 8/SC 8B",
+  "committee_intl": "TC 8/SC 8C",
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2023,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2990601"
+  "url": "https://elstandard.se/standard/2989601"
  },
  {
   "id": "3025701",
@@ -1093,21 +1123,6 @@
   "pub_year": 2023,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3072401"
- },
- {
-  "id": "2989601",
-  "name": "IEC/TS 63384-1:2023",
-  "title": "Power System Stability Control &ndash; Part 1: Guideline for framework design of power system stability control",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8/SC 8C",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2989601"
  },
  {
   "id": "2951201",

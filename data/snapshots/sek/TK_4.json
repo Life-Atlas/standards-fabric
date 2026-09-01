@@ -450,21 +450,6 @@
   "url": "https://elstandard.se/standard/3690901"
  },
  {
-  "id": "3313601",
-  "name": "IEC 60308:2024",
-  "title": "Hydraulic turbines - Testing of governing systems",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 4",
-  "committee_intl": "TC 4",
-  "determination_date": "2025-06-03",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3313601"
- },
- {
   "id": "3284901",
   "name": "IEC 63461:2024",
   "title": "Pelton hydraulic turbines – Model acceptance tests",
@@ -478,6 +463,21 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3284901"
+ },
+ {
+  "id": "3313601",
+  "name": "IEC 60308:2024",
+  "title": "Hydraulic turbines - Testing of governing systems",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 4",
+  "committee_intl": "TC 4",
+  "determination_date": "2025-06-03",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3313601"
  },
  {
   "id": "3007901",

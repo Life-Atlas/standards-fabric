@@ -360,6 +360,21 @@
   "url": "https://elstandard.se/standard/38601"
  },
  {
+  "id": "481701",
+  "name": "SS-EN 61310-3, utg 2:2008",
+  "title": "Maskinsäkerhet - Principer för indikering, märkning och manövrering - Del 3: Manöverdons placering och funktion",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2008-04-27",
+  "annulment_date": null,
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/481701"
+ },
+ {
   "id": "47501",
   "name": "SS-EN 61310-2, utg 2:2008",
   "title": "Maskinsäkerhet - Principer för indikering, märkning och manövrering - Del 2: Märkning",
@@ -388,21 +403,6 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/49401"
- },
- {
-  "id": "481701",
-  "name": "SS-EN 61310-3, utg 2:2008",
-  "title": "Maskinsäkerhet - Principer för indikering, märkning och manövrering - Del 3: Manöverdons placering och funktion",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2008-04-27",
-  "annulment_date": null,
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/481701"
  },
  {
   "id": "3612601",
@@ -540,36 +540,6 @@
   "url": "https://elstandard.se/standard/3018001"
  },
  {
-  "id": "3032101",
-  "name": "IEC/TS 62998-3:2023",
-  "title": "Safety of Machinery - Safety-related sensors used for the protection of persons - Part 3: Sensor technologies and algorithms\nPart 3: Sensor technologies and algorithms",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3032101"
- },
- {
-  "id": "3033001",
-  "name": "IEC/TS 61496-5:2023",
-  "title": "Safety of machinery - Electro-sensitive protective equipment - Part 5: Particular requirements for radar-based protective Devices",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3033001"
- },
- {
   "id": "2974301",
   "name": "IEC/TS 63394:2023",
   "title": "Safety of machinery - Guidelines on functional safety of safety-related control system",
@@ -598,6 +568,36 @@
   "pub_year": 2023,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2975801"
+ },
+ {
+  "id": "3032101",
+  "name": "IEC/TS 62998-3:2023",
+  "title": "Safety of Machinery - Safety-related sensors used for the protection of persons - Part 3: Sensor technologies and algorithms\nPart 3: Sensor technologies and algorithms",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3032101"
+ },
+ {
+  "id": "3033001",
+  "name": "IEC/TS 61496-5:2023",
+  "title": "Safety of machinery - Electro-sensitive protective equipment - Part 5: Particular requirements for radar-based protective Devices",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3033001"
  },
  {
   "id": "3072901",
@@ -975,6 +975,21 @@
   "url": "https://elstandard.se/standard/1469301"
  },
  {
+  "id": "481601",
+  "name": "IEC 61310-3:2007",
+  "title": "Safety of machinery - Indication, marking and actuation - Part 3: Requirements for the location and operation of actuators",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2008-04-27",
+  "annulment_date": null,
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/481601"
+ },
+ {
   "id": "47301",
   "name": "IEC 61310-2:2007",
   "title": "Safety of machinery - Indication, marking and actuation - Part 2: Requirements for marking",
@@ -1005,21 +1020,6 @@
   "url": "https://elstandard.se/standard/49301"
  },
  {
-  "id": "481601",
-  "name": "IEC 61310-3:2007",
-  "title": "Safety of machinery - Indication, marking and actuation - Part 3: Requirements for the location and operation of actuators",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2008-04-27",
-  "annulment_date": null,
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/481601"
- },
- {
   "id": "3763801",
   "name": "IEC 62061:2021+AMD1:2024+AMD2:2026 CSV",
   "title": "Safety of machinery - Functional safety of safety-related control systems",
@@ -1033,6 +1033,21 @@
   "pub_year": 2021,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3763801"
+ },
+ {
+  "id": "1952601",
+  "name": "IEC 62046:2018",
+  "title": "Safety of machinery - Application of protective equipment to detect the presence of persons",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2018-12-11",
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1952601"
  },
  {
   "id": "2038001",
@@ -1063,21 +1078,6 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2038201"
- },
- {
-  "id": "1952601",
-  "name": "IEC 62046:2018",
-  "title": "Safety of machinery - Application of protective equipment to detect the presence of persons",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2018-12-11",
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1952601"
  },
  {
   "id": "1739201",
@@ -1200,21 +1200,6 @@
   "url": "https://elstandard.se/standard/1228001"
  },
  {
-  "id": "1041301",
-  "name": "IEC 61496-1:2012",
-  "title": "Safety of machinery - Electro-sensitive protective equipment - Part 1: General requirements and tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2014-02-18",
-  "annulment_date": "2023-08-17",
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1041301"
- },
- {
   "id": "1113101",
   "name": "IEC 62061:2005+AMD1:2012+AMD2:2015 CSV",
   "title": "Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
@@ -1228,6 +1213,21 @@
   "pub_year": 2005,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1113101"
+ },
+ {
+  "id": "1041301",
+  "name": "IEC 61496-1:2012",
+  "title": "Safety of machinery - Electro-sensitive protective equipment - Part 1: General requirements and tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2014-02-18",
+  "annulment_date": "2023-08-17",
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1041301"
  },
  {
   "id": "1712301",
@@ -1545,21 +1545,6 @@
   "url": "https://elstandard.se/standard/53901"
  },
  {
-  "id": "1571201",
-  "name": "IEC 62061:2005/A2:2015",
-  "title": "Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2015-12-15",
-  "annulment_date": "2024-04-25",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1571201"
- },
- {
   "id": "1113201",
   "name": "IEC 62061:2005/A1:2012",
   "title": "Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
@@ -1573,6 +1558,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1113201"
+ },
+ {
+  "id": "1571201",
+  "name": "IEC 62061:2005/A2:2015",
+  "title": "Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2015-12-15",
+  "annulment_date": "2024-04-25",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1571201"
  },
  {
   "id": "37701",

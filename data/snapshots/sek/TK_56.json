@@ -705,21 +705,6 @@
   "url": "https://elstandard.se/standard/488501"
  },
  {
-  "id": "284901",
-  "name": "SS-EN 60300-3-14, utg 1:2008",
-  "title": "Tillförlitlighetsverksamhet - Del 3-14: Riktlinjer - Underhåll och underhållsstöd",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 56",
-  "committee_intl": "TC 56",
-  "determination_date": "2008-02-24",
-  "annulment_date": "2027-09-12",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/284901"
- },
- {
   "id": "494301",
   "name": "SS-EN 60300-3-2, utg 1:2008",
   "title": "Tillförlitlighetsverksamhet - Del 3-2: Riktlinjer - Insamling av tillförlitlighetsdata",
@@ -733,6 +718,21 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/494301"
+ },
+ {
+  "id": "284901",
+  "name": "SS-EN 60300-3-14, utg 1:2008",
+  "title": "Tillförlitlighetsverksamhet - Del 3-14: Riktlinjer - Underhåll och underhållsstöd",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 56",
+  "committee_intl": "TC 56",
+  "determination_date": "2008-02-24",
+  "annulment_date": "2027-09-12",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/284901"
  },
  {
   "id": "582001",
@@ -945,19 +945,19 @@
   "url": "https://elstandard.se/standard/3649601"
  },
  {
-  "id": "3544201",
-  "name": "IEC 62309:2024",
-  "title": "Dependability of products containing reused parts - Requirements for functionality and tests",
+  "id": "3275801",
+  "name": "IEC 60300-1:2024",
+  "title": "Dependability management - Part 1: Managing dependability",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 56",
   "committee_intl": "TC 56",
-  "determination_date": "2025-10-21",
+  "determination_date": "2025-03-04",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3544201"
+  "url": "https://elstandard.se/standard/3275801"
  },
  {
   "id": "3295101",
@@ -975,19 +975,19 @@
   "url": "https://elstandard.se/standard/3295101"
  },
  {
-  "id": "3275801",
-  "name": "IEC 60300-1:2024",
-  "title": "Dependability management - Part 1: Managing dependability",
+  "id": "3544201",
+  "name": "IEC 62309:2024",
+  "title": "Dependability of products containing reused parts - Requirements for functionality and tests",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 56",
   "committee_intl": "TC 56",
-  "determination_date": "2025-03-04",
+  "determination_date": "2025-10-21",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3275801"
+  "url": "https://elstandard.se/standard/3544201"
  },
  {
   "id": "2978701",
@@ -1095,21 +1095,6 @@
   "url": "https://elstandard.se/standard/2110101"
  },
  {
-  "id": "2172001",
-  "name": "IEC 61123:2019",
-  "title": "Reliability testing - Compliance test plans for success ratio",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 56",
-  "committee_intl": "TC 56",
-  "determination_date": "2020-05-12",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2172001"
- },
- {
   "id": "2115701",
   "name": "IEC 31010:2019",
   "title": "Risk management - Risk assessment techniques",
@@ -1123,6 +1108,21 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2115701"
+ },
+ {
+  "id": "2172001",
+  "name": "IEC 61123:2019",
+  "title": "Reliability testing - Compliance test plans for success ratio",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 56",
+  "committee_intl": "TC 56",
+  "determination_date": "2020-05-12",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2172001"
  },
  {
   "id": "1986101",
@@ -1393,21 +1393,6 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1070901"
- },
- {
-  "id": "1100901",
-  "name": "IEC 62551:2012",
-  "title": "Analysis techniques for dependability - Petri net techniques",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 56",
-  "committee_intl": "TC 56",
-  "determination_date": "2013-07-02",
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1100901"
  },
  {
   "id": "922801",
@@ -2160,19 +2145,19 @@
   "url": "https://elstandard.se/standard/726801"
  },
  {
-  "id": "284801",
-  "name": "IEC 60300-3-14:2004",
-  "title": "Dependability management - Part 3-14: Application guide - Maintenance and maintenance support",
+  "id": "702201",
+  "name": "IEC 60300-3-3:2004",
+  "title": "Dependability management - Part 3-3: Application guide - Life cycle costing",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 56",
   "committee_intl": "TC 56",
-  "determination_date": "2008-02-24",
-  "annulment_date": "2027-09-12",
-  "pub_year": 2008,
+  "determination_date": "2004-12-19",
+  "annulment_date": "2020-03-02",
+  "pub_year": 2004,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/284801"
+  "url": "https://elstandard.se/standard/702201"
  },
  {
   "id": "460701",
@@ -2190,6 +2175,21 @@
   "url": "https://elstandard.se/standard/460701"
  },
  {
+  "id": "284801",
+  "name": "IEC 60300-3-14:2004",
+  "title": "Dependability management - Part 3-14: Application guide - Maintenance and maintenance support",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 56",
+  "committee_intl": "TC 56",
+  "determination_date": "2008-02-24",
+  "annulment_date": "2027-09-12",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/284801"
+ },
+ {
   "id": "726701",
   "name": "IEC 60300-2:2004",
   "title": "Dependability management - Part 2: Guidelines for dependability management",
@@ -2203,21 +2203,6 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/726701"
- },
- {
-  "id": "702201",
-  "name": "IEC 60300-3-3:2004",
-  "title": "Dependability management - Part 3-3: Application guide - Life cycle costing",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 56",
-  "committee_intl": "TC 56",
-  "determination_date": "2004-12-19",
-  "annulment_date": "2020-03-02",
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/702201"
  },
  {
   "id": "758001",

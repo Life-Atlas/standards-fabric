@@ -1,5 +1,20 @@
 [
  {
+  "id": "4053001",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4053001"
+ },
+ {
   "id": "3761201",
   "name": "SS-EN IEC 63203-201-4, utg 1:2025/A1:2026",
   "title": "Kroppsburen elektronik - Enheter och system - Del 201-4: Elektronisk textil – Testmetod för fastställande av ytresistans hos konduktivt tyg efter förslitning",
@@ -510,21 +525,6 @@
   "url": "https://elstandard.se/standard/3739801"
  },
  {
-  "id": "3667301",
-  "name": "ISO/IEC TS 30180:2025",
-  "title": "Internet of Things (IoT) - Functional requirements to determine the status of self-quarantine through IoT data interfaces",
-  "prefix": "ISO/IEC TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3667301"
- },
- {
   "id": "3598501",
   "name": "ISO/IEC TR 30189-1:2025",
   "title": "Internet of Things (IoT) – IoT-based management of tangible cultural heritage assets – Part 1: Framework",
@@ -538,6 +538,21 @@
   "pub_year": 2025,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3598501"
+ },
+ {
+  "id": "3667301",
+  "name": "ISO/IEC TS 30180:2025",
+  "title": "Internet of Things (IoT) - Functional requirements to determine the status of self-quarantine through IoT data interfaces",
+  "prefix": "ISO/IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3667301"
  },
  {
   "id": "3118801",
@@ -570,6 +585,21 @@
   "url": "https://elstandard.se/standard/3118901"
  },
  {
+  "id": "3297201",
+  "name": "ISO/IEC 30141:2024",
+  "title": "Internet of Things (IoT) - Reference architecture",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3297201"
+ },
+ {
   "id": "3543901",
   "name": "ISO/IEC 30181:2024",
   "title": "Internet of Things (IoT) - Functional architecture for resource identifier interoperability",
@@ -598,21 +628,6 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3545901"
- },
- {
-  "id": "3297201",
-  "name": "ISO/IEC 30141:2024",
-  "title": "Internet of Things (IoT) - Reference architecture",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": "2024-09-24",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3297201"
  },
  {
   "id": "3104601",
@@ -690,21 +705,6 @@
   "url": "https://elstandard.se/standard/3717201"
  },
  {
-  "id": "3545401",
-  "name": "ISO/IEC TR 30194:2024",
-  "title": "Internet of things (IoT) and digital twin – Best practices for use case projects",
-  "prefix": "ISO/IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": "2025-02-04",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3545401"
- },
- {
   "id": "3268401",
   "name": "ISO/IEC TS 30168:2024",
   "title": "Internet of Things (IoT) - Generic Trust Anchor Application Programming Interface for Industrial IoT Devices",
@@ -735,6 +735,21 @@
   "url": "https://elstandard.se/standard/3271701"
  },
  {
+  "id": "3545401",
+  "name": "ISO/IEC TR 30194:2024",
+  "title": "Internet of things (IoT) and digital twin – Best practices for use case projects",
+  "prefix": "ISO/IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": "2025-02-04",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3545401"
+ },
+ {
   "id": "2968701",
   "name": "ISO/IEC 30179:2023",
   "title": "Internet of Things (IoT) - Overview and general requirements of IoT system for ecological environment monitoring",
@@ -748,21 +763,6 @@
   "pub_year": 2023,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2968701"
- },
- {
-  "id": "3076501",
-  "name": "ISO/IEC 30173:2023",
-  "title": "Digital Twin - Concepts and terminology",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3076501"
  },
  {
   "id": "2993901",
@@ -780,19 +780,19 @@
   "url": "https://elstandard.se/standard/2993901"
  },
  {
-  "id": "3063501",
-  "name": "IEC 63203-401-1:2023",
-  "title": "Wearable electronic devices and technologies - Part 401-1: Devices and systems: functional elements - Evaluation method of the stretchable resistive strain sensor",
-  "prefix": "IEC",
+  "id": "3076501",
+  "name": "ISO/IEC 30173:2023",
+  "title": "Digital Twin - Concepts and terminology",
+  "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": "2024-05-21",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3063501"
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3076501"
  },
  {
   "id": "2985701",
@@ -825,6 +825,21 @@
   "url": "https://elstandard.se/standard/2985801"
  },
  {
+  "id": "3063501",
+  "name": "IEC 63203-401-1:2023",
+  "title": "Wearable electronic devices and technologies - Part 401-1: Devices and systems: functional elements - Evaluation method of the stretchable resistive strain sensor",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "TC 124",
+  "determination_date": "2024-05-21",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3063501"
+ },
+ {
   "id": "3073101",
   "name": "ISO/IEC TR 30172:2023",
   "title": "Digital Twin - Use cases",
@@ -838,21 +853,6 @@
   "pub_year": 2023,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3073101"
- },
- {
-  "id": "2915001",
-  "name": "ISO/IEC 30142-2:2022",
-  "title": "Internet of Things (IoT) - Underwater acoustic sensor network (UWASN) - Network management system - Part 2: Underwater management information base (u-MIB)",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2915001"
  },
  {
   "id": "2845501",
@@ -883,6 +883,21 @@
   "pub_year": 2022,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2871401"
+ },
+ {
+  "id": "2915001",
+  "name": "ISO/IEC 30142-2:2022",
+  "title": "Internet of Things (IoT) - Underwater acoustic sensor network (UWASN) - Network management system - Part 2: Underwater management information base (u-MIB)",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2915001"
  },
  {
   "id": "2884101",
@@ -1050,21 +1065,6 @@
   "url": "https://elstandard.se/standard/2622901"
  },
  {
-  "id": "2830101",
-  "name": "IEC 63203-406-1:2021",
-  "title": "Wearable electronic devices and technologies - Part 406-1: Test method for measuring surface temperature of wrist worn wearable electronic devices while in contact with human skin",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": "2023-02-21",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2830101"
- },
- {
   "id": "2763801",
   "name": "IEC 63203-101-1:2021",
   "title": "Wearable electronic devices and technologies - Part 101-1: Terminology",
@@ -1078,6 +1078,21 @@
   "pub_year": 2022,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2763801"
+ },
+ {
+  "id": "2830101",
+  "name": "IEC 63203-406-1:2021",
+  "title": "Wearable electronic devices and technologies - Part 406-1: Test method for measuring surface temperature of wrist worn wearable electronic devices while in contact with human skin",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "TC 124",
+  "determination_date": "2023-02-21",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2830101"
  },
  {
   "id": "2759601",
@@ -1618,36 +1633,6 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2039301"
- },
- {
-  "id": "4053001",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4053001"
- },
- {
-  "id": "4039601",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4039601"
  },
  {
   "id": "4037101",

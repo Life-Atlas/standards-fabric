@@ -1,5 +1,50 @@
 [
  {
+  "id": "4068301",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4068301"
+ },
+ {
+  "id": "4068401",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4068401"
+ },
+ {
+  "id": "3809201",
+  "name": "SEK TS 63064, utg 1:2026",
+  "title": "Graphical symbols for diagrams - Guidance on design for standardization in IEC 60617",
+  "prefix": "SEK TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2026-08-18",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3809201"
+ },
+ {
   "id": "3776201",
   "name": "SS-EN IEC 60445, utg 7:2021/A1:2026",
   "title": "Gränssnitt människa-maskin (MMI) - Grundläggande regler för märkning av uttag och ledare",
@@ -878,10 +923,10 @@
   "status": "publicerad",
   "committee_sek": "TK 3",
   "committee_intl": "TC 3",
-  "determination_date": null,
+  "determination_date": "2026-08-18",
   "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
+  "pub_year": 2026,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/1926101"
  },
  {
@@ -1155,21 +1200,6 @@
   "url": "https://elstandard.se/standard/230601"
  },
  {
-  "id": "297901",
-  "name": "IEC 62491:2008",
-  "title": "Industrial systems, installations and equipment and industrial products - Labelling of cables and cores",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2009-03-29",
-  "annulment_date": null,
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/297901"
- },
- {
   "id": "108801",
   "name": "IEC 61355-1:2008",
   "title": "Classification and designation of documents for plants, systems and equipment - Part 1: Rules and classification tables",
@@ -1183,6 +1213,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/108801"
+ },
+ {
+  "id": "297901",
+  "name": "IEC 62491:2008",
+  "title": "Industrial systems, installations and equipment and industrial products - Labelling of cables and cores",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2009-03-29",
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/297901"
  },
  {
   "id": "518601",
@@ -1800,21 +1845,6 @@
   "url": "https://elstandard.se/standard/866501"
  },
  {
-  "id": "437501",
-  "name": "IEC 61360-1:2009",
-  "title": "Standard data element types with associated classification scheme for electric items - Part 1: Definitions - Principles and methods",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2010-09-26",
-  "annulment_date": "2020-11-30",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/437501"
- },
- {
   "id": "78601",
   "name": "IEC 81346-1:2009",
   "title": "Industrial systems, installations and equipment and industrial products - Structuring principles and reference designations - Part 1: Basic rules",
@@ -1843,6 +1873,21 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/78701"
+ },
+ {
+  "id": "437501",
+  "name": "IEC 61360-1:2009",
+  "title": "Standard data element types with associated classification scheme for electric items - Part 1: Definitions - Principles and methods",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2010-09-26",
+  "annulment_date": "2020-11-30",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/437501"
  },
  {
   "id": "1812901",
@@ -1920,21 +1965,6 @@
   "url": "https://elstandard.se/standard/680001"
  },
  {
-  "id": "641601",
-  "name": "IEC 61175:2005",
-  "title": "Industrial systems, installations and equipment and industrial products - Designation of signals",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2006-05-28",
-  "annulment_date": "2018-06-24",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/641601"
- },
- {
   "id": "679901",
   "name": "IEC 61360-4:2005",
   "title": "Standard data element types with associated classification scheme for electric components  - Part 4: IEC reference collection of standard data element types and component classes",
@@ -1948,6 +1978,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/679901"
+ },
+ {
+  "id": "641601",
+  "name": "IEC 61175:2005",
+  "title": "Industrial systems, installations and equipment and industrial products - Designation of signals",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2006-05-28",
+  "annulment_date": "2018-06-24",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/641601"
  },
  {
   "id": "711501",
@@ -2235,21 +2280,6 @@
   "url": "https://elstandard.se/standard/80101"
  },
  {
-  "id": "230401",
-  "name": "IEC 80416-1:2001",
-  "title": "Basic principles for graphical symbols for use on equipment - Part 1: Creation of symbol originals",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2002-06-18",
-  "annulment_date": "2012-01-31",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/230401"
- },
- {
   "id": "824601",
   "name": "IEC 62079:2001",
   "title": "Preparation of instructions - Structuring, content and presentation",
@@ -2265,19 +2295,19 @@
   "url": "https://elstandard.se/standard/824601"
  },
  {
-  "id": "108401",
-  "name": "IEC 62023:2000",
-  "title": "Structuring of technical information and documentation",
+  "id": "230401",
+  "name": "IEC 80416-1:2001",
+  "title": "Basic principles for graphical symbols for use on equipment - Part 1: Creation of symbol originals",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 3",
   "committee_intl": "TC 3",
-  "determination_date": "2001-04-19",
-  "annulment_date": "2014-11-22",
-  "pub_year": 2001,
+  "determination_date": "2002-06-18",
+  "annulment_date": "2012-01-31",
+  "pub_year": 2002,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/108401"
+  "url": "https://elstandard.se/standard/230401"
  },
  {
   "id": "79901",
@@ -2308,6 +2338,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/528201"
+ },
+ {
+  "id": "108401",
+  "name": "IEC 62023:2000",
+  "title": "Structuring of technical information and documentation",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2001-04-19",
+  "annulment_date": "2014-11-22",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/108401"
  },
  {
   "id": "528501",
@@ -2548,5 +2593,20 @@
   "pub_year": 1963,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2791301"
+ },
+ {
+  "id": "4074601",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4074601"
  }
 ]
