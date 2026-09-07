@@ -99,5 +99,19 @@
  "https://github.com/home-assistant/core/releases/tag/2026.9.0b0": "2026-08-31",
  "https://github.com/openhab/openhab-core/releases/tag/5.3.0.M1": "2026-08-31",
  "https://github.com/home-assistant/core/releases/tag/2026.9.0b6": "2026-09-01",
- "https://github.com/home-assistant/core/releases/tag/2026.9.0b5": "2026-09-01"
+ "https://github.com/home-assistant/core/releases/tag/2026.9.0b5": "2026-09-01",
+ "https://github.com/eclipse-ditto/ditto/releases/tag/3.9.7": "2026-09-07",
+ "https://github.com/eclipse-ditto/ditto/releases/tag/3.8.13": "2026-09-07",
+ "https://github.com/home-assistant/core/releases/tag/2026.9.1": "2026-09-07",
+ "https://github.com/home-assistant/core/releases/tag/2026.9.0": "2026-09-07",
+ "https://github.com/home-assistant/core/releases/tag/2026.9.0b9": "2026-09-07",
+ "https://github.com/home-assistant/core/releases/tag/2026.9.0b8": "2026-09-07",
+ "https://github.com/home-assistant/core/releases/tag/2026.9.0b7": "2026-09-07",
+ "https://github.com/node-red/node-red/releases/tag/5.0.6": "2026-09-07",
+ "https://github.com/node-red/node-red/releases/tag/5.0.5": "2026-09-07",
+ "https://github.com/node-red/node-red/releases/tag/4.1.14": "2026-09-07",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.130": "2026-09-07",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.129": "2026-09-07",
+ "https://github.com/openremote/openremote/releases/tag/1.30.0": "2026-09-07",
+ "https://github.com/absmach/magistrala/releases/tag/v1.0.0": "2026-09-07"
 }
