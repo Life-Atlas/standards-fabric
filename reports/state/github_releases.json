@@ -113,5 +113,12 @@
  "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.130": "2026-09-07",
  "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.129": "2026-09-07",
  "https://github.com/openremote/openremote/releases/tag/1.30.0": "2026-09-07",
- "https://github.com/absmach/magistrala/releases/tag/v1.0.0": "2026-09-07"
+ "https://github.com/absmach/magistrala/releases/tag/v1.0.0": "2026-09-07",
+ "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.37.0": "2026-09-14",
+ "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.5": "2026-09-14",
+ "https://github.com/thingsboard/thingsboard/releases/tag/v4.2.2.5": "2026-09-14",
+ "https://github.com/home-assistant/core/releases/tag/2026.9.2": "2026-09-14",
+ "https://github.com/node-red/node-red/releases/tag/4.1.15": "2026-09-14",
+ "https://github.com/node-red/node-red/releases/tag/5.0.7": "2026-09-14",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.131": "2026-09-14"
 }

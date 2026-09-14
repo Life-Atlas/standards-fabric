@@ -1,0 +1,470 @@
+{
+ "period": "2026-W38",
+ "cadence": "weekly",
+ "generated": "2026-09-14",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4653,
+    "baseline_run": false,
+    "pipeline_open": 24
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4076401",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK IoT",
+      "TC 124"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 60584-3:2021 — publicerad",
+     "source": "https://elstandard.se/standard/2602801",
+     "date": "2026-09-14",
+     "detail": "Thermocouples - Part 3: Extension and compensating cables - Tolerances and identification system",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65B"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-3:2021 — publicerad",
+     "source": "https://elstandard.se/standard/2602901",
+     "date": "2026-09-14",
+     "detail": "Industrial communication networks - Profiles - Part 3: Functional safety fieldbuses - General rules and profile definitions",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-3-3:2021 — publicerad",
+     "source": "https://elstandard.se/standard/2637401",
+     "date": "2026-09-14",
+     "detail": "Industrial communication networks - Profiles - Part 3-3: Functional safety fieldbuses - Additional specifications for CPF 3",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4076201",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK IoT"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK IoT"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK IoT"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61970-301:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62351-4:2018+AMD1:2020 CSV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61968-5:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61968-1:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62439-1:2010 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62439-4:2010 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62439-6:2010 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-3-8:2021 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61588:2021 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-3:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-11:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-10:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-10:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-14:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-3:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-3:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC/TR 61000-1-1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN 55016-1-2, utg 1:2005 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.37.0 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.37.0",
+     "date": "2026-09-14T08:34:00Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.3.1.5 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.5",
+     "date": "2026-09-11T13:39:23Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.2.2.5 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.2.2.5",
+     "date": "2026-09-11T13:39:10Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.9.2",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.9.2",
+     "date": "2026-09-11T19:40:36Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 4.1.15: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/4.1.15",
+     "date": "2026-09-09T10:34:12Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 5.0.7: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/5.0.7",
+     "date": "2026-09-08T13:35:43Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.131",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.131",
+     "date": "2026-09-14T02:52:12Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707es: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707es",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "DS4SSCC welcomes seven new pilots as its fourth  deployment round begins",
+     "source": "https://oascities.org/ds4sscc-welcomes-seven-new-pilots-as-its-fourth-deployment-round-begins/",
+     "date": "Mon, 07 Sep 2026 10:13:00 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-09-14",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
