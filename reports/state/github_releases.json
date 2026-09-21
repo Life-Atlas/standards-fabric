@@ -120,5 +120,9 @@
  "https://github.com/home-assistant/core/releases/tag/2026.9.2": "2026-09-14",
  "https://github.com/node-red/node-red/releases/tag/4.1.15": "2026-09-14",
  "https://github.com/node-red/node-red/releases/tag/5.0.7": "2026-09-14",
- "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.131": "2026-09-14"
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.131": "2026-09-14",
+ "https://github.com/chirpstack/chirpstack/releases/tag/v4.19.2": "2026-09-21",
+ "https://github.com/chirpstack/chirpstack/releases/tag/api%2Fgo%2Fv4.19.2": "2026-09-21",
+ "https://github.com/home-assistant/core/releases/tag/2026.9.3": "2026-09-21",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.132": "2026-09-21"
 }
