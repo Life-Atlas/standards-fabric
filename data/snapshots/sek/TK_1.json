@@ -1,5 +1,20 @@
 [
  {
+  "id": "4084501",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 1",
+  "committee_intl": "TC 1",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4084501"
+ },
+ {
   "id": "55501",
   "name": "SS 401 02 00, utg 5:1979",
   "title": "Elektrotekniska ordlistor - Översikt",

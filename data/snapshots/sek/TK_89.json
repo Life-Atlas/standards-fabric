@@ -675,6 +675,51 @@
   "url": "https://elstandard.se/standard/3781001"
  },
  {
+  "id": "3825701",
+  "name": "IEC 60695-5-2:2026",
+  "title": "Fire hazard testing - Part 5-2: Corrosion damage effects of fire effluent - Summary and relevance of test methods",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3825701"
+ },
+ {
+  "id": "3828301",
+  "name": "IEC 60695-1-12:2026",
+  "title": "Fire hazard testing - Part 1-12: Guidance for assessing the fire hazard of electrotechnical products - Fire safety engineering",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3828301"
+ },
+ {
+  "id": "3828401",
+  "name": "IEC 60695-1-12:2026 RLV",
+  "title": "Fire hazard testing - Part 1-12: Guidance for assessing the fire hazard of electrotechnical products - Fire safety engineering",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3828401"
+ },
+ {
   "id": "3765901",
   "name": "IEC/TR 60695-2-22:2026",
   "title": "Fire hazard testing - Part 2-22: Glowing/hot-wire based test methods - Results of the round robin tests for the development of IEC TS 60695-2-21:2023",
@@ -703,6 +748,21 @@
   "pub_year": 2026,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3771501"
+ },
+ {
+  "id": "3824401",
+  "name": "IEC TS 60695-11-12:2026",
+  "title": "Fire hazard testing - Part 11-12: Test flames - Burning droplets test for finished units",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3824401"
  },
  {
   "id": "3670301",
@@ -763,111 +823,6 @@
   "pub_year": 2023,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3016801"
- },
- {
-  "id": "2791401",
-  "name": "IEC 60695-2-12:2021",
-  "title": "Fire hazard testing - Part 2-12: Glowing/hot-wire based test methods - Glow-wire flammability index (GWFI) test method for materials",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2022-01-25",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2791401"
- },
- {
-  "id": "2791501",
-  "name": "IEC 60695-2-12:2021 RLV",
-  "title": "Fire hazard testing - Part 2-12: Glowing/hot-wire based test methods - Glow-wire flammability index (GWFI) test method for materials",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2022-01-25",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2791501"
- },
- {
-  "id": "2801801",
-  "name": "IEC 60695-2-11:2021",
-  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2022-01-25",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2801801"
- },
- {
-  "id": "2801901",
-  "name": "IEC 60695-2-11:2021 RLV",
-  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2022-01-25",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2801901"
- },
- {
-  "id": "2802001",
-  "name": "IEC 60695-5-1:2021",
-  "title": "Fire hazard testing - Part 5-1: Corrosion damage effects of fire effluent - General guidance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2022-03-15",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2802001"
- },
- {
-  "id": "2802101",
-  "name": "IEC 60695-5-1:2021 RLV",
-  "title": "Fire hazard testing - Part 5-1: Corrosion damage effects of fire effluent - General guidance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2022-03-15",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2802101"
- },
- {
-  "id": "2802201",
-  "name": "IEC 60695-7-2:2021",
-  "title": "Fire hazard testing - Part 7-2: Toxicity of fire effluent - Summary and relevance of test methods",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2022-03-15",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2802201"
  },
  {
   "id": "2748501",
@@ -990,6 +945,111 @@
   "url": "https://elstandard.se/standard/2774401"
  },
  {
+  "id": "2791401",
+  "name": "IEC 60695-2-12:2021",
+  "title": "Fire hazard testing - Part 2-12: Glowing/hot-wire based test methods - Glow-wire flammability index (GWFI) test method for materials",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2022-01-25",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2791401"
+ },
+ {
+  "id": "2791501",
+  "name": "IEC 60695-2-12:2021 RLV",
+  "title": "Fire hazard testing - Part 2-12: Glowing/hot-wire based test methods - Glow-wire flammability index (GWFI) test method for materials",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2022-01-25",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2791501"
+ },
+ {
+  "id": "2801801",
+  "name": "IEC 60695-2-11:2021",
+  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2022-01-25",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2801801"
+ },
+ {
+  "id": "2801901",
+  "name": "IEC 60695-2-11:2021 RLV",
+  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2022-01-25",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2801901"
+ },
+ {
+  "id": "2802001",
+  "name": "IEC 60695-5-1:2021",
+  "title": "Fire hazard testing - Part 5-1: Corrosion damage effects of fire effluent - General guidance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2022-03-15",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2802001"
+ },
+ {
+  "id": "2802101",
+  "name": "IEC 60695-5-1:2021 RLV",
+  "title": "Fire hazard testing - Part 5-1: Corrosion damage effects of fire effluent - General guidance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2022-03-15",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2802101"
+ },
+ {
+  "id": "2802201",
+  "name": "IEC 60695-7-2:2021",
+  "title": "Fire hazard testing - Part 7-2: Toxicity of fire effluent - Summary and relevance of test methods",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2022-03-15",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2802201"
+ },
+ {
   "id": "2750201",
   "name": "IEC/TS 60695-5-2:2021",
   "title": "Fire hazard testing - Part 5-2: Corrosion damage effects of fire effluent - Summary and relevance of test methods",
@@ -1035,21 +1095,6 @@
   "url": "https://elstandard.se/standard/1985101"
  },
  {
-  "id": "1794101",
-  "name": "IEC 60695-1-30:2017",
-  "title": "Fire hazard testing - Part 1-30: Guidance for assessing the fire hazard of electrotechnical products - Preselection testing process - General guidelines",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2017-09-05",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1794101"
- },
- {
   "id": "1839301",
   "name": "IEC 60695-11-2:2017",
   "title": "Fire hazard testing - Part 11-2: Test flames - 1 kW nominal pre-mixed flame - Apparatus, confirmatory test arrangement and guidance",
@@ -1080,6 +1125,21 @@
   "url": "https://elstandard.se/standard/1839401"
  },
  {
+  "id": "1794101",
+  "name": "IEC 60695-1-30:2017",
+  "title": "Fire hazard testing - Part 1-30: Guidance for assessing the fire hazard of electrotechnical products - Preselection testing process - General guidelines",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2017-09-05",
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1794101"
+ },
+ {
   "id": "1903601",
   "name": "IEC/TS 60695-1-14:2017",
   "title": "Fire hazard testing - Part 1-14: Guidance on the different levels of power and energy related to the probability of ignition and fire in low voltage electrotechnical products",
@@ -1093,6 +1153,21 @@
   "pub_year": 2017,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1903601"
+ },
+ {
+  "id": "1635201",
+  "name": "IEC 60695-1-20:2016",
+  "title": "Fire hazard testing - Part 1-20: Guidance for assessing the fire hazard of electrotechnical products - Ignitability - General guidance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2016-09-13",
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1635201"
  },
  {
   "id": "1725801",
@@ -1215,21 +1290,6 @@
   "url": "https://elstandard.se/standard/1757901"
  },
  {
-  "id": "1635201",
-  "name": "IEC 60695-1-20:2016",
-  "title": "Fire hazard testing - Part 1-20: Guidance for assessing the fire hazard of electrotechnical products - Ignitability - General guidance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2016-09-13",
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1635201"
- },
- {
   "id": "1549301",
   "name": "IEC 60695-11-20:2015",
   "title": "Fire hazard testing - Part 11-20: Test flames - 500 W flame test methods",
@@ -1243,21 +1303,6 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1549301"
- },
- {
-  "id": "1501801",
-  "name": "IEC 60695-1-12:2015",
-  "title": "Fire hazard testing - Part 1-12: Guidance for assessing the fire hazard of electrotechnical products - Fire safety engineering",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2021-10-19",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1501801"
  },
  {
   "id": "1635301",
@@ -1275,21 +1320,6 @@
   "url": "https://elstandard.se/standard/1635301"
  },
  {
-  "id": "1361601",
-  "name": "IEC 60695-10-2:2014",
-  "title": "Fire hazard testing - Part 10-2: Abnormal heat - Ball pressure test method",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2014-08-19",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1361601"
- },
- {
   "id": "1461101",
   "name": "IEC 60695-1-11:2014",
   "title": "Fire hazard testing - Part 1-11: Guidance for assessing the fire hazard of electrotechnical products - Fire hazard assessment",
@@ -1303,6 +1333,21 @@
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1461101"
+ },
+ {
+  "id": "1361601",
+  "name": "IEC 60695-10-2:2014",
+  "title": "Fire hazard testing - Part 10-2: Abnormal heat - Ball pressure test method",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2014-08-19",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1361601"
  },
  {
   "id": "1269101",
@@ -1455,6 +1500,21 @@
   "url": "https://elstandard.se/standard/1457801"
  },
  {
+  "id": "3104401",
+  "name": "IEC 60695-2-10:2021/C1:2024",
+  "title": "Fire hazard testing - Part 2-10: Glowing/hot-wire based test methods - Glow-wire apparatus and common test procedure",
+  "prefix": "IEC",
+  "doc_type": "AC",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2024-05-21",
+  "annulment_date": "2029-07-30",
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3104401"
+ },
+ {
   "id": "2801601",
   "name": "IEC 60695-2-10:2021",
   "title": "Fire hazard testing - Part 2-10: Glowing/hot-wire based test methods - Glow-wire apparatus and common test procedure",
@@ -1483,21 +1543,6 @@
   "pub_year": 2022,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2801701"
- },
- {
-  "id": "3104401",
-  "name": "IEC 60695-2-10:2021/C1:2024",
-  "title": "Fire hazard testing - Part 2-10: Glowing/hot-wire based test methods - Glow-wire apparatus and common test procedure",
-  "prefix": "IEC",
-  "doc_type": "AC",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2024-05-21",
-  "annulment_date": "2029-07-30",
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3104401"
  },
  {
   "id": "2634501",
@@ -1543,6 +1588,21 @@
   "pub_year": 2016,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1642901"
+ },
+ {
+  "id": "1501801",
+  "name": "IEC 60695-1-12:2015",
+  "title": "Fire hazard testing - Part 1-12: Guidance for assessing the fire hazard of electrotechnical products - Fire safety engineering",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2021-10-19",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1501801"
  },
  {
   "id": "1443701",
@@ -1620,6 +1680,21 @@
   "url": "https://elstandard.se/standard/1398801"
  },
  {
+  "id": "1701101",
+  "name": "IEC 60695-2-11:2014 RLV",
+  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2014-09-15",
+  "annulment_date": "2024-12-01",
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1701101"
+ },
+ {
   "id": "1350401",
   "name": "IEC 60695-2-11:2014",
   "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
@@ -1678,21 +1753,6 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1369101"
- },
- {
-  "id": "1701101",
-  "name": "IEC 60695-2-11:2014 RLV",
-  "title": "Fire hazard testing - Part 2-11: Glowing/hot-wire based test methods - Glow-wire flammability test method for end-products (GWEPT)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2014-09-15",
-  "annulment_date": "2024-12-01",
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1701101"
  },
  {
   "id": "1309601",
@@ -2055,21 +2115,6 @@
   "url": "https://elstandard.se/standard/415801"
  },
  {
-  "id": "360501",
-  "name": "IEC 60695-1-30:2008",
-  "title": "Fire hazard testing - Part 1-30: Guidance for assessing the fire hazard of electrotechnical products - Preselection testing process - General guidelines",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2008-12-14",
-  "annulment_date": "2020-03-27",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/360501"
- },
- {
   "id": "415701",
   "name": "IEC 60695-8-1:2008",
   "title": "Fire hazard testing - Part 8-1: Heat release - General guidance",
@@ -2083,6 +2128,21 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/415701"
+ },
+ {
+  "id": "360501",
+  "name": "IEC 60695-1-30:2008",
+  "title": "Fire hazard testing - Part 1-30: Guidance for assessing the fire hazard of electrotechnical products - Preselection testing process - General guidelines",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2008-12-14",
+  "annulment_date": "2020-03-27",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/360501"
  },
  {
   "id": "1458601",
@@ -2205,21 +2265,6 @@
   "url": "https://elstandard.se/standard/567801"
  },
  {
-  "id": "606701",
-  "name": "IEC 60695-4:2005",
-  "title": "Fire hazard testing - Part 4: Terminology concerning fire tests for electrotechnical products",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2006-12-17",
-  "annulment_date": "2015-06-12",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/606701"
- },
- {
   "id": "661101",
   "name": "IEC 60695-9-1:2005",
   "title": "Fire hazard testing - Part 9-1: Surface spread of flame - General guidance",
@@ -2248,6 +2293,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/669601"
+ },
+ {
+  "id": "606701",
+  "name": "IEC 60695-4:2005",
+  "title": "Fire hazard testing - Part 4: Terminology concerning fire tests for electrotechnical products",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2006-12-17",
+  "annulment_date": "2015-06-12",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/606701"
  },
  {
   "id": "669801",
@@ -2460,21 +2520,6 @@
   "url": "https://elstandard.se/standard/567101"
  },
  {
-  "id": "566601",
-  "name": "SS-EN 60695-10-3, utg 1:2002",
-  "title": "Provning av brandegenskaper - Del 10-3: Onormal värme - Deformation till följd av utjämning av spänningar",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2002-12-03",
-  "annulment_date": "2019-10-11",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/566601"
- },
- {
   "id": "360401",
   "name": "SS-EN 60695-1-30, utg 1:2002",
   "title": "Provning av brandegenskaper - Del 1-30: Vägledning vid bestämning av brandegenskaper hos elektrotekniska produkter - Provning av urval",
@@ -2490,10 +2535,10 @@
   "url": "https://elstandard.se/standard/360401"
  },
  {
-  "id": "566501",
-  "name": "IEC 60695-10-3:2002",
-  "title": "Fire hazard testing - Part 10-3: Abnormal heat - Mould stress relief distortion test",
-  "prefix": "IEC",
+  "id": "566601",
+  "name": "SS-EN 60695-10-3, utg 1:2002",
+  "title": "Provning av brandegenskaper - Del 10-3: Onormal värme - Deformation till följd av utjämning av spänningar",
+  "prefix": "SS-EN",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 89",
@@ -2502,7 +2547,7 @@
   "annulment_date": "2019-10-11",
   "pub_year": 2002,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/566501"
+  "url": "https://elstandard.se/standard/566601"
  },
  {
   "id": "360301",
@@ -2533,6 +2578,21 @@
   "pub_year": 2003,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/783101"
+ },
+ {
+  "id": "566501",
+  "name": "IEC 60695-10-3:2002",
+  "title": "Fire hazard testing - Part 10-3: Abnormal heat - Mould stress relief distortion test",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2002-12-03",
+  "annulment_date": "2019-10-11",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/566501"
  },
  {
   "id": "569101",
@@ -2580,6 +2640,21 @@
   "url": "https://elstandard.se/standard/568801"
  },
  {
+  "id": "3060901",
+  "name": "IEC/TS 60695-1-40:2002",
+  "title": "Fire hazard testing - Part 1-40: Guidance for assessing the fire hazard of electrotechnical products - Insulating liquids",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2002,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3060901"
+ },
+ {
   "id": "2750301",
   "name": "IEC/TS 60695-5-2:2002",
   "title": "Fire hazard testing - Part 5-2: Corrosion damage effects of fire effluent - Summary and relevance of test methods",
@@ -2610,19 +2685,34 @@
   "url": "https://elstandard.se/standard/2761501"
  },
  {
-  "id": "3060901",
-  "name": "IEC/TS 60695-1-40:2002",
-  "title": "Fire hazard testing - Part 1-40: Guidance for assessing the fire hazard of electrotechnical products - Insulating liquids",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
+  "id": "415601",
+  "name": "SS-EN 60695-8-1, utg 1:2001",
+  "title": "Provning av brandegenskaper - Del 8-1: Värmeavgivning - Vägledning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 89",
   "committee_intl": "TC 89",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2002,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3060901"
+  "determination_date": "2001-12-18",
+  "annulment_date": "2011-04-30",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/415601"
+ },
+ {
+  "id": "112701",
+  "name": "SS-EN 60695-1-1, utg 1:2001",
+  "title": "Provning av brandegenskaper - Del 1-1: Vägledning vid bestämning av brandegenskaper hos elektrotekniska produkter - Vägledning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2013-02-28",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/112701"
  },
  {
   "id": "876401",
@@ -2713,36 +2803,6 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/567401"
- },
- {
-  "id": "415601",
-  "name": "SS-EN 60695-8-1, utg 1:2001",
-  "title": "Provning av brandegenskaper - Del 8-1: Värmeavgivning - Vägledning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2011-04-30",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/415601"
- },
- {
-  "id": "112701",
-  "name": "SS-EN 60695-1-1, utg 1:2001",
-  "title": "Provning av brandegenskaper - Del 1-1: Vägledning vid bestämning av brandegenskaper hos elektrotekniska produkter - Vägledning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2013-02-28",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/112701"
  },
  {
   "id": "568001",
@@ -2895,6 +2955,21 @@
   "url": "https://elstandard.se/standard/886401"
  },
  {
+  "id": "112601",
+  "name": "IEC 60695-1-1:1999",
+  "title": "Fire hazard testing - Part 1-1 Guidance for assessing the fire hazard of electrotechnical products - General guidelines",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 89",
+  "committee_intl": "TC 89",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2013-02-28",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/112601"
+ },
+ {
   "id": "886301",
   "name": "IEC 60707:1999",
   "title": "Flammability of solid non-metallic materials when exposed to flame sources - List of test methods",
@@ -2938,21 +3013,6 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/567301"
- },
- {
-  "id": "112601",
-  "name": "IEC 60695-1-1:1999",
-  "title": "Fire hazard testing - Part 1-1 Guidance for assessing the fire hazard of electrotechnical products - General guidelines",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 89",
-  "committee_intl": "TC 89",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2013-02-28",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/112601"
  },
  {
   "id": "566901",

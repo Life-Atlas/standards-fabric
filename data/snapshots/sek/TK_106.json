@@ -1468,5 +1468,20 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/181001"
+ },
+ {
+  "id": "4085901",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 106",
+  "committee_intl": "TC 106",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4085901"
  }
 ]

@@ -1,18 +1,18 @@
 [
  {
-  "id": "4056601",
+  "id": "4093701",
   "name": null,
   "title": "",
   "prefix": null,
   "doc_type": "Standard",
   "status": "remiss",
   "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59K",
+  "committee_intl": "TC 59/SC 59F",
   "determination_date": null,
   "annulment_date": null,
   "pub_year": null,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/4056601"
+  "url": "https://elstandard.se/standard/4093701"
  },
  {
   "id": "4068601",
@@ -60,19 +60,19 @@
   "url": "https://elstandard.se/standard/4065801"
  },
  {
-  "id": "4046001",
-  "name": null,
-  "title": "",
-  "prefix": null,
+  "id": "3823501",
+  "name": "SS-EN IEC 62849, utg 2:2026",
+  "title": "Robotar för hushållsbruk - Funktionsprovning",
+  "prefix": "SS-EN IEC",
   "doc_type": "Standard",
-  "status": "remiss",
+  "status": "publicerad",
   "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59D",
-  "determination_date": null,
+  "committee_intl": "TC 59",
+  "determination_date": "2026-09-22",
   "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4046001"
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3823501"
  },
  {
   "id": "3773501",
@@ -1704,7 +1704,7 @@
   "committee_sek": "TK 59",
   "committee_intl": "TC 59/SC 59F",
   "determination_date": "2021-01-26",
-  "annulment_date": null,
+  "annulment_date": "2029-08-30",
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2590701"
@@ -2665,7 +2665,7 @@
   "committee_intl": "TC 59",
   "determination_date": "2026-09-22",
   "annulment_date": null,
-  "pub_year": 2025,
+  "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3713101"
  },
@@ -2760,9 +2760,9 @@
   "url": "https://elstandard.se/standard/2762201"
  },
  {
-  "id": "2262401",
-  "name": "IEC 63252:2020",
-  "title": "Energy consumption of vending machines",
+  "id": "2215301",
+  "name": "IEC 63008:2020",
+  "title": "Household and similar electrical appliances - Accessibility of control elements, doors, lids, drawers and handles",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -2772,7 +2772,7 @@
   "annulment_date": null,
   "pub_year": 2020,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2262401"
+  "url": "https://elstandard.se/standard/2215301"
  },
  {
   "id": "2223001",
@@ -2790,9 +2790,9 @@
   "url": "https://elstandard.se/standard/2223001"
  },
  {
-  "id": "2215301",
-  "name": "IEC 63008:2020",
-  "title": "Household and similar electrical appliances - Accessibility of control elements, doors, lids, drawers and handles",
+  "id": "2262401",
+  "name": "IEC 63252:2020",
+  "title": "Energy consumption of vending machines",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -2802,22 +2802,7 @@
   "annulment_date": null,
   "pub_year": 2020,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2215301"
- },
- {
-  "id": "3021501",
-  "name": "IEC 63086-1:2020+AMD1:2023 CSV",
-  "title": "Household and similar electrical air cleaning appliances - Methods for measuring the performance - Part 1: General requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59",
-  "determination_date": "2020-10-20",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3021501"
+  "url": "https://elstandard.se/standard/2262401"
  },
  {
   "id": "3021401",
@@ -3296,7 +3281,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3794401"
  },
  {
@@ -3311,7 +3296,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3794501"
  },
  {
@@ -3503,7 +3488,7 @@
   "status": "publicerad",
   "committee_sek": "TK 59",
   "committee_intl": "TC 59/SC 59M",
-  "determination_date": null,
+  "determination_date": "2026-10-20",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
@@ -3720,19 +3705,64 @@
   "url": "https://elstandard.se/standard/3313901"
  },
  {
-  "id": "2974801",
-  "name": "IEC 60379:2023",
-  "title": "Methods for measuring the performance of electric storage water-heaters for household purposes",
+  "id": "3092301",
+  "name": "IEC 60704-2-2:2023",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 59",
   "committee_intl": "TC 59/SC 59C",
-  "determination_date": "2023-11-14",
+  "determination_date": "2024-09-24",
   "annulment_date": null,
-  "pub_year": 2023,
+  "pub_year": 2024,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2974801"
+  "url": "https://elstandard.se/standard/3092301"
+ },
+ {
+  "id": "3092401",
+  "name": "IEC 60704-2-2:2023 RLV",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59C",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3092401"
+ },
+ {
+  "id": "3092501",
+  "name": "IEC 60704-2-2:2023 EXV",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59C",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3092501"
+ },
+ {
+  "id": "3092601",
+  "name": "IEC 60704-2-2:2023 EXV-RLV",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59C",
+  "determination_date": "2024-09-24",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3092601"
  },
  {
   "id": "2985901",
@@ -3810,64 +3840,19 @@
   "url": "https://elstandard.se/standard/3062901"
  },
  {
-  "id": "3092301",
-  "name": "IEC 60704-2-2:2023",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
+  "id": "2974801",
+  "name": "IEC 60379:2023",
+  "title": "Methods for measuring the performance of electric storage water-heaters for household purposes",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 59",
   "committee_intl": "TC 59/SC 59C",
-  "determination_date": "2024-09-24",
+  "determination_date": "2023-11-14",
   "annulment_date": null,
-  "pub_year": 2024,
+  "pub_year": 2023,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3092301"
- },
- {
-  "id": "3092401",
-  "name": "IEC 60704-2-2:2023 RLV",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59C",
-  "determination_date": "2024-09-24",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3092401"
- },
- {
-  "id": "3092501",
-  "name": "IEC 60704-2-2:2023 EXV",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59C",
-  "determination_date": "2024-09-24",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3092501"
- },
- {
-  "id": "3092601",
-  "name": "IEC 60704-2-2:2023 EXV-RLV",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-2: Particular requirements for fan heaters",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59C",
-  "determination_date": "2024-09-24",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3092601"
+  "url": "https://elstandard.se/standard/2974801"
  },
  {
   "id": "3617601",
@@ -3883,6 +3868,21 @@
   "pub_year": 2023,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3617601"
+ },
+ {
+  "id": "3813401",
+  "name": "IEC 61591:2023/A1:2026",
+  "title": "Elektriska hushållsapparater - Köksfläktar - Funktionsprovning",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59K",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3813401"
  },
  {
   "id": "3076001",
@@ -4005,21 +4005,6 @@
   "url": "https://elstandard.se/standard/2907301"
  },
  {
-  "id": "2816701",
-  "name": "IEC 63174:2021",
-  "title": "Electrically operated toothbrushes - Methods for measuring performance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59L",
-  "determination_date": "2022-08-23",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2816701"
- },
- {
   "id": "2789501",
   "name": "IEC 62999:2016+AMD1:2021 CSV",
   "title": "Electric room heating - Underfloor heating - Performance characteristics - Definitions, method of testing, sizing and formula symbols",
@@ -4078,6 +4063,96 @@
   "pub_year": 2022,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2800201"
+ },
+ {
+  "id": "2816701",
+  "name": "IEC 63174:2021",
+  "title": "Electrically operated toothbrushes - Methods for measuring performance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59L",
+  "determination_date": "2022-08-23",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2816701"
+ },
+ {
+  "id": "3021301",
+  "name": "IEC 62885-4:2020+AMD1:2023 CSV",
+  "title": "Surface cleaning appliances - Part 4: Cordless dry vacuum cleaners for household or similar use - Methods for measuring the performance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59F",
+  "determination_date": "2021-04-20",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3021301"
+ },
+ {
+  "id": "2193501",
+  "name": "IEC 60704-2-7:2020",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-7: Particular requirements for fans",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59L",
+  "determination_date": "2020-06-09",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2193501"
+ },
+ {
+  "id": "2193601",
+  "name": "IEC 60704-2-7:2020 RLV",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-7: Particular requirements for fans",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59L",
+  "determination_date": "2020-06-09",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2193601"
+ },
+ {
+  "id": "2205401",
+  "name": "IEC 60704-2-8:2020",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-8: Particular requirements for electric shavers, hair clippers or trimmers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59L",
+  "determination_date": "2020-10-20",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2205401"
+ },
+ {
+  "id": "2205501",
+  "name": "IEC 60704-2-8:2020 RLV",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-8: Particular requirements for electric shavers, hair clippers or trimmers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59L",
+  "determination_date": "2020-10-20",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2205501"
  },
  {
   "id": "2255301",
@@ -4198,81 +4273,6 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2574301"
- },
- {
-  "id": "2193501",
-  "name": "IEC 60704-2-7:2020",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-7: Particular requirements for fans",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59L",
-  "determination_date": "2020-06-09",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2193501"
- },
- {
-  "id": "2193601",
-  "name": "IEC 60704-2-7:2020 RLV",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-7: Particular requirements for fans",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59L",
-  "determination_date": "2020-06-09",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2193601"
- },
- {
-  "id": "2205401",
-  "name": "IEC 60704-2-8:2020",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-8: Particular requirements for electric shavers, hair clippers or trimmers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59L",
-  "determination_date": "2020-10-20",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2205401"
- },
- {
-  "id": "2205501",
-  "name": "IEC 60704-2-8:2020 RLV",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-8: Particular requirements for electric shavers, hair clippers or trimmers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59L",
-  "determination_date": "2020-10-20",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2205501"
- },
- {
-  "id": "3021301",
-  "name": "IEC 62885-4:2020+AMD1:2023 CSV",
-  "title": "Surface cleaning appliances - Part 4: Cordless dry vacuum cleaners for household or similar use - Methods for measuring the performance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59F",
-  "determination_date": "2021-04-20",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3021301"
  },
  {
   "id": "3021201",
@@ -4815,6 +4815,21 @@
   "url": "https://elstandard.se/standard/1227301"
  },
  {
+  "id": "3121601",
+  "name": "IEC 60704-2-14:2013/A2:2024",
+  "title": "Household and similar electrical appliances – Test code for the determination of airborne acoustical noise  – Part 2-14: Particular requirements for refrigerators, frozen-food storage cabinets and food freezers",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59M",
+  "determination_date": "2024-10-22",
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3121601"
+ },
+ {
   "id": "2078201",
   "name": "IEC 60704-2-14:2013/A1:2019",
   "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-14: Particular requirements for refrigerators, frozen-food storage cabinets and food freezers",
@@ -4830,19 +4845,19 @@
   "url": "https://elstandard.se/standard/2078201"
  },
  {
-  "id": "3121601",
-  "name": "IEC 60704-2-14:2013/A2:2024",
-  "title": "Household and similar electrical appliances – Test code for the determination of airborne acoustical noise  – Part 2-14: Particular requirements for refrigerators, frozen-food storage cabinets and food freezers",
+  "id": "1035201",
+  "name": "IEC 60704-2-6:2012",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-6: Particular requirements for tumble dryers",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59M",
-  "determination_date": "2024-10-22",
+  "committee_intl": "TC 59/SC 59D",
+  "determination_date": "2012-12-18",
   "annulment_date": null,
-  "pub_year": 2013,
+  "pub_year": 2012,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3121601"
+  "url": "https://elstandard.se/standard/1035201"
  },
  {
   "id": "1091901",
@@ -4873,21 +4888,6 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1021801"
- },
- {
-  "id": "1035201",
-  "name": "IEC 60704-2-6:2012",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-6: Particular requirements for tumble dryers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59D",
-  "determination_date": "2012-12-18",
-  "annulment_date": null,
-  "pub_year": 2012,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1035201"
  },
  {
   "id": "1391201",
@@ -4993,6 +4993,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3678701"
+ },
+ {
+  "id": "3813501",
+  "name": "IEC 61591:2023+AMD1:2026 CSV",
+  "title": "Cooking fume extractors - Methods for measuring performance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59K",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3813501"
  },
  {
   "id": "2960201",
@@ -6780,21 +6795,6 @@
   "url": "https://elstandard.se/standard/2191201"
  },
  {
-  "id": "2555601",
-  "name": "IEC 60704-2-1:2020",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-1: Particular requirements for dry vacuum cleaners",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59F",
-  "determination_date": "2021-01-26",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2555601"
- },
- {
   "id": "2242401",
   "name": "IEC 60436:2015+AMD1:2020 CSV",
   "title": "Electric dishwashers for household use - Methods for measuring the performance",
@@ -6808,6 +6808,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2242401"
+ },
+ {
+  "id": "2555601",
+  "name": "IEC 60704-2-1:2020",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-1: Particular requirements for dry vacuum cleaners",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59F",
+  "determination_date": "2021-01-26",
+  "annulment_date": "2029-08-30",
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2555601"
  },
  {
   "id": "2287601",
@@ -7185,21 +7200,6 @@
   "url": "https://elstandard.se/standard/1606301"
  },
  {
-  "id": "2284601",
-  "name": "IEC 60436:2015/C1:2020",
-  "title": "Electric dishwashers for household use - Methods for measuring the performance",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2284601"
- },
- {
   "id": "2242301",
   "name": "IEC 60436:2015/A1:2020",
   "title": "Electric dishwashers for household use - Methods for measuring the performance",
@@ -7213,6 +7213,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2242301"
+ },
+ {
+  "id": "2284601",
+  "name": "IEC 60436:2015/C1:2020",
+  "title": "Electric dishwashers for household use - Methods for measuring the performance",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2284601"
  },
  {
   "id": "1491601",
@@ -7290,21 +7305,6 @@
   "url": "https://elstandard.se/standard/1358101"
  },
  {
-  "id": "1402301",
-  "name": "IEC 60704-2-1:2014",
-  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-1: Particular requirements for vacuum cleaners",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 59",
-  "committee_intl": "TC 59/SC 59F",
-  "determination_date": "2015-02-17",
-  "annulment_date": "2023-12-03",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1402301"
- },
- {
   "id": "1421201",
   "name": "IEC 62929:2014",
   "title": "Cleaning robots for household use - Dry-cleaning: Methods of measuring performance",
@@ -7333,6 +7333,21 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1433201"
+ },
+ {
+  "id": "1402301",
+  "name": "IEC 60704-2-1:2014",
+  "title": "Household and similar electrical appliances - Test code for the determination of airborne acoustical noise - Part 2-1: Particular requirements for vacuum cleaners",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59F",
+  "determination_date": "2015-02-17",
+  "annulment_date": "2023-12-03",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1402301"
  },
  {
   "id": "1260801",
@@ -7648,6 +7663,21 @@
   "pub_year": 1981,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2584301"
+ },
+ {
+  "id": "4092801",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 59",
+  "committee_intl": "TC 59/SC 59F",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4092801"
  },
  {
   "id": "4051701",

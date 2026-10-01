@@ -30,49 +30,19 @@
   "url": "https://elstandard.se/standard/4066501"
  },
  {
-  "id": "4046301",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
+  "id": "3818301",
+  "name": "SS-EN 50310, utg 4:2016/A2:2026",
+  "title": "Fastighetsnät för informationsöverföring - Potentialutjämning",
+  "prefix": "SS-EN",
+  "doc_type": "Amendment",
+  "status": "publicerad",
   "committee_sek": "TK 215",
   "committee_intl": null,
-  "determination_date": null,
+  "determination_date": "2026-09-22",
   "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4046301"
- },
- {
-  "id": "4046401",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK 215",
-  "committee_intl": null,
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4046401"
- },
- {
-  "id": "4046501",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK 215",
-  "committee_intl": null,
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4046501"
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3818301"
  },
  {
   "id": "3785201",
@@ -1061,7 +1031,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2025,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3634001"
  },
  {
@@ -1440,21 +1410,6 @@
   "url": "https://elstandard.se/standard/2196701"
  },
  {
-  "id": "2232901",
-  "name": "ISO/IEC 60559:2020",
-  "title": "Floating-point arithmetic",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2232901"
- },
- {
   "id": "2216301",
   "name": "ISO/IEC 14543-3-10:2020",
   "title": "Information technology - Home electronic system (HES) architecture - Part 3-10: Amplitude modulated wireless short-packet (AMWSP) protocol optimized for energy harvesting - Architecture and lower layer protocols",
@@ -1470,6 +1425,21 @@
   "url": "https://elstandard.se/standard/2216301"
  },
  {
+  "id": "2232901",
+  "name": "ISO/IEC 60559:2020",
+  "title": "Floating-point arithmetic",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2232901"
+ },
+ {
   "id": "2254001",
   "name": "IEC 14543-4-301:2020",
   "title": "Information technology - Home Electronic System (HES) architecture - Part-4- 301 Application Protocols for Home Air Conditioners and Controllers",
@@ -1483,6 +1453,36 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2254001"
+ },
+ {
+  "id": "2239101",
+  "name": "ISO/IEC TR 11801-9908:2020",
+  "title": "Information technology - Generic cabling for customer premises - Part 9908: Guidance for the support of higher speed applications over optical fibre channels",
+  "prefix": "ISO/IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2239101"
+ },
+ {
+  "id": "2239501",
+  "name": "ISO/IEC TS 29125:2017+AMD1:2020 CSV",
+  "title": "Information technology - Telecommunications cabling requirements for remote powering of terminal equipment",
+  "prefix": "ISO/IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": "2025-07-01",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2239501"
  },
  {
   "id": "2253801",
@@ -1545,36 +1545,6 @@
   "url": "https://elstandard.se/standard/2283001"
  },
  {
-  "id": "2239101",
-  "name": "ISO/IEC TR 11801-9908:2020",
-  "title": "Information technology - Generic cabling for customer premises - Part 9908: Guidance for the support of higher speed applications over optical fibre channels",
-  "prefix": "ISO/IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2239101"
- },
- {
-  "id": "2239501",
-  "name": "ISO/IEC TS 29125:2017+AMD1:2020 CSV",
-  "title": "Information technology - Telecommunications cabling requirements for remote powering of terminal equipment",
-  "prefix": "ISO/IEC TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": "2025-07-01",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2239501"
- },
- {
   "id": "3107101",
   "name": "ISO/IEC TR 11801-9909:2020/C1:2024",
   "title": "Information technology - Generic cabling for customer premises - Part 9909: Evaluation of balanced cabling in support of 25 Gb/s for reach greater than 30 meters",
@@ -1603,6 +1573,21 @@
   "pub_year": 2019,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2095101"
+ },
+ {
+  "id": "2118601",
+  "name": "ISO/IEC 14543-5-101:2019",
+  "title": "Information technology - Home electronic system (HES) architecture - Part 5-101:Intelligent grouping and resource sharing for HES Class 2 and Class 3 - Remote media access profile",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2118601"
  },
  {
   "id": "2160901",
@@ -1663,21 +1648,6 @@
   "pub_year": 2019,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2184601"
- },
- {
-  "id": "2118601",
-  "name": "ISO/IEC 14543-5-101:2019",
-  "title": "Information technology - Home electronic system (HES) architecture - Part 5-101:Intelligent grouping and resource sharing for HES Class 2 and Class 3 - Remote media access profile",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2118601"
  },
  {
   "id": "2184701",
@@ -1860,11 +1830,11 @@
   "url": "https://elstandard.se/standard/3726001"
  },
  {
-  "id": "2570501",
-  "name": "ISO/IEC TR 11801-9902:2017",
-  "title": "Information technology - Generic cabling for customer premises - Part 99-2: End-to-end link configurations",
-  "prefix": "ISO/IEC TR",
-  "doc_type": "TR",
+  "id": "3828101",
+  "name": "ISO/IEC 11801-6:2017/A1:2026",
+  "title": "Information technology - Generic cabling for customer premises - Part 6: Distributed building services",
+  "prefix": "ISO/IEC",
+  "doc_type": "Amendment",
   "status": "publicerad",
   "committee_sek": "TK 215",
   "committee_intl": "ISO/IEC JTC 1/SC 25",
@@ -1872,7 +1842,7 @@
   "annulment_date": null,
   "pub_year": 2017,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2570501"
+  "url": "https://elstandard.se/standard/3828101"
  },
  {
   "id": "2161701",
@@ -1888,6 +1858,21 @@
   "pub_year": 2017,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2161701"
+ },
+ {
+  "id": "2570501",
+  "name": "ISO/IEC TR 11801-9902:2017",
+  "title": "Information technology - Generic cabling for customer premises - Part 99-2: End-to-end link configurations",
+  "prefix": "ISO/IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2570501"
  },
  {
   "id": "2239401",
@@ -2085,21 +2070,6 @@
   "url": "https://elstandard.se/standard/1976901"
  },
  {
-  "id": "2069101",
-  "name": "ISO/IEC 30129:2015/A1:2019",
-  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
-  "prefix": "ISO/IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2069101"
- },
- {
   "id": "3659101",
   "name": "ISO/IEC 30129:2015/A2:2025",
   "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
@@ -2113,6 +2083,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3659101"
+ },
+ {
+  "id": "2069101",
+  "name": "ISO/IEC 30129:2015/A1:2019",
+  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
+  "prefix": "ISO/IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2069101"
  },
  {
   "id": "1988001",
@@ -2190,21 +2175,6 @@
   "url": "https://elstandard.se/standard/1929901"
  },
  {
-  "id": "2069201",
-  "name": "ISO/IEC 30129:2015+AMD1:2019 CSV",
-  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2069201"
- },
- {
   "id": "3659201",
   "name": "ISO/IEC 30129:2015+AMD1:2019+AMD2:2025 CSV",
   "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
@@ -2220,6 +2190,21 @@
   "url": "https://elstandard.se/standard/3659201"
  },
  {
+  "id": "2069201",
+  "name": "ISO/IEC 30129:2015+AMD1:2019 CSV",
+  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2069201"
+ },
+ {
   "id": "3726101",
   "name": "ISO/IEC 11801-1:2017+AMD1:2025 CSV",
   "title": "Information technology - Generic cabling for customer premises - Part 1: General requirements",
@@ -2233,6 +2218,21 @@
   "pub_year": 2017,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3726101"
+ },
+ {
+  "id": "3828201",
+  "name": "ISO/IEC 11801-6:2017+AMD1:2026 CSV",
+  "title": "Information technology - Generic cabling for customer premises - Part 6: Distributed building services",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3828201"
  },
  {
   "id": "2618601",

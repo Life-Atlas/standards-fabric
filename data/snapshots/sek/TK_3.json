@@ -1,5 +1,20 @@
 [
  {
+  "id": "4083601",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4083601"
+ },
+ {
   "id": "4068301",
   "name": null,
   "title": "",
@@ -780,21 +795,6 @@
   "url": "https://elstandard.se/standard/2870901"
  },
  {
-  "id": "2791201",
-  "name": "IEC 60152:2021",
-  "title": "Designation of phase differences by hour numbers in three-phase AC systems",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2022-05-17",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2791201"
- },
- {
   "id": "2758501",
   "name": "IEC 60757:2021",
   "title": "Code for designation of colours",
@@ -855,6 +855,21 @@
   "url": "https://elstandard.se/standard/2769101"
  },
  {
+  "id": "2791201",
+  "name": "IEC 60152:2021",
+  "title": "Designation of phase differences by hour numbers in three-phase AC systems",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2022-05-17",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2791201"
+ },
+ {
   "id": "3732001",
   "name": "IEC 60445:2021/A1:2026",
   "title": "Basic and safety principles for man-machine interface, marking and identification - Identification of equipment terminals, conductor terminations and conductors",
@@ -870,21 +885,6 @@
   "url": "https://elstandard.se/standard/3732001"
  },
  {
-  "id": "2144201",
-  "name": "IEC 61293:2019",
-  "title": "Marking of electrical equipment with ratings related to electrical supply - Safety requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2020-06-09",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2144201"
- },
- {
   "id": "2118301",
   "name": "IEC 81346-2:2019",
   "title": "Industrial systems, installations and equipment and industrial products - Structuring principles and reference designations - Part 2: Classification of objects and codes for classes",
@@ -898,6 +898,21 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2118301"
+ },
+ {
+  "id": "2144201",
+  "name": "IEC 61293:2019",
+  "title": "Marking of electrical equipment with ratings related to electrical supply - Safety requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2020-06-09",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2144201"
  },
  {
   "id": "2103001",
@@ -1200,21 +1215,6 @@
   "url": "https://elstandard.se/standard/230601"
  },
  {
-  "id": "108801",
-  "name": "IEC 61355-1:2008",
-  "title": "Classification and designation of documents for plants, systems and equipment - Part 1: Rules and classification tables",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2009-01-25",
-  "annulment_date": "2028-01-30",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/108801"
- },
- {
   "id": "297901",
   "name": "IEC 62491:2008",
   "title": "Industrial systems, installations and equipment and industrial products - Labelling of cables and cores",
@@ -1228,6 +1228,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/297901"
+ },
+ {
+  "id": "108801",
+  "name": "IEC 61355-1:2008",
+  "title": "Classification and designation of documents for plants, systems and equipment - Part 1: Rules and classification tables",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2009-01-25",
+  "annulment_date": "2028-01-30",
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/108801"
  },
  {
   "id": "518601",
@@ -1965,21 +1980,6 @@
   "url": "https://elstandard.se/standard/680001"
  },
  {
-  "id": "679901",
-  "name": "IEC 61360-4:2005",
-  "title": "Standard data element types with associated classification scheme for electric components  - Part 4: IEC reference collection of standard data element types and component classes",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2005-06-14",
-  "annulment_date": "2018-09-11",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/679901"
- },
- {
   "id": "641601",
   "name": "IEC 61175:2005",
   "title": "Industrial systems, installations and equipment and industrial products - Designation of signals",
@@ -1993,6 +1993,21 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/641601"
+ },
+ {
+  "id": "679901",
+  "name": "IEC 61360-4:2005",
+  "title": "Standard data element types with associated classification scheme for electric components  - Part 4: IEC reference collection of standard data element types and component classes",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2005-06-14",
+  "annulment_date": "2018-09-11",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/679901"
  },
  {
   "id": "711501",
@@ -2025,21 +2040,6 @@
   "url": "https://elstandard.se/standard/1071701"
  },
  {
-  "id": "437401",
-  "name": "SS-EN 61360-1, utg 2:2002/A1:2004",
-  "title": "Datalelementtyper för elkomponenter med tillhörande klassificeringsschema - Del 1: Principer och metoder",
-  "prefix": "SS-EN",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2004-04-25",
-  "annulment_date": "2013-04-30",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/437401"
- },
- {
   "id": "740801",
   "name": "SS-EN 61360-2, utg 2:2002/A1:2004",
   "title": "Dataelementtyper för elkomponenter med tillhörande klassificeringsschema - Del 2: EXPRESS-scheman",
@@ -2053,6 +2053,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/740801"
+ },
+ {
+  "id": "437401",
+  "name": "SS-EN 61360-1, utg 2:2002/A1:2004",
+  "title": "Datalelementtyper för elkomponenter med tillhörande klassificeringsschema - Del 1: Principer och metoder",
+  "prefix": "SS-EN",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2004-04-25",
+  "annulment_date": "2013-04-30",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/437401"
  },
  {
   "id": "711401",
@@ -2085,21 +2100,6 @@
   "url": "https://elstandard.se/standard/794701"
  },
  {
-  "id": "437201",
-  "name": "SS-EN 61360-1, utg 2:2002",
-  "title": "Datalelementtyper för elkomponenter med tillhörande klassificeringsschema - Del 1: Principer och metoder",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2002-08-13",
-  "annulment_date": "2013-04-30",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/437201"
- },
- {
   "id": "740601",
   "name": "SS-EN 61360-2, utg 2:2002",
   "title": "Dataelementtyper för elkomponenter med tillhörande klassificeringsschema - Del 2: EXPRESS-scheman",
@@ -2115,6 +2115,21 @@
   "url": "https://elstandard.se/standard/740601"
  },
  {
+  "id": "437201",
+  "name": "SS-EN 61360-1, utg 2:2002",
+  "title": "Datalelementtyper för elkomponenter med tillhörande klassificeringsschema - Del 1: Principer och metoder",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2002-08-13",
+  "annulment_date": "2013-04-30",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/437201"
+ },
+ {
   "id": "230501",
   "name": "SS-EN 80416-1, utg 1:2002",
   "title": "Principer för grafiska symboler för användning på utrustning - Del 1: Utformning",
@@ -2128,21 +2143,6 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/230501"
- },
- {
-  "id": "437101",
-  "name": "IEC 61360-1:2002",
-  "title": "Standard data element types with associated classification scheme for electric components - Part 1: Definitions - Principles and methods",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2002-08-13",
-  "annulment_date": "2013-04-30",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/437101"
  },
  {
   "id": "740501",
@@ -2175,19 +2175,19 @@
   "url": "https://elstandard.se/standard/794601"
  },
  {
-  "id": "437301",
-  "name": "IEC 61360-1:2002/A1:2003",
+  "id": "437101",
+  "name": "IEC 61360-1:2002",
   "title": "Standard data element types with associated classification scheme for electric components - Part 1: Definitions - Principles and methods",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 3",
   "committee_intl": "TC 3",
-  "determination_date": "2004-04-25",
+  "determination_date": "2002-08-13",
   "annulment_date": "2013-04-30",
   "pub_year": 2002,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/437301"
+  "url": "https://elstandard.se/standard/437101"
  },
  {
   "id": "740701",
@@ -2203,6 +2203,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/740701"
+ },
+ {
+  "id": "437301",
+  "name": "IEC 61360-1:2002/A1:2003",
+  "title": "Standard data element types with associated classification scheme for electric components - Part 1: Definitions - Principles and methods",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2004-04-25",
+  "annulment_date": "2013-04-30",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/437301"
  },
  {
   "id": "824701",
@@ -2280,21 +2295,6 @@
   "url": "https://elstandard.se/standard/80101"
  },
  {
-  "id": "824601",
-  "name": "IEC 62079:2001",
-  "title": "Preparation of instructions - Structuring, content and presentation",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2001-10-25",
-  "annulment_date": "2015-09-11",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/824601"
- },
- {
   "id": "230401",
   "name": "IEC 80416-1:2001",
   "title": "Basic principles for graphical symbols for use on equipment - Part 1: Creation of symbol originals",
@@ -2308,6 +2308,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/230401"
+ },
+ {
+  "id": "824601",
+  "name": "IEC 62079:2001",
+  "title": "Preparation of instructions - Structuring, content and presentation",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2001-10-25",
+  "annulment_date": "2015-09-11",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/824601"
  },
  {
   "id": "79901",
@@ -2325,21 +2340,6 @@
   "url": "https://elstandard.se/standard/79901"
  },
  {
-  "id": "528201",
-  "name": "IEC 62027:2000",
-  "title": "Preparation of parts lists",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 3",
-  "committee_intl": "TC 3",
-  "determination_date": "2001-03-29",
-  "annulment_date": "2014-11-22",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/528201"
- },
- {
   "id": "108401",
   "name": "IEC 62023:2000",
   "title": "Structuring of technical information and documentation",
@@ -2353,6 +2353,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/108401"
+ },
+ {
+  "id": "528201",
+  "name": "IEC 62027:2000",
+  "title": "Preparation of parts lists",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 3",
+  "committee_intl": "TC 3",
+  "determination_date": "2001-03-29",
+  "annulment_date": "2014-11-22",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/528201"
  },
  {
   "id": "528501",

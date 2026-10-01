@@ -1,20 +1,5 @@
 [
  {
-  "id": "4053001",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4053001"
- },
- {
   "id": "3761201",
   "name": "SS-EN IEC 63203-201-4, utg 1:2025/A1:2026",
   "title": "Kroppsburen elektronik - Enheter och system - Del 201-4: Elektronisk textil – Testmetod för fastställande av ytresistans hos konduktivt tyg efter förslitning",
@@ -450,6 +435,21 @@
   "url": "https://elstandard.se/standard/3807001"
  },
  {
+  "id": "3828501",
+  "name": "ISO/IEC 30189-2:2026",
+  "title": "Internet of Things (IoT) - IoT-based management of tangible cultural heritage assets - Part 2: Use cases",
+  "prefix": "ISO/IEC",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3828501"
+ },
+ {
   "id": "3789101",
   "name": "IEC 63517:2026",
   "title": "Wearable electronic textiles - Test method for performance of heating products - Heating temperature and power consumption",
@@ -476,7 +476,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3807301"
  },
  {
@@ -750,21 +750,6 @@
   "url": "https://elstandard.se/standard/3545401"
  },
  {
-  "id": "2968701",
-  "name": "ISO/IEC 30179:2023",
-  "title": "Internet of Things (IoT) - Overview and general requirements of IoT system for ecological environment monitoring",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2968701"
- },
- {
   "id": "2993901",
   "name": "ISO/IEC 30161-2:2023",
   "title": "Internet of Things (IoT) - Data exchange platform for IoT services - Part 2: Transport interoperability between nodal points",
@@ -793,6 +778,21 @@
   "pub_year": 2023,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3076501"
+ },
+ {
+  "id": "2968701",
+  "name": "ISO/IEC 30179:2023",
+  "title": "Internet of Things (IoT) - Overview and general requirements of IoT system for ecological environment monitoring",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2968701"
  },
  {
   "id": "2985701",
@@ -1635,48 +1635,33 @@
   "url": "https://elstandard.se/standard/2039301"
  },
  {
-  "id": "4037101",
+  "id": "4091901",
   "name": null,
   "title": "",
   "prefix": null,
   "doc_type": "Standard",
   "status": "new_work_proposal",
   "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "committee_intl": "TC 124",
   "determination_date": null,
   "annulment_date": null,
   "pub_year": null,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/4037101"
+  "url": "https://elstandard.se/standard/4091901"
  },
  {
-  "id": "4037401",
+  "id": "4076401",
   "name": null,
   "title": "",
   "prefix": null,
   "doc_type": "Standard",
   "status": "new_work_proposal",
   "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "committee_intl": "TC 124",
   "determination_date": null,
   "annulment_date": null,
   "pub_year": null,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/4037401"
- },
- {
-  "id": "4037501",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "new_work_proposal",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4037501"
+  "url": "https://elstandard.se/standard/4076401"
  }
 ]

@@ -851,53 +851,8 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3805501"
- },
- {
-  "id": "3562201",
-  "name": "IEC 63360:2025",
-  "title": "Fluids for electrotechnical application - Specification of gases alternative to SF6 to be used in electrical power equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "2026-02-03",
-  "annulment_date": null,
-  "pub_year": 2026,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3562201"
- },
- {
-  "id": "3562401",
-  "name": "IEC 60156:2025",
-  "title": "Insulating liquids - Determination of the breakdown voltage at power frequency - Test method",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "2025-10-21",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3562401"
- },
- {
-  "id": "3562501",
-  "name": "IEC 60156:2025 RLV",
-  "title": "Insulating liquids - Determination of the breakdown voltage at power frequency - Test method",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "2025-10-21",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3562501"
  },
  {
   "id": "3643901",
@@ -943,6 +898,51 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3677301"
+ },
+ {
+  "id": "3562201",
+  "name": "IEC 63360:2025",
+  "title": "Fluids for electrotechnical application - Specification of gases alternative to SF6 to be used in electrical power equipment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "2026-02-03",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3562201"
+ },
+ {
+  "id": "3562401",
+  "name": "IEC 60156:2025",
+  "title": "Insulating liquids - Determination of the breakdown voltage at power frequency - Test method",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "2025-10-21",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3562401"
+ },
+ {
+  "id": "3562501",
+  "name": "IEC 60156:2025 RLV",
+  "title": "Insulating liquids - Determination of the breakdown voltage at power frequency - Test method",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "2025-10-21",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3562501"
  },
  {
   "id": "3290501",
@@ -1320,21 +1320,6 @@
   "url": "https://elstandard.se/standard/1072601"
  },
  {
-  "id": "852101",
-  "name": "IEC 61099:2010",
-  "title": "Insulating liquids - Specifications for unused synthetic organic esters for electrical purposes",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "2011-01-25",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/852101"
- },
- {
   "id": "555901",
   "name": "IEC 60666:2010",
   "title": "Detection and determination of specified additives in mineral insulating oils",
@@ -1348,6 +1333,21 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/555901"
+ },
+ {
+  "id": "852101",
+  "name": "IEC 61099:2010",
+  "title": "Insulating liquids - Specifications for unused synthetic organic esters for electrical purposes",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "2011-01-25",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/852101"
  },
  {
   "id": "118401",
@@ -1560,21 +1560,6 @@
   "url": "https://elstandard.se/standard/1138001"
  },
  {
-  "id": "1138101",
-  "name": "IEC 61144:1992",
-  "title": "Insulating liquids - Test methods for the determination of oxygen index of insulating liquids",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "1993-07-29",
-  "annulment_date": null,
-  "pub_year": 1993,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1138101"
- },
- {
   "id": "1053001",
   "name": "IEC 61100:1992",
   "title": "Classification of insulating liquids according to fire-point and net calorific value",
@@ -1590,6 +1575,21 @@
   "url": "https://elstandard.se/standard/1053001"
  },
  {
+  "id": "1138101",
+  "name": "IEC 61144:1992",
+  "title": "Insulating liquids - Test methods for the determination of oxygen index of insulating liquids",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "1993-07-29",
+  "annulment_date": null,
+  "pub_year": 1993,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1138101"
+ },
+ {
   "id": "1135601",
   "name": "IEC 61065:1991",
   "title": "Insulating oils - Method for evaluating the low temperature flow properties of mineral insulating oils after ageing",
@@ -1603,6 +1603,21 @@
   "pub_year": 1993,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1135601"
+ },
+ {
+  "id": "1080201",
+  "name": "IEC 60465:1988",
+  "title": "Specification for unused insulating mineral oils for cables with oil ducts",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "1991-04-23",
+  "annulment_date": null,
+  "pub_year": 1991,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1080201"
  },
  {
   "id": "1138201",
@@ -1633,21 +1648,6 @@
   "pub_year": 1990,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1138301"
- },
- {
-  "id": "1080201",
-  "name": "IEC 60465:1988",
-  "title": "Specification for unused insulating mineral oils for cables with oil ducts",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "1991-04-23",
-  "annulment_date": null,
-  "pub_year": 1991,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1080201"
  },
  {
   "id": "1138401",
@@ -1770,21 +1770,6 @@
   "url": "https://elstandard.se/standard/1700901"
  },
  {
-  "id": "1189301",
-  "name": "IEC 60422:2013",
-  "title": "Mineral insulating oils in electrical equipment - Supervision and maintenance guidance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "2013-08-13",
-  "annulment_date": "2027-08-21",
-  "pub_year": 2013,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1189301"
- },
- {
   "id": "1341401",
   "name": "IEC 62770:2013",
   "title": "Fluids for electrotechnical applications - Unused natural esters for transformers and similar electrical equipment",
@@ -1798,6 +1783,21 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1341401"
+ },
+ {
+  "id": "1189301",
+  "name": "IEC 60422:2013",
+  "title": "Mineral insulating oils in electrical equipment - Supervision and maintenance guidance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "2013-08-13",
+  "annulment_date": "2027-08-21",
+  "pub_year": 2013,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1189301"
  },
  {
   "id": "1986501",
@@ -1995,21 +1995,6 @@
   "url": "https://elstandard.se/standard/670201"
  },
  {
-  "id": "602301",
-  "name": "IEC 60422:2005",
-  "title": "Supervision and maintenance guide for mineral insulating oils in electrical equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 10",
-  "committee_intl": "TC 10",
-  "determination_date": "2007-01-14",
-  "annulment_date": "2016-02-13",
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/602301"
- },
- {
   "id": "663901",
   "name": "IEC 60376:2005",
   "title": "Specification of technical grade sulphur hexafluoride (SF6) for use in electrical equipment",
@@ -2053,6 +2038,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/670101"
+ },
+ {
+  "id": "602301",
+  "name": "IEC 60422:2005",
+  "title": "Supervision and maintenance guide for mineral insulating oils in electrical equipment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 10",
+  "committee_intl": "TC 10",
+  "determination_date": "2007-01-14",
+  "annulment_date": "2016-02-13",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/602301"
  },
  {
   "id": "724801",
@@ -2250,19 +2250,19 @@
   "url": "https://elstandard.se/standard/1080501"
  },
  {
-  "id": "889101",
-  "name": "IEC 61099:1992",
-  "title": "Specification for unused synthetic organic esters for electrical purposes",
+  "id": "724501",
+  "name": "IEC 61125:1992",
+  "title": "Insulating oils - Unused hydrocarbon-based insulating liquids - Test methods for evaluating the oxidation stability",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 10",
   "committee_intl": "TC 10",
-  "determination_date": "1993-03-14",
-  "annulment_date": "2013-10-31",
+  "determination_date": "1993-07-29",
+  "annulment_date": "2021-02-15",
   "pub_year": 1993,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/889101"
+  "url": "https://elstandard.se/standard/724501"
  },
  {
   "id": "844701",
@@ -2280,19 +2280,19 @@
   "url": "https://elstandard.se/standard/844701"
  },
  {
-  "id": "724501",
-  "name": "IEC 61125:1992",
-  "title": "Insulating oils - Unused hydrocarbon-based insulating liquids - Test methods for evaluating the oxidation stability",
+  "id": "889101",
+  "name": "IEC 61099:1992",
+  "title": "Specification for unused synthetic organic esters for electrical purposes",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 10",
   "committee_intl": "TC 10",
-  "determination_date": "1993-07-29",
-  "annulment_date": "2021-02-15",
+  "determination_date": "1993-03-14",
+  "annulment_date": "2013-10-31",
   "pub_year": 1993,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/724501"
+  "url": "https://elstandard.se/standard/889101"
  },
  {
   "id": "724701",

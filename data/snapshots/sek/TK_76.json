@@ -1,5 +1,20 @@
 [
  {
+  "id": "4087801",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4087801"
+ },
+ {
   "id": "3777201",
   "name": "SS-EN IEC 60601-2-57+A11, utg 2:2026",
   "title": "Elektrisk utrustning för medicinskt bruk - Säkerhet och väsentliga prestanda - Del 2-57: Särskilda fordringar på utrustning med annan ljuskälla än laser, avsedd för terapi, diagnostik, övervakning eller för kosmetiskt bruk",
@@ -405,6 +420,21 @@
   "url": "https://elstandard.se/standard/3738601"
  },
  {
+  "id": "3827401",
+  "name": "ISO 11553-2:2026",
+  "title": "Safety of machinery - Laser processing machines - Part 2: Safety requirements for hand-held or hand-operated laser processing machines",
+  "prefix": "ISO",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3827401"
+ },
+ {
   "id": "3680901",
   "name": "IEC/TS 60825-20:2025",
   "title": "Safety of laser products - Part 20: Safety requirements for products intentionally exposing face or eyes to laser radiation",
@@ -525,21 +555,6 @@
   "url": "https://elstandard.se/standard/3292301"
  },
  {
-  "id": "2868401",
-  "name": "IEC/TR 60825-14:2022",
-  "title": "Safety of laser products - Part 14: A user's guide",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 76",
-  "committee_intl": "TC 76",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2868401"
- },
- {
   "id": "2910601",
   "name": "IEC/TR 60825-3:2022",
   "title": "Safety laser products - Part 3: Guidance for laser displays and shows",
@@ -583,6 +598,21 @@
   "pub_year": 2022,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2929801"
+ },
+ {
+  "id": "2868401",
+  "name": "IEC/TR 60825-14:2022",
+  "title": "Safety of laser products - Part 14: A user's guide",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2868401"
  },
  {
   "id": "2617901",
@@ -675,21 +705,6 @@
   "url": "https://elstandard.se/standard/1567001"
  },
  {
-  "id": "1601301",
-  "name": "IEC/TR 60825-17:2015",
-  "title": "Safety of laser products - Part 17: Safety aspects for use of passive optical components and optical cables in high power optical fibre communication systems IEC",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 76",
-  "committee_intl": "TC 76",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1601301"
- },
- {
   "id": "1502701",
   "name": "IEC/TR 62471-3:2015",
   "title": "Photobiological safety of lamps and lamp systems - Part 3: Guidelines for the safe use of intense pulsed light source equipment on humans",
@@ -703,6 +718,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1502701"
+ },
+ {
+  "id": "1601301",
+  "name": "IEC/TR 60825-17:2015",
+  "title": "Safety of laser products - Part 17: Safety aspects for use of passive optical components and optical cables in high power optical fibre communication systems IEC",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1601301"
  },
  {
   "id": "1400301",

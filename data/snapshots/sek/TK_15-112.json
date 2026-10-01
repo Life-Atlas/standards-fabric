@@ -1,5 +1,20 @@
 [
  {
+  "id": "4094001",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4094001"
+ },
+ {
   "id": "4061101",
   "name": null,
   "title": "",
@@ -2070,21 +2085,6 @@
   "url": "https://elstandard.se/standard/594201"
  },
  {
-  "id": "603801",
-  "name": "SS-EN 61061-1, utg 2:2007",
-  "title": "Fasta isolermaterial - Icke impregnerat komprimerat skiktträ för elektriska ändamål - Del 1: Definitioner, beteckningar och allmänna fordringar",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2007-01-14",
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/603801"
- },
- {
   "id": "604801",
   "name": "SS-EN 61212-2, utg 2:2007",
   "title": "Fasta isolermaterial - Runda laminatrör och stavar baserade på härdplaster avsedda för elektriska ändamål - Del 2: Provning",
@@ -2098,6 +2098,21 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/604801"
+ },
+ {
+  "id": "603801",
+  "name": "SS-EN 61061-1, utg 2:2007",
+  "title": "Fasta isolermaterial - Icke impregnerat komprimerat skiktträ för elektriska ändamål - Del 1: Definitioner, beteckningar och allmänna fordringar",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2007-01-14",
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/603801"
  },
  {
   "id": "608601",
@@ -2355,6 +2370,21 @@
   "url": "https://elstandard.se/standard/707701"
  },
  {
+  "id": "533801",
+  "name": "SS-EN 60450, utg 1:2004",
+  "title": "Fasta isolermaterial - Bestämning av viskosimetrisk medelpolymerisationsgrad hos nytt och åldrat cellulosapapper för elektriska ändamål",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2004-09-26",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/533801"
+ },
+ {
   "id": "720801",
   "name": "SS-EN 61086-1, utg 2:2004",
   "title": "Fasta isolermaterial - Isolerande täckmaterial för färdigmonterade kretskort (konforma täckmaterial) - Del 1: Definitioner, klassificering och allmänna fordringar",
@@ -2398,21 +2428,6 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/721201"
- },
- {
-  "id": "533801",
-  "name": "SS-EN 60450, utg 1:2004",
-  "title": "Fasta isolermaterial - Bestämning av viskosimetrisk medelpolymerisationsgrad hos nytt och åldrat cellulosapapper för elektriska ändamål",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2004-09-26",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/533801"
  },
  {
   "id": "707901",
@@ -2460,21 +2475,6 @@
   "url": "https://elstandard.se/standard/2101"
  },
  {
-  "id": "743301",
-  "name": "SS-EN 60893-3-3, utg 2:2004",
-  "title": "Fasta isolermaterial - Specifikationer för styva industrilaminat av härdplaster för elektriska ändamål - Del 3-3: Specifikationer för enskilda material - Fordringar på styva laminat baserade på melaminhartser",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2004-03-21",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/743301"
- },
- {
   "id": "708301",
   "name": "SS-EN 60893-3-2, utg 2:2004",
   "title": "Fasta isolermaterial - Specifikationer för styva industrilaminat av härdplaster för elektriska ändamål - Del 3-2: Specifikationer för enskilda material - Fordringar på styva material - Fordringar på styva laminat baserade på epoxihartser",
@@ -2520,19 +2520,19 @@
   "url": "https://elstandard.se/standard/708701"
  },
  {
-  "id": "746801",
-  "name": "SS-EN 60454-3-19, utg 1:2004",
-  "title": "Fasta isolermaterial - Självhäftande tejp för elektriska ändamål - Del 3: Specifikationer för enskilda material - Blad 19: Band av olika material med dubbelsidigt tryckkänsligt häftämne",
+  "id": "743301",
+  "name": "SS-EN 60893-3-3, utg 2:2004",
+  "title": "Fasta isolermaterial - Specifikationer för styva industrilaminat av härdplaster för elektriska ändamål - Del 3-3: Specifikationer för enskilda material - Fordringar på styva laminat baserade på melaminhartser",
   "prefix": "SS-EN",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 15",
-  "determination_date": "2004-02-22",
+  "determination_date": "2004-03-21",
   "annulment_date": null,
   "pub_year": 2004,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/746801"
+  "url": "https://elstandard.se/standard/743301"
  },
  {
   "id": "565501",
@@ -2548,6 +2548,21 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/565501"
+ },
+ {
+  "id": "746801",
+  "name": "SS-EN 60454-3-19, utg 1:2004",
+  "title": "Fasta isolermaterial - Självhäftande tejp för elektriska ändamål - Del 3: Specifikationer för enskilda material - Blad 19: Band av olika material med dubbelsidigt tryckkänsligt häftämne",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-02-22",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/746801"
  },
  {
   "id": "564701",
@@ -2790,36 +2805,6 @@
   "url": "https://elstandard.se/standard/632501"
  },
  {
-  "id": "1233101",
-  "name": "SS-EN 61061-2, utg 1:2002",
-  "title": "Fasta isolermaterial - Icke impregnerat komprimerat skiktträ för elektriska ändamål - Del 2: Provningsmetoder",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2002-04-17",
-  "annulment_date": null,
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1233101"
- },
- {
-  "id": "1233701",
-  "name": "SS-EN 61061-3-2, utg 1:2002",
-  "title": "Fasta isolermaterial - Icke impregnerat komprimerat skiktträ för elektriska ändamål - Del 3: Specifikationer för enskilda material - Blad 2: Ringar av bokfaner",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2002-04-17",
-  "annulment_date": null,
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1233701"
- },
- {
   "id": "1207801",
   "name": "SS-EN 60819-2, utg 1:2002",
   "title": "Fasta isolermaterial - Specifikation för icke-cellulosabaserat papper för elektriska ändamål - Del 2: Provningsmetoder",
@@ -2848,6 +2833,36 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1208001"
+ },
+ {
+  "id": "1233101",
+  "name": "SS-EN 61061-2, utg 1:2002",
+  "title": "Fasta isolermaterial - Icke impregnerat komprimerat skiktträ för elektriska ändamål - Del 2: Provningsmetoder",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2002-04-17",
+  "annulment_date": null,
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1233101"
+ },
+ {
+  "id": "1233701",
+  "name": "SS-EN 61061-3-2, utg 1:2002",
+  "title": "Fasta isolermaterial - Icke impregnerat komprimerat skiktträ för elektriska ändamål - Del 3: Specifikationer för enskilda material - Blad 2: Ringar av bokfaner",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2002-04-17",
+  "annulment_date": null,
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1233701"
  },
  {
   "id": "1233301",
@@ -3013,6 +3028,21 @@
   "pub_year": 1998,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1233501"
+ },
+ {
+  "id": "836701",
+  "name": "SS-EN 60454-3-1, utg 1:1998",
+  "title": "Fasta isolermaterial - Självhäftande tejp för elektriska ändamål - Del 3: Specifikationer för enskilda material - PVC-tejp med tryckkänsligt häftämne",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "1998-10-29",
+  "annulment_date": null,
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/836701"
  },
  {
   "id": "1188001",
@@ -3330,36 +3360,6 @@
   "url": "https://elstandard.se/standard/3783201"
  },
  {
-  "id": "3634901",
-  "name": "IEC 60684-3-282:2025 RLV",
-  "title": "Flexible insulating sleeving – Part 3: Specifications for individual types of sleeving – Sheet 282: Heatshrinkable, polyolefin sleeving – Stress control",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2025-12-16",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3634901"
- },
- {
-  "id": "3635001",
-  "name": "IEC 60684-3-282:2025",
-  "title": "Flexible insulating sleeving – Part 3: Specifications for individual types of sleeving – Sheet 282: Heatshrinkable, polyolefin sleeving – Stress control",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2025-12-16",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3635001"
- },
- {
   "id": "3636801",
   "name": "IEC 60684-2:2025 RLV",
   "title": "Flexible insulating sleeving – Part 2: Methods of test",
@@ -3450,6 +3450,36 @@
   "url": "https://elstandard.se/standard/3652301"
  },
  {
+  "id": "3634901",
+  "name": "IEC 60684-3-282:2025 RLV",
+  "title": "Flexible insulating sleeving – Part 3: Specifications for individual types of sleeving – Sheet 282: Heatshrinkable, polyolefin sleeving – Stress control",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2025-12-16",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3634901"
+ },
+ {
+  "id": "3635001",
+  "name": "IEC 60684-3-282:2025",
+  "title": "Flexible insulating sleeving – Part 3: Specifications for individual types of sleeving – Sheet 282: Heatshrinkable, polyolefin sleeving – Stress control",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2025-12-16",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3635001"
+ },
+ {
   "id": "3720701",
   "name": "IEC 60216-1:2025",
   "title": "Electrical insulating materials - Thermal endurance properties - Part 1: Ageing procedures and evaluation of test results",
@@ -3458,7 +3488,7 @@
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 112",
-  "determination_date": null,
+  "determination_date": "2026-10-20",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
@@ -3473,7 +3503,7 @@
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 112",
-  "determination_date": null,
+  "determination_date": "2026-10-20",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
@@ -3495,21 +3525,6 @@
   "url": "https://elstandard.se/standard/3744301"
  },
  {
-  "id": "3617501",
-  "name": "IEC TR 61857-2:2025",
-  "title": "Electrical insulation systems – Procedures for thermal evaluation – Part 2: Selection of the appropriate test method for evaluation and classification of electrical insulation systems",
-  "prefix": "IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3617501"
- },
- {
   "id": "3666001",
   "name": "IEC TS 61857-42:2025",
   "title": "Electrical insulation systems - Procedures for thermal evaluation - Part 42: Specific requirements for evaluation of an electrical insulation system (EIS) used for road transportation applications",
@@ -3525,19 +3540,19 @@
   "url": "https://elstandard.se/standard/3666001"
  },
  {
-  "id": "3122901",
-  "name": "IEC 62836:2024",
-  "title": "Measurement of internal electric field in insulating materials - Pressure wave propagation method",
-  "prefix": "IEC",
-  "doc_type": "Standard",
+  "id": "3617501",
+  "name": "IEC TR 61857-2:2025",
+  "title": "Electrical insulation systems – Procedures for thermal evaluation – Part 2: Selection of the appropriate test method for evaluation and classification of electrical insulation systems",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 112",
-  "determination_date": "2024-12-17",
+  "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3122901"
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3617501"
  },
  {
   "id": "3252501",
@@ -3613,6 +3628,21 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3286001"
+ },
+ {
+  "id": "3122901",
+  "name": "IEC 62836:2024",
+  "title": "Measurement of internal electric field in insulating materials - Pressure wave propagation method",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2024-12-17",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3122901"
  },
  {
   "id": "3634301",
@@ -3885,36 +3915,6 @@
   "url": "https://elstandard.se/standard/3078401"
  },
  {
-  "id": "2870601",
-  "name": "IEC 60587:2022",
-  "title": "Electrical insulating materials used under severe ambient conditions - Test methods for evaluating resistance to tracking and erosion",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2022-06-14",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2870601"
- },
- {
-  "id": "2876801",
-  "name": "IEC 62631-2-2:2022",
-  "title": "Dielectric and resistive properties of solid insulating materials - Part 2-2: Relative permittivity and dissipation factor - High frequencies (1 MHz to 300 MHz) - AC methods",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2022-10-18",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2876801"
- },
- {
   "id": "2904601",
   "name": "IEC 60544-5:2022",
   "title": "Electrical insulating materials - Determination of the effects of ionizing radiation - Part 5: Procedures for assessment of ageing in service",
@@ -4018,6 +4018,36 @@
   "pub_year": 2023,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2951401"
+ },
+ {
+  "id": "2870601",
+  "name": "IEC 60587:2022",
+  "title": "Electrical insulating materials used under severe ambient conditions - Test methods for evaluating resistance to tracking and erosion",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2022-06-14",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2870601"
+ },
+ {
+  "id": "2876801",
+  "name": "IEC 62631-2-2:2022",
+  "title": "Dielectric and resistive properties of solid insulating materials - Part 2-2: Relative permittivity and dissipation factor - High frequencies (1 MHz to 300 MHz) - AC methods",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2022-10-18",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2876801"
  },
  {
   "id": "2617701",
@@ -4710,36 +4740,6 @@
   "url": "https://elstandard.se/standard/1539401"
  },
  {
-  "id": "1354501",
-  "name": "IEC 61858-1:2014",
-  "title": "Electrical insulation systems - Thermal evaluation of modifications to an established electrical insulation system (EIS) - Part 1: Wire-wound winding EIS",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2014-08-19",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1354501"
- },
- {
-  "id": "1354601",
-  "name": "IEC 61858-2:2014",
-  "title": "Electrical insulation systems - Thermal evaluation of modifications to an established electrical insulation system (EIS) - Part 2: Form-wound EIS",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2014-08-19",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1354601"
- },
- {
   "id": "1472201",
   "name": "IEC 60684-3-284:2014",
   "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 284: Heat-shrinkable sleevings, for oil barrier applications",
@@ -4768,6 +4768,36 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1472301"
+ },
+ {
+  "id": "1354501",
+  "name": "IEC 61858-1:2014",
+  "title": "Electrical insulation systems - Thermal evaluation of modifications to an established electrical insulation system (EIS) - Part 1: Wire-wound winding EIS",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2014-08-19",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1354501"
+ },
+ {
+  "id": "1354601",
+  "name": "IEC 61858-2:2014",
+  "title": "Electrical insulation systems - Thermal evaluation of modifications to an established electrical insulation system (EIS) - Part 2: Form-wound EIS",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2014-08-19",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1354601"
  },
  {
   "id": "1474101",
@@ -4800,21 +4830,6 @@
   "url": "https://elstandard.se/standard/1885201"
  },
  {
-  "id": "1391301",
-  "name": "IEC/TS 62332-2:2014",
-  "title": "Electrical insulation systems (EIS) - Thermal evaluation of combined liquid and solid components - Part 2: Simplified test",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1391301"
- },
- {
   "id": "1433501",
   "name": "IEC/TS 61244-1:2014",
   "title": "Determination of long-term radiation ageing in polymers - Part 1: Techniques for monitoring diffusion-limited oxidation",
@@ -4843,6 +4858,21 @@
   "pub_year": 2014,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1433601"
+ },
+ {
+  "id": "1391301",
+  "name": "IEC/TS 62332-2:2014",
+  "title": "Electrical insulation systems (EIS) - Thermal evaluation of combined liquid and solid components - Part 2: Simplified test",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1391301"
  },
  {
   "id": "1247401",
@@ -4995,21 +5025,6 @@
   "url": "https://elstandard.se/standard/1317401"
  },
  {
-  "id": "1099601",
-  "name": "IEC 60893-3-4:2003+AMD1:2012 CSV",
-  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-4: Specifications for individual materials - Requirements for rigid laminated sheets based on phenolic resins",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15/SC 15C",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2003,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1099601"
- },
- {
   "id": "1064901",
   "name": "IEC 60544-2:2012",
   "title": "Electrical insulating materials - Determination of the effects of ionizing radiation on insulating materials - Part 2: Procedures for irradiation and test",
@@ -5038,6 +5053,21 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1067901"
+ },
+ {
+  "id": "1099601",
+  "name": "IEC 60893-3-4:2003+AMD1:2012 CSV",
+  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-4: Specifications for individual materials - Requirements for rigid laminated sheets based on phenolic resins",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15/SC 15C",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2003,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1099601"
  },
  {
   "id": "1088901",
@@ -5160,6 +5190,21 @@
   "url": "https://elstandard.se/standard/1007401"
  },
  {
+  "id": "1808701",
+  "name": "IEC 60505:2011/C1:2017",
+  "title": "Evaluation and qualification of electrical insulation systems",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 98",
+  "determination_date": "2017-05-16",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1808701"
+ },
+ {
   "id": "1753601",
   "name": "IEC 60674-3-8:2011/A1:2016",
   "title": "Plastic films for electrical purposes - Part 3: Specifications for individual materials - Sheet 8: Balanced biaxially oriented polyethylene naphthalate (PEN) films used for electrical insulation",
@@ -5175,19 +5220,49 @@
   "url": "https://elstandard.se/standard/1753601"
  },
  {
-  "id": "1808701",
-  "name": "IEC 60505:2011/C1:2017",
-  "title": "Evaluation and qualification of electrical insulation systems",
+  "id": "851501",
+  "name": "IEC 60763-1:2010",
+  "title": "Laminated pressboard for electrical purposes - Part 1: Definitions, classification and general requirements",
   "prefix": "IEC",
-  "doc_type": "Corrigendum",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 15/112",
-  "committee_intl": "TC 98",
-  "determination_date": "2017-05-16",
+  "committee_intl": "TC 15",
+  "determination_date": "2011-09-06",
   "annulment_date": null,
   "pub_year": 2011,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1808701"
+  "url": "https://elstandard.se/standard/851501"
+ },
+ {
+  "id": "851601",
+  "name": "IEC 60763-3-1:2010",
+  "title": "Laminated pressboard for electrical purposes - Part 3: Specifications for individual materials - Sheet 1: Requirements for laminated precompressed pressboard, Types LB3.1A.1 and LB3.1A.2",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2011-09-06",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/851601"
+ },
+ {
+  "id": "901201",
+  "name": "IEC 60212:2010",
+  "title": "Standard conditions for use prior to and during the testing of solid electrical insulating materials",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2011-10-04",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/901201"
  },
  {
   "id": "556201",
@@ -5250,49 +5325,19 @@
   "url": "https://elstandard.se/standard/578601"
  },
  {
-  "id": "851501",
-  "name": "IEC 60763-1:2010",
-  "title": "Laminated pressboard for electrical purposes - Part 1: Definitions, classification and general requirements",
+  "id": "1601",
+  "name": "IEC 60626-2:2009",
+  "title": "Combined flexible materials for electrical insulation - Part 2: Methods of test",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 15",
-  "determination_date": "2011-09-06",
+  "determination_date": "2010-02-21",
   "annulment_date": null,
-  "pub_year": 2011,
+  "pub_year": 2010,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/851501"
- },
- {
-  "id": "851601",
-  "name": "IEC 60763-3-1:2010",
-  "title": "Laminated pressboard for electrical purposes - Part 3: Specifications for individual materials - Sheet 1: Requirements for laminated precompressed pressboard, Types LB3.1A.1 and LB3.1A.2",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2011-09-06",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/851601"
- },
- {
-  "id": "901201",
-  "name": "IEC 60212:2010",
-  "title": "Standard conditions for use prior to and during the testing of solid electrical insulating materials",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2011-10-04",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/901201"
+  "url": "https://elstandard.se/standard/1601"
  },
  {
   "id": "120001",
@@ -5308,21 +5353,6 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/120001"
- },
- {
-  "id": "1601",
-  "name": "IEC 60626-2:2009",
-  "title": "Combined flexible materials for electrical insulation - Part 2: Methods of test",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2010-02-21",
-  "annulment_date": null,
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1601"
  },
  {
   "id": "1016801",
@@ -5370,21 +5400,6 @@
   "url": "https://elstandard.se/standard/256901"
  },
  {
-  "id": "326301",
-  "name": "IEC 60626-3:2008",
-  "title": "Combined flexible materials for electrical insulation - Part 3: Specifications for individual materials",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2009-01-25",
-  "annulment_date": null,
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/326301"
- },
- {
   "id": "388301",
   "name": "IEC 60641-3-1:2008",
   "title": "Pressboard and presspaper for electrical purposes - Part 3: Specifications for individual materials - Sheet 1: Requirements for pressboard, types B.0.1, B.0.3, B.2.1, B.2.3, B.3.1, B.3.3, B.4.1, B.4.3, B.5.1, B.5.3 and B.6.1",
@@ -5400,6 +5415,21 @@
   "url": "https://elstandard.se/standard/388301"
  },
  {
+  "id": "326301",
+  "name": "IEC 60626-3:2008",
+  "title": "Combined flexible materials for electrical insulation - Part 3: Specifications for individual materials",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2009-01-25",
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/326301"
+ },
+ {
   "id": "1065101",
   "name": "IEC 60626-3:2008/A1:2012",
   "title": "Combined flexible materials for electrical insulation - Part 3: Specifications for individual materials",
@@ -5413,21 +5443,6 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1065101"
- },
- {
-  "id": "325301",
-  "name": "IEC 60763-2:2007",
-  "title": "Specification for laminated pressboard - Part 2: Methods of test",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2009-01-25",
-  "annulment_date": null,
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/325301"
  },
  {
   "id": "388101",
@@ -5460,49 +5475,34 @@
   "url": "https://elstandard.se/standard/388501"
  },
  {
-  "id": "546101",
-  "name": "IEC 60684-3-246:2007",
-  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 246: Heat-shrinkable, polyolefin sleeving, dual-wall, not flame retarded",
+  "id": "325301",
+  "name": "IEC 60763-2:2007",
+  "title": "Specification for laminated pressboard - Part 2: Methods of test",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 15",
-  "determination_date": "2007-08-12",
+  "determination_date": "2009-01-25",
   "annulment_date": null,
-  "pub_year": 2007,
+  "pub_year": 2009,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/546101"
+  "url": "https://elstandard.se/standard/325301"
  },
  {
-  "id": "546301",
-  "name": "IEC 60684-3-211:2007",
-  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 211: Heat-shrinkable sleeving, semi-rigid polyolefin, shrink ratio 2:1",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2007-08-12",
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/546301"
- },
- {
-  "id": "594101",
-  "name": "IEC 60426:2007",
-  "title": "Electrical insulating materials - Determination of electrolytic corrosion caused by insulating materials - Test methods",
+  "id": "484601",
+  "name": "IEC 60085:2007",
+  "title": "Electrical insulation - Thermal evaluation and designation",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 112",
-  "determination_date": "2007-03-25",
+  "determination_date": "2008-03-24",
   "annulment_date": null,
-  "pub_year": 2007,
+  "pub_year": 2008,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/594101"
+  "url": "https://elstandard.se/standard/484601"
  },
  {
   "id": "509101",
@@ -5550,19 +5550,49 @@
   "url": "https://elstandard.se/standard/534301"
  },
  {
-  "id": "484601",
-  "name": "IEC 60085:2007",
-  "title": "Electrical insulation - Thermal evaluation and designation",
+  "id": "546101",
+  "name": "IEC 60684-3-246:2007",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 246: Heat-shrinkable, polyolefin sleeving, dual-wall, not flame retarded",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2007-08-12",
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/546101"
+ },
+ {
+  "id": "546301",
+  "name": "IEC 60684-3-211:2007",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 211: Heat-shrinkable sleeving, semi-rigid polyolefin, shrink ratio 2:1",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2007-08-12",
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/546301"
+ },
+ {
+  "id": "594101",
+  "name": "IEC 60426:2007",
+  "title": "Electrical insulating materials - Determination of electrolytic corrosion caused by insulating materials - Test methods",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 15/112",
   "committee_intl": "TC 112",
-  "determination_date": "2008-03-24",
+  "determination_date": "2007-03-25",
   "annulment_date": null,
-  "pub_year": 2008,
+  "pub_year": 2007,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/484601"
+  "url": "https://elstandard.se/standard/594101"
  },
  {
   "id": "3078301",
@@ -5608,66 +5638,6 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/403801"
- },
- {
-  "id": "563601",
-  "name": "IEC 60684-3-233:2006",
-  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 233: Heat-shrinkable fluorelastomer sleeving, flame retarded, fluid resistant, shrink ratio 2:1",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2006-05-28",
-  "annulment_date": null,
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/563601"
- },
- {
-  "id": "603701",
-  "name": "IEC 61061-1:2006",
-  "title": "Non-impregnated, densified laminated wood for electrical purposes - Part 1: Definitions, designation and general requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2007-01-14",
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/603701"
- },
- {
-  "id": "604701",
-  "name": "IEC 61212-2:2006",
-  "title": "Insulating materials - Industrial rigid round laminated tubes and rods based on thermosetting resins for electrical purposes - Part 2: Methods of test",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15/SC 15C",
-  "determination_date": "2007-01-14",
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/604701"
- },
- {
-  "id": "608501",
-  "name": "IEC 61212-3-3:2006",
-  "title": "Insulating materials - Industrial rigid round laminated tubes and rods based on thermosetting resins for electrical purposes - Part 3: Specifications for individual materials - Sheet 3: Round laminated moulded rods",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15/SC 15C",
-  "determination_date": "2006-12-17",
-  "annulment_date": null,
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/608501"
  },
  {
   "id": "634801",
@@ -5745,6 +5715,66 @@
   "url": "https://elstandard.se/standard/640201"
  },
  {
+  "id": "563601",
+  "name": "IEC 60684-3-233:2006",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 233: Heat-shrinkable fluorelastomer sleeving, flame retarded, fluid resistant, shrink ratio 2:1",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2006-05-28",
+  "annulment_date": null,
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/563601"
+ },
+ {
+  "id": "603701",
+  "name": "IEC 61061-1:2006",
+  "title": "Non-impregnated, densified laminated wood for electrical purposes - Part 1: Definitions, designation and general requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2007-01-14",
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/603701"
+ },
+ {
+  "id": "604701",
+  "name": "IEC 61212-2:2006",
+  "title": "Insulating materials - Industrial rigid round laminated tubes and rods based on thermosetting resins for electrical purposes - Part 2: Methods of test",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15/SC 15C",
+  "determination_date": "2007-01-14",
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/604701"
+ },
+ {
+  "id": "608501",
+  "name": "IEC 61212-3-3:2006",
+  "title": "Insulating materials - Industrial rigid round laminated tubes and rods based on thermosetting resins for electrical purposes - Part 3: Specifications for individual materials - Sheet 3: Round laminated moulded rods",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15/SC 15C",
+  "determination_date": "2006-12-17",
+  "annulment_date": null,
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/608501"
+ },
+ {
   "id": "403401",
   "name": "IEC 60216-2:2005",
   "title": "Electrical insulating materials - Thermal endurance properties - Part 2: Determination of thermal endurance properties of electrical insulating materials - Choice of test criteria",
@@ -5788,6 +5818,81 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3304301"
+ },
+ {
+  "id": "365201",
+  "name": "IEC 60641-2:2004",
+  "title": "Pressboard and presspaper for electrical purposes - Part 2: Methods of tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2008-11-16",
+  "annulment_date": null,
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/365201"
+ },
+ {
+  "id": "533701",
+  "name": "IEC 60450:2004",
+  "title": "Measurement of the average viscometric degree of polymerization of new and aged cellulosic electrically insulating materials",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2004-09-26",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/533701"
+ },
+ {
+  "id": "562301",
+  "name": "IEC 60684-3-165:2004",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 165: Extruded polyolefin, flame retarded, limited fire hazard sleeving",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-11-21",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/562301"
+ },
+ {
+  "id": "563201",
+  "name": "IEC 60684-3-228:2004",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 228: Heat-shrinkable, semi-rigid polyvinylidene fluoride sleeving, flame retarded, fluid resistant, shrink ratio 2:1",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-11-21",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/563201"
+ },
+ {
+  "id": "707801",
+  "name": "IEC 60893-1:2004",
+  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 1: Definitions, designations and general requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-06-27",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/707801"
  },
  {
   "id": "720701",
@@ -5835,81 +5940,6 @@
   "url": "https://elstandard.se/standard/721101"
  },
  {
-  "id": "365201",
-  "name": "IEC 60641-2:2004",
-  "title": "Pressboard and presspaper for electrical purposes - Part 2: Methods of tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2008-11-16",
-  "annulment_date": null,
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/365201"
- },
- {
-  "id": "562301",
-  "name": "IEC 60684-3-165:2004",
-  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 165: Extruded polyolefin, flame retarded, limited fire hazard sleeving",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2004-11-21",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/562301"
- },
- {
-  "id": "563201",
-  "name": "IEC 60684-3-228:2004",
-  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 228: Heat-shrinkable, semi-rigid polyvinylidene fluoride sleeving, flame retarded, fluid resistant, shrink ratio 2:1",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2004-11-21",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/563201"
- },
- {
-  "id": "533701",
-  "name": "IEC 60450:2004",
-  "title": "Measurement of the average viscometric degree of polymerization of new and aged cellulosic electrically insulating materials",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2004-09-26",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/533701"
- },
- {
-  "id": "707801",
-  "name": "IEC 60893-1:2004",
-  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 1: Definitions, designations and general requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2004-06-27",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/707801"
- },
- {
   "id": "533901",
   "name": "IEC 60450:2004/A1:2007",
   "title": "Measurement of the average viscometric degree of polymerization of new and aged cellulosic electrically insulating materials",
@@ -5925,21 +5955,6 @@
   "url": "https://elstandard.se/standard/533901"
  },
  {
-  "id": "119101",
-  "name": "IEC 60893-3-5:2003",
-  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-5: Specifications for individual materials - Requirements for rigid laminated sheets based on polyester resins",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2004-03-21",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/119101"
- },
- {
   "id": "2001",
   "name": "IEC 60893-3-7:2003",
   "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-7: Specifications for individual materials - Requirements for rigid laminated sheets based on polyimide resins",
@@ -5953,6 +5968,21 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2001"
+ },
+ {
+  "id": "119101",
+  "name": "IEC 60893-3-5:2003",
+  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-5: Specifications for individual materials - Requirements for rigid laminated sheets based on polyester resins",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-03-21",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/119101"
  },
  {
   "id": "743201",
@@ -6015,21 +6045,6 @@
   "url": "https://elstandard.se/standard/770801"
  },
  {
-  "id": "708601",
-  "name": "IEC 60893-3-6:2003",
-  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-6: Specifications for individual materials - Requirements for rigid laminated sheets based on silicone resins",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2004-03-21",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/708601"
- },
- {
   "id": "771001",
   "name": "IEC 60455-3-4:2003",
   "title": "Resin based reactive compounds used for electrical insulation - Part 3: Specifications for individual materials - Sheet 4: Filled polyurethane compounds",
@@ -6045,6 +6060,96 @@
   "url": "https://elstandard.se/standard/771001"
  },
  {
+  "id": "563401",
+  "name": "IEC 60684-3-229:2003",
+  "title": "Flexible insulating sleeving - Part 3: Specification requirements for individual types of sleeving - Sheet 229: Heat shrinkable, semi-flexible, polyvinylidene fluoride sleeving, flame retarded, fluid resistant, shrink ratio 2:1",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2003-08-25",
+  "annulment_date": null,
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/563401"
+ },
+ {
+  "id": "564601",
+  "name": "IEC 60684-3-340-342:2003",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheets 340 to 342: Expandable braided polyethylene terephtalate textile sleeving",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2003-11-16",
+  "annulment_date": null,
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/564601"
+ },
+ {
+  "id": "565401",
+  "name": "IEC 60684-3-406:2003",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheets 406 to 408: Glass textile sleeving with PVC coating",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-02-22",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/565401"
+ },
+ {
+  "id": "708201",
+  "name": "IEC 60893-3-2:2003",
+  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-2: Specifications for individual materials - Requirements for rigid laminated sheets based on epoxy resins",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-03-21",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/708201"
+ },
+ {
+  "id": "708401",
+  "name": "IEC 60893-3-4:2003",
+  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-4: Specifications for individual materials - Requirements for rigid laminated sheets based on phenolic resins",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-03-21",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/708401"
+ },
+ {
+  "id": "708601",
+  "name": "IEC 60893-3-6:2003",
+  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-6: Specifications for individual materials - Requirements for rigid laminated sheets based on silicone resins",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-03-21",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/708601"
+ },
+ {
   "id": "2201",
   "name": "IEC 60893-3-7:2003/A1:2009",
   "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-7: Specifications for individual materials - Requirements for rigid laminated sheets based on polyimide resins",
@@ -6058,21 +6163,6 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2201"
- },
- {
-  "id": "708801",
-  "name": "IEC 60893-3-6:2003/A1:2009",
-  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-6: Specifications for individual materials - Requirements for rigid laminated sheets based on silicone resins",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2010-02-21",
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/708801"
  },
  {
   "id": "119401",
@@ -6118,6 +6208,21 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1099501"
+ },
+ {
+  "id": "708801",
+  "name": "IEC 60893-3-6:2003/A1:2009",
+  "title": "Insulating materials - Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 3-6: Specifications for individual materials - Requirements for rigid laminated sheets based on silicone resins",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2010-02-21",
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/708801"
  },
  {
   "id": "1003101",
@@ -6255,21 +6360,6 @@
   "url": "https://elstandard.se/standard/565801"
  },
  {
-  "id": "836401",
-  "name": "IEC 60454-3-14:2001",
-  "title": "Pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 14: Polytetrafluorethylene film tapes with pressure sensitive adhesive",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2001-11-29",
-  "annulment_date": null,
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/836401"
- },
- {
   "id": "257501",
   "name": "IEC 60554-2:2001",
   "title": "Cellulosic papers for electrical purposes - Part 2: Methods of test",
@@ -6328,6 +6418,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/632401"
+ },
+ {
+  "id": "836401",
+  "name": "IEC 60454-3-14:2001",
+  "title": "Pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 14: Polytetrafluorethylene film tapes with pressure sensitive adhesive",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2001-11-29",
+  "annulment_date": null,
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/836401"
  },
  {
   "id": "1207701",
@@ -6495,21 +6600,6 @@
   "url": "https://elstandard.se/standard/1202101"
  },
  {
-  "id": "836601",
-  "name": "IEC 60454-3-1:1998",
-  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 1: PVC film tapes with pressure-sensitive adhesive",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "1998-10-29",
-  "annulment_date": null,
-  "pub_year": 1998,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/836601"
- },
- {
   "id": "770001",
   "name": "IEC 60455-1:1998",
   "title": "Resin based reactive compounds used for electrical insulation - Part 1: Definitions and general requirements",
@@ -6523,21 +6613,6 @@
   "pub_year": 2000,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/770001"
- },
- {
-  "id": "1188101",
-  "name": "IEC 60454-3-7:1998",
-  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 7: Polyimide film tapes with pressure-sensitive adhesive",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "1998-10-29",
-  "annulment_date": null,
-  "pub_year": 1998,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1188101"
  },
  {
   "id": "631201",
@@ -6555,6 +6630,36 @@
   "url": "https://elstandard.se/standard/631201"
  },
  {
+  "id": "836601",
+  "name": "IEC 60454-3-1:1998",
+  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 1: PVC film tapes with pressure-sensitive adhesive",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "1998-10-29",
+  "annulment_date": null,
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/836601"
+ },
+ {
+  "id": "1188101",
+  "name": "IEC 60454-3-7:1998",
+  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 7: Polyimide film tapes with pressure-sensitive adhesive",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "1998-10-29",
+  "annulment_date": null,
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1188101"
+ },
+ {
   "id": "1233401",
   "name": "IEC 61061-3-1:1998",
   "title": "Non-impregnated densified laminated wood for electrical purposes - Part 3: Specifications for individual materials - Sheet 1: Sheets produced from beech veneer",
@@ -6570,21 +6675,6 @@
   "url": "https://elstandard.se/standard/1233401"
  },
  {
-  "id": "836801",
-  "name": "IEC 60454-3-1:1998/A1:2001",
-  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3-1: Specifications for individual materials - PVC film tapes with pressure-sensitive adhesive",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2001-11-29",
-  "annulment_date": null,
-  "pub_year": 1998,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/836801"
- },
- {
   "id": "631401",
   "name": "IEC 60464-1:1998/A1:2006",
   "title": "Varnishes used for electrical insulation - Part 1: Definitions and general requirements",
@@ -6598,6 +6688,21 @@
   "pub_year": 2000,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/631401"
+ },
+ {
+  "id": "836801",
+  "name": "IEC 60454-3-1:1998/A1:2001",
+  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3-1: Specifications for individual materials - PVC film tapes with pressure-sensitive adhesive",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2001-11-29",
+  "annulment_date": null,
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/836801"
  },
  {
   "id": "1202301",
@@ -6645,6 +6750,21 @@
   "url": "https://elstandard.se/standard/1799101"
  },
  {
+  "id": "1201901",
+  "name": "IEC 60672-1:1995",
+  "title": "Ceramic and glass insulating materials - Part 1: Definitions and classification",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "1996-02-22",
+  "annulment_date": null,
+  "pub_year": 1996,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1201901"
+ },
+ {
   "id": "1234401",
   "name": "IEC 61067-3-1:1995",
   "title": "Glass and glass polyester fibre woven tapes - Part 3: Specifications for individual materials - Sheet 1: Types 1, 2 and 3 tapes",
@@ -6673,21 +6793,6 @@
   "pub_year": 1995,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1235001"
- },
- {
-  "id": "1201901",
-  "name": "IEC 60672-1:1995",
-  "title": "Ceramic and glass insulating materials - Part 1: Definitions and classification",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "1996-02-22",
-  "annulment_date": null,
-  "pub_year": 1996,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1201901"
  },
  {
   "id": "1798601",
@@ -6720,21 +6825,6 @@
   "url": "https://elstandard.se/standard/1799301"
  },
  {
-  "id": "906701",
-  "name": "IEC 61061-2:1992",
-  "title": "Specification for non-impregnated, densified laminated wood for electrical purposes - Part 2: Methods of test",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2002-04-17",
-  "annulment_date": null,
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/906701"
- },
- {
   "id": "457301",
   "name": "IEC 60454-1:1992",
   "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 1: General requirements",
@@ -6763,6 +6853,21 @@
   "pub_year": 1998,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1234201"
+ },
+ {
+  "id": "906701",
+  "name": "IEC 61061-2:1992",
+  "title": "Specification for non-impregnated, densified laminated wood for electrical purposes - Part 2: Methods of test",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2002-04-17",
+  "annulment_date": null,
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/906701"
  },
  {
   "id": "1233201",
@@ -7335,36 +7440,6 @@
   "url": "https://elstandard.se/standard/1501"
  },
  {
-  "id": "868001",
-  "name": "IEC 60684-3-116:2010",
-  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheets 116 and 117: Extruded polychloroprene, general purpose",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2012-03-13",
-  "annulment_date": "2027-04-30",
-  "pub_year": 2012,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/868001"
- },
- {
-  "id": "901701",
-  "name": "IEC 60684-3-283:2010",
-  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 283: Heat-shrinkable, polyolefin sleeving, for bus-bar insulation",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2011-02-08",
-  "annulment_date": "2022-09-23",
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/901701"
- },
- {
   "id": "566001",
   "name": "IEC 60684-3-280:2010",
   "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 280: Heat-shrinkable, polyolefin sleeving, anti-tracking",
@@ -7408,6 +7483,36 @@
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/566201"
+ },
+ {
+  "id": "901701",
+  "name": "IEC 60684-3-283:2010",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheet 283: Heat-shrinkable, polyolefin sleeving, for bus-bar insulation",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2011-02-08",
+  "annulment_date": "2022-09-23",
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/901701"
+ },
+ {
+  "id": "868001",
+  "name": "IEC 60684-3-116:2010",
+  "title": "Flexible insulating sleeving - Part 3: Specifications for individual types of sleeving - Sheets 116 and 117: Extruded polychloroprene, general purpose",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2012-03-13",
+  "annulment_date": "2027-04-30",
+  "pub_year": 2012,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/868001"
  },
  {
   "id": "1342701",
@@ -7590,21 +7695,6 @@
   "url": "https://elstandard.se/standard/403701"
  },
  {
-  "id": "403601",
-  "name": "IEC 60216-3:2006",
-  "title": "Electrical insulating materials - Thermal endurance properties - Part 3: Instructions for calculating thermal endurance characteristics",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 112",
-  "determination_date": "2006-10-22",
-  "annulment_date": "2024-04-19",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/403601"
- },
- {
   "id": "404601",
   "name": "IEC 60216-6:2006",
   "title": "Electrical insulating materials - Thermal endurance properties - Part 6: Determination of thermal endurance indices (TI and RTE) of an insulating material using the fixed time frame method",
@@ -7618,6 +7708,21 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/404601"
+ },
+ {
+  "id": "403601",
+  "name": "IEC 60216-3:2006",
+  "title": "Electrical insulating materials - Thermal endurance properties - Part 3: Instructions for calculating thermal endurance characteristics",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 112",
+  "determination_date": "2006-10-22",
+  "annulment_date": "2024-04-19",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/403601"
  },
  {
   "id": "563101",
@@ -7665,21 +7770,6 @@
   "url": "https://elstandard.se/standard/1201"
  },
  {
-  "id": "707601",
-  "name": "IEC 60893-2:2003",
-  "title": "Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 2: Methods of test",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "2004-11-21",
-  "annulment_date": "2026-12-17",
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/707601"
- },
- {
   "id": "256301",
   "name": "IEC 62068-1:2003",
   "title": "Electrical insulation systems - Electrical stresses produced by repetitive impulses - Part 1: General method of evaluation of electrical endurance",
@@ -7693,6 +7783,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/256301"
+ },
+ {
+  "id": "707601",
+  "name": "IEC 60893-2:2003",
+  "title": "Industrial rigid laminated sheets based on thermosetting resins for electrical purposes - Part 2: Methods of test",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "2004-11-21",
+  "annulment_date": "2026-12-17",
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/707601"
  },
  {
   "id": "1401",
@@ -7830,21 +7935,6 @@
   "url": "https://elstandard.se/standard/1203201"
  },
  {
-  "id": "1187901",
-  "name": "IEC 60454-3-6:1998",
-  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 6: Polycarbonate film tapes with acrylic thermoplastic adhesive",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "1998-10-29",
-  "annulment_date": null,
-  "pub_year": 1998,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1187901"
- },
- {
   "id": "1006701",
   "name": "IEC 60674-3-1:1998",
   "title": "Plastic films for electrical purposes - Part 3: Specifications for individual materials - Sheet 1: Biaxially oriented polypropylene (PP) films for capacitors",
@@ -7858,6 +7948,21 @@
   "pub_year": 1998,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1006701"
+ },
+ {
+  "id": "1187901",
+  "name": "IEC 60454-3-6:1998",
+  "title": "Specifications for pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 6: Polycarbonate film tapes with acrylic thermoplastic adhesive",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "1998-10-29",
+  "annulment_date": null,
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1187901"
  },
  {
   "id": "978201",
@@ -7920,21 +8025,6 @@
   "url": "https://elstandard.se/standard/1201301"
  },
  {
-  "id": "1188301",
-  "name": "IEC 60454-3-10:1995",
-  "title": "Pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 10: Requirements for cellulose-acetate-butyrate film tapes with rubber thermosetting adhesive",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 15/112",
-  "committee_intl": "TC 15",
-  "determination_date": "1996-10-24",
-  "annulment_date": null,
-  "pub_year": 1996,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1188301"
- },
- {
   "id": "1201201",
   "name": "IEC 60626-1:1995",
   "title": "Combined flexible materials for electrical insulation - Part 1: Definitions and general requirements",
@@ -7948,6 +8038,21 @@
   "pub_year": 1996,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1201201"
+ },
+ {
+  "id": "1188301",
+  "name": "IEC 60454-3-10:1995",
+  "title": "Pressure-sensitive adhesive tapes for electrical purposes - Part 3: Specifications for individual materials - Sheet 10: Requirements for cellulose-acetate-butyrate film tapes with rubber thermosetting adhesive",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 15/112",
+  "committee_intl": "TC 15",
+  "determination_date": "1996-10-24",
+  "annulment_date": null,
+  "pub_year": 1996,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1188301"
  },
  {
   "id": "1201101",

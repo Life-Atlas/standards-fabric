@@ -960,21 +960,6 @@
   "url": "https://elstandard.se/standard/3692201"
  },
  {
-  "id": "3559701",
-  "name": "IEC TR 63411:2025",
-  "title": "Grid connection of offshore wind via VSC-HVDC systems",
-  "prefix": "IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8/SC 8A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3559701"
- },
- {
   "id": "3636101",
   "name": "IEC TR 63534:2025",
   "title": "Integrating distributed PV into LVDC systems and use cases",
@@ -988,6 +973,21 @@
   "pub_year": 2025,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3636101"
+ },
+ {
+  "id": "3559701",
+  "name": "IEC TR 63411:2025",
+  "title": "Grid connection of offshore wind via VSC-HVDC systems",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8/SC 8A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3559701"
  },
  {
   "id": "3104801",
@@ -1588,21 +1588,6 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/38901"
- },
- {
-  "id": "4040501",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "TS",
-  "status": "new_work_proposal",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4040501"
  },
  {
   "id": "4050801",

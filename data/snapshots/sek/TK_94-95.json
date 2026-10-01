@@ -1,5 +1,50 @@
 [
  {
+  "id": "4084101",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 95",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4084101"
+ },
+ {
+  "id": "4078401",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Amendment",
+  "status": "remiss",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 95",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4078401"
+ },
+ {
+  "id": "4075401",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 95",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4075401"
+ },
+ {
   "id": "3808101",
   "name": "SEK TS 60255-216-1, utg 1:2026",
   "title": "Measuring relays and protection equipment - Part 216-1: Digital Interface - General Requirements and Tests for Protection Functions using digital communication as input and output",
@@ -1271,8 +1316,23 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3794101"
+ },
+ {
+  "id": "3812901",
+  "name": "IEC 63522-19:2026",
+  "title": "Electrical relays - Tests and measurements - Part 19: Electrical endurance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 94",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3812901"
  },
  {
   "id": "3579901",
@@ -1793,7 +1853,7 @@
   "status": "publicerad",
   "committee_sek": "TK 94/95",
   "committee_intl": "TC 94",
-  "determination_date": null,
+  "determination_date": "2026-10-20",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
@@ -1823,7 +1883,7 @@
   "status": "publicerad",
   "committee_sek": "TK 94/95",
   "committee_intl": "TC 94",
-  "determination_date": null,
+  "determination_date": "2026-10-20",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
@@ -1950,6 +2010,36 @@
   "url": "https://elstandard.se/standard/3633101"
  },
  {
+  "id": "3014201",
+  "name": "IEC 61812-1:2023 RLV",
+  "title": "Time relays for industrial and residential use - Part 1: Requirements and tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 94",
+  "determination_date": "2025-06-03",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3014201"
+ },
+ {
+  "id": "3014301",
+  "name": "IEC 61812-1:2023",
+  "title": "Time relays for industrial and residential use - Part 1: Requirements and tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 94",
+  "determination_date": "2025-06-03",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3014301"
+ },
+ {
   "id": "2968001",
   "name": "IEC 60255-26:2023",
   "title": "Measuring relays and protection equipment - Part 26: Electromagnetic compatibility requirements",
@@ -2008,36 +2098,6 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2977501"
- },
- {
-  "id": "3014201",
-  "name": "IEC 61812-1:2023 RLV",
-  "title": "Time relays for industrial and residential use - Part 1: Requirements and tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 94",
-  "determination_date": "2025-06-03",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3014201"
- },
- {
-  "id": "3014301",
-  "name": "IEC 61812-1:2023",
-  "title": "Time relays for industrial and residential use - Part 1: Requirements and tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 94",
-  "determination_date": "2025-06-03",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3014301"
  },
  {
   "id": "2910801",
@@ -2363,10 +2423,10 @@
   "status": "publicerad",
   "committee_sek": "TK 94/95",
   "committee_intl": "TC 94",
-  "determination_date": null,
+  "determination_date": "2026-10-20",
   "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
+  "pub_year": 2016,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3802001"
  },
  {
@@ -2925,6 +2985,36 @@
   "url": "https://elstandard.se/standard/492701"
  },
  {
+  "id": "74201",
+  "name": "IEC 60255-26:2008",
+  "title": "Measuring relays and protection equipment - Part 26: Electromagnetic compatibility requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 95",
+  "determination_date": "2010-01-24",
+  "annulment_date": "2016-06-27",
+  "pub_year": 2010,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/74201"
+ },
+ {
+  "id": "416101",
+  "name": "IEC 61810-1:2008",
+  "title": "Electromechanical elementary relays - Part 1: General requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 94",
+  "determination_date": "2008-10-19",
+  "annulment_date": "2018-03-31",
+  "pub_year": 2008,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/416101"
+ },
+ {
   "id": "440101",
   "name": "IEC 60255-11:2008",
   "title": "Measuring relays and protection equipment - Part 11: Voltage dips, short interruptions, variations and ripple on auxiliary power supply port",
@@ -2970,36 +3060,6 @@
   "url": "https://elstandard.se/standard/456101"
  },
  {
-  "id": "74201",
-  "name": "IEC 60255-26:2008",
-  "title": "Measuring relays and protection equipment - Part 26: Electromagnetic compatibility requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 95",
-  "determination_date": "2010-01-24",
-  "annulment_date": "2016-06-27",
-  "pub_year": 2010,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/74201"
- },
- {
-  "id": "416101",
-  "name": "IEC 61810-1:2008",
-  "title": "Electromechanical elementary relays - Part 1: General requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 94",
-  "determination_date": "2008-10-19",
-  "annulment_date": "2018-03-31",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/416101"
- },
- {
   "id": "789801",
   "name": "IEC 60255-22-5:2008",
   "title": "Measuring relays and protection equipment - Part 22-5: Electrical disturbance tests - Surge immunity test",
@@ -3030,21 +3090,6 @@
   "url": "https://elstandard.se/standard/456501"
  },
  {
-  "id": "492601",
-  "name": "IEC 60255-22-1:2007",
-  "title": "Measuring relays and protection equipment - Part 22-1: Electrical disturbance tests - 1 MHz burst immunity tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 95",
-  "determination_date": "2008-03-24",
-  "annulment_date": "2016-06-27",
-  "pub_year": 2008,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/492601"
- },
- {
   "id": "361901",
   "name": "IEC 60255-22-3:2007",
   "title": "Measuring relays and protection equipment - Part 22-3: Electric disturbance tests - Radiated electromagnetic field immunity",
@@ -3060,19 +3105,19 @@
   "url": "https://elstandard.se/standard/361901"
  },
  {
-  "id": "492501",
-  "name": "SS-EN 60255-22-1, utg 1:2006",
-  "title": "Reläer - Del 22-1: Störningsprovning av mätande reläer och reläskydd - Provning av immunitet mot 1 MHz pulsskurar",
-  "prefix": "SS-EN",
+  "id": "492601",
+  "name": "IEC 60255-22-1:2007",
+  "title": "Measuring relays and protection equipment - Part 22-1: Electrical disturbance tests - 1 MHz burst immunity tests",
+  "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 94/95",
   "committee_intl": "TC 95",
-  "determination_date": "2006-04-23",
-  "annulment_date": "2011-01-31",
-  "pub_year": 2006,
+  "determination_date": "2008-03-24",
+  "annulment_date": "2016-06-27",
+  "pub_year": 2008,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/492501"
+  "url": "https://elstandard.se/standard/492601"
  },
  {
   "id": "642501",
@@ -3090,6 +3135,21 @@
   "url": "https://elstandard.se/standard/642501"
  },
  {
+  "id": "492501",
+  "name": "SS-EN 60255-22-1, utg 1:2006",
+  "title": "Reläer - Del 22-1: Störningsprovning av mätande reläer och reläskydd - Provning av immunitet mot 1 MHz pulsskurar",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 95",
+  "determination_date": "2006-04-23",
+  "annulment_date": "2011-01-31",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/492501"
+ },
+ {
   "id": "588101",
   "name": "IEC 62314:2006",
   "title": "Solid-state relays",
@@ -3103,21 +3163,6 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/588101"
- },
- {
-  "id": "680201",
-  "name": "SS-EN 61810-2, utg 1:2005",
-  "title": "Elektromekaniska elementarreläer - Del 2: Funktionssäkerhet",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 94",
-  "determination_date": "2005-06-14",
-  "annulment_date": "2014-03-31",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/680201"
  },
  {
   "id": "74101",
@@ -3135,6 +3180,21 @@
   "url": "https://elstandard.se/standard/74101"
  },
  {
+  "id": "680201",
+  "name": "SS-EN 61810-2, utg 1:2005",
+  "title": "Elektromekaniska elementarreläer - Del 2: Funktionssäkerhet",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 94",
+  "determination_date": "2005-06-14",
+  "annulment_date": "2014-03-31",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/680201"
+ },
+ {
   "id": "680101",
   "name": "IEC 61810-2:2005",
   "title": "Electromechanical elementary relays - Part 2: Reliability",
@@ -3150,21 +3210,6 @@
   "url": "https://elstandard.se/standard/680101"
  },
  {
-  "id": "492401",
-  "name": "IEC 60255-22-1:2005",
-  "title": "Electrical relays - Part 22-1: Electrical disturbance tests for measuring relays and protection equipment - 1 MHz burst immunity tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 95",
-  "determination_date": "2006-04-23",
-  "annulment_date": "2011-01-31",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/492401"
- },
- {
   "id": "642401",
   "name": "IEC 60255-27:2005",
   "title": "Measuring relays and protection equipment - Part 27: Product safety requirements",
@@ -3178,6 +3223,21 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/642401"
+ },
+ {
+  "id": "492401",
+  "name": "IEC 60255-22-1:2005",
+  "title": "Electrical relays - Part 22-1: Electrical disturbance tests for measuring relays and protection equipment - 1 MHz burst immunity tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 95",
+  "determination_date": "2006-04-23",
+  "annulment_date": "2011-01-31",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/492401"
  },
  {
   "id": "416001",
@@ -3690,21 +3750,6 @@
   "url": "https://elstandard.se/standard/165001"
  },
  {
-  "id": "820601",
-  "name": "IEC 60255-5:2000",
-  "title": "Electrical relays - Part 5: Insulation coordination for measuring relays and protection equipment - Requirements and tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 94/95",
-  "committee_intl": "TC 95",
-  "determination_date": "2001-09-27",
-  "annulment_date": "2016-11-18",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/820601"
- },
- {
   "id": "361701",
   "name": "IEC 60255-22-3:2000",
   "title": "Electrical relays - Part 22-3: Electric disturbance tests for measuring relays and protection equipment - Radiated electromagnetic field disturbance tests",
@@ -3718,6 +3763,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/361701"
+ },
+ {
+  "id": "820601",
+  "name": "IEC 60255-5:2000",
+  "title": "Electrical relays - Part 5: Insulation coordination for measuring relays and protection equipment - Requirements and tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 94/95",
+  "committee_intl": "TC 95",
+  "determination_date": "2001-09-27",
+  "annulment_date": "2016-11-18",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/820601"
  },
  {
   "id": "1180801",

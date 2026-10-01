@@ -1,5 +1,35 @@
 [
  {
+  "id": "3821101",
+  "name": "SS-EN IEC 62217, utg 3:2026",
+  "title": "Isolatorer - Kompositisolatorer för systemspänning över 1 kV - Definitioner, provningsmetoder och villkor för godkännande",
+  "prefix": "SS-EN IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 36",
+  "committee_intl": "TC 36",
+  "determination_date": "2026-09-22",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3821101"
+ },
+ {
+  "id": "3821201",
+  "name": "SS-EN IEC 62217, utg 3:2026 CMV",
+  "title": "Isolatorer - Kompositisolatorer för systemspänning över 1 kV - Definitioner, provningsmetoder och villkor för godkännande",
+  "prefix": "SS-EN IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 36",
+  "committee_intl": "TC 36",
+  "determination_date": "2026-09-22",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3821201"
+ },
+ {
   "id": "3761601",
   "name": "SS-EN IEC 61109, utg 2:2025/AC1:2026",
   "title": "Isolatorer - Kedjeisolatorer och spännisolatorer av kompositmaterial för friledningar med växelspänning över 1 000 V eller likspänning över 1 500  V - Definitioner, provningsmetoder och villkor för godkännande",
@@ -1020,36 +1050,6 @@
   "url": "https://elstandard.se/standard/3767301"
  },
  {
-  "id": "3594601",
-  "name": "IEC 61109:2025",
-  "title": "Insulators for overhead lines - Composite suspension and tension insulators for a.c. systems with a nominal voltage greater than 1 000 V - Definitions, test methods and acceptance criteria",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 36",
-  "committee_intl": "TC 36",
-  "determination_date": "2025-10-21",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3594601"
- },
- {
-  "id": "3594801",
-  "name": "IEC 61109:2025 CMV",
-  "title": "Insulators for overhead lines - Composite suspension and tension insulators for a.c. systems with a nominal voltage greater than 1 000 V - Definitions, test methods and acceptance criteria",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 36",
-  "committee_intl": "TC 36",
-  "determination_date": "2025-10-21",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3594801"
- },
- {
   "id": "3684101",
   "name": "IEC 62217:2025",
   "title": "Polymeric HV insulators for indoor and outdoor use - General definitions, test methods and acceptance criteria",
@@ -1078,6 +1078,36 @@
   "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3684201"
+ },
+ {
+  "id": "3594601",
+  "name": "IEC 61109:2025",
+  "title": "Insulators for overhead lines - Composite suspension and tension insulators for a.c. systems with a nominal voltage greater than 1 000 V - Definitions, test methods and acceptance criteria",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 36",
+  "committee_intl": "TC 36",
+  "determination_date": "2025-10-21",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3594601"
+ },
+ {
+  "id": "3594801",
+  "name": "IEC 61109:2025 CMV",
+  "title": "Insulators for overhead lines - Composite suspension and tension insulators for a.c. systems with a nominal voltage greater than 1 000 V - Definitions, test methods and acceptance criteria",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 36",
+  "committee_intl": "TC 36",
+  "determination_date": "2025-10-21",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3594801"
  },
  {
   "id": "3716501",
@@ -1995,21 +2025,6 @@
   "url": "https://elstandard.se/standard/305701"
  },
  {
-  "id": "305601",
-  "name": "IEC 60137:2008",
-  "title": "Insulated bushings for alternating voltages above 1000 V",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 36",
-  "committee_intl": "TC 36",
-  "determination_date": "2009-02-22",
-  "annulment_date": "2020-11-16",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/305601"
- },
- {
   "id": "263501",
   "name": "IEC 61109:2008",
   "title": "Insulators for overhead lines - Composite suspension and tension insulators for a.c. systems with a nominal voltage greater than 1 000 V - Definitions, test methods and acceptance criteria",
@@ -2023,6 +2038,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/263501"
+ },
+ {
+  "id": "305601",
+  "name": "IEC 60137:2008",
+  "title": "Insulated bushings for alternating voltages above 1000 V",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 36",
+  "committee_intl": "TC 36",
+  "determination_date": "2009-02-22",
+  "annulment_date": "2020-11-16",
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/305601"
  },
  {
   "id": "1483501",

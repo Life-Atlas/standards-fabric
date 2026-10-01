@@ -1,20 +1,5 @@
 [
  {
-  "id": "4056201",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK 4",
-  "committee_intl": "TC 4",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4056201"
- },
- {
   "id": "3783701",
   "name": "SS-EN IEC 61116, utg 2:2026",
   "title": "Vattenturbiner - Rekommendationer för elektromekanisk utrustning i småkraftverk",
@@ -1048,35 +1033,5 @@
   "pub_year": 1976,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2760701"
- },
- {
-  "id": "4041301",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "new_work_proposal",
-  "committee_sek": "TK 4",
-  "committee_intl": "TC 4",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4041301"
- },
- {
-  "id": "4041401",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "new_work_proposal",
-  "committee_sek": "TK 4",
-  "committee_intl": "TC 4",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4041401"
  }
 ]

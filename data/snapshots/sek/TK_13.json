@@ -1,35 +1,5 @@
 [
  {
-  "id": "4056701",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Amendment",
-  "status": "remiss",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4056701"
- },
- {
-  "id": "4053201",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Amendment",
-  "status": "remiss",
-  "committee_sek": "TK 13",
-  "committee_intl": null,
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4053201"
- },
- {
   "id": "3676101",
   "name": "SS-EN IEC 62052-31, utg 2:2025",
   "title": "Elmätare - Allmänna fordringar och provning - Del 31: Säkerhetsfordringar och provningsmetoder",
@@ -975,21 +945,6 @@
   "url": "https://elstandard.se/standard/515301"
  },
  {
-  "id": "1158501",
-  "name": "SS-EN 62053-61, utg 1:1998",
-  "title": "Elmätare - Del 61: Fordringar på spänning och effektförbrukning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "1998-06-25",
-  "annulment_date": null,
-  "pub_year": 1998,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1158501"
- },
- {
   "id": "886901",
   "name": "SS-EN 62053-31, utg 1:1998",
   "title": "Elmätare - Del 31: Fordringar på pulsgivare för elektromekaniska eller elektroniska mätare (enbart 2-tråds)",
@@ -1003,6 +958,21 @@
   "pub_year": 1998,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/886901"
+ },
+ {
+  "id": "1158501",
+  "name": "SS-EN 62053-61, utg 1:1998",
+  "title": "Elmätare - Del 61: Fordringar på spänning och effektförbrukning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "1998-06-25",
+  "annulment_date": null,
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1158501"
  },
  {
   "id": "56201",
@@ -1440,6 +1410,21 @@
   "url": "https://elstandard.se/standard/2766001"
  },
  {
+  "id": "2228201",
+  "name": "IEC 62056-8-8:2020",
+  "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 8-8: Communication profile for ISO/IEC 14908 series networks",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2020-11-10",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2228201"
+ },
+ {
   "id": "2252901",
   "name": "IEC 62053-21:2020",
   "title": "Electricity metering equipment - Particular requirements - Part 21: Static meters for AC active energy (classes 0,5, 1 and 2)",
@@ -1515,21 +1500,6 @@
   "url": "https://elstandard.se/standard/2257901"
  },
  {
-  "id": "2228201",
-  "name": "IEC 62056-8-8:2020",
-  "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 8-8: Communication profile for ISO/IEC 14908 series networks",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2020-11-10",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2228201"
- },
- {
   "id": "1952801",
   "name": "IEC 62055-41:2018",
   "title": "Electricity metering systems - Part 41: Standard transfer specification (STS) - Application layer protocol for token carrier systems",
@@ -1575,36 +1545,6 @@
   "url": "https://elstandard.se/standard/2040301"
  },
  {
-  "id": "1785401",
-  "name": "IEC 62054-21:2004+AMD1:2017 CSV",
-  "title": "Electricity metering (AC) - Tariff and load control - Part 21: Particular requirements for time switches",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1785401"
- },
- {
-  "id": "1801201",
-  "name": "IEC 62056-7-3:2017",
-  "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 7-3: Wired and wireless M-Bus communication profiles for local and neighbourhood networks",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-11-22",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1801201"
- },
- {
   "id": "1815701",
   "name": "IEC 62056-8-6:2017",
   "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 8-6: High speed PLC ISO/IEC 12139-1 profile for neighbourhood networks",
@@ -1633,6 +1573,36 @@
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1866601"
+ },
+ {
+  "id": "1785401",
+  "name": "IEC 62054-21:2004+AMD1:2017 CSV",
+  "title": "Electricity metering (AC) - Tariff and load control - Part 21: Particular requirements for time switches",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1785401"
+ },
+ {
+  "id": "1801201",
+  "name": "IEC 62056-7-3:2017",
+  "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 7-3: Wired and wireless M-Bus communication profiles for local and neighbourhood networks",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-11-22",
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1801201"
  },
  {
   "id": "1679601",
@@ -2070,6 +2040,21 @@
   "url": "https://elstandard.se/standard/1949801"
  },
  {
+  "id": "1785301",
+  "name": "IEC 62054-21:2004/A1:2017",
+  "title": "Electricity metering (AC) - Tariff and load control - Part 21: Particular requirements for time switches",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-06-13",
+  "annulment_date": null,
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1785301"
+ },
+ {
   "id": "1754901",
   "name": "IEC 62052-21:2004/A1:2016",
   "title": "Electricity metering equipment (a.c.) - General requirements, tests and test conditions - Part 21: Tariff and load control equipment",
@@ -2098,21 +2083,6 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1755901"
- },
- {
-  "id": "1785301",
-  "name": "IEC 62054-21:2004/A1:2017",
-  "title": "Electricity metering (AC) - Tariff and load control - Part 21: Particular requirements for time switches",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-06-13",
-  "annulment_date": null,
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1785301"
  },
  {
   "id": "1489701",
@@ -2280,21 +2250,6 @@
   "url": "https://elstandard.se/standard/1489801"
  },
  {
-  "id": "1158401",
-  "name": "IEC 62053-61:1998",
-  "title": "Electricity metering equipment (a.c) - Particular requirements - Part 61: Power consumption and voltage requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "1998-06-25",
-  "annulment_date": null,
-  "pub_year": 1998,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1158401"
- },
- {
   "id": "886801",
   "name": "IEC 62053-31:1998",
   "title": "Electricity metering equipment (a.c) - Particular requirements - Part 31: Pulse output devices for electromechanical and electronic meters (two wires only)",
@@ -2308,6 +2263,21 @@
   "pub_year": 1998,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/886801"
+ },
+ {
+  "id": "1158401",
+  "name": "IEC 62053-61:1998",
+  "title": "Electricity metering equipment (a.c) - Particular requirements - Part 61: Power consumption and voltage requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "1998-06-25",
+  "annulment_date": null,
+  "pub_year": 1998,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1158401"
  },
  {
   "id": "3058801",
@@ -2595,6 +2565,21 @@
   "url": "https://elstandard.se/standard/1878101"
  },
  {
+  "id": "1705201",
+  "name": "IEC 62056-5-3:2016 RLV",
+  "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 5-3: DLMS/COSEM application layer",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-02-14",
+  "annulment_date": "2020-09-13",
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1705201"
+ },
+ {
   "id": "1647301",
   "name": "IEC 62056-5-3:2016",
   "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 5-3: DLMS/COSEM application layer",
@@ -2623,21 +2608,6 @@
   "pub_year": 2017,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1647401"
- },
- {
-  "id": "1705201",
-  "name": "IEC 62056-5-3:2016 RLV",
-  "title": "Electricity metering data exchange - The DLMS/COSEM suite - Part 5-3: DLMS/COSEM application layer",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-02-14",
-  "annulment_date": "2020-09-13",
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1705201"
  },
  {
   "id": "1749601",
@@ -2835,21 +2805,6 @@
   "url": "https://elstandard.se/standard/1411301"
  },
  {
-  "id": "1749501",
-  "name": "IEC 62053-24:2014/A1:2016",
-  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 24: Static meters for reactive energy at fundamental frequency (classes 0,5 S, 1 S and 1)",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-04-18",
-  "annulment_date": "2024-04-01",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1749501"
- },
- {
   "id": "1950301",
   "name": "IEC 62053-24:2014/A1:2016/C1:2018",
   "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 24: Static meters for reactive energy at fundamental frequency (classes 0,5 S, 1 S and 1)",
@@ -2863,6 +2818,21 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1950301"
+ },
+ {
+  "id": "1749501",
+  "name": "IEC 62053-24:2014/A1:2016",
+  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 24: Static meters for reactive energy at fundamental frequency (classes 0,5 S, 1 S and 1)",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-04-18",
+  "annulment_date": "2024-04-01",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1749501"
  },
  {
   "id": "1318101",
@@ -3240,66 +3210,6 @@
   "url": "https://elstandard.se/standard/781901"
  },
  {
-  "id": "1754701",
-  "name": "IEC 62052-11:2003/A1:2016",
-  "title": "Electricity metering equipment (a.c.) - General requirements, tests and test conditions - Part 11: Metering equipment",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-04-18",
-  "annulment_date": "2024-04-01",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1754701"
- },
- {
-  "id": "1755301",
-  "name": "IEC 62053-21:2003/A1:2016",
-  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 21: Static meters for active energy (classes 1 and 2)",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-04-18",
-  "annulment_date": "2024-04-01",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1755301"
- },
- {
-  "id": "1755501",
-  "name": "IEC 62053-22:2003/A1:2016",
-  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 22: Static meters for active energy (classes 0,2 S and 0,5 S)",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-04-18",
-  "annulment_date": "2024-04-01",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1755501"
- },
- {
-  "id": "1755701",
-  "name": "IEC 62053-23:2003/A1:2016",
-  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 23: Static meters for reactive energy (classes 2 and 3)",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 13",
-  "committee_intl": "TC 13",
-  "determination_date": "2017-04-18",
-  "annulment_date": "2024-04-01",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1755701"
- },
- {
   "id": "1949701",
   "name": "IEC 62052-11:2003/A1:2016/C1:2018",
   "title": "Electricity metering equipment (a.c.) - General requirements, tests and test conditions - Part 11: Metering equipment",
@@ -3358,6 +3268,66 @@
   "pub_year": 2003,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1950201"
+ },
+ {
+  "id": "1754701",
+  "name": "IEC 62052-11:2003/A1:2016",
+  "title": "Electricity metering equipment (a.c.) - General requirements, tests and test conditions - Part 11: Metering equipment",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-04-18",
+  "annulment_date": "2024-04-01",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1754701"
+ },
+ {
+  "id": "1755301",
+  "name": "IEC 62053-21:2003/A1:2016",
+  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 21: Static meters for active energy (classes 1 and 2)",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-04-18",
+  "annulment_date": "2024-04-01",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1755301"
+ },
+ {
+  "id": "1755501",
+  "name": "IEC 62053-22:2003/A1:2016",
+  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 22: Static meters for active energy (classes 0,2 S and 0,5 S)",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-04-18",
+  "annulment_date": "2024-04-01",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1755501"
+ },
+ {
+  "id": "1755701",
+  "name": "IEC 62053-23:2003/A1:2016",
+  "title": "Electricity metering equipment (a.c.) - Particular requirements - Part 23: Static meters for reactive energy (classes 2 and 3)",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 13",
+  "committee_intl": "TC 13",
+  "determination_date": "2017-04-18",
+  "annulment_date": "2024-04-01",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1755701"
  },
  {
   "id": "1374301",

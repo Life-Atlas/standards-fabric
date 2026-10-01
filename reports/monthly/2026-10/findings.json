@@ -1,0 +1,1342 @@
+{
+ "period": "2026-10",
+ "cadence": "monthly",
+ "generated": "2026-10-01",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4689,
+    "baseline_run": false,
+    "pipeline_open": 32
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "ISO/IEC 30189-2:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3828501",
+     "date": "2026-10-01",
+     "detail": "Internet of Things (IoT) - IoT-based management of tangible cultural heritage assets - Part 2: Use cases",
+     "tags": [
+      "TK IoT",
+      "ISO/IEC JTC 1/SC 41"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4091901",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK IoT",
+      "TC 124"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4093901",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TS 60870-5-601:2015+AMD1:2026 CSV — publicerad",
+     "source": "https://elstandard.se/standard/3826801",
+     "date": "2026-10-01",
+     "detail": "Telecontrol equipment and systems - Part 5-601: Conformance test cases for the IEC 60870-5-101 companion standard",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TS 60870-5-604:2016+AMD1:2026 CSV — publicerad",
+     "source": "https://elstandard.se/standard/3827001",
+     "date": "2026-10-01",
+     "detail": "Telecontrol equipment and systems - Part 5-604: Conformance test cases for the IEC 60870-5-104 companion standard",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC TS 61850-80-6:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3827101",
+     "date": "2026-10-01",
+     "detail": "Communication networks and systems for power utility automation - Part 80-6: Using IEC 61850 for communication between power system automation equipment and control or maintenance centres",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61970-301:2020 — publicerad",
+     "source": "https://elstandard.se/standard/2257601",
+     "date": "2026-10-01",
+     "detail": "Energy management system application program interface (EMS-API) - Part 301: Common information model (CIM) base",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62351-4:2018+AMD1:2020 CSV — publicerad",
+     "source": "https://elstandard.se/standard/2264301",
+     "date": "2026-10-01",
+     "detail": "Power systems management and associated information exchange - Data and communications security - Part 4: Profiles including MMS and derivatives",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TS 60870-5-604:2016/A1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3826901",
+     "date": "2026-10-01",
+     "detail": "Telecontrol equipment and systems - Part 5-604: Conformance test cases for the IEC 60870-5-104 companion standard",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TS 60870-5-601:2015/A1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3826701",
+     "date": "2026-10-01",
+     "detail": "Telecontrol equipment and systems - Part 5-601: Conformance test cases for the IEC 60870-5-101 companion standard",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61850-7-1:2011 — publicerad",
+     "source": "https://elstandard.se/standard/967001",
+     "date": "2026-10-01",
+     "detail": "Communication networks and systems for power utility automation - Part 7-1: Basic communication structure - Principles and models",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4093801",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 63278-4:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3826401",
+     "date": "2026-10-01",
+     "detail": "Asset Administration Shell for industrial applications - Part 4:Applications of Asset Administration Shell",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 60417 DB:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3826601",
+     "date": "2026-10-01",
+     "detail": "Graphical symbols for use on equipment",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TR 62453-51-32:2017 — publicerad",
+     "source": "https://elstandard.se/standard/1845301",
+     "date": "2026-10-01",
+     "detail": "Field device tool (FDT) interface specification - Part 51-32: Communication implementation for common object model - IEC 61784 CP 3/4, CP 3/5 and CP 3/6",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TR 62453-51-60:2017 — publicerad",
+     "source": "https://elstandard.se/standard/1845401",
+     "date": "2026-10-01",
+     "detail": "Field device tool (FDT) interface specification - Part 51-60: Communication implementation for common object model - IEC 61784 CPF 6",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-5-10:2007 — upphavd",
+     "source": "https://elstandard.se/standard/315701",
+     "date": "2026-10-01",
+     "detail": "Industrial communication networks - Profiles - Part 5-10: Installation of fieldbuses - Installation profiles for CPF 10",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-5-11:2007 — upphavd",
+     "source": "https://elstandard.se/standard/315901",
+     "date": "2026-10-01",
+     "detail": "Industrial communication networks - Profiles - Part 5-11: Installation of fieldbuses - Installation profiles for CPF 11",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-2:2007 — upphavd",
+     "source": "https://elstandard.se/standard/479901",
+     "date": "2026-10-01",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 2: Physical layer specification and service definition",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-1:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2228501",
+     "date": "2026-10-01",
+     "detail": "Field device integration (FDI) - Part 103-1: Profiles - PROFIBUS",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-1:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2228601",
+     "date": "2026-10-01",
+     "detail": "Field Device Integration (FDI) - Part 103-1: Profiles - PROFIBUS",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-4:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2228701",
+     "date": "2026-10-01",
+     "detail": "Field device integration (FDI) - Part 103-4: Profiles - PROFINET",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-4:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2228801",
+     "date": "2026-10-01",
+     "detail": "Field device integration (FDI) - Part 103-4: Profiles - PROFINET",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-109-1:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2228901",
+     "date": "2026-10-01",
+     "detail": "Field devices integration (FDI) - Part 109-1: Profiles - HART® and WirelessHART®",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-109-1:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2229001",
+     "date": "2026-10-01",
+     "detail": "Field devices integration (FDI) - Part 109-1: Profiles - HART® and WirelessHART®",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-13:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2251501",
+     "date": "2026-10-01",
+     "detail": "OPC Unified Architecture - Part 13: Aggregates",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-13:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2251601",
+     "date": "2026-10-01",
+     "detail": "OPC Unified Architecture - Part 13: Aggregates",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-12:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2252501",
+     "date": "2026-10-01",
+     "detail": "OPC unified architecture - Part 12: Discovery and global services",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61326-2-6:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2554401",
+     "date": "2026-10-01",
+     "detail": "Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 2-6: Particular requirements - In vitro diagnostic (IVD) medical equipment",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61326-2-6:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2554501",
+     "date": "2026-10-01",
+     "detail": "Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 2-6: Particular requirements - In vitro diagnostic (IVD) medical equipment",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-101-1:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2568301",
+     "date": "2026-10-01",
+     "detail": "Field device integration (FDI) - Part 101-1: Profiles - Foundation Fieldbus H1",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-101-1:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2568401",
+     "date": "2026-10-01",
+     "detail": "Field device integration (FDI) - Part 101-1: Profiles - Foundation Fieldbus H1",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-101-2:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2568501",
+     "date": "2026-10-01",
+     "detail": "Field device integration (FDI) - Part 101-2: Profiles - Foundation Fieldbus HSE",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-101-2:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2568601",
+     "date": "2026-10-01",
+     "detail": "Field device integration (FDI) - Part 101-2: Profiles - Foundation Fieldbus HSE",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-309:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1688201",
+     "date": "2026-10-01",
+     "detail": "Field device tool (FDT) interface specification - Part 309: Communication profile integration - IEC 61784 CPF 9",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN 55016-1-2, utg 1:2005 — upphavd",
+     "source": "https://elstandard.se/standard/198601",
+     "date": "2026-10-01",
+     "detail": "EMC - Utrustning och metoder för mätning av radiostörningar och immunitet - Del 1-2: Ledningsbundna störningar",
+     "tags": [
+      "TK EMC",
+      "CISPR"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 63584-201:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3827301",
+     "date": "2026-10-01",
+     "detail": "Open Charge Point Protocol 2.01",
+     "tags": [
+      "TK 69",
+      "TC 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 63584-210:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3827701",
+     "date": "2026-10-01",
+     "detail": "Open Charge Point Protocol 2.1",
+     "tags": [
+      "TK 69",
+      "TC 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 63584-210:2025: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/3715001",
+     "date": "2026-10-01",
+     "detail": "Open Charge Point Protocol 2.1",
+     "tags": [
+      "TK 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 63584:2024: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/3557301",
+     "date": "2026-10-01",
+     "detail": "Open Charge Point Protocol (OCPP)",
+     "tags": [
+      "TK 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4094601",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 21",
+      "TC 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4094701",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 21",
+      "TC 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4092401",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 21",
+      "TC 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "ISO/IEC 11801-6:2017/A1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3828101",
+     "date": "2026-10-01",
+     "detail": "Information technology - Generic cabling for customer premises - Part 6: Distributed building services",
+     "tags": [
+      "TK 215",
+      "ISO/IEC JTC 1/SC 25"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "ISO/IEC 11801-6:2017+AMD1:2026 CSV — publicerad",
+     "source": "https://elstandard.se/standard/3828201",
+     "date": "2026-10-01",
+     "detail": "Information technology - Generic cabling for customer premises - Part 6: Distributed building services",
+     "tags": [
+      "TK 215",
+      "ISO/IEC JTC 1/SC 25"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC/TR 61850-7-510:2021 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-28:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-24:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-4:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-26:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-6-27:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-1-4:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-3:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-4:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-4-19:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-4-24:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.4 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.4",
+     "date": "2026-09-29T08:55:38Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.3.1.6 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.6",
+     "date": "2026-09-29T08:53:53Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "thingsboard/thingsboard — ThingsBoard 4.2.2.6 Release",
+     "source": "https://github.com/thingsboard/thingsboard/releases/tag/v4.2.2.6",
+     "date": "2026-09-29T08:53:38Z",
+     "detail": "IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.10.0b0",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.10.0b0",
+     "date": "2026-09-30T17:37:54Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.31.1",
+     "source": "https://github.com/openremote/openremote/releases/tag/1.31.1",
+     "date": "2026-09-28T14:50:07Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243861842mt: Digital twin for biomass boilers",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243861842mt",
+     "date": null,
+     "detail": "status Ended; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243958310mt: COnstruction-phase diGItal Twin mOdel",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243958310mt",
+     "date": null,
+     "detail": "status Ended; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43353764101140156mt: Digital Twin on Smart Manufacturing",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43353764101140156mt",
+     "date": null,
+     "detail": "status Ongoing; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243958310ga: COnstruction-phase diGItal Twin mOdel",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243958310ga",
+     "date": null,
+     "detail": "status Ended; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243861842ga: Digital twin for biomass boilers",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243861842ga",
+     "date": null,
+     "detail": "status Ended; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43353764101140156ga: Digital Twin on Smart Manufacturing",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43353764101140156ga",
+     "date": null,
+     "detail": "status Ongoing; query '\"digital twin\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211fr: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211fr",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211ga: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211ga",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43108390101135988es: AI-Enabled Data Lifecycles Optimization and Data Spaces Integration for Increased Efficiency and Interoperability",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43108390101135988es",
+     "date": null,
+     "detail": "status Ongoing; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43108390101135988ga: AI-Enabled Data Lifecycles Optimization and Data Spaces Integration for Increased Efficiency and Interoperability",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43108390101135988ga",
+     "date": null,
+     "detail": "status Ongoing; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "How can satellite data support your city? ESA’s SEF wants to hear from you",
+     "source": "https://oascities.org/sef-survey/",
+     "date": "Tue, 29 Sep 2026 11:58:08 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Editorial | September 2026",
+     "source": "https://oascities.org/editorial-september-2026/",
+     "date": "Tue, 29 Sep 2026 11:20:57 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-10-01",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "procurement_catalog",
+   "activity": "Framework agreement procurement",
+   "stats": {
+    "requirements": 25,
+    "references_checked": 37
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "INT-01: ETSI GS CIM 009 (NGSI-LD) not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Kontextinformation ska exponeras via ett öppet API för kontexthantering (MIM1) med länkade datamodeller (MIM2).",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "INT-02: ETSI TS 103 264 (SAREF) not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Semantisk interoperabilitet: datamodeller ska publiceras med ontologi/URI:er och kunna mappas mot SAREF eller motsvarande.",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "INT-03: W3C WoT TD 1.1 not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Enheter ska kunna beskrivas med W3C Web of Things Thing Description.",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "SEC-01: ETSI EN 303 645 not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Anslutna produkter ska uppfylla grundläggande säkerhetskrav för konsument-/kommun-IoT (inga standardlösenord, säkra uppdateringar, sårbarhetshantering).",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "NET-01: LoRaWAN L2 1.0.4 not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "LPWAN-anslutning ska stödja LoRaWAN och/eller NB-IoT/LTE-M utan leverantörsinlåsning i nätservern.",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "NET-01: 3GPP Rel-13+ not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "LPWAN-anslutning ska stödja LoRaWAN och/eller NB-IoT/LTE-M utan leverantörsinlåsning i nätservern.",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "BLD-01: ISO 16739-1:2024 not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Fastighetsdata ska kunna uttryckas i RealEstateCore/Brick och kopplas till BIM (IFC).",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "BLD-01: RealEstateCore 4 not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Fastighetsdata ska kunna uttryckas i RealEstateCore/Brick och kopplas till BIM (IFC).",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "BLD-02: SS-EN ISO 52120-1 not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Fastighetsautomation ska bedömas enligt BACS-klass.",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "ENE-01: SS-EN IEC 62056-7-6 — latest edition 2014, older than 10 years",
+     "source": "https://elstandard.se/standard/1346401",
+     "date": "2026-10-01",
+     "detail": "Elmätardata ska läsas via öppna gränssnitt (HAN/P1, DLMS/COSEM).",
+     "tags": [
+      "catalog",
+      "aging"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "ENV-01: SS-EN 60529 — latest edition 2014, older than 10 years",
+     "source": "https://elstandard.se/standard/2085601",
+     "date": "2026-10-01",
+     "detail": "Utomhusenheter ska ha angiven kapslingsklass och miljötålighet.",
+     "tags": [
+      "catalog",
+      "aging"
+     ]
+    },
+    {
+     "agent": "procurement_catalog",
+     "kind": "note",
+     "title": "CTY-01: ISO 37120:2018 not found in SEK catalogue snapshot (non-electrotechnical or check number)",
+     "source": "/home/runner/work/standards-fabric/standards-fabric/catalog/requirements.json",
+     "date": "2026-10-01",
+     "detail": "Indikatorer som plattformen levererar till kommunledning ska kunna mappas mot ISO 37120-serien.",
+     "tags": [
+      "catalog",
+      "unresolved"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "options_radar",
+   "activity": "Options radar (8 optional efforts)",
+   "stats": {
+    "options": 8,
+    "feeds": 5
+   },
+   "errors": [
+    "feed sek-news failed: https://nyheter.elstandard.se/rss returned HTML, not a feed"
+   ],
+   "findings": [
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Ways of working IoT + AI] Targeted consultation to support a better copyright environment for creativity and innovation",
+     "source": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
+     "date": "Tue, 29 Sep 2026 08:15:00 +0000",
+     "detail": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 Opening: 29 September 2026 Closing: 03 November 2026 The Commission has launched a targeted consu",
+     "tags": [
+      "iot-ai-ways-of-working",
+      "eu-digital-strategy",
+      "AI"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Ways of working IoT + AI] Data Union Conference",
+     "source": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
+     "date": "Fri, 18 Sep 2026 07:43:00 +0000",
+     "detail": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 12 January 2027 Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe’s data policies into more data",
+     "tags": [
+      "iot-ai-ways-of-working",
+      "eu-digital-strategy",
+      "AI"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Ways of working IoT + AI] Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
+     "source": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
+     "date": "Thu, 17 Sep 2026 07:21:00 +0000",
+     "detail": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digita",
+     "tags": [
+      "iot-ai-ways-of-working",
+      "eu-digital-strategy",
+      "AI"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Ways of working IoT + AI] Apply AI Summit",
+     "source": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
+     "date": "Mon, 07 Sep 2026 13:58:15 +0000",
+     "detail": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 17 November 2026 The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders – from industrial representatives, policymakers and startups – to accelerate AI imp",
+     "tags": [
+      "iot-ai-ways-of-working",
+      "eu-digital-strategy",
+      "AI"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Ways of working IoT + AI] Recap of the web & AI international standards seminar: generative UI and WebSkill",
+     "source": "https://www.w3.org/blog/2026/recap-of-the-web-ai-international-standards-seminar-generative-ui-and-webskill/",
+     "date": "Mon, 28 Sep 2026 08:17:00 +0000",
+     "detail": "Hosted by the W3C Shenzhen Representative Office as part of the 2026 CCF Standards Technical Conference, this seminar brought together industry experts to discuss emerging technologies and standardization challenges related to generative UI",
+     "tags": [
+      "iot-ai-ways-of-working",
+      "w3c-blog",
+      "AI"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Ways of working IoT + AI] Crafting WCAG 3 for more accessible user experiences",
+     "source": "https://www.w3.org/blog/2026/crafting-wcag-3-for-more-accessible-user-experiences/",
+     "date": "Fri, 25 Sep 2026 12:50:00 +0000",
+     "detail": "In this post, W3C's Web Accessibility Initiative (WAI) Director Shawn Lawton Henry covers some of the stakes and challenges in developing W3C Accessibility Guidelines (WCAG) 3 that is under active development.",
+     "tags": [
+      "iot-ai-ways-of-working",
+      "w3c-blog",
+      "AI"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Ways of working IoT + AI] 2026 Climate Weeks: W3C and Web Sustainability",
+     "source": "https://www.w3.org/blog/2026/2026-climate-weeks-w3c-and-web-sustainability/",
+     "date": "Tue, 22 Sep 2026 12:40:00 +0000",
+     "detail": "W3C’s Sustainable Web Interest Group shares updates about Web Sustainability Guidelines and Impact Ratings in time for Climate Week, with changes demonstrating impacts on People, Planet, and Prosperity and reflecting W3C’s horizontal review",
+     "tags": [
+      "iot-ai-ways-of-working",
+      "w3c-blog",
+      "AI"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[National case bank for IoT] DS4SSCC welcomes seven new pilots as its fourth  deployment round begins",
+     "source": "https://oascities.org/ds4sscc-welcomes-seven-new-pilots-as-its-fourth-deployment-round-begins/",
+     "date": "Mon, 07 Sep 2026 10:13:00 +0000",
+     "detail": "",
+     "tags": [
+      "national-case-bank",
+      "oasc",
+      "pilot"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[National case bank for IoT] W3C launches first pilot of program to support Open Source projects",
+     "source": "https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/",
+     "date": "Wed, 16 Sep 2026 13:53:00 +0000",
+     "detail": "In this blog post, Ian Jacobs, Strategy Team, introduces the first pilot of a program allowing Open Source projects to mature within an ecosystem seeking to build a coherent open platform through processes and IPR policies designed to suppo",
+     "tags": [
+      "national-case-bank",
+      "w3c-blog",
+      "pilot"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Central national register for IoT devices] Crafting WCAG 3 for more accessible user experiences",
+     "source": "https://www.w3.org/blog/2026/crafting-wcag-3-for-more-accessible-user-experiences/",
+     "date": "Fri, 25 Sep 2026 12:50:00 +0000",
+     "detail": "In this post, W3C's Web Accessibility Initiative (WAI) Director Shawn Lawton Henry covers some of the stakes and challenges in developing W3C Accessibility Guidelines (WCAG) 3 that is under active development.",
+     "tags": [
+      "iot-device-register",
+      "w3c-blog",
+      "CRA"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[Central national register for IoT devices] W3C, threat modeling, and the CRA: a report from GDC 2026",
+     "source": "https://www.w3.org/blog/2026/w3c-threat-modeling-and-the-cra-a-report-from-gdc-2026/",
+     "date": "Fri, 18 Sep 2026 16:49:00 +0000",
+     "detail": "At GDC 2026, W3C Security Interest Group member Giovanni Corti shared how threat modeling was integrated into the revision of ETSI EN 304 617, the draft harmonized standard for browser cybersecurity under the EU Cyber Resilience Act, refere",
+     "tags": [
+      "iot-device-register",
+      "w3c-blog",
+      "Cyber Resilience Act",
+      "CRA"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[W3C] Recap of the web & AI international standards seminar: generative UI and WebSkill",
+     "source": "https://www.w3.org/blog/2026/recap-of-the-web-ai-international-standards-seminar-generative-ui-and-webskill/",
+     "date": "Mon, 28 Sep 2026 08:17:00 +0000",
+     "detail": "Hosted by the W3C Shenzhen Representative Office as part of the 2026 CCF Standards Technical Conference, this seminar brought together industry experts to discuss emerging technologies and standardization challenges related to generative UI",
+     "tags": [
+      "w3c",
+      "w3c-blog",
+      "W3C"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[W3C] Crafting WCAG 3 for more accessible user experiences",
+     "source": "https://www.w3.org/blog/2026/crafting-wcag-3-for-more-accessible-user-experiences/",
+     "date": "Fri, 25 Sep 2026 12:50:00 +0000",
+     "detail": "In this post, W3C's Web Accessibility Initiative (WAI) Director Shawn Lawton Henry covers some of the stakes and challenges in developing W3C Accessibility Guidelines (WCAG) 3 that is under active development.",
+     "tags": [
+      "w3c",
+      "w3c-blog",
+      "W3C"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[W3C] 2026 Climate Weeks: W3C and Web Sustainability",
+     "source": "https://www.w3.org/blog/2026/2026-climate-weeks-w3c-and-web-sustainability/",
+     "date": "Tue, 22 Sep 2026 12:40:00 +0000",
+     "detail": "W3C’s Sustainable Web Interest Group shares updates about Web Sustainability Guidelines and Impact Ratings in time for Climate Week, with changes demonstrating impacts on People, Planet, and Prosperity and reflecting W3C’s horizontal review",
+     "tags": [
+      "w3c",
+      "w3c-blog",
+      "W3C"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[W3C] W3C IRC bots now open source",
+     "source": "https://www.w3.org/blog/2026/w3c-irc-bots-now-open-source/",
+     "date": "Mon, 21 Sep 2026 11:13:00 +0000",
+     "detail": "Two of W3C's IRC bots, RRSAgent and Zakim, are now open source. These bots help facilitate meetings coordinated on IRC, helping with chat logs, meeting minutes, agenda tracking and speaker queues.",
+     "tags": [
+      "w3c",
+      "w3c-blog",
+      "W3C"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[W3C] W3C, threat modeling, and the CRA: a report from GDC 2026",
+     "source": "https://www.w3.org/blog/2026/w3c-threat-modeling-and-the-cra-a-report-from-gdc-2026/",
+     "date": "Fri, 18 Sep 2026 16:49:00 +0000",
+     "detail": "At GDC 2026, W3C Security Interest Group member Giovanni Corti shared how threat modeling was integrated into the revision of ETSI EN 304 617, the draft harmonized standard for browser cybersecurity under the EU Cyber Resilience Act, refere",
+     "tags": [
+      "w3c",
+      "w3c-blog",
+      "W3C"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[W3C] W3C launches first pilot of program to support Open Source projects",
+     "source": "https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/",
+     "date": "Wed, 16 Sep 2026 13:53:00 +0000",
+     "detail": "In this blog post, Ian Jacobs, Strategy Team, introduces the first pilot of a program allowing Open Source projects to mature within an ecosystem seeking to build a coherent open platform through processes and IPR policies designed to suppo",
+     "tags": [
+      "w3c",
+      "w3c-blog",
+      "W3C"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[W3C] A compilation of W3C in Japan's 30th anniversary events",
+     "source": "https://www.w3.org/blog/2026/a-compilation-of-w3c-in-japans-30th-anniversary-events/",
+     "date": "Wed, 09 Sep 2026 20:50:00 +0000",
+     "detail": "2026 marks the 30th anniversary of the establishment of W3C in Japan. As part of these commemorative activities, W3C Japan held an event for W3C members in May, an exhibition for the general public in June and an event early September for W",
+     "tags": [
+      "w3c",
+      "w3c-blog",
+      "W3C"
+     ]
+    },
+    {
+     "agent": "options_radar",
+     "kind": "option",
+     "title": "[CitiVerse EDIC / local digital twins] OASC welcomes waynord.dedicated, extending the network to Lithuania",
+     "source": "https://oascities.org/oasc-welcomes-waynord-dedicated-extending-the-network-to-lithuania/",
+     "date": "Thu, 17 Sep 2026 12:21:54 +0000",
+     "detail": "",
+     "tags": [
+      "citiverse",
+      "oasc",
+      "EDIC"
+     ]
+    }
+   ]
+  }
+ ]
+}

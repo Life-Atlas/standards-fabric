@@ -1,5 +1,35 @@
 [
  {
+  "id": "3820201",
+  "name": "SS-EN IEC 61643-21, utg 2:2026",
+  "title": "Överspänningsskydd för lågspänning - Del 21: Överspänningsskydd anslutna till tele- och signalledningar - Fordringar och provningsmetoder",
+  "prefix": "SS-EN IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 37A",
+  "committee_intl": "TC 37/SC 37A",
+  "determination_date": "2026-09-22",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3820201"
+ },
+ {
+  "id": "3820301",
+  "name": "SS-EN IEC 61643-41+A11, utg 1:2026",
+  "title": "Överspänningsskydd för lågspänning - Del 41: Överspänningsskydd anslutna till lågspänningsnät med likspänning - Prestanda och provningsmetoder",
+  "prefix": "SS-EN IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 37A",
+  "committee_intl": "TC 37/SC 37A",
+  "determination_date": "2026-09-22",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3820301"
+ },
+ {
   "id": "3710801",
   "name": "SS-EN IEC 61643-11+A11, utg 3:2025",
   "title": "Överspänningsskydd för lågspänning - Del 11: Överspänningsskydd anslutna till lågspänningsnät - Prestanda och provningsmetoder",
@@ -400,7 +430,7 @@
   "committee_intl": "TC 37/SC 37A",
   "determination_date": "2026-09-22",
   "annulment_date": null,
-  "pub_year": 2025,
+  "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3692501"
  },
@@ -450,36 +480,6 @@
   "url": "https://elstandard.se/standard/3286101"
  },
  {
-  "id": "2231901",
-  "name": "IEC 61643-12:2020",
-  "title": "Low-voltage surge protective devices - Part 12: Surge protective devices connected to low-voltage power systems - Selection and application principles",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 37A",
-  "committee_intl": "TC 37/SC 37A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2231901"
- },
- {
-  "id": "2238001",
-  "name": "IEC 61643-341:2020",
-  "title": "Components for low-voltage surge protection - Part 341: Performance requirements and test circuits for thyristor surge suppressors (TSS)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 37A",
-  "committee_intl": "TC 37/SC 37B",
-  "determination_date": "2020-10-20",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2238001"
- },
- {
   "id": "2212101",
   "name": "IEC 61643-331:2020",
   "title": "Components for low-voltage surge protection - Part 331: Performance requirements and test methods for metal oxide varistors (MOV)",
@@ -508,6 +508,36 @@
   "pub_year": 2020,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2212201"
+ },
+ {
+  "id": "2231901",
+  "name": "IEC 61643-12:2020",
+  "title": "Low-voltage surge protective devices - Part 12: Surge protective devices connected to low-voltage power systems - Selection and application principles",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 37A",
+  "committee_intl": "TC 37/SC 37A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2231901"
+ },
+ {
+  "id": "2238001",
+  "name": "IEC 61643-341:2020",
+  "title": "Components for low-voltage surge protection - Part 341: Performance requirements and test circuits for thyristor surge suppressors (TSS)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 37A",
+  "committee_intl": "TC 37/SC 37B",
+  "determination_date": "2020-10-20",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2238001"
  },
  {
   "id": "1914301",

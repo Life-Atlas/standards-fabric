@@ -660,36 +660,6 @@
   "url": "https://elstandard.se/standard/2033901"
  },
  {
-  "id": "1809301",
-  "name": "IEC 60364-4-41:2005+AMD1:2017 CSV",
-  "title": "Low-voltage electrical installations - Part 4-41: Protection for safety - Protection against electric shock",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 64",
-  "committee_intl": "TC 64",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2005,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1809301"
- },
- {
-  "id": "1811601",
-  "name": "IEC 60364-7-704:2017",
-  "title": "Low-voltage electrical installations - Part 7-704: Requirements for special installations or locations - Construction and demolition site installations",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 64",
-  "committee_intl": "TC 64",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1811601"
- },
- {
   "id": "1814701",
   "name": "IEC 60364-7-708:2017",
   "title": "Low-voltage electrical installations - Part 7-708: Requirements for special installations or locations - Caravan parks, camping parks and similar locations",
@@ -718,6 +688,36 @@
   "pub_year": 2017,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1844501"
+ },
+ {
+  "id": "1809301",
+  "name": "IEC 60364-4-41:2005+AMD1:2017 CSV",
+  "title": "Low-voltage electrical installations - Part 4-41: Protection for safety - Protection against electric shock",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 64",
+  "committee_intl": "TC 64",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2005,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1809301"
+ },
+ {
+  "id": "1811601",
+  "name": "IEC 60364-7-704:2017",
+  "title": "Low-voltage electrical installations - Part 7-704: Requirements for special installations or locations - Construction and demolition site installations",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 64",
+  "committee_intl": "TC 64",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1811601"
  },
  {
   "id": "1891401",
@@ -750,21 +750,6 @@
   "url": "https://elstandard.se/standard/1891501"
  },
  {
-  "id": "1631901",
-  "name": "IEC 61140:2016",
-  "title": "Protection against electric shock - Common aspects for installation and equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 64",
-  "committee_intl": "TC 64",
-  "determination_date": "2016-08-23",
-  "annulment_date": null,
-  "pub_year": 2016,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1631901"
- },
- {
   "id": "1668801",
   "name": "IEC 60364-6:2016",
   "title": "Low voltage electrical installation - Part 6: Verification",
@@ -793,6 +778,21 @@
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1703301"
+ },
+ {
+  "id": "1631901",
+  "name": "IEC 61140:2016",
+  "title": "Protection against electric shock - Common aspects for installation and equipment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 64",
+  "committee_intl": "TC 64",
+  "determination_date": "2016-08-23",
+  "annulment_date": null,
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1631901"
  },
  {
   "id": "1714601",
@@ -1155,6 +1155,21 @@
   "url": "https://elstandard.se/standard/1580001"
  },
  {
+  "id": "1394101",
+  "name": "IEC 60364-7-753:2005",
+  "title": "Electrical installatioons of buildings - Part 7-753: Requirements for special installations or locations - Floor and ceiling heating systems",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 64",
+  "committee_intl": "TC 64",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2005,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1394101"
+ },
+ {
   "id": "1579601",
   "name": "IEC 60364-4-41:2005",
   "title": "Low-voltage electrical installations - Part 4-41: Protection for safety - Protection against electric shock",
@@ -1183,21 +1198,6 @@
   "pub_year": 2005,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1580501"
- },
- {
-  "id": "1394101",
-  "name": "IEC 60364-7-753:2005",
-  "title": "Electrical installatioons of buildings - Part 7-753: Requirements for special installations or locations - Floor and ceiling heating systems",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 64",
-  "committee_intl": "TC 64",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2005,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1394101"
  },
  {
   "id": "1809201",
@@ -1560,6 +1560,21 @@
   "url": "https://elstandard.se/standard/1814901"
  },
  {
+  "id": "1528601",
+  "name": "IEC 60364-7-722:2015",
+  "title": "Low-voltage electrical installations - Part 7-722: Requirements for special installations or locations - Supplies for electric vehicles",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 64",
+  "committee_intl": "TC 64",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1528601"
+ },
+ {
   "id": "1600401",
   "name": "IEC 60364-4-44:2007+AMD1:2015 CSV",
   "title": "Low-voltage electrical installations - Part 4-44: Protection for safety - Protection against voltage disturbances and electromagnetic disturbances",
@@ -1588,21 +1603,6 @@
   "pub_year": 2001,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1600601"
- },
- {
-  "id": "1528601",
-  "name": "IEC 60364-7-722:2015",
-  "title": "Low-voltage electrical installations - Part 7-722: Requirements for special installations or locations - Supplies for electric vehicles",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 64",
-  "committee_intl": "TC 64",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1528601"
  },
  {
   "id": "1462301",
@@ -1740,21 +1740,6 @@
   "url": "https://elstandard.se/standard/390401"
  },
  {
-  "id": "103601",
-  "name": "IEC 60364-5-56:2009",
-  "title": "Low voltage electrical installations - Part 5-56: Selection and erection of electrical equipment - Safety services",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 64",
-  "committee_intl": "TC 64",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2009,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/103601"
- },
- {
   "id": "114701",
   "name": "IEC 60364-7-717:2009",
   "title": "Low-voltage electrical installations - Part 7-717: Requirements for special installations or locations - Mobile or transportable units",
@@ -1768,6 +1753,21 @@
   "pub_year": 2009,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/114701"
+ },
+ {
+  "id": "103601",
+  "name": "IEC 60364-5-56:2009",
+  "title": "Low voltage electrical installations - Part 5-56: Selection and erection of electrical equipment - Safety services",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 64",
+  "committee_intl": "TC 64",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/103601"
  },
  {
   "id": "1580601",
@@ -2458,6 +2458,21 @@
   "pub_year": 1989,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/36701"
+ },
+ {
+  "id": "4086601",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "TS",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 64",
+  "committee_intl": "SyC LVDC",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4086601"
  },
  {
   "id": "4075101",

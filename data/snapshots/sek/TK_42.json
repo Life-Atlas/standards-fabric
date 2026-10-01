@@ -144,7 +144,7 @@
   "committee_sek": "TK 42",
   "committee_intl": "TC 42",
   "determination_date": "2011-09-06",
-  "annulment_date": null,
+  "annulment_date": "2029-09-29",
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/973701"
@@ -266,7 +266,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3806901"
  },
  {
@@ -489,7 +489,7 @@
   "committee_sek": "TK 42",
   "committee_intl": "TC 42",
   "determination_date": "2011-09-06",
-  "annulment_date": null,
+  "annulment_date": "2029-09-29",
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/865001"

@@ -1,5 +1,20 @@
 [
  {
+  "id": "3823601",
+  "name": "SS-EN IEC 62933-3-1, utg 1:2026",
+  "title": "Elektriska energilagringssystem (EES) - Del 3-1: Planering och bedömning av elektriska energilagringssystem - Allmänt",
+  "prefix": "SS-EN IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 120",
+  "committee_intl": "TC 120",
+  "determination_date": "2026-09-22",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3823601"
+ },
+ {
   "id": "3791801",
   "name": "SS-EN IEC 62933-4-3, utg 1:2026",
   "title": "Elektriska energilagringssystem (EES) – Del 4-3: Skyddskrav för batteribaserade energilagringssystem (BESS) med hänsyn till miljöförhållanden",
@@ -195,21 +210,6 @@
   "url": "https://elstandard.se/standard/2086201"
  },
  {
-  "id": "2037001",
-  "name": "SEK TS 62933-3-1, utg 1:2018",
-  "title": "Elektriska energilagringssystem (EES) - Del 3-1: Planering och bedömning av elektriska energilagringssystem - Allmänt",
-  "prefix": "SEK TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 120",
-  "committee_intl": "TC 120",
-  "determination_date": "2018-12-11",
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2037001"
- },
- {
   "id": "2037101",
   "name": "SEK TS 62933-4-1, utg 1:2018",
   "title": "Elektriska energilagringssystem (EES) - Del 4-1: Vägledning beträffande miljöfrågor - Allmänt",
@@ -309,7 +309,7 @@
   "committee_sek": "TK 120",
   "committee_intl": "TC 120",
   "determination_date": "2018-12-11",
-  "annulment_date": null,
+  "annulment_date": "2026-09-22",
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2003101"

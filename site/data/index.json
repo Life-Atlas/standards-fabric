@@ -4,7 +4,7 @@
   "now": 2026,
   "future": 2036
  },
- "docs": 15415,
+ "docs": 15444,
  "curated": 144,
  "realities": [
   {
@@ -13,24 +13,24 @@
    "kind": "commercial-building",
    "totals": {
     "past": {
-     "sek": 6840,
-     "swedish": 5568,
+     "sek": 6833,
+     "swedish": 5557,
      "curated": 67,
      "pipeline": 0,
-     "total": 6907
+     "total": 6900
     },
     "now": {
-     "sek": 8815,
-     "swedish": 6939,
+     "sek": 8797,
+     "swedish": 6967,
      "curated": 83,
      "pipeline": 0,
-     "total": 8898
+     "total": 8880
     },
     "future": {
      "sek": 8886,
-     "swedish": 6939,
+     "swedish": 6967,
      "curated": 83,
-     "pipeline": 71,
+     "pipeline": 89,
      "total": 8969
     }
    }
@@ -41,25 +41,25 @@
    "kind": "datacenter",
    "totals": {
     "past": {
-     "sek": 6477,
-     "swedish": 5288,
+     "sek": 6480,
+     "swedish": 5286,
      "curated": 71,
      "pipeline": 0,
-     "total": 6548
+     "total": 6551
     },
     "now": {
-     "sek": 8263,
-     "swedish": 6652,
+     "sek": 8280,
+     "swedish": 6676,
      "curated": 93,
      "pipeline": 0,
-     "total": 8356
+     "total": 8373
     },
     "future": {
-     "sek": 8320,
-     "swedish": 6652,
+     "sek": 8344,
+     "swedish": 6676,
      "curated": 93,
-     "pipeline": 57,
-     "total": 8413
+     "pipeline": 64,
+     "total": 8437
     }
    }
   },
@@ -69,25 +69,25 @@
    "kind": "critical-infrastructure",
    "totals": {
     "past": {
-     "sek": 7389,
-     "swedish": 6135,
+     "sek": 7399,
+     "swedish": 6141,
      "curated": 83,
      "pipeline": 0,
-     "total": 7472
+     "total": 7482
     },
     "now": {
-     "sek": 9329,
-     "swedish": 7670,
+     "sek": 9361,
+     "swedish": 7717,
      "curated": 103,
      "pipeline": 0,
-     "total": 9432
+     "total": 9464
     },
     "future": {
-     "sek": 9394,
-     "swedish": 7670,
+     "sek": 9436,
+     "swedish": 7717,
      "curated": 103,
-     "pipeline": 65,
-     "total": 9497
+     "pipeline": 75,
+     "total": 9539
     }
    }
   },
@@ -97,25 +97,25 @@
    "kind": "residential-rental",
    "totals": {
     "past": {
-     "sek": 6302,
-     "swedish": 5164,
+     "sek": 6295,
+     "swedish": 5152,
      "curated": 63,
      "pipeline": 0,
-     "total": 6365
+     "total": 6358
     },
     "now": {
-     "sek": 8308,
-     "swedish": 6533,
+     "sek": 8291,
+     "swedish": 6558,
      "curated": 82,
      "pipeline": 0,
-     "total": 8390
+     "total": 8373
     },
     "future": {
-     "sek": 8375,
-     "swedish": 6533,
+     "sek": 8373,
+     "swedish": 6558,
      "curated": 82,
-     "pipeline": 67,
-     "total": 8457
+     "pipeline": 82,
+     "total": 8455
     }
    }
   },
@@ -125,25 +125,25 @@
    "kind": "factory",
    "totals": {
     "past": {
-     "sek": 5992,
+     "sek": 5993,
      "swedish": 4964,
      "curated": 70,
      "pipeline": 0,
-     "total": 6062
+     "total": 6063
     },
     "now": {
-     "sek": 7446,
-     "swedish": 6103,
+     "sek": 7472,
+     "swedish": 6136,
      "curated": 90,
      "pipeline": 0,
-     "total": 7536
+     "total": 7562
     },
     "future": {
-     "sek": 7503,
-     "swedish": 6103,
+     "sek": 7531,
+     "swedish": 6136,
      "curated": 90,
-     "pipeline": 57,
-     "total": 7593
+     "pipeline": 59,
+     "total": 7621
     }
    }
   },
@@ -153,25 +153,25 @@
    "kind": "underground-lab",
    "totals": {
     "past": {
-     "sek": 6017,
+     "sek": 6018,
      "swedish": 4947,
      "curated": 70,
      "pipeline": 0,
-     "total": 6087
+     "total": 6088
     },
     "now": {
-     "sek": 7548,
-     "swedish": 6132,
+     "sek": 7576,
+     "swedish": 6164,
      "curated": 86,
      "pipeline": 0,
-     "total": 7634
+     "total": 7662
     },
     "future": {
-     "sek": 7604,
-     "swedish": 6132,
+     "sek": 7636,
+     "swedish": 6164,
      "curated": 86,
-     "pipeline": 56,
-     "total": 7690
+     "pipeline": 60,
+     "total": 7722
     }
    }
   }

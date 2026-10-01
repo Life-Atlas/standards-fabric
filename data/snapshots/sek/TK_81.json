@@ -1828,5 +1828,20 @@
   "pub_year": 1978,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/35901"
+ },
+ {
+  "id": "4086701",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "TS",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 81",
+  "committee_intl": "TC 81",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4086701"
  }
 ]

@@ -9,7 +9,7 @@
   "committee_sek": "TK 73",
   "committee_intl": "TC 73",
   "determination_date": "2016-06-28",
-  "annulment_date": null,
+  "annulment_date": "2029-09-29",
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1694801"
@@ -56,7 +56,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3805001"
  },
  {
@@ -174,7 +174,7 @@
   "committee_sek": "TK 73",
   "committee_intl": "TC 73",
   "determination_date": "2016-06-28",
-  "annulment_date": null,
+  "annulment_date": "2029-09-29",
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1635501"

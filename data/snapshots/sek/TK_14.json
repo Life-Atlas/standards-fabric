@@ -1,5 +1,35 @@
 [
  {
+  "id": "4094101",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4094101"
+ },
+ {
+  "id": "4094201",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4094201"
+ },
+ {
   "id": "3732901",
   "name": "SS-EN IEC/IEEE 60076-57-1202+A11, utg 1:2026",
   "title": "Krafttransformatorer - Del 57-1202: Vätskeisolerade fasskiftande transformatorer",
@@ -444,7 +474,7 @@
   "committee_sek": "TK 14",
   "committee_intl": "TC 14",
   "determination_date": "2002-12-03",
-  "annulment_date": null,
+  "annulment_date": "2029-09-29",
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/793701"
@@ -836,7 +866,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3801701"
  },
  {
@@ -851,23 +881,8 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3801801"
- },
- {
-  "id": "2978301",
-  "name": "IEC 60076-25:2023",
-  "title": "Power transformers - Part 25: Neutral grounding resistors",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": "2023-11-14",
-  "annulment_date": null,
-  "pub_year": 2023,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2978301"
+  "url": "https://elstandard.se/standard/3801801"
  },
  {
   "id": "3005001",
@@ -883,6 +898,21 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3005001"
+ },
+ {
+  "id": "2978301",
+  "name": "IEC 60076-25:2023",
+  "title": "Power transformers - Part 25: Neutral grounding resistors",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": "2023-11-14",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2978301"
  },
  {
   "id": "2793501",
@@ -1095,6 +1125,21 @@
   "url": "https://elstandard.se/standard/2117601"
  },
  {
+  "id": "1950601",
+  "name": "IEC 60076-3:2013+AMD1:2018 CSV",
+  "title": "Power transformers - Part 3: Insulation levels, dielectric tests and external clearances in air",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1950601"
+ },
+ {
   "id": "1916001",
   "name": "IEC 60076-7:2018",
   "title": "Power transformers - Part 7: Loading guide for mineral-oil-immersed power transformers",
@@ -1123,21 +1168,6 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1916201"
- },
- {
-  "id": "1950601",
-  "name": "IEC 60076-3:2013+AMD1:2018 CSV",
-  "title": "Power transformers - Part 3: Insulation levels, dielectric tests and external clearances in air",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1950601"
  },
  {
   "id": "1998501",
@@ -1335,21 +1365,6 @@
   "url": "https://elstandard.se/standard/2555701"
  },
  {
-  "id": "1549001",
-  "name": "IEC 60076-15:2015",
-  "title": "Power transformers - Part 15: Gas-filled power transformers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1549001"
- },
- {
   "id": "1509401",
   "name": "IEC 61378-3:2015",
   "title": "Converter transformers - Part 3: Application guide",
@@ -1363,6 +1378,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1509401"
+ },
+ {
+  "id": "1549001",
+  "name": "IEC 60076-15:2015",
+  "title": "Power transformers - Part 15: Gas-filled power transformers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1549001"
  },
  {
   "id": "1401701",
@@ -1824,7 +1854,7 @@
   "committee_sek": "TK 14",
   "committee_intl": "TC 14",
   "determination_date": "2002-12-03",
-  "annulment_date": null,
+  "annulment_date": "2029-09-29",
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/793601"
