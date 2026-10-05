@@ -1,0 +1,408 @@
+{
+ "period": "2026-W41",
+ "cadence": "weekly",
+ "generated": "2026-10-05",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4681,
+    "baseline_run": false,
+    "pipeline_open": 31
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-28:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983901",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-28: Application layer service definition - Type 28 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-1:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2984801",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 1: Overview and guidance for the IEC 61158 and IEC 61784 series",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-24:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2984901",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-24: Data-link layer service definition - Type 24 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-4:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2985001",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-4: Data-link layer service definition - Type 4 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-26:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2985101",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-26: Application layer service definition - Type 26 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-6-27:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2985201",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 6-27: Application layer protocol specification - Type 27 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-1-4:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2986301",
+     "date": "2026-10-05",
+     "detail": "Industrial networks - Profiles - Part 1-4: Fieldbus profiles - Communication Profile Family 4",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-4-19:2014 — upphavd",
+     "source": "https://elstandard.se/standard/1429801",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-19: Data-link layer protocol specification - Type 19 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-4-24:2014 — upphavd",
+     "source": "https://elstandard.se/standard/1430101",
+     "date": "2026-10-05",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-24: Data-link layer protocol specification - Type 24 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 60622:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3829401",
+     "date": "2026-10-05",
+     "detail": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Sealed nickel-cadmium prismatic rechargeable cells and batteries for use in industrial applications",
+     "tags": [
+      "TK 21",
+      "TC 21/SC 21A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-28:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-4-28:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-27:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-1-22:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-2-19:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-2:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-2:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62657-3:2022 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61139-2:2022 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-7:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-8:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-8:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-11:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62453-302:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62453-309:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN 61000-4-4, utg 2:2005 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 63056:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "TK 8"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707ga: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707ga",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707ro: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707ro",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-10-05",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}

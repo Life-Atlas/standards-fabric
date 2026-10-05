@@ -76,6 +76,13 @@
    "url": "https://github.com/Life-Atlas/standards-fabric/actions/runs/36852749322",
    "at": "2026-10-01T11:20:51+00:00",
    "minutes": 19.0
+  },
+  {
+   "cadence": "weekly",
+   "run_id": "37308686632",
+   "url": "https://github.com/Life-Atlas/standards-fabric/actions/runs/37308686632",
+   "at": "2026-10-05T12:25:30+00:00",
+   "minutes": 6.0
   }
  ]
 }
