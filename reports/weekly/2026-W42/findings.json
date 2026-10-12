@@ -1,0 +1,624 @@
+{
+ "period": "2026-W42",
+ "cadence": "weekly",
+ "generated": "2026-10-12",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4685,
+    "baseline_run": false,
+    "pipeline_open": 27
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TR 61850-7-510:2021 — publicerad",
+     "source": "https://elstandard.se/standard/2829701",
+     "date": "2026-10-12",
+     "detail": "Communication networks and systems for power utility automation - Part 7-510: Basic communication structure - Hydroelectric power plants - Modelling concepts and guidelines",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-28:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979301",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-28: Data-link layer service definition - Type 28 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-4-28:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979401",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-28: Data-link layer protocol specification - Type 28 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-27:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979501",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-27: Application layer service definition - Type 27 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-1-22:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979701",
+     "date": "2026-10-12",
+     "detail": "Industrial networks - Profiles - Part 1-22: Fieldbus profiles - Communication Profile Family 22",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-2-19:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2979801",
+     "date": "2026-10-12",
+     "detail": "Industrial networks - Profiles - Part 2-19: Additional real-time fieldbus profiles based on ISO/IEC/IEEE 8802-3 - CPF 19",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-2:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2980201",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 2: Physical layer specification and service definition",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-2:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2980301",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-2: Data-link layer service definition - Type 2 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62657-3:2022 — publicerad",
+     "source": "https://elstandard.se/standard/2898001",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Coexistence of wireless systems - Part 3: Formal description of the automated coexistence management and application guidance",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61139-2:2022 — publicerad",
+     "source": "https://elstandard.se/standard/2915101",
+     "date": "2026-10-12",
+     "detail": "Industrial networks - Single-drop digital communication interface - Part 2: Functional safety extensions",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-3:2007 — upphavd",
+     "source": "https://elstandard.se/standard/450301",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-3: Data-link layer service definition - Type 3 elements",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-4:2007 — upphavd",
+     "source": "https://elstandard.se/standard/450501",
+     "date": "2026-10-12",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-4: Data-link layer service definition - Type 4 elements",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-302:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1688101",
+     "date": "2026-10-12",
+     "detail": "Field device tool (FDT) interface specification - Part 302: Communication profile integration - IEC 61784 CPF 2",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-309:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1688201",
+     "date": "2026-10-12",
+     "detail": "Field device tool (FDT) interface specification - Part 309: Communication profile integration - IEC 61784 CPF 9",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN 61000-4-4, utg 2:2005 — upphavd",
+     "source": "https://elstandard.se/standard/372601",
+     "date": "2026-10-12",
+     "detail": "Elektromagnetisk kompatibilitet (EMC) - Del 4-4: Mät- och provningsmetoder - Provning av immunitet mot snabba transienter och pulsskurar",
+     "tags": [
+      "TK EMC",
+      "TC 77"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 63056:2020 — publicerad",
+     "source": "https://elstandard.se/standard/2215401",
+     "date": "2026-10-12",
+     "detail": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for secondary lithium cells and batteries for use in electrical energy storage systems",
+     "tags": [
+      "TK 21",
+      "TC 21/SC 21A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC/TR 61850-90-16:2021 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC/TR 61131-8:2017 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-5-10:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-5-11:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-9:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-7:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-3-8:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "CISPR 16-1-5:2014 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 215"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 215"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "TK 8"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.38.0 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.38.0",
+     "date": "2026-10-06T15:31:05Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — v4.20.0-test.3",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/v4.20.0-test.3",
+     "date": "2026-10-08T10:28:45Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — api/go/v4.20.0-test.3",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/api%2Fgo%2Fv4.20.0-test.3",
+     "date": "2026-10-08T10:28:45Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — 3.9.8",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/3.9.8",
+     "date": "2026-10-08T15:18:19Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — 3.8.14",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/3.8.14",
+     "date": "2026-10-08T15:17:23Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.10.1",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.10.1",
+     "date": "2026-10-10T16:14:23Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.10.0",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.10.0",
+     "date": "2026-10-07T17:22:28Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.10.0b7",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.10.0b7",
+     "date": "2026-10-07T15:30:27Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.10.0b6",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.10.0b6",
+     "date": "2026-10-07T13:53:22Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.10.0b5",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.10.0b5",
+     "date": "2026-10-07T11:34:47Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 5.0.8",
+     "source": "https://github.com/node-red/node-red/releases/tag/5.0.8",
+     "date": "2026-10-08T09:44:12Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 4.1.16: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/4.1.16",
+     "date": "2026-10-08T10:17:04Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.134",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.134",
+     "date": "2026-10-12T08:49:33Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.133",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.133",
+     "date": "2026-10-09T02:52:31Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.32.0",
+     "source": "https://github.com/openremote/openremote/releases/tag/1.32.0",
+     "date": "2026-10-12T13:17:17Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "BrickSchema/Brick — v1.5.0 Release Candidate 2",
+     "source": "https://github.com/BrickSchema/Brick/releases/tag/v1.5.0-rc2",
+     "date": "2026-10-07T13:12:35Z",
+     "detail": "Brick ontology",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.3.0.M3",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.3.0.M3",
+     "date": "2026-10-11T15:09:10Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.3",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.3",
+     "date": "2026-10-09T21:17:32Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.3.0.M2",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.3.0.M2",
+     "date": "2026-10-06T14:00:45Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.2",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.2",
+     "date": "2026-10-06T22:00:09Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211it: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211it",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-10-12",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
