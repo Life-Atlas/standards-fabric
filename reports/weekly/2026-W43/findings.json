@@ -1,0 +1,492 @@
+{
+ "period": "2026-W43",
+ "cadence": "weekly",
+ "generated": "2026-10-19",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4689,
+    "baseline_run": false,
+    "pipeline_open": 26
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4097201",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK IoT",
+      "TC 124"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TR 61850-90-16:2021 — publicerad",
+     "source": "https://elstandard.se/standard/2759101",
+     "date": "2026-10-19",
+     "detail": "Communication networks and systems in power utility automations - Part 90-16: Requirements of system management for Smart Energy Automation",
+     "tags": [
+      "TK 57",
+      "TC 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TR 61131-8:2017 — publicerad",
+     "source": "https://elstandard.se/standard/1902201",
+     "date": "2026-10-19",
+     "detail": "Industrial-process measurement and control - Programmable controllers - Part 8: Guidelines for the application and implementation of programming languages",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65B"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-5-10:2007 — upphavd",
+     "source": "https://elstandard.se/standard/315701",
+     "date": "2026-10-19",
+     "detail": "Industrial communication networks - Profiles - Part 5-10: Installation of fieldbuses - Installation profiles for CPF 10",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-5-11:2007 — upphavd",
+     "source": "https://elstandard.se/standard/315901",
+     "date": "2026-10-19",
+     "detail": "Industrial communication networks - Profiles - Part 5-11: Installation of fieldbuses - Installation profiles for CPF 11",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-9:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2253701",
+     "date": "2026-10-19",
+     "detail": "OPC unified architecture - Part 9: Alarms and Conditions",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-7:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2254701",
+     "date": "2026-10-19",
+     "detail": "OPC unified architecture - Part 7: Profiles",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-7:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2254801",
+     "date": "2026-10-19",
+     "detail": "OPC unified architecture - Part 7: Profiles",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-8:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2254901",
+     "date": "2026-10-19",
+     "detail": "OPC Unified Architecture - Part 8: Data Access",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-8:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2255001",
+     "date": "2026-10-19",
+     "detail": "OPC Unified Architecture - Part 8: Data Access",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-11:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2255601",
+     "date": "2026-10-19",
+     "detail": "OPC Unified Architecture - Part 11: Historical Access",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-3-8:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1716801",
+     "date": "2026-10-19",
+     "detail": "Industrial communication networks - Profiles - Part 3-8: Functional safety fieldbuses - Additional specifications for CPF 8",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "CISPR 16-1-5:2014 — publicerad",
+     "source": "https://elstandard.se/standard/1495901",
+     "date": "2026-10-19",
+     "detail": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Antenna calibration sites and reference test sites for 5 MHz to 18 GHz",
+     "tags": [
+      "TK EMC",
+      "CISPR/CIS/A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4098501",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 21",
+      "TC 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4101301",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 215",
+      ""
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4101001",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 8",
+      ""
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62714-5:2022 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-11:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-10:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-10:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-14:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-3:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-3:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 3"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "TK 3"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.10.2",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.10.2",
+     "date": "2026-10-16T20:04:09Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.32.1",
+     "source": "https://github.com/openremote/core/releases/tag/1.32.1",
+     "date": "2026-10-14T13:55:32Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.32.0",
+     "source": "https://github.com/openremote/core/releases/tag/1.32.0",
+     "date": "2026-10-14T13:54:44Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.31.1",
+     "source": "https://github.com/openremote/core/releases/tag/1.31.1",
+     "date": "2026-09-28T14:50:07Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.31.0",
+     "source": "https://github.com/openremote/core/releases/tag/1.31.0",
+     "date": "2026-10-12T08:26:57Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.30.1",
+     "source": "https://github.com/openremote/core/releases/tag/1.30.1",
+     "date": "2026-09-22T08:32:20Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "eu-act",
+     "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+     "source": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+     "date": "Mon, 19 Oct 2026 07:37:54 +0000",
+     "detail": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implement",
+     "tags": [
+      "AI Act"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707sl: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707sl",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "From principles to practice: AI & Ethics kicks off OASC’s Knowledge Exchange Webinar series",
+     "source": "https://oascities.org/kew-ai-ethics/",
+     "date": "Tue, 13 Oct 2026 13:02:00 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-10-19",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
