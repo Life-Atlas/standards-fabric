@@ -225,6 +225,21 @@
   "url": "https://elstandard.se/standard/1765301"
  },
  {
+  "id": "3836201",
+  "name": "IEC TS 60071-4:2026",
+  "title": "Instructions for simulation-based insulation coordination and modelling of electrical networks",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 99",
+  "committee_intl": "TC 99",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3836201"
+ },
+ {
   "id": "3005801",
   "name": "IEC 60071-2:2023",
   "title": "Insulation co-ordination - Part 2: Application guidelines",
@@ -285,21 +300,6 @@
   "url": "https://elstandard.se/standard/3000501"
  },
  {
-  "id": "2934501",
-  "name": "IEC 60071-12:2022",
-  "title": "Insulation co-ordination - Part 12: Application guidelines for LCC HVDC converter stations",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 99",
-  "committee_intl": "TC 99",
-  "determination_date": "2023-06-28",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2934501"
- },
- {
   "id": "2947301",
   "name": "IEC 60071-11:2022",
   "title": "Insulation co-ordination - Part 11: Definitions, principles and rules for HVDC system",
@@ -313,6 +313,21 @@
   "pub_year": 2023,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2947301"
+ },
+ {
+  "id": "2934501",
+  "name": "IEC 60071-12:2022",
+  "title": "Insulation co-ordination - Part 12: Application guidelines for LCC HVDC converter stations",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 99",
+  "committee_intl": "TC 99",
+  "determination_date": "2023-06-28",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2934501"
  },
  {
   "id": "3086801",
@@ -403,21 +418,6 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1529201"
- },
- {
-  "id": "1327301",
-  "name": "IEC/TR 60071-4:2004",
-  "title": "Insulation co-ordination - Part 4: Computational guide to insulation co-ordination and modelling of electrical networks",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 99",
-  "committee_intl": "TC 28",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2004,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1327301"
  },
  {
   "id": "1947601",
@@ -778,6 +778,21 @@
   "pub_year": 2004,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/27601"
+ },
+ {
+  "id": "1327301",
+  "name": "IEC TR 60071-4:2004",
+  "title": "Insulation co-ordination - Part 4: Computational guide to insulation co-ordination and modelling of electrical networks",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "upphavd",
+  "committee_sek": "TK 99",
+  "committee_intl": "TC 28",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2004,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1327301"
  },
  {
   "id": "56701",

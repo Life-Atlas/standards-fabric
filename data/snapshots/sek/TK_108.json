@@ -1,5 +1,20 @@
 [
  {
+  "id": "4102901",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 108",
+  "committee_intl": "TC 108",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4102901"
+ },
+ {
   "id": "3303401",
   "name": "SS-EN IEC 62368-1+A11, utg 3:2024",
   "title": "IT- och multimedia-utrustning - Del 1: Säkerhet",
@@ -870,21 +885,6 @@
   "url": "https://elstandard.se/standard/336401"
  },
  {
-  "id": "162601",
-  "name": "SS-EN 60950-22, utg 1:2006/C1:2008",
-  "title": "Utrustning för informationsbehandling - Säkerhet - Del 22: Utrustning för installation utomhus",
-  "prefix": "SS-EN",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 108",
-  "committee_intl": null,
-  "determination_date": "2008-12-14",
-  "annulment_date": "2020-04-13",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/162601"
- },
- {
   "id": "347301",
   "name": "SS-EN 60065, utg 3:2002/A11:2008",
   "title": "Audio-, video- och liknande elektronisk utrustning - Säkerhet",
@@ -913,6 +913,21 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/347401"
+ },
+ {
+  "id": "162601",
+  "name": "SS-EN 60950-22, utg 1:2006/C1:2008",
+  "title": "Utrustning för informationsbehandling - Säkerhet - Del 22: Utrustning för installation utomhus",
+  "prefix": "SS-EN",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 108",
+  "committee_intl": null,
+  "determination_date": "2008-12-14",
+  "annulment_date": "2020-04-13",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/162601"
  },
  {
   "id": "162301",
@@ -1095,21 +1110,6 @@
   "url": "https://elstandard.se/standard/611701"
  },
  {
-  "id": "157401",
-  "name": "IEC 60950-22:2005",
-  "title": "Information technology equipment - Safety - Part 22: Equipment installed outdoors",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 108",
-  "committee_intl": "TC 74",
-  "determination_date": "2006-06-18",
-  "annulment_date": "2020-04-13",
-  "pub_year": 2006,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/157401"
- },
- {
   "id": "611601",
   "name": "IEC 62040-2:2005",
   "title": "Uninterruptible power systems (UPS) - Part 2: Electromagnetic compatibility (EMC) requirements",
@@ -1123,6 +1123,21 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/611601"
+ },
+ {
+  "id": "157401",
+  "name": "IEC 60950-22:2005",
+  "title": "Information technology equipment - Safety - Part 22: Equipment installed outdoors",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 108",
+  "committee_intl": "TC 74",
+  "determination_date": "2006-06-18",
+  "annulment_date": "2020-04-13",
+  "pub_year": 2006,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/157401"
  },
  {
   "id": "161201",
@@ -1290,21 +1305,6 @@
   "url": "https://elstandard.se/standard/179001"
  },
  {
-  "id": "155001",
-  "name": "IEC 60950-1:2001",
-  "title": "Information technology equipment - Safety - Part 1: General requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 108",
-  "committee_intl": "TC 74",
-  "determination_date": "2002-02-10",
-  "annulment_date": "2010-11-30",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/155001"
- },
- {
   "id": "346801",
   "name": "IEC 60065:2001",
   "title": "Audio, video and similar electronic apparatus - Safety requirements",
@@ -1318,6 +1318,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/346801"
+ },
+ {
+  "id": "155001",
+  "name": "IEC 60950-1:2001",
+  "title": "Information technology equipment - Safety - Part 1: General requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 108",
+  "committee_intl": "TC 74",
+  "determination_date": "2002-02-10",
+  "annulment_date": "2010-11-30",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/155001"
  },
  {
   "id": "347101",

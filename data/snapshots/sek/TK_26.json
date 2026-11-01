@@ -825,6 +825,21 @@
   "url": "https://elstandard.se/standard/2059301"
  },
  {
+  "id": "2020501",
+  "name": "IEC 60974-14:2018",
+  "title": "Arc welding equipment - Part 14: Calibration, validation and consistency testing",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 26",
+  "committee_intl": "TC 26",
+  "determination_date": "2019-02-19",
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2020501"
+ },
+ {
   "id": "1964001",
   "name": "IEC 60974-9:2018",
   "title": "Arc welding equipment - Part 9: Installation and use",
@@ -853,21 +868,6 @@
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1964101"
- },
- {
-  "id": "2020501",
-  "name": "IEC 60974-14:2018",
-  "title": "Arc welding equipment - Part 14: Calibration, validation and consistency testing",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 26",
-  "committee_intl": "TC 26",
-  "determination_date": "2019-02-19",
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2020501"
  },
  {
   "id": "2841701",
@@ -1125,21 +1125,6 @@
   "url": "https://elstandard.se/standard/1562601"
  },
  {
-  "id": "1529601",
-  "name": "IEC 62135-2:2015",
-  "title": "Resistance welding equipment - Part 2: Electromagnetic compatibility (EMC) requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 26",
-  "committee_intl": "TC 26",
-  "determination_date": "2015-06-09",
-  "annulment_date": "2024-11-09",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1529601"
- },
- {
   "id": "1570301",
   "name": "IEC 60974-10:2014+AMD1:2015 CSV",
   "title": "Arc welding equipment - Part 10: Electromagnetic compatibility (EMC) requirements",
@@ -1153,6 +1138,21 @@
   "pub_year": 2014,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1570301"
+ },
+ {
+  "id": "1529601",
+  "name": "IEC 62135-2:2015",
+  "title": "Resistance welding equipment - Part 2: Electromagnetic compatibility (EMC) requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 26",
+  "committee_intl": "TC 26",
+  "determination_date": "2015-06-09",
+  "annulment_date": "2024-11-09",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1529601"
  },
  {
   "id": "1465401",
@@ -1275,21 +1275,6 @@
   "url": "https://elstandard.se/standard/1276301"
  },
  {
-  "id": "1340101",
-  "name": "IEC 60974-3:2013",
-  "title": "Arc welding equipment - Part 3: Arc striking and stabilizing devices",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 26",
-  "committee_intl": "TC 26",
-  "determination_date": "2014-04-15",
-  "annulment_date": "2022-11-07",
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1340101"
- },
- {
   "id": "1223201",
   "name": "IEC 60974-2:2013",
   "title": "Arc welding equipment - Part 2: Liquid cooling systems",
@@ -1318,6 +1303,21 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1223301"
+ },
+ {
+  "id": "1340101",
+  "name": "IEC 60974-3:2013",
+  "title": "Arc welding equipment - Part 3: Arc striking and stabilizing devices",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 26",
+  "committee_intl": "TC 26",
+  "determination_date": "2014-04-15",
+  "annulment_date": "2022-11-07",
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1340101"
  },
  {
   "id": "1094701",
@@ -1470,21 +1470,6 @@
   "url": "https://elstandard.se/standard/219501"
  },
  {
-  "id": "905701",
-  "name": "IEC 60974-6:2010",
-  "title": "Arc welding equipment - Part 6: Limited duty equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 26",
-  "committee_intl": "TC 26",
-  "determination_date": "2011-05-03",
-  "annulment_date": "2018-10-26",
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/905701"
- },
- {
   "id": "851801",
   "name": "IEC 60974-4:2010",
   "title": "Arc welding equipment - Part 4: Periodic inspection and testing",
@@ -1513,6 +1498,21 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/868401"
+ },
+ {
+  "id": "905701",
+  "name": "IEC 60974-6:2010",
+  "title": "Arc welding equipment - Part 6: Limited duty equipment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 26",
+  "committee_intl": "TC 26",
+  "determination_date": "2011-05-03",
+  "annulment_date": "2018-10-26",
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/905701"
  },
  {
   "id": "223401",

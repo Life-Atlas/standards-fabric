@@ -105,21 +105,6 @@
   "url": "https://elstandard.se/standard/3598601"
  },
  {
-  "id": "3119601",
-  "name": "IEC 60050-631:2024",
-  "title": "International Electrotechnical Vocabulary (IEV) – Part 631: Electrical energy storage systems",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 1",
-  "committee_intl": "TC 1",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3119601"
- },
- {
   "id": "3306801",
   "name": "IEC 60050-815:2024",
   "title": "International Electrotechnical Vocabulary (IEV) - Part 815: Superconductivity",
@@ -133,6 +118,21 @@
   "pub_year": 2024,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3306801"
+ },
+ {
+  "id": "3119601",
+  "name": "IEC 60050-631:2024",
+  "title": "International Electrotechnical Vocabulary (IEV) – Part 631: Electrical energy storage systems",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 1",
+  "committee_intl": "TC 1",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3119601"
  },
  {
   "id": "2016901",

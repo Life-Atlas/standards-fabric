@@ -45,36 +45,6 @@
   "url": "https://elstandard.se/standard/4083801"
  },
  {
-  "id": "4069301",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Amendment",
-  "status": "remiss",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 35",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4069301"
- },
- {
-  "id": "4069401",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "remiss",
-  "committee_sek": "TK 21",
-  "committee_intl": null,
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4069401"
- },
- {
   "id": "527501",
   "name": "SS-EN 60896-21, utg 1:2004",
   "title": "Blybatterier för stationär användning - Del 21: Ventilreglerade typer - Provningsmetoder",
@@ -735,21 +705,6 @@
   "url": "https://elstandard.se/standard/790601"
  },
  {
-  "id": "2626201",
-  "name": "SS-EN 61429, utg 1:1997",
-  "title": "Laddningsbara batterier - Märkning med den internationella återvinningssymbolen ISO 7000-1135",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21",
-  "determination_date": "1997-04-10",
-  "annulment_date": null,
-  "pub_year": 1997,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2626201"
- },
- {
   "id": "3643801",
   "name": "SS-EN 61434, utg 1:1997",
   "title": "Laddningsbara alkaliska batterier - Beteckning i standard av ström för laddningsbara celler och batterier",
@@ -763,6 +718,21 @@
   "pub_year": 1997,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3643801"
+ },
+ {
+  "id": "2626201",
+  "name": "SS-EN 61429, utg 1:1997",
+  "title": "Laddningsbara batterier - Märkning med den internationella återvinningssymbolen ISO 7000-1135",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21",
+  "determination_date": "1997-04-10",
+  "annulment_date": null,
+  "pub_year": 1997,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2626201"
  },
  {
   "id": "529401",
@@ -1635,6 +1605,21 @@
   "url": "https://elstandard.se/standard/527401"
  },
  {
+  "id": "3833601",
+  "name": "IEC 60095-8:2026",
+  "title": "Lead-acid starter batteries - Part 8: 12V Batteries used in automobiles for auxiliary or backup purposes",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3833601"
+ },
+ {
   "id": "3595101",
   "name": "IEC 62902:2025",
   "title": "Secondary cells and batteries - Marking symbols for identification of their chemistry",
@@ -2175,36 +2160,6 @@
   "url": "https://elstandard.se/standard/1636401"
  },
  {
-  "id": "1502801",
-  "name": "IEC 62485-4:2015",
-  "title": "Safety requirements for secondary batteries and battery installations - Part 4: Valve-regulated lead-acid batteries for use in portable appliances",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21",
-  "determination_date": "2019-06-11",
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1502801"
- },
- {
-  "id": "1548501",
-  "name": "IEC 62485-1:2015",
-  "title": "Safety requirements for secondary batteries and battery installations - Part 1: General safety information",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21",
-  "determination_date": "2018-10-16",
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1548501"
- },
- {
   "id": "1589401",
   "name": "IEC 61427-2:2015",
   "title": "Secondary cells and batteries for renewable energy storage - General requirements and methods of test - Part 2: On-grid applications",
@@ -2233,6 +2188,36 @@
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1605601"
+ },
+ {
+  "id": "1548501",
+  "name": "IEC 62485-1:2015",
+  "title": "Safety requirements for secondary batteries and battery installations - Part 1: General safety information",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21",
+  "determination_date": "2018-10-16",
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1548501"
+ },
+ {
+  "id": "1502801",
+  "name": "IEC 62485-4:2015",
+  "title": "Safety requirements for secondary batteries and battery installations - Part 4: Valve-regulated lead-acid batteries for use in portable appliances",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21",
+  "determination_date": "2019-06-11",
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1502801"
  },
  {
   "id": "3253301",
@@ -2685,6 +2670,36 @@
   "url": "https://elstandard.se/standard/3813101"
  },
  {
+  "id": "3829401",
+  "name": "IEC 60622:2026",
+  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Sealed nickel-cadmium prismatic rechargeable cells and batteries for use in industrial applications",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21/SC 21A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3829401"
+ },
+ {
+  "id": "3831301",
+  "name": "IEC TR 60086-7:2026",
+  "title": "Primary batteries - Part 7: Coin/lithium button cell saline soak test simulating cell ingestion",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 35",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3831301"
+ },
+ {
   "id": "3561601",
   "name": "IEC 60086-4:2025",
   "title": "Primary batteries - Part 4: Safety of lithium batteries",
@@ -2790,36 +2805,6 @@
   "url": "https://elstandard.se/standard/3020501"
  },
  {
-  "id": "2895901",
-  "name": "IEC 62619:2022",
-  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for secondary lithium cells and batteries, for use in industrial applications",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21/SC 21A",
-  "determination_date": "2022-09-20",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2895901"
- },
- {
-  "id": "2896001",
-  "name": "IEC 62619:2022 CMV",
-  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for secondary lithium cells and batteries, for use in industrial applications",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21/SC 21A",
-  "determination_date": "2022-09-20",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2896001"
- },
- {
   "id": "2944501",
   "name": "IEC 61951-2:2017+AMD1:2022 CSV",
   "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Secondary sealed cells and batteries for portable applications - Part 2: Nickel-metal hydride",
@@ -2848,6 +2833,36 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2947201"
+ },
+ {
+  "id": "2895901",
+  "name": "IEC 62619:2022",
+  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for secondary lithium cells and batteries, for use in industrial applications",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21/SC 21A",
+  "determination_date": "2022-09-20",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2895901"
+ },
+ {
+  "id": "2896001",
+  "name": "IEC 62619:2022 CMV",
+  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for secondary lithium cells and batteries, for use in industrial applications",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21/SC 21A",
+  "determination_date": "2022-09-20",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2896001"
  },
  {
   "id": "2789201",
@@ -2895,36 +2910,6 @@
   "url": "https://elstandard.se/standard/2598601"
  },
  {
-  "id": "2634301",
-  "name": "IEC 60086-3:2021",
-  "title": "Primary batteries - Part 3: Watch batteries",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 35",
-  "determination_date": "2021-10-19",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2634301"
- },
- {
-  "id": "2634401",
-  "name": "IEC 60086-3:2021 RLV",
-  "title": "Primary batteries - Part 3: Watch batteries",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 35",
-  "determination_date": "2021-10-19",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2634401"
- },
- {
   "id": "2768801",
   "name": "IEC 62133-2:2017+AMD1:2021 CSV",
   "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems",
@@ -2955,19 +2940,34 @@
   "url": "https://elstandard.se/standard/2776801"
  },
  {
-  "id": "2899201",
-  "name": "IEC 60086-5:2021/C1:2022",
-  "title": "Primary batteries - Part 5: Safety of batteries with aqueous electrolyte",
+  "id": "2634301",
+  "name": "IEC 60086-3:2021",
+  "title": "Primary batteries - Part 3: Watch batteries",
   "prefix": "IEC",
-  "doc_type": "Corrigendum",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 21",
   "committee_intl": "TC 35",
-  "determination_date": "2022-08-23",
+  "determination_date": "2021-10-19",
   "annulment_date": null,
-  "pub_year": 2022,
+  "pub_year": 2021,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2899201"
+  "url": "https://elstandard.se/standard/2634301"
+ },
+ {
+  "id": "2634401",
+  "name": "IEC 60086-3:2021 RLV",
+  "title": "Primary batteries - Part 3: Watch batteries",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 35",
+  "determination_date": "2021-10-19",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2634401"
  },
  {
   "id": "3014501",
@@ -2983,6 +2983,21 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3014501"
+ },
+ {
+  "id": "2899201",
+  "name": "IEC 60086-5:2021/C1:2022",
+  "title": "Primary batteries - Part 5: Safety of batteries with aqueous electrolyte",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 35",
+  "determination_date": "2022-08-23",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2899201"
  },
  {
   "id": "3763601",
@@ -3075,21 +3090,6 @@
   "url": "https://elstandard.se/standard/2584201"
  },
  {
-  "id": "2762001",
-  "name": "IEC 63056:2020/C1:2021",
-  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for secondary lithium cells and batteries for use in electrical energy storage systems",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21/SC 21A",
-  "determination_date": "2021-09-21",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2762001"
- },
- {
   "id": "2947101",
   "name": "IEC 63115-1:2020/A1:2022",
   "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Sealed nickel-metal hydride cells and batteries for use in industrial applications - Part 1: Performance",
@@ -3103,6 +3103,21 @@
   "pub_year": 2020,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2947101"
+ },
+ {
+  "id": "2762001",
+  "name": "IEC 63056:2020/C1:2021",
+  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for secondary lithium cells and batteries for use in electrical energy storage systems",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21/SC 21A",
+  "determination_date": "2021-09-21",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2762001"
  },
  {
   "id": "2090101",
@@ -3135,21 +3150,6 @@
   "url": "https://elstandard.se/standard/2090201"
  },
  {
-  "id": "3020401",
-  "name": "IEC 62281:2019/A2:2023",
-  "title": "Safety of primary and secondary lithium cells and batteries during transport",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 35",
-  "determination_date": "2023-09-19",
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3020401"
- },
- {
   "id": "2598501",
   "name": "IEC 62281:2019/A1:2021",
   "title": "Safety of primary and secondary lithium cells and batteries during transport",
@@ -3163,6 +3163,21 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2598501"
+ },
+ {
+  "id": "3020401",
+  "name": "IEC 62281:2019/A2:2023",
+  "title": "Safety of primary and secondary lithium cells and batteries during transport",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 35",
+  "determination_date": "2023-09-19",
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3020401"
  },
  {
   "id": "1788701",
@@ -3240,21 +3255,6 @@
   "url": "https://elstandard.se/standard/1810901"
  },
  {
-  "id": "2768701",
-  "name": "IEC 62133-2:2017/A1:2021",
-  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21/SC 21A",
-  "determination_date": "2021-11-16",
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2768701"
- },
- {
   "id": "2944401",
   "name": "IEC 61951-2:2017/A1:2022",
   "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Secondary sealed cells and batteries for portable applications - Part 2: Nickel-metal hydride",
@@ -3283,6 +3283,21 @@
   "pub_year": 2017,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2974401"
+ },
+ {
+  "id": "2768701",
+  "name": "IEC 62133-2:2017/A1:2021",
+  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21/SC 21A",
+  "determination_date": "2021-11-16",
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2768701"
  },
  {
   "id": "3003101",
@@ -3825,21 +3840,6 @@
   "url": "https://elstandard.se/standard/1401501"
  },
  {
-  "id": "1200901",
-  "name": "IEC 60623:2001",
-  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Vented nickel-cadmium prismatic rechargeable single cells",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21",
-  "determination_date": "2002-03-19",
-  "annulment_date": "2020-02-26",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1200901"
- },
- {
   "id": "1008601",
   "name": "IEC 61982-3:2001",
   "title": "Secondary batteries for the propulsion of electric road vehicles - Part 3: Performance and life testing (traffic compatible, urban use vehicles)",
@@ -3853,6 +3853,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1008601"
+ },
+ {
+  "id": "1200901",
+  "name": "IEC 60623:2001",
+  "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Vented nickel-cadmium prismatic rechargeable single cells",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21",
+  "determination_date": "2002-03-19",
+  "annulment_date": "2020-02-26",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1200901"
  },
  {
   "id": "361401",
@@ -4110,6 +4125,21 @@
   "url": "https://elstandard.se/standard/2222201"
  },
  {
+  "id": "2238401",
+  "name": "IEC 60086-4:2019/IS1:2020",
+  "title": "Primary batteries - Part 4: Safety of lithium batteries",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "upphavd",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 35",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2238401"
+ },
+ {
   "id": "2093601",
   "name": "IEC 60086-4:2019",
   "title": "Primary batteries - Part 4: Safety of lithium batteries",
@@ -4138,21 +4168,6 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2093701"
- },
- {
-  "id": "2238401",
-  "name": "IEC 60086-4:2019/IS1:2020",
-  "title": "Primary batteries - Part 4: Safety of lithium batteries",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "upphavd",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 35",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2238401"
  },
  {
   "id": "1896701",
@@ -4425,21 +4440,6 @@
   "url": "https://elstandard.se/standard/1514701"
  },
  {
-  "id": "1699801",
-  "name": "IEC 60086-1:2015 RLV",
-  "title": "Primary batteries - Part 1: General",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 35",
-  "determination_date": "2015-12-15",
-  "annulment_date": "2024-05-31",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1699801"
- },
- {
   "id": "1577101",
   "name": "IEC 60086-1:2015",
   "title": "Primary batteries - Part 1: General",
@@ -4468,6 +4468,21 @@
   "pub_year": 2016,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1606201"
+ },
+ {
+  "id": "1699801",
+  "name": "IEC 60086-1:2015 RLV",
+  "title": "Primary batteries - Part 1: General",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 35",
+  "determination_date": "2015-12-15",
+  "annulment_date": "2024-05-31",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1699801"
  },
  {
   "id": "1405101",
@@ -4755,6 +4770,21 @@
   "url": "https://elstandard.se/standard/126201"
  },
  {
+  "id": "4098501",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 21",
+  "committee_intl": "TC 21",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4098501"
+ },
+ {
   "id": "4092401",
   "name": null,
   "title": "",
@@ -4768,20 +4798,5 @@
   "pub_year": null,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/4092401"
- },
- {
-  "id": "4054701",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "Standard",
-  "status": "new_work_proposal",
-  "committee_sek": "TK 21",
-  "committee_intl": "TC 21",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4054701"
  }
 ]

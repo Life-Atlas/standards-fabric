@@ -1,5 +1,20 @@
 [
  {
+  "id": "4097201",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK IoT",
+  "committee_intl": "TC 124",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4097201"
+ },
+ {
   "id": "3761201",
   "name": "SS-EN IEC 63203-201-4, utg 1:2025/A1:2026",
   "title": "Kroppsburen elektronik - Enheter och system - Del 201-4: Elektronisk textil – Testmetod för fastställande av ytresistans hos konduktivt tyg efter förslitning",
@@ -525,6 +540,21 @@
   "url": "https://elstandard.se/standard/3739801"
  },
  {
+  "id": "3667301",
+  "name": "ISO/IEC TS 30180:2025",
+  "title": "Internet of Things (IoT) - Functional requirements to determine the status of self-quarantine through IoT data interfaces",
+  "prefix": "ISO/IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3667301"
+ },
+ {
   "id": "3598501",
   "name": "ISO/IEC TR 30189-1:2025",
   "title": "Internet of Things (IoT) – IoT-based management of tangible cultural heritage assets – Part 1: Framework",
@@ -540,19 +570,34 @@
   "url": "https://elstandard.se/standard/3598501"
  },
  {
-  "id": "3667301",
-  "name": "ISO/IEC TS 30180:2025",
-  "title": "Internet of Things (IoT) - Functional requirements to determine the status of self-quarantine through IoT data interfaces",
-  "prefix": "ISO/IEC TS",
-  "doc_type": "TS",
+  "id": "3543901",
+  "name": "ISO/IEC 30181:2024",
+  "title": "Internet of Things (IoT) - Functional architecture for resource identifier interoperability",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK IoT",
   "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
+  "determination_date": "2025-02-04",
   "annulment_date": null,
   "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3667301"
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3543901"
+ },
+ {
+  "id": "3545901",
+  "name": "ISO/IEC 30184:2024",
+  "title": "Internet of things (IoT) – Autonomous loT object identification in a connected home – Requirements and framework",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": "2025-02-04",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3545901"
  },
  {
   "id": "3118801",
@@ -600,34 +645,34 @@
   "url": "https://elstandard.se/standard/3297201"
  },
  {
-  "id": "3543901",
-  "name": "ISO/IEC 30181:2024",
-  "title": "Internet of Things (IoT) - Functional architecture for resource identifier interoperability",
-  "prefix": "ISO/IEC",
+  "id": "3555201",
+  "name": "IEC 63203-201-4:2024",
+  "title": "Wearable electronic devices and technologies - Part 201-4: Electronic textile - Test method for determining sheet resistance of conductive fabrics after abrasion",
+  "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": "2025-02-04",
+  "committee_intl": "TC 124",
+  "determination_date": "2025-12-16",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3543901"
+  "url": "https://elstandard.se/standard/3555201"
  },
  {
-  "id": "3545901",
-  "name": "ISO/IEC 30184:2024",
-  "title": "Internet of things (IoT) – Autonomous loT object identification in a connected home – Requirements and framework",
-  "prefix": "ISO/IEC",
+  "id": "3242701",
+  "name": "IEC 63203-301-1:2024",
+  "title": "Wearable electronic devices and technologies - Part 301-1: Test method of electrochromic films for wearable equipment",
+  "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "committee_intl": "TC 124",
   "determination_date": "2025-02-04",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3545901"
+  "url": "https://elstandard.se/standard/3242701"
  },
  {
   "id": "3104601",
@@ -660,36 +705,6 @@
   "url": "https://elstandard.se/standard/3113901"
  },
  {
-  "id": "3242701",
-  "name": "IEC 63203-301-1:2024",
-  "title": "Wearable electronic devices and technologies - Part 301-1: Test method of electrochromic films for wearable equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": "2025-02-04",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3242701"
- },
- {
-  "id": "3555201",
-  "name": "IEC 63203-201-4:2024",
-  "title": "Wearable electronic devices and technologies - Part 201-4: Electronic textile - Test method for determining sheet resistance of conductive fabrics after abrasion",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": "2025-12-16",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3555201"
- },
- {
   "id": "3717201",
   "name": "IEC 63203-201-4:2024/A1:2025",
   "title": "Wearable electronic devices and technologies - Part 201-4: Electronic textile - Test method for determining sheet resistance of conductive fabrics after abrasion",
@@ -703,6 +718,21 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3717201"
+ },
+ {
+  "id": "3545401",
+  "name": "ISO/IEC TR 30194:2024",
+  "title": "Internet of things (IoT) and digital twin – Best practices for use case projects",
+  "prefix": "ISO/IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": "2025-02-04",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3545401"
  },
  {
   "id": "3268401",
@@ -735,19 +765,19 @@
   "url": "https://elstandard.se/standard/3271701"
  },
  {
-  "id": "3545401",
-  "name": "ISO/IEC TR 30194:2024",
-  "title": "Internet of things (IoT) and digital twin – Best practices for use case projects",
-  "prefix": "ISO/IEC TR",
-  "doc_type": "TR",
+  "id": "2968701",
+  "name": "ISO/IEC 30179:2023",
+  "title": "Internet of Things (IoT) - Overview and general requirements of IoT system for ecological environment monitoring",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK IoT",
   "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": "2025-02-04",
+  "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3545401"
+  "pub_year": 2023,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2968701"
  },
  {
   "id": "2993901",
@@ -778,21 +808,6 @@
   "pub_year": 2023,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3076501"
- },
- {
-  "id": "2968701",
-  "name": "ISO/IEC 30179:2023",
-  "title": "Internet of Things (IoT) - Overview and general requirements of IoT system for ecological environment monitoring",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2968701"
  },
  {
   "id": "2985701",
@@ -855,6 +870,21 @@
   "url": "https://elstandard.se/standard/3073101"
  },
  {
+  "id": "2915001",
+  "name": "ISO/IEC 30142-2:2022",
+  "title": "Internet of Things (IoT) - Underwater acoustic sensor network (UWASN) - Network management system - Part 2: Underwater management information base (u-MIB)",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2915001"
+ },
+ {
   "id": "2845501",
   "name": "ISO/IEC 30162:2022",
   "title": "Internet of Things (IoT)  - Compatibility requirements and model for devices within industrial IoT systems",
@@ -883,51 +913,6 @@
   "pub_year": 2022,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2871401"
- },
- {
-  "id": "2915001",
-  "name": "ISO/IEC 30142-2:2022",
-  "title": "Internet of Things (IoT) - Underwater acoustic sensor network (UWASN) - Network management system - Part 2: Underwater management information base (u-MIB)",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2915001"
- },
- {
-  "id": "2884101",
-  "name": "IEC 63203-201-1:2022",
-  "title": "Wearable electronic devices and technologies - Part 201-1: Electronic textile - Measurement methods for basic properties of conductive yarns",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": "2023-02-21",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2884101"
- },
- {
-  "id": "2884201",
-  "name": "IEC 63203-201-2:2022",
-  "title": "Wearable electronic devices and technologies - Part 201-2: Electronic textile - Measurement methods for basic properties of conductive fabrics and insulation materials",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": "2023-02-21",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2884201"
  },
  {
   "id": "2945701",
@@ -975,6 +960,36 @@
   "url": "https://elstandard.se/standard/2960801"
  },
  {
+  "id": "2884101",
+  "name": "IEC 63203-201-1:2022",
+  "title": "Wearable electronic devices and technologies - Part 201-1: Electronic textile - Measurement methods for basic properties of conductive yarns",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "TC 124",
+  "determination_date": "2023-02-21",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2884101"
+ },
+ {
+  "id": "2884201",
+  "name": "IEC 63203-201-2:2022",
+  "title": "Wearable electronic devices and technologies - Part 201-2: Electronic textile - Measurement methods for basic properties of conductive fabrics and insulation materials",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "TC 124",
+  "determination_date": "2023-02-21",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2884201"
+ },
+ {
   "id": "3071301",
   "name": "IEC 63203-201-2:2022/C1:2023",
   "title": "Wearable electronic devices and technologies - Part 201-2: Electronic textile - Measurement methods for basic properties of conductive fabrics and insulation materials",
@@ -988,6 +1003,21 @@
   "pub_year": 2023,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3071301"
+ },
+ {
+  "id": "2788301",
+  "name": "ISO/IEC 21823-3:2021",
+  "title": "Internet of Things (IoT) - Interoperability for IoT Systems - Part 3: Semantic interoperability",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2788301"
  },
  {
   "id": "2610401",
@@ -1035,19 +1065,19 @@
   "url": "https://elstandard.se/standard/2764501"
  },
  {
-  "id": "2788301",
-  "name": "ISO/IEC 21823-3:2021",
-  "title": "Internet of Things (IoT) - Interoperability for IoT Systems - Part 3: Semantic interoperability",
-  "prefix": "ISO/IEC",
+  "id": "2830101",
+  "name": "IEC 63203-406-1:2021",
+  "title": "Wearable electronic devices and technologies - Part 406-1: Test method for measuring surface temperature of wrist worn wearable electronic devices while in contact with human skin",
+  "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
+  "committee_intl": "TC 124",
+  "determination_date": "2023-02-21",
   "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2788301"
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2830101"
  },
  {
   "id": "2622901",
@@ -1078,21 +1108,6 @@
   "pub_year": 2022,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2763801"
- },
- {
-  "id": "2830101",
-  "name": "IEC 63203-406-1:2021",
-  "title": "Wearable electronic devices and technologies - Part 406-1: Test method for measuring surface temperature of wrist worn wearable electronic devices while in contact with human skin",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "TC 124",
-  "determination_date": "2023-02-21",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2830101"
  },
  {
   "id": "2759601",
@@ -1155,21 +1170,6 @@
   "url": "https://elstandard.se/standard/2803501"
  },
  {
-  "id": "2227001",
-  "name": "ISO/IEC 21823-2:2020",
-  "title": "Internet of Things (IoT) - Interoperability for IoT Systems - Part 2: Transport interoperability",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2227001"
- },
- {
   "id": "2254101",
   "name": "ISO/IEC 30142:2020",
   "title": "Internet of Things (IoT) - Underwater acoustic sensor network (UWASN) - Network management system overview and requirements",
@@ -1213,6 +1213,21 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2553501"
+ },
+ {
+  "id": "2227001",
+  "name": "ISO/IEC 21823-2:2020",
+  "title": "Internet of Things (IoT) - Interoperability for IoT Systems - Part 2: Transport interoperability",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2227001"
  },
  {
   "id": "2570601",
@@ -1290,21 +1305,6 @@
   "url": "https://elstandard.se/standard/2161101"
  },
  {
-  "id": "1933001",
-  "name": "ISO/IEC 30140-1:2018",
-  "title": "Information technology - Underwater acoustic sensor network (UWASN) - Part 1: Overview and requirements",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK IoT",
-  "committee_intl": "ISO/IEC JTC 1/SC 41",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1933001"
- },
- {
   "id": "2004801",
   "name": "ISO/IEC 30141:2018",
   "title": "Internet of Things (IoT) - Reference architecture",
@@ -1318,6 +1318,21 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2004801"
+ },
+ {
+  "id": "1933001",
+  "name": "ISO/IEC 30140-1:2018",
+  "title": "Information technology - Underwater acoustic sensor network (UWASN) - Part 1: Overview and requirements",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK IoT",
+  "committee_intl": "ISO/IEC JTC 1/SC 41",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1933001"
  },
  {
   "id": "2575301",

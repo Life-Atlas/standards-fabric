@@ -170,5 +170,19 @@
  "https://github.com/node-red/node-red/releases/tag/4.1.17": "2026-10-26",
  "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.136": "2026-10-26",
  "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.135": "2026-10-26",
- "https://github.com/openremote/core/releases/tag/1.32.2": "2026-10-26"
+ "https://github.com/openremote/core/releases/tag/1.32.2": "2026-10-26",
+ "https://github.com/chirpstack/chirpstack/releases/tag/v4.20.1-test.1": "2026-11-01",
+ "https://github.com/chirpstack/chirpstack/releases/tag/api%2Fgo%2Fv4.20.1-test.1": "2026-11-01",
+ "https://github.com/thingsboard/thingsboard/releases/tag/v4.4.0.2": "2026-11-01",
+ "https://github.com/thingsboard/thingsboard/releases/tag/v4.3.1.8": "2026-11-01",
+ "https://github.com/thingsboard/thingsboard/releases/tag/v4.2.2.8": "2026-11-01",
+ "https://github.com/home-assistant/core/releases/tag/2026.11.0b2": "2026-11-01",
+ "https://github.com/home-assistant/core/releases/tag/2026.11.0b1": "2026-11-01",
+ "https://github.com/home-assistant/core/releases/tag/2026.11.0b0": "2026-11-01",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.140": "2026-11-01",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.139": "2026-11-01",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.138": "2026-11-01",
+ "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.137": "2026-11-01",
+ "https://github.com/openremote/core/releases/tag/1.33.0": "2026-11-01",
+ "https://github.com/BrickSchema/Brick/releases/tag/v1.5.0": "2026-11-01"
 }

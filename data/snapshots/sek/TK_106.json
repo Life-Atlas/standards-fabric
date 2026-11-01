@@ -1,5 +1,20 @@
 [
  {
+  "id": "4106901",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 106",
+  "committee_intl": null,
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4106901"
+ },
+ {
   "id": "3752601",
   "name": "SS-EN IEC/IEEE 63184, utg 1:2026",
   "title": "Bedömning av exponering av elektriska och magnetiska fält från trådlösa energiöverföringssystem - Modeller, instrumentering, mätning och beräkningsmetoder samt procedurer (3 kHz till 30 MHz)",
@@ -900,6 +915,21 @@
   "url": "https://elstandard.se/standard/1900501"
  },
  {
+  "id": "1892601",
+  "name": "IEC/IEEE 62704-1:2017",
+  "title": "Determining the peak spatial-average specific absorption rate (SAR) in the human body from wireless communications devices, 30 MHz - 6 GHz - Part 1: General requirements for using the finite difference time-domain (FDTD) method for SAR calculations",
+  "prefix": "IEC/IEEE",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 106",
+  "committee_intl": "TC 106",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1892601"
+ },
+ {
   "id": "1705801",
   "name": "IEC 62209-1:2016",
   "title": "Measurement procedure for the assessment of specific absorption rate of human exposure to radio frequency fields from hand-held and body-mounted wireless communication devices - Part 1: Devices used next to the ear (Frequency range of 300 MHz to 6 GHz)",
@@ -1425,21 +1455,6 @@
   "url": "https://elstandard.se/standard/183301"
  },
  {
-  "id": "180701",
-  "name": "SS-EN 50357, utg 1:2002",
-  "title": "Bestämning av exponering för elektromagnetiska fält från utrustning för artikelövervakning (EAS), identifiering (RFID) och liknande",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 106",
-  "committee_intl": null,
-  "determination_date": "2002-02-10",
-  "annulment_date": "2012-02-29",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/180701"
- },
- {
   "id": "182601",
   "name": "SS-EN 50364, utg 1:2002",
   "title": "Begränsning av exponering för elektromagnetiska fält i frekvensområdet 0 Hz - 10 GHz från utrustning för artikelövervakning (EAS), identifiering (RFID) och liknande",
@@ -1453,6 +1468,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/182601"
+ },
+ {
+  "id": "180701",
+  "name": "SS-EN 50357, utg 1:2002",
+  "title": "Bestämning av exponering för elektromagnetiska fält från utrustning för artikelövervakning (EAS), identifiering (RFID) och liknande",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 106",
+  "committee_intl": null,
+  "determination_date": "2002-02-10",
+  "annulment_date": "2012-02-29",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/180701"
  },
  {
   "id": "181001",

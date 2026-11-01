@@ -735,21 +735,6 @@
   "url": "https://elstandard.se/standard/2619701"
  },
  {
-  "id": "3253501",
-  "name": "IEC 62061:2021/A1:2024",
-  "title": "Safety of machinery - Functional safety of safety-related control systems",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2024-10-22",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3253501"
- },
- {
   "id": "3763701",
   "name": "IEC 62061:2021/A2:2026",
   "title": "Maskinsäkerhet - Funktionssäkerhet hos säkerhetskritiska styrsystem",
@@ -763,6 +748,21 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3763701"
+ },
+ {
+  "id": "3253501",
+  "name": "IEC 62061:2021/A1:2024",
+  "title": "Safety of machinery - Functional safety of safety-related control systems",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2024-10-22",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3253501"
  },
  {
   "id": "2263301",
@@ -1050,21 +1050,6 @@
   "url": "https://elstandard.se/standard/3763801"
  },
  {
-  "id": "1952601",
-  "name": "IEC 62046:2018",
-  "title": "Safety of machinery - Application of protective equipment to detect the presence of persons",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2018-12-11",
-  "annulment_date": "2029-09-29",
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1952601"
- },
- {
   "id": "2038001",
   "name": "IEC 61496-3:2018",
   "title": "Safety of machinery - Electro-sensitive protective equipment - Part 3: Particular requirements for active opto-electronic protective devices responsive to diffuse Reflection (AOPDDR)",
@@ -1093,6 +1078,21 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2038201"
+ },
+ {
+  "id": "1952601",
+  "name": "IEC 62046:2018",
+  "title": "Safety of machinery - Application of protective equipment to detect the presence of persons",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2018-12-11",
+  "annulment_date": "2029-09-29",
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1952601"
  },
  {
   "id": "1739201",
@@ -1560,21 +1560,6 @@
   "url": "https://elstandard.se/standard/53901"
  },
  {
-  "id": "1113201",
-  "name": "IEC 62061:2005/A1:2012",
-  "title": "Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "2013-03-14",
-  "annulment_date": "2024-04-25",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1113201"
- },
- {
   "id": "1571201",
   "name": "IEC 62061:2005/A2:2015",
   "title": "Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
@@ -1588,6 +1573,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1571201"
+ },
+ {
+  "id": "1113201",
+  "name": "IEC 62061:2005/A1:2012",
+  "title": "Safety of machinery - Functional safety of safety-related electrical, electronic and programmable electronic control systems",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "2013-03-14",
+  "annulment_date": "2024-04-25",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1113201"
  },
  {
   "id": "37701",
@@ -1740,21 +1740,6 @@
   "url": "https://elstandard.se/standard/481501"
  },
  {
-  "id": "52801",
-  "name": "SS-EN 60204-31, utg 1:1999",
-  "title": "Maskinsäkerhet - Maskiners elutrustning - Del 31: Särskilda fordringar på maskiner, enheter och system för sömnad",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 44",
-  "committee_intl": "TC 44",
-  "determination_date": "1999-02-25",
-  "annulment_date": "2016-05-27",
-  "pub_year": 1999,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/52801"
- },
- {
   "id": "38401",
   "name": "SS-EN 60204-32, utg 1:1999",
   "title": "Maskinsäkerhet - Maskiners elutrustning - Del 32: Särskilda fordringar på maskiner för lyftning",
@@ -1768,6 +1753,21 @@
   "pub_year": 1999,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/38401"
+ },
+ {
+  "id": "52801",
+  "name": "SS-EN 60204-31, utg 1:1999",
+  "title": "Maskinsäkerhet - Maskiners elutrustning - Del 31: Särskilda fordringar på maskiner, enheter och system för sömnad",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 44",
+  "committee_intl": "TC 44",
+  "determination_date": "1999-02-25",
+  "annulment_date": "2016-05-27",
+  "pub_year": 1999,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/52801"
  },
  {
   "id": "481401",

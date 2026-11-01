@@ -615,36 +615,6 @@
   "url": "https://elstandard.se/standard/3683201"
  },
  {
-  "id": "3121101",
-  "name": "IEC 62561-7:2024",
-  "title": "Lightning protection system components (LPSC) – Part 7: Requirements for earthing enhancing compounds",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 81",
-  "committee_intl": "TC 81",
-  "determination_date": "2024-12-17",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3121101"
- },
- {
-  "id": "3121201",
-  "name": "IEC 62561-7:2024 RLV",
-  "title": "Lightning protection system components (LPSC) – Part 7: Requirements for earthing enhancing compounds",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 81",
-  "committee_intl": "TC 81",
-  "determination_date": "2024-12-17",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3121201"
- },
- {
   "id": "3310301",
   "name": "IEC 62305-1:2024",
   "title": "Protection against lightning - Part 1: General principles",
@@ -703,6 +673,51 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3310601"
+ },
+ {
+  "id": "3121101",
+  "name": "IEC 62561-7:2024",
+  "title": "Lightning protection system components (LPSC) – Part 7: Requirements for earthing enhancing compounds",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 81",
+  "committee_intl": "TC 81",
+  "determination_date": "2024-12-17",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3121101"
+ },
+ {
+  "id": "3121201",
+  "name": "IEC 62561-7:2024 RLV",
+  "title": "Lightning protection system components (LPSC) – Part 7: Requirements for earthing enhancing compounds",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 81",
+  "committee_intl": "TC 81",
+  "determination_date": "2024-12-17",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3121201"
+ },
+ {
+  "id": "3833401",
+  "name": "IEC 62305-2:2024/C2:2026",
+  "title": "Protection against lightning - Part 2: Risk management",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 81",
+  "committee_intl": "TC 81",
+  "determination_date": "2026-11-17",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3833401"
  },
  {
   "id": "2990401",
@@ -1545,21 +1560,6 @@
   "url": "https://elstandard.se/standard/136901"
  },
  {
-  "id": "151701",
-  "name": "SS-EN 50164-7, utg 1:2009",
-  "title": "Komponenter i åskskyddsanläggningar - Del 7: Fordringar på jordningsförbättrande medel",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 81",
-  "committee_intl": null,
-  "determination_date": "2009-10-25",
-  "annulment_date": "2015-01-01",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/151701"
- },
- {
   "id": "206001",
   "name": "SS-EN 50164-4, utg 1:2009",
   "title": "Komponenter i åskskyddsanläggningar - Del 4: Fordringar på fästelement för ledare",
@@ -1573,6 +1573,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/206001"
+ },
+ {
+  "id": "151701",
+  "name": "SS-EN 50164-7, utg 1:2009",
+  "title": "Komponenter i åskskyddsanläggningar - Del 7: Fordringar på jordningsförbättrande medel",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 81",
+  "committee_intl": null,
+  "determination_date": "2009-10-25",
+  "annulment_date": "2015-01-01",
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/151701"
  },
  {
   "id": "151601",

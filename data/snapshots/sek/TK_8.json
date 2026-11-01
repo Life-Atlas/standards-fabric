@@ -1,5 +1,20 @@
 [
  {
+  "id": "4101001",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 8",
+  "committee_intl": null,
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4101001"
+ },
+ {
   "id": "3563201",
   "name": "SEK TR 63282, utg 1:2025",
   "title": "LVDC systems - Assessment of standard voltages and power quality requirements",
@@ -433,6 +448,21 @@
   "pub_year": 2026,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3744901"
+ },
+ {
+  "id": "3832601",
+  "name": "IEC TR 62786-101:2026",
+  "title": "Distributed energy resources connection with the grid - Part 101: Gravity storage connection to the grid",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3832601"
  },
  {
   "id": "3660101",
@@ -930,6 +960,21 @@
   "url": "https://elstandard.se/standard/3809701"
  },
  {
+  "id": "3835801",
+  "name": "IEC TS 63102:2026",
+  "title": "Grid code compliance assessment methods for grid connection of renewable energy power plants",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8/SC 8A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3835801"
+ },
+ {
   "id": "3599301",
   "name": "IEC 63515:2025",
   "title": "Conceptual framework of power system resilience",
@@ -1183,21 +1228,6 @@
   "pub_year": 2022,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2633701"
- },
- {
-  "id": "2779101",
-  "name": "IEC/TS 63102:2021",
-  "title": "Grid code compliance assessment methods for grid connection of wind and PV power plants",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8/SC 8A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2779101"
  },
  {
   "id": "2571001",
@@ -1455,6 +1485,21 @@
   "url": "https://elstandard.se/standard/334601"
  },
  {
+  "id": "2779101",
+  "name": "IEC TS 63102:2021",
+  "title": "Grid code compliance assessment methods for grid connection of wind and PV power plants",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "upphavd",
+  "committee_sek": "TK 8",
+  "committee_intl": "TC 8/SC 8A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2779101"
+ },
+ {
   "id": "2275801",
   "name": "SS-EN 50160, utg 4.3:2020/R1:2020",
   "title": "Spänningens egenskaper i elnät för allmän distribution",
@@ -1588,35 +1633,5 @@
   "pub_year": 2008,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/38901"
- },
- {
-  "id": "4050801",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "TS",
-  "status": "new_work_proposal",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8/SC 8A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4050801"
- },
- {
-  "id": "4047801",
-  "name": null,
-  "title": "",
-  "prefix": null,
-  "doc_type": "TS",
-  "status": "new_work_proposal",
-  "committee_sek": "TK 8",
-  "committee_intl": "TC 8/SC 8B",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": null,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/4047801"
  }
 ]

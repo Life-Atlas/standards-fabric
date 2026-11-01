@@ -60,6 +60,36 @@
   "url": "https://elstandard.se/standard/3606301"
  },
  {
+  "id": "3239901",
+  "name": "SS-EN IEC 61439-5, utg 3:2024 RLV",
+  "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 5: Särskilda fordringar på kabelskåp och lågspänningsfördelningar i nätstationer",
+  "prefix": "SS-EN IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121B",
+  "committee_intl": "TC 121/SC 121B",
+  "determination_date": "2024-04-23",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3239901"
+ },
+ {
+  "id": "3240001",
+  "name": "SS-EN IEC 61439-5, utg 3:2024",
+  "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 5: Särskilda fordringar på kabelskåp och lågspänningsfördelningar i nätstationer",
+  "prefix": "SS-EN IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121B",
+  "committee_intl": "TC 121/SC 121B",
+  "determination_date": "2024-04-23",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3240001"
+ },
+ {
   "id": "3240101",
   "name": "SS-EN IEC 61439-7, utg 2:2024",
   "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 7: Särskilda fordringar på utrustning för småbåtshamnar, campingplatser, marknader och laddplatser för elfordon",
@@ -118,36 +148,6 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3240801"
- },
- {
-  "id": "3239901",
-  "name": "SS-EN IEC 61439-5, utg 3:2024 RLV",
-  "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 5: Särskilda fordringar på kabelskåp och lågspänningsfördelningar i nätstationer",
-  "prefix": "SS-EN IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121B",
-  "committee_intl": "TC 121/SC 121B",
-  "determination_date": "2024-04-23",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3239901"
- },
- {
-  "id": "3240001",
-  "name": "SS-EN IEC 61439-5, utg 3:2024",
-  "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 5: Särskilda fordringar på kabelskåp och lågspänningsfördelningar i nätstationer",
-  "prefix": "SS-EN IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121B",
-  "committee_intl": "TC 121/SC 121B",
-  "determination_date": "2024-04-23",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3240001"
  },
  {
   "id": "2940901",
@@ -900,21 +900,6 @@
   "url": "https://elstandard.se/standard/2266801"
  },
  {
-  "id": "2818901",
-  "name": "IEC 61439-1:2020/C1:2021",
-  "title": "Low-voltage switchgear and controlgear assemblies - Part 1: General rules",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "publicerad",
-  "committee_sek": "TK 121B",
-  "committee_intl": "TC 121/SC 121B",
-  "determination_date": "2022-02-15",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2818901"
- },
- {
   "id": "3061901",
   "name": "IEC 61439-1:2020/C2:2023",
   "title": "Low-voltage switchgear and controlgear assemblies - Part 1: General rules",
@@ -928,6 +913,21 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3061901"
+ },
+ {
+  "id": "2818901",
+  "name": "IEC 61439-1:2020/C1:2021",
+  "title": "Low-voltage switchgear and controlgear assemblies - Part 1: General rules",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 121B",
+  "committee_intl": "TC 121/SC 121B",
+  "determination_date": "2022-02-15",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2818901"
  },
  {
   "id": "3771801",
@@ -990,21 +990,6 @@
   "url": "https://elstandard.se/standard/3677801"
  },
  {
-  "id": "3122401",
-  "name": "IEC 63404:2024",
-  "title": "Switchgear and controlgear and their assemblies for low voltage – Integration of radiocommunication device above 380 MHz into an equipment",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 121B",
-  "committee_intl": "TC 121",
-  "determination_date": "2025-09-23",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3122401"
- },
- {
   "id": "3339101",
   "name": "IEC 62683-2-3:2024",
   "title": "Product data and properties for information exchange - Engineering data - Part 2-3: Functional safety and reliability",
@@ -1018,6 +1003,21 @@
   "pub_year": 2025,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3339101"
+ },
+ {
+  "id": "3122401",
+  "name": "IEC 63404:2024",
+  "title": "Switchgear and controlgear and their assemblies for low voltage – Integration of radiocommunication device above 380 MHz into an equipment",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 121B",
+  "committee_intl": "TC 121",
+  "determination_date": "2025-09-23",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3122401"
  },
  {
   "id": "3291001",
@@ -1245,21 +1245,6 @@
   "url": "https://elstandard.se/standard/1272401"
  },
  {
-  "id": "1013101",
-  "name": "SS-EN 61439-2, utg 2:2012",
-  "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 2: Utrustning för generell användning som inte betjänas av lekmän",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 121B",
-  "committee_intl": "TC 17/SC 17D",
-  "determination_date": "2012-02-14",
-  "annulment_date": "2024-05-20",
-  "pub_year": 2012,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1013101"
- },
- {
   "id": "1013001",
   "name": "SS-EN 61439-1, utg 2:2012",
   "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 1: Allmänt",
@@ -1273,6 +1258,21 @@
   "pub_year": 2012,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1013001"
+ },
+ {
+  "id": "1013101",
+  "name": "SS-EN 61439-2, utg 2:2012",
+  "title": "Kopplingsutrustningar för högst 1000 V växelspänning eller 1500 V likspänning - Del 2: Utrustning för generell användning som inte betjänas av lekmän",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 121B",
+  "committee_intl": "TC 17/SC 17D",
+  "determination_date": "2012-02-14",
+  "annulment_date": "2024-05-20",
+  "pub_year": 2012,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1013101"
  },
  {
   "id": "1022301",

@@ -60,36 +60,6 @@
   "url": "https://elstandard.se/standard/3337601"
  },
  {
-  "id": "3260001",
-  "name": "IEC SRD 63473:2024",
-  "title": "Active assisted living (AAL) use case standards inventory and mapping",
-  "prefix": "IEC SRD",
-  "doc_type": "SRD",
-  "status": "publicerad",
-  "committee_sek": "SK 2",
-  "committee_intl": "SyC AAL",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3260001"
- },
- {
-  "id": "3285001",
-  "name": "IEC SRD 63426:2024",
-  "title": "Reference standards portfolio (RSP) on interoperability and connectivity for active assisted living (AAL) in the connected home environment (CHE)",
-  "prefix": "IEC SRD",
-  "doc_type": "SRD",
-  "status": "publicerad",
-  "committee_sek": "SK 2",
-  "committee_intl": "SyC AAL",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3285001"
- },
- {
   "id": "3307401",
   "name": "IEC SRD 63314:2024",
   "title": "Active Assisted Living (AAL) guidance for education and training of persons working in the field of AAL",
@@ -118,6 +88,36 @@
   "pub_year": 2024,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3336701"
+ },
+ {
+  "id": "3260001",
+  "name": "IEC SRD 63473:2024",
+  "title": "Active assisted living (AAL) use case standards inventory and mapping",
+  "prefix": "IEC SRD",
+  "doc_type": "SRD",
+  "status": "publicerad",
+  "committee_sek": "SK 2",
+  "committee_intl": "SyC AAL",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3260001"
+ },
+ {
+  "id": "3285001",
+  "name": "IEC SRD 63426:2024",
+  "title": "Reference standards portfolio (RSP) on interoperability and connectivity for active assisted living (AAL) in the connected home environment (CHE)",
+  "prefix": "IEC SRD",
+  "doc_type": "SRD",
+  "status": "publicerad",
+  "committee_sek": "SK 2",
+  "committee_intl": "SyC AAL",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3285001"
  },
  {
   "id": "3043101",

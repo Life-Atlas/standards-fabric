@@ -1,18 +1,18 @@
 [
  {
-  "id": "4063301",
+  "id": "4106801",
   "name": null,
   "title": "",
   "prefix": null,
   "doc_type": "Standard",
   "status": "remiss",
   "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
+  "committee_intl": "PC 131",
   "determination_date": null,
   "annulment_date": null,
   "pub_year": null,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/4063301"
+  "url": "https://elstandard.se/standard/4106801"
  },
  {
   "id": "3783401",
@@ -729,7 +729,7 @@
   "committee_sek": "TK 2",
   "committee_intl": "TC 2",
   "determination_date": "2014-08-19",
-  "annulment_date": null,
+  "annulment_date": "2029-10-30",
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1425001"
@@ -894,7 +894,7 @@
   "committee_sek": "TK 2",
   "committee_intl": "TC 2",
   "determination_date": "2007-11-18",
-  "annulment_date": null,
+  "annulment_date": "2029-10-30",
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/376801"
@@ -1196,7 +1196,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3785001"
  },
  {
@@ -1211,7 +1211,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3785101"
  },
  {
@@ -1283,9 +1283,9 @@
   "status": "publicerad",
   "committee_sek": "TK 2",
   "committee_intl": "TC 2",
-  "determination_date": "2026-10-20",
+  "determination_date": "2026-11-17",
   "annulment_date": null,
-  "pub_year": 2025,
+  "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3715301"
  },
@@ -1298,11 +1298,56 @@
   "status": "publicerad",
   "committee_sek": "TK 2",
   "committee_intl": "TC 2",
-  "determination_date": "2026-10-20",
+  "determination_date": "2026-11-17",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3715401"
+ },
+ {
+  "id": "3266701",
+  "name": "IEC 60136:2024",
+  "title": "Dimensions, marking and testing of carbon brushes and dimensions of brush-holders for electrical machinery",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2025-03-04",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3715401"
+  "url": "https://elstandard.se/standard/3266701"
+ },
+ {
+  "id": "3270701",
+  "name": "IEC 60034-12:2024",
+  "title": "Rotating electrical machines - Part 12: Starting performance of single-speed three-phase cage induction motors",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2025-06-03",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3270701"
+ },
+ {
+  "id": "3270801",
+  "name": "IEC 60034-12:2024 RLV",
+  "title": "Rotating electrical machines - Part 12: Starting performance of single-speed three-phase cage induction motors",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2025-06-03",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3270801"
  },
  {
   "id": "3117501",
@@ -1770,36 +1815,6 @@
   "url": "https://elstandard.se/standard/2119001"
  },
  {
-  "id": "1924401",
-  "name": "IEC 60034-27-4:2018",
-  "title": "Rotating electrical machines - Part 27-4: Measurement of insulation resistance and polarization index of winding insulation of rotating electrical machines",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2018-12-11",
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1924401"
- },
- {
-  "id": "1963901",
-  "name": "IEC 60034-4-1:2018",
-  "title": "Rotating electrical machines - Part 4-1: Methods for determining synchronous machine quantities from tests",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2019-02-19",
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1963901"
- },
- {
   "id": "1967601",
   "name": "IEC 60276:2018",
   "title": "Carbon brushes, brush holders, commutators and slip-rings - Definitions and nomenclature",
@@ -1843,6 +1858,36 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1999801"
+ },
+ {
+  "id": "1924401",
+  "name": "IEC 60034-27-4:2018",
+  "title": "Rotating electrical machines - Part 27-4: Measurement of insulation resistance and polarization index of winding insulation of rotating electrical machines",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2018-12-11",
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1924401"
+ },
+ {
+  "id": "1963901",
+  "name": "IEC 60034-4-1:2018",
+  "title": "Rotating electrical machines - Part 4-1: Methods for determining synchronous machine quantities from tests",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2019-02-19",
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1963901"
  },
  {
   "id": "1788201",
@@ -1980,21 +2025,6 @@
   "url": "https://elstandard.se/standard/1458901"
  },
  {
-  "id": "2118901",
-  "name": "IEC 60034-18-41:2014/A1:2019",
-  "title": "Rotating electrical machines - Part 18-41: Partial discharge free electrical insulation systems (Type I) used in rotating electrical machines fed from voltage converters - Qualification and quality control tests",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2020-01-27",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2118901"
- },
- {
   "id": "2575901",
   "name": "IEC 60034-18-41:2014/A1:2019/C1:2020",
   "title": "Rotating electrical machines - Part 18-41: Partial discharge free electrical insulation systems (Type I) used in rotating electrical machines fed from voltage converters - Qualification and quality control tests",
@@ -2008,6 +2038,21 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2575901"
+ },
+ {
+  "id": "2118901",
+  "name": "IEC 60034-18-41:2014/A1:2019",
+  "title": "Rotating electrical machines - Part 18-41: Partial discharge free electrical insulation systems (Type I) used in rotating electrical machines fed from voltage converters - Qualification and quality control tests",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2020-01-27",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2118901"
  },
  {
   "id": "1059701",
@@ -2385,6 +2430,21 @@
   "url": "https://elstandard.se/standard/1753301"
  },
  {
+  "id": "1414001",
+  "name": "IEC 60034-2-1:2014",
+  "title": "Rotating electrical machines - Part 2-1: Standard methods for determining losses and efficiency from tests (excluding machines for traction vehicles)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2014-10-14",
+  "annulment_date": "2027-04-15",
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1414001"
+ },
+ {
   "id": "1368801",
   "name": "IEC 60034-30-1:2014",
   "title": "Rotating electrical machines - Part 30-1: Efficiency classes of line operated AC motors (IE code)",
@@ -2413,21 +2473,6 @@
   "pub_year": 2007,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1380701"
- },
- {
-  "id": "1414001",
-  "name": "IEC 60034-2-1:2014",
-  "title": "Rotating electrical machines - Part 2-1: Standard methods for determining losses and efficiency from tests (excluding machines for traction vehicles)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2014-10-14",
-  "annulment_date": "2027-04-15",
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1414001"
  },
  {
   "id": "1461001",
@@ -2745,6 +2790,21 @@
   "url": "https://elstandard.se/standard/591301"
  },
  {
+  "id": "376701",
+  "name": "IEC 60034-8:2007",
+  "title": "Rotating electrical machines - Part 8: Terminal markings and direction of rotation",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2007-11-18",
+  "annulment_date": "2029-10-30",
+  "pub_year": 2007,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/376701"
+ },
+ {
   "id": "549901",
   "name": "IEC 60034-28:2007",
   "title": "Rotating electrical machines - Part 28: Test methods for determining quantities of equivalent circuit diagrams for three-phase low-voltage cage induction motors",
@@ -2758,21 +2818,6 @@
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/549901"
- },
- {
-  "id": "376701",
-  "name": "IEC 60034-8:2007",
-  "title": "Rotating electrical machines - Part 8: Terminal markings and direction of rotation",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2007-11-18",
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/376701"
  },
  {
   "id": "493601",
@@ -2814,7 +2859,7 @@
   "committee_sek": "TK 2",
   "committee_intl": "TC 2",
   "determination_date": "2014-08-19",
-  "annulment_date": null,
+  "annulment_date": "2029-10-30",
   "pub_year": 2007,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1380601"
@@ -3030,21 +3075,6 @@
   "url": "https://elstandard.se/standard/377001"
  },
  {
-  "id": "539601",
-  "name": "IEC 60034-14:2003",
-  "title": "Rotating electrical machines - Part 14: Mechanical vibration of certain machines with shaft heights 56 mm and higher - Measurement, evaluation and limits of vibration severity",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2004-03-21",
-  "annulment_date": "2021-09-20",
-  "pub_year": 2004,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/539601"
- },
- {
   "id": "584301",
   "name": "IEC 60034-9:2003",
   "title": "Rotating electrical machines - Part 9: Noise limits",
@@ -3060,19 +3090,19 @@
   "url": "https://elstandard.se/standard/584301"
  },
  {
-  "id": "539801",
-  "name": "IEC 60034-14:2003/A1:2007",
+  "id": "539601",
+  "name": "IEC 60034-14:2003",
   "title": "Rotating electrical machines - Part 14: Mechanical vibration of certain machines with shaft heights 56 mm and higher - Measurement, evaluation and limits of vibration severity",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 2",
   "committee_intl": "TC 2",
-  "determination_date": "2007-08-12",
+  "determination_date": "2004-03-21",
   "annulment_date": "2021-09-20",
   "pub_year": 2004,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/539801"
+  "url": "https://elstandard.se/standard/539601"
  },
  {
   "id": "584101",
@@ -3088,6 +3118,21 @@
   "pub_year": 2005,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/584101"
+ },
+ {
+  "id": "539801",
+  "name": "IEC 60034-14:2003/A1:2007",
+  "title": "Rotating electrical machines - Part 14: Mechanical vibration of certain machines with shaft heights 56 mm and higher - Measurement, evaluation and limits of vibration severity",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2007-08-12",
+  "annulment_date": "2021-09-20",
+  "pub_year": 2004,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/539801"
  },
  {
   "id": "1346201",
@@ -3210,21 +3255,6 @@
   "url": "https://elstandard.se/standard/540001"
  },
  {
-  "id": "591501",
-  "name": "SS-EN 60034-5, utg 2:2001",
-  "title": "Roterande elektriska maskiner - Del 5: Kapslingsklasser för elektriska maskiner (IP-beteckning)",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2001-06-28",
-  "annulment_date": "2023-06-02",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/591501"
- },
- {
   "id": "814401",
   "name": "SS-EN 60034-18-22, utg 1:2001",
   "title": "Rotererande elektriska maskiner - Del 18: Funktionsutvärdering av isolersystem för roterande elektriska maskiner - Klassificering av ändringar och utbyten av komponenter i isolersystem",
@@ -3238,6 +3268,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/814401"
+ },
+ {
+  "id": "591501",
+  "name": "SS-EN 60034-5, utg 2:2001",
+  "title": "Roterande elektriska maskiner - Del 5: Kapslingsklasser för elektriska maskiner (IP-beteckning)",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2001-06-28",
+  "annulment_date": "2023-06-02",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/591501"
  },
  {
   "id": "814601",
@@ -3255,21 +3300,6 @@
   "url": "https://elstandard.se/standard/814601"
  },
  {
-  "id": "591401",
-  "name": "IEC 60034-5:2000",
-  "title": "Rotating electrical machines - Part 5: Degrees of protection provided by the integral design of rotating electrical machines (IP code) - Classification",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "2001-06-28",
-  "annulment_date": "2023-06-02",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/591401"
- },
- {
   "id": "814301",
   "name": "IEC 60034-18-22:2000",
   "title": "Rotating electrical machines - Part 18-22: Functional evaluation of insulation systems - Test Procedures for wire-wound windings - Classification of changes and insulation component substitutions",
@@ -3283,6 +3313,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/814301"
+ },
+ {
+  "id": "591401",
+  "name": "IEC 60034-5:2000",
+  "title": "Rotating electrical machines - Part 5: Degrees of protection provided by the integral design of rotating electrical machines (IP code) - Classification",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "2001-06-28",
+  "annulment_date": "2023-06-02",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/591401"
  },
  {
   "id": "591201",
@@ -3390,6 +3435,21 @@
   "url": "https://elstandard.se/standard/1158201"
  },
  {
+  "id": "347801",
+  "name": "SS-EN 60034-4, utg 1:1996",
+  "title": "Roterande elektriska maskiner - Del 4: Bestämning av synkronmaskiners parametrar - Provningsmetoder",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "1996-06-13",
+  "annulment_date": "2011-06-30",
+  "pub_year": 1996,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/347801"
+ },
+ {
   "id": "540801",
   "name": "SS-EN 60034-15, utg 1:1996",
   "title": "Roterande elektriska maskiner - Del 15: Stötspänningskrav för roterande växelströmsmaskiner med formlindade statorhärvor",
@@ -3420,21 +3480,6 @@
   "url": "https://elstandard.se/standard/541001"
  },
  {
-  "id": "347801",
-  "name": "SS-EN 60034-4, utg 1:1996",
-  "title": "Roterande elektriska maskiner - Del 4: Bestämning av synkronmaskiners parametrar - Provningsmetoder",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "1996-06-13",
-  "annulment_date": "2011-06-30",
-  "pub_year": 1996,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/347801"
- },
- {
   "id": "342601",
   "name": "IEC 60034-22:1996",
   "title": "Rotating electrical machines - Part 22: AC generators for reciprocating internal combustion (RIC) engine driven generating sets",
@@ -3450,21 +3495,6 @@
   "url": "https://elstandard.se/standard/342601"
  },
  {
-  "id": "541201",
-  "name": "SS-EN 60034-18-21, utg 1:1995",
-  "title": "Elmaskiner - Del 18: Funktionsutvärdering av isolersystem för roterande elektriska maskiner - Provning av trådlindade lindningar - Termisk utvärdering och klassindelning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "1995-02-23",
-  "annulment_date": "2015-10-23",
-  "pub_year": 1995,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/541201"
- },
- {
   "id": "380101",
   "name": "SS-EN 60034-18-1, utg 1:1995",
   "title": "Elmaskiner - Del 18: Funktionsutvärdering av isolersystem för roterande elektriska maskiner - Allmänna riktlinjer",
@@ -3478,6 +3508,21 @@
   "pub_year": 1995,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/380101"
+ },
+ {
+  "id": "541201",
+  "name": "SS-EN 60034-18-21, utg 1:1995",
+  "title": "Elmaskiner - Del 18: Funktionsutvärdering av isolersystem för roterande elektriska maskiner - Provning av trådlindade lindningar - Termisk utvärdering och klassindelning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "1995-02-23",
+  "annulment_date": "2015-10-23",
+  "pub_year": 1995,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/541201"
  },
  {
   "id": "1157801",
@@ -3555,21 +3600,6 @@
   "url": "https://elstandard.se/standard/1147101"
  },
  {
-  "id": "541101",
-  "name": "IEC 60034-18-21:1992",
-  "title": "Rotating electrical machines - Part 18: Functional evaluation of insulation systems for rotating electrical machines - Test procedures for wire-wound windings - Section 21: Thermal evaluation and classification",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 2",
-  "committee_intl": "TC 2",
-  "determination_date": "1995-02-23",
-  "annulment_date": "2015-10-23",
-  "pub_year": 1995,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/541101"
- },
- {
   "id": "380001",
   "name": "IEC 60034-18-1:1992",
   "title": "Rotating electrical machines - Part 18: Functional evaluation of insulation systems for rotating electrical machines - Section 1: General guidelines",
@@ -3598,6 +3628,21 @@
   "pub_year": 1994,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/814801"
+ },
+ {
+  "id": "541101",
+  "name": "IEC 60034-18-21:1992",
+  "title": "Rotating electrical machines - Part 18: Functional evaluation of insulation systems for rotating electrical machines - Test procedures for wire-wound windings - Section 21: Thermal evaluation and classification",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 2",
+  "committee_intl": "TC 2",
+  "determination_date": "1995-02-23",
+  "annulment_date": "2015-10-23",
+  "pub_year": 1995,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/541101"
  },
  {
   "id": "1157701",

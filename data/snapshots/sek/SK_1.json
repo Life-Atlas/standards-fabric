@@ -15,21 +15,6 @@
   "url": "https://elstandard.se/standard/2176801"
  },
  {
-  "id": "3562301",
-  "name": "IEC SRD 63460:2025",
-  "title": "Architecture and use-cases for EVs to provide grid support functions",
-  "prefix": "IEC SRD",
-  "doc_type": "SRD",
-  "status": "publicerad",
-  "committee_sek": "SK 1",
-  "committee_intl": "SyC Smart Energy",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3562301"
- },
- {
   "id": "3652001",
   "name": "IEC SRD 63417:2025",
   "title": "Guidance and plan to develop smart energy ontologies",
@@ -43,6 +28,21 @@
   "pub_year": 2025,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3652001"
+ },
+ {
+  "id": "3562301",
+  "name": "IEC SRD 63460:2025",
+  "title": "Architecture and use-cases for EVs to provide grid support functions",
+  "prefix": "IEC SRD",
+  "doc_type": "SRD",
+  "status": "publicerad",
+  "committee_sek": "SK 1",
+  "committee_intl": "SyC Smart Energy",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3562301"
  },
  {
   "id": "2917401",
@@ -75,21 +75,6 @@
   "url": "https://elstandard.se/standard/2773901"
  },
  {
-  "id": "2215701",
-  "name": "IEC SRD 62559-4:2020",
-  "title": "Use case methodology - Part 4: Best practices in use case development for IEC standardization processes and some examples for application outside standardization",
-  "prefix": "IEC SRD",
-  "doc_type": "SRD",
-  "status": "publicerad",
-  "committee_sek": "SK 1",
-  "committee_intl": "SyC Smart Energy",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2215701"
- },
- {
   "id": "2267201",
   "name": "IEC/SRD 63199:2020",
   "title": "Top priority standards development status in the domain of smart energy",
@@ -118,6 +103,21 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2554301"
+ },
+ {
+  "id": "2215701",
+  "name": "IEC SRD 62559-4:2020",
+  "title": "Use case methodology - Part 4: Best practices in use case development for IEC standardization processes and some examples for application outside standardization",
+  "prefix": "IEC SRD",
+  "doc_type": "SRD",
+  "status": "publicerad",
+  "committee_sek": "SK 1",
+  "committee_intl": "SyC Smart Energy",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2215701"
  },
  {
   "id": "2055301",
@@ -195,21 +195,6 @@
   "url": "https://elstandard.se/standard/2106101"
  },
  {
-  "id": "1992001",
-  "name": "IEC 62746-10-3:2018",
-  "title": "Systems interface between customer energy management system and the power management system - Part 10-3: Open automated demand response - Adapting smart grid user interface to IEC common information model",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "SK 1",
-  "committee_intl": "PC 118",
-  "determination_date": "2019-12-10",
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1992001"
- },
- {
   "id": "2031401",
   "name": "IEC 62746-10-1:2018",
   "title": "Systems interface between customer energy management system and the power management system - Part 10-1: Open automated demand response",
@@ -223,6 +208,21 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2031401"
+ },
+ {
+  "id": "1992001",
+  "name": "IEC 62746-10-3:2018",
+  "title": "Systems interface between customer energy management system and the power management system - Part 10-3: Open automated demand response - Adapting smart grid user interface to IEC common information model",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "SK 1",
+  "committee_intl": "PC 118",
+  "determination_date": "2019-12-10",
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1992001"
  },
  {
   "id": "2032401",

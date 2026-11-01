@@ -480,6 +480,21 @@
   "url": "https://elstandard.se/standard/3022801"
  },
  {
+  "id": "2961201",
+  "name": "IEC 60825-12:2022",
+  "title": "Safety of laser products - Part 12: Safety of free space optical communication systems used for transmission of information",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2961201"
+ },
+ {
   "id": "2912201",
   "name": "IEC 60825-4:2022",
   "title": "Safety of laser products - Part 4: Laser guards",
@@ -523,21 +538,6 @@
   "pub_year": 2024,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2932001"
- },
- {
-  "id": "2961201",
-  "name": "IEC 60825-12:2022",
-  "title": "Safety of laser products - Part 12: Safety of free space optical communication systems used for transmission of information",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 76",
-  "committee_intl": "TC 76",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2961201"
  },
  {
   "id": "3292301",
@@ -705,21 +705,6 @@
   "url": "https://elstandard.se/standard/1567001"
  },
  {
-  "id": "1502701",
-  "name": "IEC/TR 62471-3:2015",
-  "title": "Photobiological safety of lamps and lamp systems - Part 3: Guidelines for the safe use of intense pulsed light source equipment on humans",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 76",
-  "committee_intl": "TC 76",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1502701"
- },
- {
   "id": "1601301",
   "name": "IEC/TR 60825-17:2015",
   "title": "Safety of laser products - Part 17: Safety aspects for use of passive optical components and optical cables in high power optical fibre communication systems IEC",
@@ -733,6 +718,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1601301"
+ },
+ {
+  "id": "1502701",
+  "name": "IEC/TR 62471-3:2015",
+  "title": "Photobiological safety of lamps and lamp systems - Part 3: Guidelines for the safe use of intense pulsed light source equipment on humans",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 76",
+  "committee_intl": "TC 76",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1502701"
  },
  {
   "id": "1400301",

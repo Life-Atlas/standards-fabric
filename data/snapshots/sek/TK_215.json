@@ -1,10 +1,10 @@
 [
  {
-  "id": "4066401",
+  "id": "4104601",
   "name": null,
   "title": "",
   "prefix": null,
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "remiss",
   "committee_sek": "TK 215",
   "committee_intl": null,
@@ -12,10 +12,10 @@
   "annulment_date": null,
   "pub_year": null,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/4066401"
+  "url": "https://elstandard.se/standard/4104601"
  },
  {
-  "id": "4066501",
+  "id": "4101301",
   "name": null,
   "title": "",
   "prefix": null,
@@ -27,7 +27,7 @@
   "annulment_date": null,
   "pub_year": null,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/4066501"
+  "url": "https://elstandard.se/standard/4101301"
  },
  {
   "id": "3818301",
@@ -1080,21 +1080,6 @@
   "url": "https://elstandard.se/standard/3657901"
  },
  {
-  "id": "3560901",
-  "name": "ISO/IEC TR 11801-9906:2025",
-  "title": "Information technology – Generic cabling for customer premises – Part 9906: Balanced single-pair cabling channels up to 600 MHz for single-pair Ethernet (SPE)",
-  "prefix": "ISO/IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3560901"
- },
- {
   "id": "3681101",
   "name": "ISO/IEC TS 11801-9903:2025",
   "title": "Information technology - Generic cabling for customer premises - Part 9903: Matrix modelling of channels and links",
@@ -1110,9 +1095,24 @@
   "url": "https://elstandard.se/standard/3681101"
  },
  {
-  "id": "3104901",
-  "name": "ISO/IEC 14543-5-104:2024",
-  "title": "Information technology - Home Electronic System (HES) architecture - Part 5-104: Intelligent grouping and resource sharing for HES Class 2 and Class 3 - RA server-based smart lock application",
+  "id": "3560901",
+  "name": "ISO/IEC TR 11801-9906:2025",
+  "title": "Information technology – Generic cabling for customer premises – Part 9906: Balanced single-pair cabling channels up to 600 MHz for single-pair Ethernet (SPE)",
+  "prefix": "ISO/IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3560901"
+ },
+ {
+  "id": "3310701",
+  "name": "ISO/IEC 10192-4-2:2024",
+  "title": "Information technology - Home Electronic System (HES) interfaces - Part 4-2: Common user interface and cluster-to-cluster interface to support interworking among home cluster systems - Interfaces, services and objects",
   "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -1122,7 +1122,52 @@
   "annulment_date": null,
   "pub_year": 2024,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/3104901"
+  "url": "https://elstandard.se/standard/3310701"
+ },
+ {
+  "id": "3310801",
+  "name": "ISO/IEC 15067-3:2024",
+  "title": "Information technology - Home Electronic System (HES) application model - Part 3: Model of an energy management system for HES",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3310801"
+ },
+ {
+  "id": "3332601",
+  "name": "ISO/IEC 15045-3-2:2024",
+  "title": "Information technology - Home Electronic System (HES) gateway - Part 3-2: Privacy, security, and safety - Privacy framework",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3332601"
+ },
+ {
+  "id": "3545301",
+  "name": "ISO/IEC 15045-3-1:2024",
+  "title": "Information technology – Home Electronic System (HES) gateway – Part 3-1: Privacy, security, and safety – Introduction",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3545301"
  },
  {
   "id": "3243001",
@@ -1185,9 +1230,9 @@
   "url": "https://elstandard.se/standard/3285201"
  },
  {
-  "id": "3310701",
-  "name": "ISO/IEC 10192-4-2:2024",
-  "title": "Information technology - Home Electronic System (HES) interfaces - Part 4-2: Common user interface and cluster-to-cluster interface to support interworking among home cluster systems - Interfaces, services and objects",
+  "id": "3104901",
+  "name": "ISO/IEC 14543-5-104:2024",
+  "title": "Information technology - Home Electronic System (HES) architecture - Part 5-104: Intelligent grouping and resource sharing for HES Class 2 and Class 3 - RA server-based smart lock application",
   "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -1197,52 +1242,7 @@
   "annulment_date": null,
   "pub_year": 2024,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/3310701"
- },
- {
-  "id": "3310801",
-  "name": "ISO/IEC 15067-3:2024",
-  "title": "Information technology - Home Electronic System (HES) application model - Part 3: Model of an energy management system for HES",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3310801"
- },
- {
-  "id": "3332601",
-  "name": "ISO/IEC 15045-3-2:2024",
-  "title": "Information technology - Home Electronic System (HES) gateway - Part 3-2: Privacy, security, and safety - Privacy framework",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3332601"
- },
- {
-  "id": "3545301",
-  "name": "ISO/IEC 15045-3-1:2024",
-  "title": "Information technology – Home Electronic System (HES) gateway – Part 3-1: Privacy, security, and safety – Introduction",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3545301"
+  "url": "https://elstandard.se/standard/3104901"
  },
  {
   "id": "3811001",
@@ -1380,6 +1380,21 @@
   "url": "https://elstandard.se/standard/2625001"
  },
  {
+  "id": "2232901",
+  "name": "ISO/IEC 60559:2020",
+  "title": "Floating-point arithmetic",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2232901"
+ },
+ {
   "id": "2189101",
   "name": "ISO/IEC 14165-226:2020",
   "title": "nformation technology - Fibre channel - Part 226: Single-byte command code sets mapping protocol - 6 (FC-SB-6)",
@@ -1423,21 +1438,6 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2216301"
- },
- {
-  "id": "2232901",
-  "name": "ISO/IEC 60559:2020",
-  "title": "Floating-point arithmetic",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2232901"
  },
  {
   "id": "2254001",
@@ -1560,9 +1560,9 @@
   "url": "https://elstandard.se/standard/3107101"
  },
  {
-  "id": "2095101",
-  "name": "ISO/IEC 14543-5-12:2019",
-  "title": "Information technology - Home electronic system (HES) architecture - Part 5-12: Intelligent grouping and resource sharing for HES Class 2 and Class 3 - Remote access test and verification",
+  "id": "2184501",
+  "name": "ISO/IEC 14763-2:2019",
+  "title": "Information technology - Implementation and operation of customer premises cabling - Part 2: Planning and installation",
   "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -1572,12 +1572,12 @@
   "annulment_date": null,
   "pub_year": 2019,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2095101"
+  "url": "https://elstandard.se/standard/2184501"
  },
  {
-  "id": "2118601",
-  "name": "ISO/IEC 14543-5-101:2019",
-  "title": "Information technology - Home electronic system (HES) architecture - Part 5-101:Intelligent grouping and resource sharing for HES Class 2 and Class 3 - Remote media access profile",
+  "id": "2184601",
+  "name": "ISO/IEC 14776-415:2019",
+  "title": "Information technology - Small Computer System Interface (SCSI) - Part 415: SCSI Architecture Model - 5 (SAM-5)",
   "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -1587,7 +1587,7 @@
   "annulment_date": null,
   "pub_year": 2019,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2118601"
+  "url": "https://elstandard.se/standard/2184601"
  },
  {
   "id": "2160901",
@@ -1620,9 +1620,9 @@
   "url": "https://elstandard.se/standard/2161001"
  },
  {
-  "id": "2184501",
-  "name": "ISO/IEC 14763-2:2019",
-  "title": "Information technology - Implementation and operation of customer premises cabling - Part 2: Planning and installation",
+  "id": "2095101",
+  "name": "ISO/IEC 14543-5-12:2019",
+  "title": "Information technology - Home electronic system (HES) architecture - Part 5-12: Intelligent grouping and resource sharing for HES Class 2 and Class 3 - Remote access test and verification",
   "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -1632,12 +1632,12 @@
   "annulment_date": null,
   "pub_year": 2019,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2184501"
+  "url": "https://elstandard.se/standard/2095101"
  },
  {
-  "id": "2184601",
-  "name": "ISO/IEC 14776-415:2019",
-  "title": "Information technology - Small Computer System Interface (SCSI) - Part 415: SCSI Architecture Model - 5 (SAM-5)",
+  "id": "2118601",
+  "name": "ISO/IEC 14543-5-101:2019",
+  "title": "Information technology - Home electronic system (HES) architecture - Part 5-101:Intelligent grouping and resource sharing for HES Class 2 and Class 3 - Remote media access profile",
   "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -1647,7 +1647,7 @@
   "annulment_date": null,
   "pub_year": 2019,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2184601"
+  "url": "https://elstandard.se/standard/2118601"
  },
  {
   "id": "2184701",
@@ -1815,21 +1815,6 @@
   "url": "https://elstandard.se/standard/2624901"
  },
  {
-  "id": "3726001",
-  "name": "ISO/IEC 11801-1:2017/A1:2025",
-  "title": "Information technology - Generic cabling for customer premises - Part 1: General requirements",
-  "prefix": "ISO/IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3726001"
- },
- {
   "id": "3828101",
   "name": "ISO/IEC 11801-6:2017/A1:2026",
   "title": "Information technology - Generic cabling for customer premises - Part 6: Distributed building services",
@@ -1843,6 +1828,21 @@
   "pub_year": 2017,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3828101"
+ },
+ {
+  "id": "3726001",
+  "name": "ISO/IEC 11801-1:2017/A1:2025",
+  "title": "Information technology - Generic cabling for customer premises - Part 1: General requirements",
+  "prefix": "ISO/IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3726001"
  },
  {
   "id": "2161701",
@@ -1900,8 +1900,8 @@
   "committee_intl": "ISO/IEC JTC 1/SC 25",
   "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": false,
+  "pub_year": 2025,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3333401"
  },
  {
@@ -2070,21 +2070,6 @@
   "url": "https://elstandard.se/standard/1976901"
  },
  {
-  "id": "3659101",
-  "name": "ISO/IEC 30129:2015/A2:2025",
-  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
-  "prefix": "ISO/IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3659101"
- },
- {
   "id": "2069101",
   "name": "ISO/IEC 30129:2015/A1:2019",
   "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
@@ -2098,6 +2083,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2069101"
+ },
+ {
+  "id": "3659101",
+  "name": "ISO/IEC 30129:2015/A2:2025",
+  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
+  "prefix": "ISO/IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3659101"
  },
  {
   "id": "1988001",
@@ -2175,21 +2175,6 @@
   "url": "https://elstandard.se/standard/1929901"
  },
  {
-  "id": "3659201",
-  "name": "ISO/IEC 30129:2015+AMD1:2019+AMD2:2025 CSV",
-  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
-  "prefix": "ISO/IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 215",
-  "committee_intl": "ISO/IEC JTC 1/SC 25",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3659201"
- },
- {
   "id": "2069201",
   "name": "ISO/IEC 30129:2015+AMD1:2019 CSV",
   "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
@@ -2205,9 +2190,9 @@
   "url": "https://elstandard.se/standard/2069201"
  },
  {
-  "id": "3726101",
-  "name": "ISO/IEC 11801-1:2017+AMD1:2025 CSV",
-  "title": "Information technology - Generic cabling for customer premises - Part 1: General requirements",
+  "id": "3659201",
+  "name": "ISO/IEC 30129:2015+AMD1:2019+AMD2:2025 CSV",
+  "title": "Information technology - Telecommunications bonding networks for buildings and other structures",
   "prefix": "ISO/IEC",
   "doc_type": "Standard",
   "status": "publicerad",
@@ -2215,9 +2200,9 @@
   "committee_intl": "ISO/IEC JTC 1/SC 25",
   "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2017,
+  "pub_year": 2015,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/3726101"
+  "url": "https://elstandard.se/standard/3659201"
  },
  {
   "id": "3828201",
@@ -2233,6 +2218,21 @@
   "pub_year": 2017,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3828201"
+ },
+ {
+  "id": "3726101",
+  "name": "ISO/IEC 11801-1:2017+AMD1:2025 CSV",
+  "title": "Information technology - Generic cabling for customer premises - Part 1: General requirements",
+  "prefix": "ISO/IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 215",
+  "committee_intl": "ISO/IEC JTC 1/SC 25",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3726101"
  },
  {
   "id": "2618601",

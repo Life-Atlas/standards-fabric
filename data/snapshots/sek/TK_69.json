@@ -519,7 +519,7 @@
   "committee_sek": "TK 69",
   "committee_intl": "TC 69",
   "determination_date": "2016-06-28",
-  "annulment_date": null,
+  "annulment_date": "2029-10-30",
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1694701"
@@ -534,7 +534,7 @@
   "committee_sek": "TK 69",
   "committee_intl": "TC 69",
   "determination_date": "2014-09-15",
-  "annulment_date": null,
+  "annulment_date": "2029-10-30",
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1443001"
@@ -611,7 +611,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3812001"
  },
  {
@@ -688,6 +688,36 @@
   "pub_year": 2026,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3784901"
+ },
+ {
+  "id": "3620501",
+  "name": "IEC 63380-1:2025",
+  "title": "Standard interface for connecting charging stations to local energy management systems – Part 1: General requirements, use cases and abstract messages",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 69",
+  "committee_intl": "TC 69",
+  "determination_date": "2026-03-03",
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3620501"
+ },
+ {
+  "id": "3634401",
+  "name": "IEC 62840-1:2025",
+  "title": "Electric vehicle battery swap system – Part 1: General and guidance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 69",
+  "committee_intl": "TC 69",
+  "determination_date": "2025-12-16",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3634401"
  },
  {
   "id": "3656501",
@@ -780,36 +810,6 @@
   "url": "https://elstandard.se/standard/3660501"
  },
  {
-  "id": "3620501",
-  "name": "IEC 63380-1:2025",
-  "title": "Standard interface for connecting charging stations to local energy management systems – Part 1: General requirements, use cases and abstract messages",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 69",
-  "committee_intl": "TC 69",
-  "determination_date": "2026-03-03",
-  "annulment_date": null,
-  "pub_year": 2026,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3620501"
- },
- {
-  "id": "3634401",
-  "name": "IEC 62840-1:2025",
-  "title": "Electric vehicle battery swap system – Part 1: General and guidance",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 69",
-  "committee_intl": "TC 69",
-  "determination_date": "2025-12-16",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3634401"
- },
- {
   "id": "3713801",
   "name": "IEC 63382-1:2025",
   "title": "Management of distributed energy storage systems based on electrically chargeable vehicle batteries - Part 1: Use cases and architectures",
@@ -818,9 +818,9 @@
   "status": "publicerad",
   "committee_sek": "TK 69",
   "committee_intl": "TC 69",
-  "determination_date": "2026-10-20",
+  "determination_date": "2026-11-17",
   "annulment_date": null,
-  "pub_year": 2025,
+  "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3713801"
  },
@@ -911,7 +911,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2023,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3090601"
  },
  {
@@ -1035,21 +1035,6 @@
   "url": "https://elstandard.se/standard/2975701"
  },
  {
-  "id": "2941501",
-  "name": "IEC 63119-2:2022",
-  "title": "Information exchange for electric vehicle charging roaming service - Part 2: Use cases",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 69",
-  "committee_intl": "TC 69",
-  "determination_date": "2023-06-28",
-  "annulment_date": null,
-  "pub_year": 2023,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2941501"
- },
- {
   "id": "2945001",
   "name": "IEC 63110-1:2022",
   "title": "Protocol for management of electric vehicles charging and discharging infrastructures – Part 1: Basic definitions, use cases and architectures",
@@ -1078,6 +1063,21 @@
   "pub_year": 2023,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2950701"
+ },
+ {
+  "id": "2941501",
+  "name": "IEC 63119-2:2022",
+  "title": "Information exchange for electric vehicle charging roaming service - Part 2: Use cases",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 69",
+  "committee_intl": "TC 69",
+  "determination_date": "2023-06-28",
+  "annulment_date": null,
+  "pub_year": 2023,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2941501"
  },
  {
   "id": "3546801",
@@ -1358,9 +1358,9 @@
   "status": "upphavd",
   "committee_sek": "TK 69",
   "committee_intl": "TC 69",
-  "determination_date": "2026-10-20",
+  "determination_date": "2026-11-17",
   "annulment_date": null,
-  "pub_year": 2025,
+  "pub_year": 2026,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/3715001"
  },
@@ -1509,7 +1509,7 @@
   "committee_sek": "TK 69",
   "committee_intl": "TC 69",
   "determination_date": "2014-09-15",
-  "annulment_date": null,
+  "annulment_date": "2029-10-30",
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1374901"
@@ -1524,7 +1524,7 @@
   "committee_sek": "TK 69",
   "committee_intl": "TC 69",
   "determination_date": "2016-06-28",
-  "annulment_date": null,
+  "annulment_date": "2029-10-30",
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1683301"

@@ -4,7 +4,7 @@
   "now": 2026,
   "future": 2036
  },
- "docs": 15444,
+ "docs": 15533,
  "curated": 144,
  "realities": [
   {
@@ -13,25 +13,25 @@
    "kind": "commercial-building",
    "totals": {
     "past": {
-     "sek": 6833,
-     "swedish": 5557,
+     "sek": 6863,
+     "swedish": 5582,
      "curated": 67,
      "pipeline": 0,
-     "total": 6900
+     "total": 6930
     },
     "now": {
-     "sek": 8797,
-     "swedish": 6967,
+     "sek": 8856,
+     "swedish": 6985,
      "curated": 83,
      "pipeline": 0,
-     "total": 8880
+     "total": 8939
     },
     "future": {
-     "sek": 8886,
-     "swedish": 6967,
+     "sek": 8944,
+     "swedish": 6986,
      "curated": 83,
-     "pipeline": 89,
-     "total": 8969
+     "pipeline": 88,
+     "total": 9027
     }
    }
   },
@@ -41,25 +41,25 @@
    "kind": "datacenter",
    "totals": {
     "past": {
-     "sek": 6480,
-     "swedish": 5286,
+     "sek": 6502,
+     "swedish": 5303,
      "curated": 71,
      "pipeline": 0,
-     "total": 6551
+     "total": 6573
     },
     "now": {
-     "sek": 8280,
-     "swedish": 6676,
+     "sek": 8305,
+     "swedish": 6688,
      "curated": 93,
      "pipeline": 0,
-     "total": 8373
+     "total": 8398
     },
     "future": {
-     "sek": 8344,
-     "swedish": 6676,
+     "sek": 8353,
+     "swedish": 6688,
      "curated": 93,
-     "pipeline": 64,
-     "total": 8437
+     "pipeline": 48,
+     "total": 8446
     }
    }
   },
@@ -69,25 +69,25 @@
    "kind": "critical-infrastructure",
    "totals": {
     "past": {
-     "sek": 7399,
-     "swedish": 6141,
+     "sek": 7419,
+     "swedish": 6158,
      "curated": 83,
      "pipeline": 0,
-     "total": 7482
+     "total": 7502
     },
     "now": {
-     "sek": 9361,
-     "swedish": 7717,
+     "sek": 9386,
+     "swedish": 7727,
      "curated": 103,
      "pipeline": 0,
-     "total": 9464
+     "total": 9489
     },
     "future": {
-     "sek": 9436,
-     "swedish": 7717,
+     "sek": 9437,
+     "swedish": 7727,
      "curated": 103,
-     "pipeline": 75,
-     "total": 9539
+     "pipeline": 51,
+     "total": 9540
     }
    }
   },
@@ -97,25 +97,25 @@
    "kind": "residential-rental",
    "totals": {
     "past": {
-     "sek": 6295,
-     "swedish": 5152,
+     "sek": 6324,
+     "swedish": 5177,
      "curated": 63,
      "pipeline": 0,
-     "total": 6358
+     "total": 6387
     },
     "now": {
-     "sek": 8291,
-     "swedish": 6558,
+     "sek": 8348,
+     "swedish": 6576,
      "curated": 82,
      "pipeline": 0,
-     "total": 8373
+     "total": 8430
     },
     "future": {
-     "sek": 8373,
-     "swedish": 6558,
+     "sek": 8431,
+     "swedish": 6577,
      "curated": 82,
-     "pipeline": 82,
-     "total": 8455
+     "pipeline": 83,
+     "total": 8513
     }
    }
   },
@@ -125,25 +125,25 @@
    "kind": "factory",
    "totals": {
     "past": {
-     "sek": 5993,
-     "swedish": 4964,
+     "sek": 6010,
+     "swedish": 4981,
      "curated": 70,
      "pipeline": 0,
-     "total": 6063
+     "total": 6080
     },
     "now": {
-     "sek": 7472,
-     "swedish": 6136,
+     "sek": 7487,
+     "swedish": 6144,
      "curated": 90,
      "pipeline": 0,
-     "total": 7562
+     "total": 7577
     },
     "future": {
-     "sek": 7531,
-     "swedish": 6136,
+     "sek": 7524,
+     "swedish": 6144,
      "curated": 90,
-     "pipeline": 59,
-     "total": 7621
+     "pipeline": 37,
+     "total": 7614
     }
    }
   },
@@ -153,25 +153,25 @@
    "kind": "underground-lab",
    "totals": {
     "past": {
-     "sek": 6018,
-     "swedish": 4947,
+     "sek": 6037,
+     "swedish": 4964,
      "curated": 70,
      "pipeline": 0,
-     "total": 6088
+     "total": 6107
     },
     "now": {
-     "sek": 7576,
-     "swedish": 6164,
+     "sek": 7592,
+     "swedish": 6175,
      "curated": 86,
      "pipeline": 0,
-     "total": 7662
+     "total": 7678
     },
     "future": {
-     "sek": 7636,
-     "swedish": 6164,
+     "sek": 7632,
+     "swedish": 6175,
      "curated": 86,
-     "pipeline": 60,
-     "total": 7722
+     "pipeline": 40,
+     "total": 7718
     }
    }
   }

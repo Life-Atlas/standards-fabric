@@ -1,5 +1,20 @@
 [
  {
+  "id": "4103601",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "remiss",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4103601"
+ },
+ {
   "id": "4093901",
   "name": null,
   "title": "",
@@ -1710,6 +1725,21 @@
   "url": "https://elstandard.se/standard/1208601"
  },
  {
+  "id": "1798301",
+  "name": "SS-EN 61334-3-21, utg 1:1999",
+  "title": "Distributionsautomation med bärfrekvens på distributionsnätet (DLC) - Del 3: Signalöverföring på nätet - Anordning för kapacitiv anslutning till fasledare för mellanspänning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "1999-06-17",
+  "annulment_date": null,
+  "pub_year": 1999,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1798301"
+ },
+ {
   "id": "982001",
   "name": "SS-EN 60870-5-103, utg 1:1999",
   "title": "Utrustning för fjärrstyrning - Del 5-103: Överföringsprotokoll - Tilläggsstandard för skyddsutrustningens informationsgränssnitt",
@@ -1740,21 +1770,6 @@
   "url": "https://elstandard.se/standard/982501"
  },
  {
-  "id": "1798301",
-  "name": "SS-EN 61334-3-21, utg 1:1999",
-  "title": "Distributionsautomation med bärfrekvens på distributionsnätet (DLC) - Del 3: Signalöverföring på nätet - Anordning för kapacitiv anslutning till fasledare för mellanspänning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "1999-06-17",
-  "annulment_date": null,
-  "pub_year": 1999,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1798301"
- },
- {
   "id": "982201",
   "name": "SS-EN 60870-6-502, utg 1:1997",
   "title": "Utrustning för fjärrstyrning - Del 6: Protokoll för fjärrstyrning kompatibla med ISO-standarder och rekommendationer från ITU-T - Sektion 502: TASE.1, definition av protokoll",
@@ -1768,6 +1783,21 @@
   "pub_year": 1997,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/982201"
+ },
+ {
+  "id": "839801",
+  "name": "SS-EN 60870-2-1, utg 1:1997",
+  "title": "Utrustning för fjärrstyrning - Del 2: Driftförhållanden - Elförsörjning och elektromagnetisk kompatibilitet (EMC)",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "1997-05-29",
+  "annulment_date": null,
+  "pub_year": 1997,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/839801"
  },
  {
   "id": "981301",
@@ -1813,21 +1843,6 @@
   "pub_year": 1997,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/982101"
- },
- {
-  "id": "839801",
-  "name": "SS-EN 60870-2-1, utg 1:1997",
-  "title": "Utrustning för fjärrstyrning - Del 2: Driftförhållanden - Elförsörjning och elektromagnetisk kompatibilitet (EMC)",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "1997-05-29",
-  "annulment_date": null,
-  "pub_year": 1997,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/839801"
  },
  {
   "id": "3030501",
@@ -2006,7 +2021,7 @@
   "determination_date": null,
   "annulment_date": null,
   "pub_year": 2026,
-  "is_swedish": false,
+  "is_swedish": true,
   "url": "https://elstandard.se/standard/3804601"
  },
  {
@@ -2115,6 +2130,36 @@
   "url": "https://elstandard.se/standard/3827101"
  },
  {
+  "id": "3833101",
+  "name": "IEC TR 60870-1-3:1997+AMD1:2026 CSV",
+  "title": "Telecontrol equipment and systems - General considerations - Section 3: Glossary",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 1997,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3833101"
+ },
+ {
+  "id": "3833901",
+  "name": "IEC PAS 61850-90-28:2026",
+  "title": "Communication networks and systems for power utility automation - Part 90-28: Specification for subscriber IED to validate received GOOSE and SV messages",
+  "prefix": "IEC PAS",
+  "doc_type": "PAS",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2026,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3833901"
+ },
+ {
   "id": "3656101",
   "name": "IEC 62488-1:2025",
   "title": "Power line communication systems for power utility applications - Part 1: Planning of analogue and digital power line carrier systems operating over HV electricity grids",
@@ -2190,21 +2235,6 @@
   "url": "https://elstandard.se/standard/3663201"
  },
  {
-  "id": "3598701",
-  "name": "IEC TR 61850-90-30:2025",
-  "title": "Communication networks and systems for power utility automation – Part 90-30: IEC 61850 Function Modelling in SCL",
-  "prefix": "IEC TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3598701"
- },
- {
   "id": "3582801",
   "name": "IEC TR 61850-90-21:2025",
   "title": "Communication networks and systems for power utility automation - Part 90-21: Travelling Wave Fault Location",
@@ -2218,6 +2248,21 @@
   "pub_year": 2025,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3582801"
+ },
+ {
+  "id": "3598701",
+  "name": "IEC TR 61850-90-30:2025",
+  "title": "Communication networks and systems for power utility automation – Part 90-30: IEC 61850 Function Modelling in SCL",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3598701"
  },
  {
   "id": "3704801",
@@ -2235,19 +2280,34 @@
   "url": "https://elstandard.se/standard/3704801"
  },
  {
-  "id": "3290401",
-  "name": "IEC 61968-9:2024",
-  "title": "Application integration at electric utilities - System interfaces for distribution management - Part 9: Interface standard for meter reading and control",
+  "id": "3543401",
+  "name": "IEC 61850-6:2009+AMD1:2018+AMD2:2024 CSV",
+  "title": "Communication networks and systems for power utility automation - Part 6: Configuration description language for communication in electrical substations related to IEDs",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": "2025-04-01",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3543401"
+ },
+ {
+  "id": "3558101",
+  "name": "IEC 62746-4:2024",
+  "title": "Systems interface between customer energy management system and the power management system - Part 4: Demand Side Resource Interface",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2025-05-06",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3290401"
+  "url": "https://elstandard.se/standard/3558101"
  },
  {
   "id": "3113701",
@@ -2280,34 +2340,19 @@
   "url": "https://elstandard.se/standard/3116401"
  },
  {
-  "id": "3543401",
-  "name": "IEC 61850-6:2009+AMD1:2018+AMD2:2024 CSV",
-  "title": "Communication networks and systems for power utility automation - Part 6: Configuration description language for communication in electrical substations related to IEDs",
+  "id": "3290401",
+  "name": "IEC 61968-9:2024",
+  "title": "Application integration at electric utilities - System interfaces for distribution management - Part 9: Interface standard for meter reading and control",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2009,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3543401"
- },
- {
-  "id": "3558101",
-  "name": "IEC 62746-4:2024",
-  "title": "Systems interface between customer energy management system and the power management system - Part 4: Demand Side Resource Interface",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2025-05-06",
+  "determination_date": "2025-04-01",
   "annulment_date": null,
   "pub_year": 2025,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3558101"
+  "url": "https://elstandard.se/standard/3290401"
  },
  {
   "id": "3545601",
@@ -2730,6 +2775,21 @@
   "url": "https://elstandard.se/standard/2634601"
  },
  {
+  "id": "2595701",
+  "name": "IEC/TR 61850-90-13:2021",
+  "title": "Communication networks and systems for power utility automation - Part 90-13: Deterministic networking technologies",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2595701"
+ },
+ {
   "id": "2828001",
   "name": "IEC/TR 61850-90-14:2021",
   "title": "Communication networks and systems for power utility automation - Part 90-14: Using IEC 61850 for FACTS (flexible alternate current transmission systems), HVDC (high voltage direct current) transmission and power conversion data modelling",
@@ -2760,21 +2820,6 @@
   "url": "https://elstandard.se/standard/2829701"
  },
  {
-  "id": "2595701",
-  "name": "IEC/TR 61850-90-13:2021",
-  "title": "Communication networks and systems for power utility automation - Part 90-13: Deterministic networking technologies",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2595701"
- },
- {
   "id": "2633201",
   "name": "IEC/TR 61850-7-5:2021",
   "title": "Communication networks and systems for power utility automation - Part 7-5: IEC 61850 modelling concepts",
@@ -2803,66 +2848,6 @@
   "pub_year": 2021,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2759101"
- },
- {
-  "id": "2196201",
-  "name": "IEC 61850-7-2:2010+AMD1:2020 CSV",
-  "title": "Communication networks and systems for power utility automation - Part 7-2: Basic information and communication structure - Abstract communication service interface (ACSI)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2010,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2196201"
- },
- {
-  "id": "2196401",
-  "name": "IEC 61850-7-3:2010+AMD1:2020 CSV",
-  "title": "Communication networks and systems for power utility automation - Part 7-3: Basic communication structure - Common data classes",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2010,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2196401"
- },
- {
-  "id": "2197001",
-  "name": "IEC 61850-9-2:2011+AMD1:2020 CSV",
-  "title": "Communication networks and systems for power utility automation - Part 9-2: Specific communication service mapping (SCSM) - Sampled values over ISO/IEC 8802-3",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2197001"
- },
- {
-  "id": "2203101",
-  "name": "IEC 61850-8-1:2011+AMD1:2020 CSV",
-  "title": "Communication networks and systems for power utility automation - Part 8-1: Specific communication service mapping (SCSM) - Mappings to MMS (ISO 9506-1 and ISO 9506-2) and to ISO/IEC 8802-3",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2203101"
  },
  {
   "id": "2230001",
@@ -2970,6 +2955,66 @@
   "url": "https://elstandard.se/standard/2556601"
  },
  {
+  "id": "2196201",
+  "name": "IEC 61850-7-2:2010+AMD1:2020 CSV",
+  "title": "Communication networks and systems for power utility automation - Part 7-2: Basic information and communication structure - Abstract communication service interface (ACSI)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2010,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2196201"
+ },
+ {
+  "id": "2196401",
+  "name": "IEC 61850-7-3:2010+AMD1:2020 CSV",
+  "title": "Communication networks and systems for power utility automation - Part 7-3: Basic communication structure - Common data classes",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2010,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2196401"
+ },
+ {
+  "id": "2197001",
+  "name": "IEC 61850-9-2:2011+AMD1:2020 CSV",
+  "title": "Communication networks and systems for power utility automation - Part 9-2: Specific communication service mapping (SCSM) - Sampled values over ISO/IEC 8802-3",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2197001"
+ },
+ {
+  "id": "2203101",
+  "name": "IEC 61850-8-1:2011+AMD1:2020 CSV",
+  "title": "Communication networks and systems for power utility automation - Part 8-1: Specific communication service mapping (SCSM) - Mappings to MMS (ISO 9506-1 and ISO 9506-2) and to ISO/IEC 8802-3",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2203101"
+ },
+ {
   "id": "2570901",
   "name": "IEC 62325-451-10:2020",
   "title": "Framework for energy market communications - Part 451-10: Profiles for energy consumption data (\"My Energy Data\")",
@@ -3060,21 +3105,6 @@
   "url": "https://elstandard.se/standard/2282401"
  },
  {
-  "id": "2187101",
-  "name": "IEC/TS 62351-100-3:2020",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 100-3: Conformance test cases for the IEC 62351-3, the secure communication extension for profiles including TCP/IP",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2187101"
- },
- {
   "id": "2252401",
   "name": "IEC/TS 61850-1-2:2020",
   "title": "Communication networks and systems for power utility automation - Part 1-2: Guideline on extending IEC 61850",
@@ -3088,6 +3118,21 @@
   "pub_year": 2020,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2252401"
+ },
+ {
+  "id": "2187101",
+  "name": "IEC/TS 62351-100-3:2020",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 100-3: Conformance test cases for the IEC 62351-3, the secure communication extension for profiles including TCP/IP",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2187101"
  },
  {
   "id": "2909901",
@@ -3165,19 +3210,49 @@
   "url": "https://elstandard.se/standard/1935301"
  },
  {
-  "id": "1948301",
-  "name": "IEC 62325-301:2018",
-  "title": "Framework for energy market communications - Part 301: Common information model (CIM) extensions for markets",
+  "id": "2031301",
+  "name": "IEC 62351-4:2018",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 4: Profiles including MMS and derivatives",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": "2018-06-12",
+  "determination_date": "2019-12-10",
   "annulment_date": null,
-  "pub_year": 2018,
+  "pub_year": 2019,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1948301"
+  "url": "https://elstandard.se/standard/2031301"
+ },
+ {
+  "id": "2032601",
+  "name": "IEC 61970-453:2014+AMD1:2018 CSV",
+  "title": "Energy management system application program interface (EMS-API) - Part 453: Diagram layout profile",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2032601"
+ },
+ {
+  "id": "2040101",
+  "name": "IEC 61850-8-2:2018",
+  "title": "Communication networks and systems for power utility automation - Part 8-2: Specific communication service mapping (SCSM) - Mapping to Extensible Messaging Presence Protocol (XMPP)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2019-11-12",
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2040101"
  },
  {
   "id": "1968401",
@@ -3225,49 +3300,19 @@
   "url": "https://elstandard.se/standard/1995301"
  },
  {
-  "id": "2031301",
-  "name": "IEC 62351-4:2018",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 4: Profiles including MMS and derivatives",
+  "id": "1948301",
+  "name": "IEC 62325-301:2018",
+  "title": "Framework for energy market communications - Part 301: Common information model (CIM) extensions for markets",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": "2019-12-10",
+  "determination_date": "2018-06-12",
   "annulment_date": null,
-  "pub_year": 2019,
+  "pub_year": 2018,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/2031301"
- },
- {
-  "id": "2032601",
-  "name": "IEC 61970-453:2014+AMD1:2018 CSV",
-  "title": "Energy management system application program interface (EMS-API) - Part 453: Diagram layout profile",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2032601"
- },
- {
-  "id": "2040101",
-  "name": "IEC 61850-8-2:2018",
-  "title": "Communication networks and systems for power utility automation - Part 8-2: Specific communication service mapping (SCSM) - Mapping to Extensible Messaging Presence Protocol (XMPP)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2019-11-12",
-  "annulment_date": null,
-  "pub_year": 2019,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2040101"
+  "url": "https://elstandard.se/standard/1948301"
  },
  {
   "id": "2264201",
@@ -3283,36 +3328,6 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2264201"
- },
- {
-  "id": "1926201",
-  "name": "IEC/TR 62351-90-1:2018",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 90-1: Guidelines for handling role-based access control in power systems",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1926201"
- },
- {
-  "id": "1960701",
-  "name": "IEC/TR 62361-103:2018",
-  "title": "Power systems management and associated information exchange - Interoperability in the long term - Part 103: Standard profiling",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1960701"
  },
  {
   "id": "2019001",
@@ -3345,6 +3360,51 @@
   "url": "https://elstandard.se/standard/2019101"
  },
  {
+  "id": "1926201",
+  "name": "IEC/TR 62351-90-1:2018",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 90-1: Guidelines for handling role-based access control in power systems",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1926201"
+ },
+ {
+  "id": "1960701",
+  "name": "IEC/TR 62361-103:2018",
+  "title": "Power systems management and associated information exchange - Interoperability in the long term - Part 103: Standard profiling",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1960701"
+ },
+ {
+  "id": "2024601",
+  "name": "IEC/TS 62351-100-1:2018",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 100-1: Conformance test cases for IEC TS 62351-5 and IEC TS 60870-5-7",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2024601"
+ },
+ {
   "id": "1949201",
   "name": "IEC/TS 61850-7-7:2018",
   "title": "Communication networks and systems for power utility automation - Part 7-7: Basic communication structure - Machine-processable format of IEC 61850-related data models for tools",
@@ -3373,21 +3433,6 @@
   "pub_year": 2018,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1949401"
- },
- {
-  "id": "2024601",
-  "name": "IEC/TS 62351-100-1:2018",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 100-1: Conformance test cases for IEC TS 62351-5 and IEC TS 60870-5-7",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2024601"
  },
  {
   "id": "2964201",
@@ -3465,21 +3510,6 @@
   "url": "https://elstandard.se/standard/1860501"
  },
  {
-  "id": "2985601",
-  "name": "IEC 62488-2:2017/C2:2023",
-  "title": "Power line communication systems for power utility applications - Part 2: Analogue power line carrier terminals or APLC",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2023-09-19",
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2985601"
- },
- {
   "id": "2186801",
   "name": "IEC 62488-2:2017/C1:2020",
   "title": "Power line communication systems for power utility applications - Part 2: Analogue power line carrier terminals or APLC",
@@ -3493,6 +3523,21 @@
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2186801"
+ },
+ {
+  "id": "2985601",
+  "name": "IEC 62488-2:2017/C2:2023",
+  "title": "Power line communication systems for power utility applications - Part 2: Analogue power line carrier terminals or APLC",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2023-09-19",
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2985601"
  },
  {
   "id": "1837101",
@@ -3840,21 +3885,6 @@
   "url": "https://elstandard.se/standard/3826901"
  },
  {
-  "id": "1522401",
-  "name": "IEC 62325-451-5:2015",
-  "title": "Framework for energy market communications - Part 451-5: Problem statement and status request business processes, contextual and assembly models for European market",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2015-05-12",
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1522401"
- },
- {
   "id": "1561701",
   "name": "IEC 61968-8:2015",
   "title": "Application integration at electric utilities - System interfaces for distribution management - Part 8: Interfaces for customer operations",
@@ -3898,6 +3928,21 @@
   "pub_year": 2003,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1616201"
+ },
+ {
+  "id": "1522401",
+  "name": "IEC 62325-451-5:2015",
+  "title": "Framework for energy market communications - Part 451-5: Problem statement and status request business processes, contextual and assembly models for European market",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2015-05-12",
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1522401"
  },
  {
   "id": "1576901",
@@ -4035,36 +4080,6 @@
   "url": "https://elstandard.se/standard/1568501"
  },
  {
-  "id": "1368001",
-  "name": "IEC 61970-453:2014",
-  "title": "Energy management system application program interface (EMS-API) - Part 453: Diagram layout profile",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2014-12-17",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1368001"
- },
- {
-  "id": "1395701",
-  "name": "IEC 62325-451-2:2014",
-  "title": "Framework for energy market communications - Part 451-2: Scheduling business process and contextual model for CIM European market",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2014-12-17",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1395701"
- },
- {
   "id": "1416301",
   "name": "IEC 62325-451-3:2014",
   "title": "Framework for energy market communications - Part 451-3: Transmission capacity allocation business process (explicit or implicit auction) and contextual models for European market",
@@ -4125,19 +4140,34 @@
   "url": "https://elstandard.se/standard/1419201"
  },
  {
-  "id": "1717101",
-  "name": "IEC 62325-451-2:2014/C1:2016",
+  "id": "1395701",
+  "name": "IEC 62325-451-2:2014",
   "title": "Framework for energy market communications - Part 451-2: Scheduling business process and contextual model for CIM European market",
   "prefix": "IEC",
-  "doc_type": "Corrigendum",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": "2016-10-11",
+  "determination_date": "2014-12-17",
   "annulment_date": null,
   "pub_year": 2014,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1717101"
+  "url": "https://elstandard.se/standard/1395701"
+ },
+ {
+  "id": "1368001",
+  "name": "IEC 61970-453:2014",
+  "title": "Energy management system application program interface (EMS-API) - Part 453: Diagram layout profile",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2014-12-17",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1368001"
  },
  {
   "id": "1825601",
@@ -4170,19 +4200,19 @@
   "url": "https://elstandard.se/standard/2032501"
  },
  {
-  "id": "1247301",
-  "name": "IEC 61968-11:2013",
-  "title": "Application integration at electric utilities - System interfaces for distribution management - Part 11: Common information model (CIM) extensions for distribution",
+  "id": "1717101",
+  "name": "IEC 62325-451-2:2014/C1:2016",
+  "title": "Framework for energy market communications - Part 451-2: Scheduling business process and contextual model for CIM European market",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "Corrigendum",
   "status": "publicerad",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": "2013-07-02",
+  "determination_date": "2016-10-11",
   "annulment_date": null,
-  "pub_year": 2013,
+  "pub_year": 2014,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1247301"
+  "url": "https://elstandard.se/standard/1717101"
  },
  {
   "id": "1272601",
@@ -4198,36 +4228,6 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1272601"
- },
- {
-  "id": "1316301",
-  "name": "IEC 62361-2:2013",
-  "title": "Power systems management and associated information exchange - Interoperability in the long term - Part 2: End to end quality codes for supervisory control and data acquisition (SCADA)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2014-06-10",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1316301"
- },
- {
-  "id": "1343801",
-  "name": "IEC 61850-3:2013",
-  "title": "Communication networks and systems for power utility automation - Part 3: General requirements",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2014-11-18",
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1343801"
  },
  {
   "id": "1218201",
@@ -4258,6 +4258,51 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1228201"
+ },
+ {
+  "id": "1247301",
+  "name": "IEC 61968-11:2013",
+  "title": "Application integration at electric utilities - System interfaces for distribution management - Part 11: Common information model (CIM) extensions for distribution",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2013-07-02",
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1247301"
+ },
+ {
+  "id": "1316301",
+  "name": "IEC 62361-2:2013",
+  "title": "Power systems management and associated information exchange - Interoperability in the long term - Part 2: End to end quality codes for supervisory control and data acquisition (SCADA)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2014-06-10",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1316301"
+ },
+ {
+  "id": "1343801",
+  "name": "IEC 61850-3:2013",
+  "title": "Communication networks and systems for power utility automation - Part 3: General requirements",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2014-11-18",
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1343801"
  },
  {
   "id": "2867901",
@@ -4395,36 +4440,6 @@
   "url": "https://elstandard.se/standard/980701"
  },
  {
-  "id": "2196901",
-  "name": "IEC 61850-9-2:2011/A1:2020",
-  "title": "Communication networks and systems for power utility automation - Part 9-2: Specific communication service mapping (SCSM) - Sampled values over ISO/IEC 8802-3",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2020-05-12",
-  "annulment_date": null,
-  "pub_year": 2012,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2196901"
- },
- {
-  "id": "2203001",
-  "name": "IEC 61850-8-1:2011/A1:2020",
-  "title": "Communication networks and systems for power utility automation - Part 8-1: Specific communication service mapping (SCSM) - Mappings to MMS (ISO 9506-1 and ISO 9506-2) and to ISO/IEC 8802-3",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2020-05-12",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2203001"
- },
- {
   "id": "2272701",
   "name": "IEC 61850-7-1:2011/A1:2020",
   "title": "Communication networks and systems for power utility automation - Part 7-1: Basic communication structure - Principles and models",
@@ -4453,6 +4468,36 @@
   "pub_year": 2011,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2556101"
+ },
+ {
+  "id": "2196901",
+  "name": "IEC 61850-9-2:2011/A1:2020",
+  "title": "Communication networks and systems for power utility automation - Part 9-2: Specific communication service mapping (SCSM) - Sampled values over ISO/IEC 8802-3",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2020-05-12",
+  "annulment_date": null,
+  "pub_year": 2012,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2196901"
+ },
+ {
+  "id": "2203001",
+  "name": "IEC 61850-8-1:2011/A1:2020",
+  "title": "Communication networks and systems for power utility automation - Part 8-1: Specific communication service mapping (SCSM) - Mappings to MMS (ISO 9506-1 and ISO 9506-2) and to ISO/IEC 8802-3",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2020-05-12",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2203001"
  },
  {
   "id": "3809301",
@@ -4920,21 +4965,6 @@
   "url": "https://elstandard.se/standard/796601"
  },
  {
-  "id": "1457601",
-  "name": "IEC 61334-3-22:2001",
-  "title": "Distribution automation using distribution line carrier systems - Part 3-22: Mains signalling requirements - MV phase-to-earth and screen-to-earth intrusive coupling devices",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2002-04-17",
-  "annulment_date": null,
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1457601"
- },
- {
   "id": "1510901",
   "name": "IEC 61334-5-1:2001",
   "title": "Distribution automation using distribution line carrier systems - Part 5-1: Lower layer profiles - The spread frequency shift keying (S-FSK) profile",
@@ -4948,6 +4978,21 @@
   "pub_year": 2002,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1510901"
+ },
+ {
+  "id": "1457601",
+  "name": "IEC 61334-3-22:2001",
+  "title": "Distribution automation using distribution line carrier systems - Part 3-22: Mains signalling requirements - MV phase-to-earth and screen-to-earth intrusive coupling devices",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2002-04-17",
+  "annulment_date": null,
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1457601"
  },
  {
   "id": "3059901",
@@ -5160,6 +5205,51 @@
   "url": "https://elstandard.se/standard/1445701"
  },
  {
+  "id": "3833001",
+  "name": "IEC TR 60870-1-3:1997",
+  "title": "Telecontrol equipment and systems - General considerations - Section 3: Glossary",
+  "prefix": "IEC TR",
+  "doc_type": "TR",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 1997,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3833001"
+ },
+ {
+  "id": "3832901",
+  "name": "IEC TR 60870-1-3:1997/A1:2026",
+  "title": "Telecontrol equipment and systems - General considerations - Section 3: Glossary",
+  "prefix": "IEC TR",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 1997,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3832901"
+ },
+ {
+  "id": "1798201",
+  "name": "IEC 61334-3-21:1996",
+  "title": "Distribution automation using distribution line carrier systems - Part 3: Mains signalling requirements - Section 21: MV phase-to-phase isolated capacitive coupling device",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "1999-06-17",
+  "annulment_date": null,
+  "pub_year": 1999,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1798201"
+ },
+ {
   "id": "963901",
   "name": "IEC 60870-2-2:1996",
   "title": "Telecontrol equipment and systems - Operating conditions - Section 2: Environmental conditions (climatic, mechanical and other non-electrical influences)",
@@ -5190,19 +5280,19 @@
   "url": "https://elstandard.se/standard/964101"
  },
  {
-  "id": "1798201",
-  "name": "IEC 61334-3-21:1996",
-  "title": "Distribution automation using distribution line carrier systems - Part 3: Mains signalling requirements - Section 21: MV phase-to-phase isolated capacitive coupling device",
+  "id": "682501",
+  "name": "IEC 60870-6-2:1995",
+  "title": "Telecontrol equipment and systems - Part 6: Telecontrol protocols compatible with ISO standards and ITU-T recommendations - Section 2: Use of basic standards  (OSI Layers 1-4)",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": "1999-06-17",
+  "determination_date": "1996-05-30",
   "annulment_date": null,
-  "pub_year": 1999,
+  "pub_year": 1996,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1798201"
+  "url": "https://elstandard.se/standard/682501"
  },
  {
   "id": "839701",
@@ -5218,21 +5308,6 @@
   "pub_year": 1997,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/839701"
- },
- {
-  "id": "682501",
-  "name": "IEC 60870-6-2:1995",
-  "title": "Telecontrol equipment and systems - Part 6: Telecontrol protocols compatible with ISO standards and ITU-T recommendations - Section 2: Use of basic standards  (OSI Layers 1-4)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "1996-05-30",
-  "annulment_date": null,
-  "pub_year": 1996,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/682501"
  },
  {
   "id": "965001",
@@ -5550,6 +5625,21 @@
   "url": "https://elstandard.se/standard/1982501"
  },
  {
+  "id": "1977901",
+  "name": "IEC 62351-3:2014+AMD1:2018 CSV",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 3: Communication network and system security - Profiles including TCP/IP",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2014,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1977901"
+ },
+ {
   "id": "1948201",
   "name": "IEC 61970-456:2018",
   "title": "Energy management system application program interface (EMS-API) - Part 456: Solved power system state profiles",
@@ -5578,21 +5668,6 @@
   "pub_year": 2019,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1959601"
- },
- {
-  "id": "1977901",
-  "name": "IEC 62351-3:2014+AMD1:2018 CSV",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 3: Communication network and system security - Profiles including TCP/IP",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2014,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1977901"
  },
  {
   "id": "1820701",
@@ -5805,21 +5880,6 @@
   "url": "https://elstandard.se/standard/1554001"
  },
  {
-  "id": "1542701",
-  "name": "IEC 61970-452:2015",
-  "title": "Energy management system application program interface (EMS-API) - Part 452: CIM model exchange specification",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2016-02-16",
-  "annulment_date": "2020-08-29",
-  "pub_year": 2016,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1542701"
- },
- {
   "id": "1602401",
   "name": "IEC 61970-456:2013+AMD1:2015 CSV",
   "title": "Energy management system application program interface (EMS-API) - Part 456: Solved power system state profiles",
@@ -5850,19 +5910,19 @@
   "url": "https://elstandard.se/standard/1612901"
  },
  {
-  "id": "1549701",
-  "name": "IEC/TR 62746-2:2015",
-  "title": "Systems interface between customer energy management system and the power management system - Part 2: Use cases and requirements",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
+  "id": "1542701",
+  "name": "IEC 61970-452:2015",
+  "title": "Energy management system application program interface (EMS-API) - Part 452: CIM model exchange specification",
+  "prefix": "IEC",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 57",
   "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1549701"
+  "determination_date": "2016-02-16",
+  "annulment_date": "2020-08-29",
+  "pub_year": 2016,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1542701"
  },
  {
   "id": "1576801",
@@ -5878,6 +5938,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1576801"
+ },
+ {
+  "id": "1549701",
+  "name": "IEC/TR 62746-2:2015",
+  "title": "Systems interface between customer energy management system and the power management system - Part 2: Use cases and requirements",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1549701"
  },
  {
   "id": "1491301",
@@ -6015,21 +6090,6 @@
   "url": "https://elstandard.se/standard/1484401"
  },
  {
-  "id": "1977801",
-  "name": "IEC 62351-3:2014/A1:2018",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 3: Communication network and system security - Profiles including TCP/IP",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2018-11-13",
-  "annulment_date": "2026-07-10",
-  "pub_year": 2015,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1977801"
- },
- {
   "id": "2204301",
   "name": "IEC 62351-3:2014/A2:2020",
   "title": "Power systems management and associated information exchange - Data and communications security - Part 3: Communication network and system security - Profiles including TCP/IP",
@@ -6043,6 +6103,21 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2204301"
+ },
+ {
+  "id": "1977801",
+  "name": "IEC 62351-3:2014/A1:2018",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 3: Communication network and system security - Profiles including TCP/IP",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2018-11-13",
+  "annulment_date": "2026-07-10",
+  "pub_year": 2015,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1977801"
  },
  {
   "id": "1345701",
@@ -6270,21 +6345,6 @@
   "url": "https://elstandard.se/standard/1602301"
  },
  {
-  "id": "1246401",
-  "name": "IEC/TR 61850-90-7:2013",
-  "title": "Communication networks and systems for power utility automation - Part 90-7: Object models for power converters in distributed energy resources (DER) systems",
-  "prefix": "IEC/TR",
-  "doc_type": "TR",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1246401"
- },
- {
   "id": "1255701",
   "name": "IEC/TR 61850-1:2013",
   "title": "Communication networks and systems for power utility automation - Part 1: Introduction and overview",
@@ -6313,6 +6373,21 @@
   "pub_year": 2013,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1298001"
+ },
+ {
+  "id": "1246401",
+  "name": "IEC/TR 61850-90-7:2013",
+  "title": "Communication networks and systems for power utility automation - Part 90-7: Object models for power converters in distributed energy resources (DER) systems",
+  "prefix": "IEC/TR",
+  "doc_type": "TR",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1246401"
  },
  {
   "id": "1272701",
@@ -6840,36 +6915,6 @@
   "url": "https://elstandard.se/standard/303501"
  },
  {
-  "id": "1113701",
-  "name": "IEC/TS 62351-4:2007",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 4: Profiles including MMS",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1113701"
- },
- {
-  "id": "1114001",
-  "name": "IEC/TS 62351-3:2007",
-  "title": "Power systems management and associated information exchange - Data and communications security - Part 3: Communication network and system security - Profiles including TCP/IP",
-  "prefix": "IEC/TS",
-  "doc_type": "TS",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2007,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1114001"
- },
- {
   "id": "871001",
   "name": "IEC/TS 62351-6:2007",
   "title": "Power systems management and associated information exchange - Data and communications security - Part 6: Security for IEC 61850",
@@ -6898,6 +6943,36 @@
   "pub_year": 2007,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1295101"
+ },
+ {
+  "id": "1113701",
+  "name": "IEC/TS 62351-4:2007",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 4: Profiles including MMS",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1113701"
+ },
+ {
+  "id": "1114001",
+  "name": "IEC/TS 62351-3:2007",
+  "title": "Power systems management and associated information exchange - Data and communications security - Part 3: Communication network and system security - Profiles including TCP/IP",
+  "prefix": "IEC/TS",
+  "doc_type": "TS",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2007,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1114001"
  },
  {
   "id": "1295001",
@@ -7350,36 +7425,6 @@
   "url": "https://elstandard.se/standard/982301"
  },
  {
-  "id": "682101",
-  "name": "IEC 60870-6-802:2002",
-  "title": "Telecontrol equipment and systems - Part 6-802: Telecontrol protocols compatible with ISO standards and ITU-T recommendations - TASE.2 Object models",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2002-09-10",
-  "annulment_date": "2017-08-18",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/682101"
- },
- {
-  "id": "965301",
-  "name": "IEC 60870-6-503:2002",
-  "title": "Telecontrol equipment and systems - Part 6-503: Telecontrol protocols compatible with ISO standards and ITU-T recommendations - TASE.2 Services and protocol",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 57",
-  "committee_intl": "TC 57",
-  "determination_date": "2002-09-10",
-  "annulment_date": "2017-08-18",
-  "pub_year": 2002,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/965301"
- },
- {
   "id": "299201",
   "name": "IEC 61850-3:2002",
   "title": "Communication networks and systems in substations - Part 3: General requirements",
@@ -7408,6 +7453,36 @@
   "pub_year": 2003,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/299401"
+ },
+ {
+  "id": "682101",
+  "name": "IEC 60870-6-802:2002",
+  "title": "Telecontrol equipment and systems - Part 6-802: Telecontrol protocols compatible with ISO standards and ITU-T recommendations - TASE.2 Object models",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2002-09-10",
+  "annulment_date": "2017-08-18",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/682101"
+ },
+ {
+  "id": "965301",
+  "name": "IEC 60870-6-503:2002",
+  "title": "Telecontrol equipment and systems - Part 6-503: Telecontrol protocols compatible with ISO standards and ITU-T recommendations - TASE.2 Services and protocol",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 57",
+  "committee_intl": "TC 57",
+  "determination_date": "2002-09-10",
+  "annulment_date": "2017-08-18",
+  "pub_year": 2002,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/965301"
  },
  {
   "id": "682301",

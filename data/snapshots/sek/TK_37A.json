@@ -435,19 +435,19 @@
   "url": "https://elstandard.se/standard/3692501"
  },
  {
-  "id": "3259601",
-  "name": "IEC 61643-332:2024",
-  "title": "Components for low-voltage surge protection - Part 332: Selection and application principles for metal oxide varistors (MOV)",
+  "id": "3835601",
+  "name": "IEC 61643-11:2025/C1:2026",
+  "title": "Low-voltage surge protective devices - Part 11: Surge protective devices connected to AC low-voltage power systems - Requirements and test methods",
   "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "Corrigendum",
   "status": "publicerad",
   "committee_sek": "TK 37A",
-  "committee_intl": "TC 37/SC 37B",
-  "determination_date": "2025-02-04",
+  "committee_intl": "TC 37/SC 37A",
+  "determination_date": null,
   "annulment_date": null,
   "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3259601"
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3835601"
  },
  {
   "id": "3558001",
@@ -465,6 +465,21 @@
   "url": "https://elstandard.se/standard/3558001"
  },
  {
+  "id": "3259601",
+  "name": "IEC 61643-332:2024",
+  "title": "Components for low-voltage surge protection - Part 332: Selection and application principles for metal oxide varistors (MOV)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 37A",
+  "committee_intl": "TC 37/SC 37B",
+  "determination_date": "2025-02-04",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3259601"
+ },
+ {
   "id": "3286101",
   "name": "IEC TR 61643-03:2024",
   "title": "Low-voltage surge protective devices - Part 03: SPD Testing Guide",
@@ -478,36 +493,6 @@
   "pub_year": 2024,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3286101"
- },
- {
-  "id": "2212101",
-  "name": "IEC 61643-331:2020",
-  "title": "Components for low-voltage surge protection - Part 331: Performance requirements and test methods for metal oxide varistors (MOV)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 37A",
-  "committee_intl": "TC 37/SC 37B",
-  "determination_date": "2020-10-20",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2212101"
- },
- {
-  "id": "2212201",
-  "name": "IEC 61643-331:2020 RLV",
-  "title": "Components for low-voltage surge protection - Part 331: Performance requirements and test methods for metal oxide varistors (MOV)",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 37A",
-  "committee_intl": "TC 37/SC 37B",
-  "determination_date": "2020-10-20",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2212201"
  },
  {
   "id": "2231901",
@@ -538,6 +523,36 @@
   "pub_year": 2020,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2238001"
+ },
+ {
+  "id": "2212101",
+  "name": "IEC 61643-331:2020",
+  "title": "Components for low-voltage surge protection - Part 331: Performance requirements and test methods for metal oxide varistors (MOV)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 37A",
+  "committee_intl": "TC 37/SC 37B",
+  "determination_date": "2020-10-20",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2212101"
+ },
+ {
+  "id": "2212201",
+  "name": "IEC 61643-331:2020 RLV",
+  "title": "Components for low-voltage surge protection - Part 331: Performance requirements and test methods for metal oxide varistors (MOV)",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 37A",
+  "committee_intl": "TC 37/SC 37B",
+  "determination_date": "2020-10-20",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2212201"
  },
  {
   "id": "1914301",

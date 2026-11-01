@@ -1110,36 +1110,6 @@
   "url": "https://elstandard.se/standard/3727301"
  },
  {
-  "id": "3598901",
-  "name": "IEC TS 62271-315:2025",
-  "title": "High-voltage switchgear and controlgear - Part 315: Direct current (DC) transfer switches",
-  "prefix": "IEC TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3598901"
- },
- {
-  "id": "3599001",
-  "name": "IEC TS 62271-315:2025 EXV",
-  "title": "High-voltage switchgear and controlgear - Part 315: Direct current (DC) transfer switches",
-  "prefix": "IEC TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/3599001"
- },
- {
   "id": "3607801",
   "name": "IEC TS 62271-320:2025",
   "title": "High-voltage switchgear and controlgear – Part 320: Environmental aspects and life cycle assessment rules",
@@ -1183,6 +1153,51 @@
   "pub_year": 2025,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3608801"
+ },
+ {
+  "id": "3598901",
+  "name": "IEC TS 62271-315:2025",
+  "title": "High-voltage switchgear and controlgear - Part 315: Direct current (DC) transfer switches",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3598901"
+ },
+ {
+  "id": "3599001",
+  "name": "IEC TS 62271-315:2025 EXV",
+  "title": "High-voltage switchgear and controlgear - Part 315: Direct current (DC) transfer switches",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/3599001"
+ },
+ {
+  "id": "3307501",
+  "name": "IEC 62271-211:2024",
+  "title": "High-voltage switchgear and controlgear - Part 211: Direct connection between power transformers and gas-insulated metal-enclosed switchgear for rated voltages above 52 kV",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17C",
+  "determination_date": "2025-06-03",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3307501"
  },
  {
   "id": "3259001",
@@ -1275,21 +1290,6 @@
   "url": "https://elstandard.se/standard/3296901"
  },
  {
-  "id": "3307501",
-  "name": "IEC 62271-211:2024",
-  "title": "High-voltage switchgear and controlgear - Part 211: Direct connection between power transformers and gas-insulated metal-enclosed switchgear for rated voltages above 52 kV",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17C",
-  "determination_date": "2025-06-03",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3307501"
- },
- {
   "id": "3621901",
   "name": "IEC 62271-214:2024/C1:2025",
   "title": "High-voltage switchgear and controlgear – Part 214: Internal arc classification for metal enclosed pole-mounted switchgear and controlgear for rated voltages above 1 kV and up to and including 52 kV",
@@ -1333,36 +1333,6 @@
   "pub_year": 2024,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/3313801"
- },
- {
-  "id": "3268101",
-  "name": "IEC TS 62271-5:2024",
-  "title": "High-voltage switchgear and controlgear - Part 5: Common specifications for direct current switchgear",
-  "prefix": "IEC TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3268101"
- },
- {
-  "id": "3281401",
-  "name": "IEC TS 62271-314:2024",
-  "title": "High-voltage switchgear and controlgear – Part 314: Direct current disconnectors and earthing switches",
-  "prefix": "IEC TS",
-  "doc_type": "TS",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2025-02-04",
-  "annulment_date": null,
-  "pub_year": 2025,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3281401"
  },
  {
   "id": "3312101",
@@ -1440,6 +1410,36 @@
   "url": "https://elstandard.se/standard/3544601"
  },
  {
+  "id": "3268101",
+  "name": "IEC TS 62271-5:2024",
+  "title": "High-voltage switchgear and controlgear - Part 5: Common specifications for direct current switchgear",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3268101"
+ },
+ {
+  "id": "3281401",
+  "name": "IEC TS 62271-314:2024",
+  "title": "High-voltage switchgear and controlgear – Part 314: Direct current disconnectors and earthing switches",
+  "prefix": "IEC TS",
+  "doc_type": "TS",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": "2025-02-04",
+  "annulment_date": null,
+  "pub_year": 2025,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3281401"
+ },
+ {
   "id": "2985301",
   "name": "IEC 62271-110:2023",
   "title": "High-voltage switchgear and controlgear - Part 110: Inductive load switching",
@@ -1485,19 +1485,19 @@
   "url": "https://elstandard.se/standard/3077801"
  },
  {
-  "id": "2871301",
-  "name": "IEC 62271-209:2019+AMD1:2022 CSV",
-  "title": "High-voltage switchgear and controlgear - Part 209: Cable connections for gasinsulated metal-enclosed switchgear for rated voltages above 52 kV - Fluid-filled and extruded insulation cables - Fluid-filled and dry type cable-terminations",
+  "id": "2885201",
+  "name": "IEC 62271-102:2018+AMD1:2022 CSV",
+  "title": "High-voltage switchgear and controlgear - Part 102: Alternating current disconnectors and earthing switches",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17C",
+  "committee_intl": "TC 17/SC 17A",
   "determination_date": null,
   "annulment_date": null,
-  "pub_year": 2019,
+  "pub_year": 2018,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2871301"
+  "url": "https://elstandard.se/standard/2885201"
  },
  {
   "id": "2897801",
@@ -1620,6 +1620,21 @@
   "url": "https://elstandard.se/standard/2912501"
  },
  {
+  "id": "2871301",
+  "name": "IEC 62271-209:2019+AMD1:2022 CSV",
+  "title": "High-voltage switchgear and controlgear - Part 209: Cable connections for gasinsulated metal-enclosed switchgear for rated voltages above 52 kV - Fluid-filled and extruded insulation cables - Fluid-filled and dry type cable-terminations",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17C",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2019,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2871301"
+ },
+ {
   "id": "3031801",
   "name": "IEC 62271-202:2022/COR1:2023",
   "title": "High-voltage switchgear and controlgear - Part 202: AC prefabricated substations for rated voltages above 1 kV and up to and including 52 kV",
@@ -1648,6 +1663,36 @@
   "pub_year": 2017,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/2790101"
+ },
+ {
+  "id": "2767801",
+  "name": "IEC 62271-112:2021 RLV",
+  "title": "High-voltage switchgear and controlgear - Part 112: Alternating current high-speed earthing switches for secondary arc extinction on transmission lines",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": "2021-11-16",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2767801"
+ },
+ {
+  "id": "2772001",
+  "name": "IEC 62271-101:2021",
+  "title": "High-voltage switchgear and controlgear - Part 101: Synthetic testing",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": "2022-01-25",
+  "annulment_date": null,
+  "pub_year": 2022,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2772001"
  },
  {
   "id": "2633401",
@@ -1785,36 +1830,6 @@
   "url": "https://elstandard.se/standard/2767701"
  },
  {
-  "id": "2767801",
-  "name": "IEC 62271-112:2021 RLV",
-  "title": "High-voltage switchgear and controlgear - Part 112: Alternating current high-speed earthing switches for secondary arc extinction on transmission lines",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2021-11-16",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2767801"
- },
- {
-  "id": "2772001",
-  "name": "IEC 62271-101:2021",
-  "title": "High-voltage switchgear and controlgear - Part 101: Synthetic testing",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2022-01-25",
-  "annulment_date": null,
-  "pub_year": 2022,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2772001"
- },
- {
   "id": "3658901",
   "name": "IEC 62271-103:2021/C1:2025",
   "title": "High-voltage switchgear and controlgear – Part 103: Alternating current switches for rated voltages above 1 kV up to and including 52 kV",
@@ -1830,21 +1845,6 @@
   "url": "https://elstandard.se/standard/3658901"
  },
  {
-  "id": "3283501",
-  "name": "IEC 62271-200:2021/A1:2024",
-  "title": "High-voltage switchgear and controlgear - Part 200: AC metal-enclosed switchgear and controlgear for rated voltages above 1 kV and up to and including 52 kV",
-  "prefix": "IEC",
-  "doc_type": "Amendment",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17C",
-  "determination_date": "2025-04-01",
-  "annulment_date": null,
-  "pub_year": 2021,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3283501"
- },
- {
   "id": "2911101",
   "name": "IEC 62271-100:2021/C2:2022",
   "title": "High-voltage switchgear and controlgear - Part 100: Alternating-current circuit-breakers",
@@ -1858,6 +1858,21 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2911101"
+ },
+ {
+  "id": "3283501",
+  "name": "IEC 62271-200:2021/A1:2024",
+  "title": "High-voltage switchgear and controlgear - Part 200: AC metal-enclosed switchgear and controlgear for rated voltages above 1 kV and up to and including 52 kV",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17C",
+  "determination_date": "2025-04-01",
+  "annulment_date": null,
+  "pub_year": 2021,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3283501"
  },
  {
   "id": "3113801",
@@ -1920,36 +1935,6 @@
   "url": "https://elstandard.se/standard/3338601"
  },
  {
-  "id": "2220401",
-  "name": "IEC 60282-1:2020",
-  "title": "High-voltage fuses - Part 1: Current-limiting fuses",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 32/SC 32A",
-  "determination_date": "2020-09-22",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2220401"
- },
- {
-  "id": "2220501",
-  "name": "IEC 60282-4:2020",
-  "title": "High-voltage fuses - Part 4: Additional testing requirements for high-voltage expulsion fuses utilizing polymeric insulators",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 32/SC 32A",
-  "determination_date": "2020-12-15",
-  "annulment_date": null,
-  "pub_year": 2020,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2220501"
- },
- {
   "id": "2260901",
   "name": "IEC 62271-108:2020",
   "title": "High-voltage switchgear and controlgear - Part 108: High-voltage alternating current disconnecting circuit-breakers for rated voltages above 52 kV",
@@ -1978,6 +1963,36 @@
   "pub_year": 2021,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2271901"
+ },
+ {
+  "id": "2220401",
+  "name": "IEC 60282-1:2020",
+  "title": "High-voltage fuses - Part 1: Current-limiting fuses",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 32/SC 32A",
+  "determination_date": "2020-09-22",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2220401"
+ },
+ {
+  "id": "2220501",
+  "name": "IEC 60282-4:2020",
+  "title": "High-voltage fuses - Part 4: Additional testing requirements for high-voltage expulsion fuses utilizing polymeric insulators",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 32/SC 32A",
+  "determination_date": "2020-12-15",
+  "annulment_date": null,
+  "pub_year": 2020,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2220501"
  },
  {
   "id": "2583701",
@@ -2070,6 +2085,21 @@
   "url": "https://elstandard.se/standard/2090001"
  },
  {
+  "id": "2145501",
+  "name": "IEC 60644:2009+AMD1:2019 CSV",
+  "title": "Specification for high-voltage fuse-links for motor circuit applications",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 32/SC 32A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2145501"
+ },
+ {
   "id": "2109801",
   "name": "IEC 62271-107:2019",
   "title": "High-voltage switchgear and controlgear - Part 107: Alternating current fused circuit-switchers for rated voltages above 1 kV up to and including 52 kV",
@@ -2098,21 +2128,6 @@
   "pub_year": 2020,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2109901"
- },
- {
-  "id": "2145501",
-  "name": "IEC 60644:2009+AMD1:2019 CSV",
-  "title": "Specification for high-voltage fuse-links for motor circuit applications",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 32/SC 32A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2009,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2145501"
  },
  {
   "id": "2871201",
@@ -2865,21 +2880,6 @@
   "url": "https://elstandard.se/standard/1391101"
  },
  {
-  "id": "2855101",
-  "name": "IEC 62271-202:2014/C1:2015",
-  "title": "High-voltage switchgear and controlgear - Part 202: High voltage/low-voltage prefabricated substation",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17C",
-  "determination_date": "2022-04-19",
-  "annulment_date": "2025-07-26",
-  "pub_year": 2014,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/2855101"
- },
- {
   "id": "1869401",
   "name": "IEC 62271-211:2014/C2:2017",
   "title": "High-voltage switchgear and controlgear - Part 211: Direct connection between power transformers and gas-insulated metal-enclosed switchgear for rated voltages above 52 kV",
@@ -2893,6 +2893,21 @@
   "pub_year": 2015,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1869401"
+ },
+ {
+  "id": "2855101",
+  "name": "IEC 62271-202:2014/C1:2015",
+  "title": "High-voltage switchgear and controlgear - Part 202: High voltage/low-voltage prefabricated substation",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17C",
+  "determination_date": "2022-04-19",
+  "annulment_date": "2025-07-26",
+  "pub_year": 2014,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2855101"
  },
  {
   "id": "1306701",
@@ -2985,21 +3000,6 @@
   "url": "https://elstandard.se/standard/1237001"
  },
  {
-  "id": "1243001",
-  "name": "IEC 62271-102:2001+AMD1:2011+AMD2:2013 CSV",
-  "title": "High-voltage switchgear and controlgear - Part 102: High-voltage alternating current disconnectors and earthing switches",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2001,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1243001"
- },
- {
   "id": "1279201",
   "name": "IEC 62271-109:2008+AMD1:2013 CSV",
   "title": "High-voltage switchgear and controlgear - Part 109: Alternating-current series capacitor by-pass switches",
@@ -3043,6 +3043,21 @@
   "pub_year": 2014,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1305001"
+ },
+ {
+  "id": "1243001",
+  "name": "IEC 62271-102:2001+AMD1:2011+AMD2:2013 CSV",
+  "title": "High-voltage switchgear and controlgear - Part 102: High-voltage alternating current disconnectors and earthing switches",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2001,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1243001"
  },
  {
   "id": "1094201",
@@ -3525,19 +3540,19 @@
   "url": "https://elstandard.se/standard/3201"
  },
  {
-  "id": "3901",
-  "name": "IEC 62271-104:2009",
-  "title": "High-voltage switchgear and controlgear - Part 104: Alternating current switches for rated voltages of 52 kV and above",
+  "id": "343101",
+  "name": "IEC 60282-1:2009",
+  "title": "High-voltage fuses - Part 1: Current-limiting fuses",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2010-02-21",
-  "annulment_date": "2018-03-11",
+  "committee_intl": "TC 32/SC 32A",
+  "determination_date": "2010-05-23",
+  "annulment_date": "2023-05-18",
   "pub_year": 2010,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/3901"
+  "url": "https://elstandard.se/standard/343101"
  },
  {
   "id": "206301",
@@ -3555,19 +3570,19 @@
   "url": "https://elstandard.se/standard/206301"
  },
  {
-  "id": "343101",
-  "name": "IEC 60282-1:2009",
-  "title": "High-voltage fuses - Part 1: Current-limiting fuses",
+  "id": "3901",
+  "name": "IEC 62271-104:2009",
+  "title": "High-voltage switchgear and controlgear - Part 104: Alternating current switches for rated voltages of 52 kV and above",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 17AC",
-  "committee_intl": "TC 32/SC 32A",
-  "determination_date": "2010-05-23",
-  "annulment_date": "2023-05-18",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": "2010-02-21",
+  "annulment_date": "2018-03-11",
   "pub_year": 2010,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/343101"
+  "url": "https://elstandard.se/standard/3901"
  },
  {
   "id": "1418401",
@@ -3690,21 +3705,6 @@
   "url": "https://elstandard.se/standard/115501"
  },
  {
-  "id": "204601",
-  "name": "IEC 62271-100:2008",
-  "title": "High-voltage switchgear and controlgear - Part 100: Alternating-current circuit-breakers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2009-10-25",
-  "annulment_date": "2024-08-10",
-  "pub_year": 2009,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/204601"
- },
- {
   "id": "318701",
   "name": "IEC 62271-109:2008",
   "title": "High-voltage switchgear and controlgear - Part 109: Alternating-current series capacitor by-pass switches",
@@ -3720,19 +3720,19 @@
   "url": "https://elstandard.se/standard/318701"
  },
  {
-  "id": "1091201",
-  "name": "IEC 62271-100:2008/A1:2012",
+  "id": "204601",
+  "name": "IEC 62271-100:2008",
   "title": "High-voltage switchgear and controlgear - Part 100: Alternating-current circuit-breakers",
   "prefix": "IEC",
-  "doc_type": "Amendment",
+  "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 17AC",
   "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2013-02-14",
+  "determination_date": "2009-10-25",
   "annulment_date": "2024-08-10",
   "pub_year": 2009,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/1091201"
+  "url": "https://elstandard.se/standard/204601"
  },
  {
   "id": "1279101",
@@ -3748,6 +3748,21 @@
   "pub_year": 2010,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1279101"
+ },
+ {
+  "id": "1091201",
+  "name": "IEC 62271-100:2008/A1:2012",
+  "title": "High-voltage switchgear and controlgear - Part 100: Alternating-current circuit-breakers",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": "2013-02-14",
+  "annulment_date": "2024-08-10",
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1091201"
  },
  {
   "id": "1844801",
@@ -4080,21 +4095,6 @@
   "url": "https://elstandard.se/standard/663001"
  },
  {
-  "id": "3701",
-  "name": "IEC 62271-110:2005",
-  "title": "High-voltage switchgear and controlgear - Part 110: Inductive load switching",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2005-12-18",
-  "annulment_date": "2012-03-31",
-  "pub_year": 2005,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3701"
- },
- {
   "id": "342901",
   "name": "IEC 60282-1:2005",
   "title": "High-voltage fuses - Part 1: Current-limiting fuses",
@@ -4110,19 +4110,19 @@
   "url": "https://elstandard.se/standard/342901"
  },
  {
-  "id": "662901",
-  "name": "IEC 62271-107:2005",
-  "title": "High-voltage switchgear and controlgear - Part 107: Alternating current fused circuit-switchers for rated voltages above 1 kV up to and including 52 kV",
+  "id": "3701",
+  "name": "IEC 62271-110:2005",
+  "title": "High-voltage switchgear and controlgear - Part 110: Inductive load switching",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 17AC",
   "committee_intl": "TC 17/SC 17A",
   "determination_date": "2005-12-18",
-  "annulment_date": "2015-07-02",
+  "annulment_date": "2012-03-31",
   "pub_year": 2005,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/662901"
+  "url": "https://elstandard.se/standard/3701"
  },
  {
   "id": "612601",
@@ -4138,6 +4138,21 @@
   "pub_year": 2006,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/612601"
+ },
+ {
+  "id": "662901",
+  "name": "IEC 62271-107:2005",
+  "title": "High-voltage switchgear and controlgear - Part 107: Alternating current fused circuit-switchers for rated voltages above 1 kV up to and including 52 kV",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": "2005-12-18",
+  "annulment_date": "2015-07-02",
+  "pub_year": 2005,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/662901"
  },
  {
   "id": "741401",
@@ -4455,6 +4470,21 @@
   "url": "https://elstandard.se/standard/612401"
  },
  {
+  "id": "1712601",
+  "name": "IEC 62271-102:2001/C4:2014",
+  "title": "High-voltage switchgear and controlgear - Part 102: High-voltage alternating current disconnectors and earthing switches",
+  "prefix": "IEC",
+  "doc_type": "Corrigendum",
+  "status": "upphavd",
+  "committee_sek": "TK 17AC",
+  "committee_intl": "TC 17/SC 17A",
+  "determination_date": "2016-10-11",
+  "annulment_date": "2021-06-18",
+  "pub_year": 2003,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1712601"
+ },
+ {
   "id": "971601",
   "name": "IEC 62271-102:2001/A1:2011",
   "title": "High-voltage switchgear and controlgear - Part 102: Alternating current disconnectors and earthing switches",
@@ -4483,21 +4513,6 @@
   "pub_year": 2003,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1242901"
- },
- {
-  "id": "1712601",
-  "name": "IEC 62271-102:2001/C4:2014",
-  "title": "High-voltage switchgear and controlgear - Part 102: High-voltage alternating current disconnectors and earthing switches",
-  "prefix": "IEC",
-  "doc_type": "Corrigendum",
-  "status": "upphavd",
-  "committee_sek": "TK 17AC",
-  "committee_intl": "TC 17/SC 17A",
-  "determination_date": "2016-10-11",
-  "annulment_date": "2021-06-18",
-  "pub_year": 2003,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1712601"
  },
  {
   "id": "929301",

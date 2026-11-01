@@ -885,21 +885,6 @@
   "url": "https://elstandard.se/standard/3801801"
  },
  {
-  "id": "3005001",
-  "name": "IEC 60076-19-1:2023",
-  "title": "IEC 60076-19-1 ED1: Power transformers - Part 19 - 1: Rules for the determination of uncertainties in the measurement of the losses of power transformers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": "2024-03-19",
-  "annulment_date": null,
-  "pub_year": 2024,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/3005001"
- },
- {
   "id": "2978301",
   "name": "IEC 60076-25:2023",
   "title": "Power transformers - Part 25: Neutral grounding resistors",
@@ -913,6 +898,21 @@
   "pub_year": 2023,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/2978301"
+ },
+ {
+  "id": "3005001",
+  "name": "IEC 60076-19-1:2023",
+  "title": "IEC 60076-19-1 ED1: Power transformers - Part 19 - 1: Rules for the determination of uncertainties in the measurement of the losses of power transformers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": "2024-03-19",
+  "annulment_date": null,
+  "pub_year": 2024,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/3005001"
  },
  {
   "id": "2793501",
@@ -1125,26 +1125,11 @@
   "url": "https://elstandard.se/standard/2117601"
  },
  {
-  "id": "1950601",
-  "name": "IEC 60076-3:2013+AMD1:2018 CSV",
-  "title": "Power transformers - Part 3: Insulation levels, dielectric tests and external clearances in air",
+  "id": "2261201",
+  "name": "IEC 60076-11:2018/IS1:2020",
+  "title": "Power transformers - Part 11: Dry-type transformers",
   "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2013,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1950601"
- },
- {
-  "id": "1916001",
-  "name": "IEC 60076-7:2018",
-  "title": "Power transformers - Part 7: Loading guide for mineral-oil-immersed power transformers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
+  "doc_type": "IS",
   "status": "publicerad",
   "committee_sek": "TK 14",
   "committee_intl": "TC 14",
@@ -1152,22 +1137,7 @@
   "annulment_date": null,
   "pub_year": 2018,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/1916001"
- },
- {
-  "id": "1916201",
-  "name": "IEC 60076-7:2018 RLV",
-  "title": "Power transformers - Part 7: Loading guide for mineral-oil-immersed power transformers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2018,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1916201"
+  "url": "https://elstandard.se/standard/2261201"
  },
  {
   "id": "1998501",
@@ -1200,11 +1170,11 @@
   "url": "https://elstandard.se/standard/1998601"
  },
  {
-  "id": "2261201",
-  "name": "IEC 60076-11:2018/IS1:2020",
-  "title": "Power transformers - Part 11: Dry-type transformers",
+  "id": "1916001",
+  "name": "IEC 60076-7:2018",
+  "title": "Power transformers - Part 7: Loading guide for mineral-oil-immersed power transformers",
   "prefix": "IEC",
-  "doc_type": "IS",
+  "doc_type": "Standard",
   "status": "publicerad",
   "committee_sek": "TK 14",
   "committee_intl": "TC 14",
@@ -1212,7 +1182,37 @@
   "annulment_date": null,
   "pub_year": 2018,
   "is_swedish": false,
-  "url": "https://elstandard.se/standard/2261201"
+  "url": "https://elstandard.se/standard/1916001"
+ },
+ {
+  "id": "1916201",
+  "name": "IEC 60076-7:2018 RLV",
+  "title": "Power transformers - Part 7: Loading guide for mineral-oil-immersed power transformers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2018,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1916201"
+ },
+ {
+  "id": "1950601",
+  "name": "IEC 60076-3:2013+AMD1:2018 CSV",
+  "title": "Power transformers - Part 3: Insulation levels, dielectric tests and external clearances in air",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2013,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1950601"
  },
  {
   "id": "1915401",
@@ -1365,21 +1365,6 @@
   "url": "https://elstandard.se/standard/2555701"
  },
  {
-  "id": "1509401",
-  "name": "IEC 61378-3:2015",
-  "title": "Converter transformers - Part 3: Application guide",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2015,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/1509401"
- },
- {
   "id": "1549001",
   "name": "IEC 60076-15:2015",
   "title": "Power transformers - Part 15: Gas-filled power transformers",
@@ -1393,6 +1378,21 @@
   "pub_year": 2015,
   "is_swedish": false,
   "url": "https://elstandard.se/standard/1549001"
+ },
+ {
+  "id": "1509401",
+  "name": "IEC 61378-3:2015",
+  "title": "Converter transformers - Part 3: Application guide",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2015,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/1509401"
  },
  {
   "id": "1401701",
@@ -1485,21 +1485,6 @@
   "url": "https://elstandard.se/standard/1063501"
  },
  {
-  "id": "923701",
-  "name": "IEC 60076-2:2011",
-  "title": "Power transformers - Part 2: Temperature rise for liquid-immersed transformers",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "publicerad",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": "2011-05-03",
-  "annulment_date": null,
-  "pub_year": 2011,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/923701"
- },
- {
   "id": "939801",
   "name": "IEC 60076-1:2011",
   "title": "Power transformers - Part 1: General",
@@ -1528,6 +1513,21 @@
   "pub_year": 2012,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/969101"
+ },
+ {
+  "id": "923701",
+  "name": "IEC 60076-2:2011",
+  "title": "Power transformers - Part 2: Temperature rise for liquid-immersed transformers",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "publicerad",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": "2011-05-03",
+  "annulment_date": null,
+  "pub_year": 2011,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/923701"
  },
  {
   "id": "1263701",
@@ -1905,21 +1905,6 @@
   "url": "https://elstandard.se/standard/811201"
  },
  {
-  "id": "794001",
-  "name": "IEC 60076-10:2001",
-  "title": "Power transformers -  Part 10: Determination of sound levels",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 14",
-  "committee_intl": "TC 14",
-  "determination_date": "2001-09-27",
-  "annulment_date": "2019-10-16",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/794001"
- },
- {
   "id": "822401",
   "name": "IEC 61378-2:2001",
   "title": "Convertor transformers - Part 2: Transformers for HVDC applications",
@@ -1933,6 +1918,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/822401"
+ },
+ {
+  "id": "794001",
+  "name": "IEC 60076-10:2001",
+  "title": "Power transformers -  Part 10: Determination of sound levels",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 14",
+  "committee_intl": "TC 14",
+  "determination_date": "2001-09-27",
+  "annulment_date": "2019-10-16",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/794001"
  },
  {
   "id": "793801",

@@ -405,6 +405,21 @@
   "url": "https://elstandard.se/standard/1993501"
  },
  {
+  "id": "2780901",
+  "name": "IEC 61869-11:2017/IS1:2021",
+  "title": "Instrument transformers - Part 11: Additional requirements for low power passive voltage transformers",
+  "prefix": "IEC",
+  "doc_type": "IS",
+  "status": "publicerad",
+  "committee_sek": "TK 38",
+  "committee_intl": "TC 38",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2017,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2780901"
+ },
+ {
   "id": "1905701",
   "name": "IEC 61869-10:2017",
   "title": "Instrument transformers - Part 10: Additional requirements for low-power passive current transformers",
@@ -433,21 +448,6 @@
   "pub_year": 2018,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1905801"
- },
- {
-  "id": "2780901",
-  "name": "IEC 61869-11:2017/IS1:2021",
-  "title": "Instrument transformers - Part 11: Additional requirements for low power passive voltage transformers",
-  "prefix": "IEC",
-  "doc_type": "IS",
-  "status": "publicerad",
-  "committee_sek": "TK 38",
-  "committee_intl": "TC 38",
-  "determination_date": null,
-  "annulment_date": null,
-  "pub_year": 2017,
-  "is_swedish": false,
-  "url": "https://elstandard.se/standard/2780901"
  },
  {
   "id": "1781501",
@@ -973,5 +973,35 @@
   "pub_year": 2000,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/718001"
+ },
+ {
+  "id": "4095501",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 38",
+  "committee_intl": "TC 38",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4095501"
+ },
+ {
+  "id": "4095901",
+  "name": null,
+  "title": "",
+  "prefix": null,
+  "doc_type": "Standard",
+  "status": "new_work_proposal",
+  "committee_sek": "TK 38",
+  "committee_intl": "TC 38",
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": null,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/4095901"
  }
 ]

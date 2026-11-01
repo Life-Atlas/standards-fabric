@@ -1650,19 +1650,19 @@
   "url": "https://elstandard.se/standard/756201"
  },
  {
-  "id": "1119101",
-  "name": "IEC 60721-2-2:2012",
-  "title": "Classification of environmental conditions - Part 2-2: Environmental conditions appearing in nature - Precipitation and wind",
+  "id": "2150301",
+  "name": "IEC 60068-2-64:2008+AMD1:2019 CSV",
+  "title": "Environmental testing - Part 2-64: Tests - Test Fh: Vibration, broadband random and guidance",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 104",
   "committee_intl": "TC 104",
-  "determination_date": "2013-10-08",
-  "annulment_date": "2027-12-30",
-  "pub_year": 2013,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1119101"
+  "determination_date": null,
+  "annulment_date": null,
+  "pub_year": 2008,
+  "is_swedish": false,
+  "url": "https://elstandard.se/standard/2150301"
  },
  {
   "id": "1103501",
@@ -1678,6 +1678,21 @@
   "pub_year": 2013,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1103501"
+ },
+ {
+  "id": "1119101",
+  "name": "IEC 60721-2-2:2012",
+  "title": "Classification of environmental conditions - Part 2-2: Environmental conditions appearing in nature - Precipitation and wind",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2013-10-08",
+  "annulment_date": "2027-12-30",
+  "pub_year": 2013,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1119101"
  },
  {
   "id": "3631001",
@@ -1830,6 +1845,21 @@
   "url": "https://elstandard.se/standard/493901"
  },
  {
+  "id": "307701",
+  "name": "IEC 60068-2-64:2008",
+  "title": "Environmental testing - Part 2-64: Tests - Test Fh: Vibration, broadband random and guidance",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2009-02-22",
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/307701"
+ },
+ {
   "id": "308601",
   "name": "IEC 60068-2-20:2008",
   "title": "Environmental testing - Part 2-20: Tests - Test T: Test methods for solderability and resistance to soldering heat of devices with leads",
@@ -1843,6 +1873,21 @@
   "pub_year": 2009,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/308601"
+ },
+ {
+  "id": "2150201",
+  "name": "IEC 60068-2-64:2008/A1:2019",
+  "title": "Environmental testing - Part 2-64: Tests - Test Fh: Vibration, broadband random and guidance",
+  "prefix": "IEC",
+  "doc_type": "Amendment",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2020-02-18",
+  "annulment_date": null,
+  "pub_year": 2009,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/2150201"
  },
  {
   "id": "466601",
@@ -1860,19 +1905,19 @@
   "url": "https://elstandard.se/standard/466601"
  },
  {
-  "id": "493801",
-  "name": "IEC 60068-2-82:2007",
-  "title": "Environmental testing - Part 2-82: Tests - Test TX: Whisker test methods for electronic and electric components",
+  "id": "583501",
+  "name": "IEC 60068-2-1:2007",
+  "title": "Environmental testing  - Part 2-1: Tests - Test A: Cold",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 104",
   "committee_intl": "TC 104",
-  "determination_date": "2008-02-24",
-  "annulment_date": "2022-06-17",
-  "pub_year": 2008,
+  "determination_date": "2007-06-24",
+  "annulment_date": "2028-11-29",
+  "pub_year": 2007,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/493801"
+  "url": "https://elstandard.se/standard/583501"
  },
  {
   "id": "511001",
@@ -1890,19 +1935,19 @@
   "url": "https://elstandard.se/standard/511001"
  },
  {
-  "id": "583501",
-  "name": "IEC 60068-2-1:2007",
-  "title": "Environmental testing  - Part 2-1: Tests - Test A: Cold",
+  "id": "493801",
+  "name": "IEC 60068-2-82:2007",
+  "title": "Environmental testing - Part 2-82: Tests - Test TX: Whisker test methods for electronic and electric components",
   "prefix": "IEC",
   "doc_type": "Standard",
   "status": "upphavd",
   "committee_sek": "TK 104",
   "committee_intl": "TC 104",
-  "determination_date": "2007-06-24",
-  "annulment_date": "2028-11-29",
-  "pub_year": 2007,
+  "determination_date": "2008-02-24",
+  "annulment_date": "2022-06-17",
+  "pub_year": 2008,
   "is_swedish": true,
-  "url": "https://elstandard.se/standard/583501"
+  "url": "https://elstandard.se/standard/493801"
  },
  {
   "id": "615101",
@@ -2145,21 +2190,6 @@
   "url": "https://elstandard.se/standard/891101"
  },
  {
-  "id": "889401",
-  "name": "SS-IEC 60721-2-3, utg 1:2001",
-  "title": "Miljöklassificering - Del 2-3: Miljöförhållanden i naturen - Lufttryck",
-  "prefix": "SS-IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2016-07-23",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/889401"
- },
- {
   "id": "1280601",
   "name": "SS-IEC 60721-2-8, utg 1:2001",
   "title": "Miljöklassificering - Del 2-8: Miljöförhållanden i naturen - Brandexponering",
@@ -2250,6 +2280,21 @@
   "url": "https://elstandard.se/standard/1281801"
  },
  {
+  "id": "889401",
+  "name": "SS-IEC 60721-2-3, utg 1:2001",
+  "title": "Miljöklassificering - Del 2-3: Miljöförhållanden i naturen - Lufttryck",
+  "prefix": "SS-IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2016-07-23",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/889401"
+ },
+ {
   "id": "277401",
   "name": "SS-EN 60068-2-27, utg 1:2001",
   "title": "Miljötålighetsprovning - Del 2-27: Provningsmetoder - Ea: Stöt, med vägledning",
@@ -2263,51 +2308,6 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/277401"
- },
- {
-  "id": "47801",
-  "name": "SS-EN 60068-1, utg 1:2001",
-  "title": "Miljötålighetsprovning - Del 1: Allmänna regler och vägledning",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-11-29",
-  "annulment_date": "2016-11-10",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/47801"
- },
- {
-  "id": "48001",
-  "name": "SS-EN 60068-2-38, utg 1:2001",
-  "title": "Miljötålighetsprovning - Del 2-38: Provningsmetoder - Z/AD: Fukt kombinerad med värme och kyla i sekvens",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-11-29",
-  "annulment_date": "2012-08-31",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/48001"
- },
- {
-  "id": "48401",
-  "name": "SS-EN 60068-2-1, utg 1:2001",
-  "title": "Miljötålighetsprovning - Del 2-1: Provningsmetoder - A: Kyla, stationärt tillstånd",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-11-29",
-  "annulment_date": "2010-03-31",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/48401"
  },
  {
   "id": "307901",
@@ -2355,6 +2355,51 @@
   "url": "https://elstandard.se/standard/308401"
  },
  {
+  "id": "47801",
+  "name": "SS-EN 60068-1, utg 1:2001",
+  "title": "Miljötålighetsprovning - Del 1: Allmänna regler och vägledning",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-11-29",
+  "annulment_date": "2016-11-10",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/47801"
+ },
+ {
+  "id": "48001",
+  "name": "SS-EN 60068-2-38, utg 1:2001",
+  "title": "Miljötålighetsprovning - Del 2-38: Provningsmetoder - Z/AD: Fukt kombinerad med värme och kyla i sekvens",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-11-29",
+  "annulment_date": "2012-08-31",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/48001"
+ },
+ {
+  "id": "48401",
+  "name": "SS-EN 60068-2-1, utg 1:2001",
+  "title": "Miljötålighetsprovning - Del 2-1: Provningsmetoder - A: Kyla, stationärt tillstånd",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-11-29",
+  "annulment_date": "2010-03-31",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/48401"
+ },
+ {
   "id": "387001",
   "name": "SS-EN 60068-2-50, utg 1:2001",
   "title": "Miljötålighetsprovning - Del 2-50: Provningsmetoder - Z/AFc: Sinusvibrationer i kyla",
@@ -2385,6 +2430,21 @@
   "url": "https://elstandard.se/standard/387201"
  },
  {
+  "id": "472901",
+  "name": "SS-EN 60068-2-6, utg 1:2001",
+  "title": "Miljötålighetsprovning - Del 2-6: Provningsmetoder - Fc: Sinusvibration",
+  "prefix": "SS-EN",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-11-29",
+  "annulment_date": "2011-01-31",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/472901"
+ },
+ {
   "id": "153201",
   "name": "SS-EN 60068-2-14, utg 1:2001",
   "title": "Miljötålighetsprovning - Del 2-14: Provningsmetoder - N: Temperaturändring",
@@ -2413,21 +2473,6 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/153701"
- },
- {
-  "id": "472901",
-  "name": "SS-EN 60068-2-6, utg 1:2001",
-  "title": "Miljötålighetsprovning - Del 2-6: Provningsmetoder - Fc: Sinusvibration",
-  "prefix": "SS-EN",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-11-29",
-  "annulment_date": "2011-01-31",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/472901"
  },
  {
   "id": "828601",
@@ -2775,21 +2820,6 @@
   "url": "https://elstandard.se/standard/836101"
  },
  {
-  "id": "387401",
-  "name": "SS-IEC 60068-2-53, utg 1:2001",
-  "title": "Miljötålighetsprovning - Del 2-53: Provningsmetoder - Vägledning för sinusvibrationsprovning i kyla/värme, Z/AFc och Z/BFc",
-  "prefix": "SS-IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-11-29",
-  "annulment_date": "2013-04-30",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/387401"
- },
- {
   "id": "308801",
   "name": "SS-IEC 60068-2-20, utg 1:2001",
   "title": "Miljötålighetsprovning - Del 2-20: Provningsmetoder - T: Lödbarhet och lödtålighet",
@@ -2803,6 +2833,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/308801"
+ },
+ {
+  "id": "387401",
+  "name": "SS-IEC 60068-2-53, utg 1:2001",
+  "title": "Miljötålighetsprovning - Del 2-53: Provningsmetoder - Vägledning för sinusvibrationsprovning i kyla/värme, Z/AFc och Z/BFc",
+  "prefix": "SS-IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-11-29",
+  "annulment_date": "2013-04-30",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/387401"
  },
  {
   "id": "828701",
@@ -3135,21 +3180,6 @@
   "url": "https://elstandard.se/standard/834401"
  },
  {
-  "id": "890301",
-  "name": "IEC 60721-3-3:1994+AMD1:1995+AMD2:1996 CSV",
-  "title": "Classification of environmental conditions - Part 3: Classification of groups of environmental parameters and their severities - Section 3: Stationary use at weather protected locations",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2022-06-25",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/890301"
- },
- {
   "id": "1280501",
   "name": "IEC 60721-2-8:1994",
   "title": "Classification of environmental conditions - Part 2: Environmental conditions appearing in nature - Section 8: Fire exposure",
@@ -3163,6 +3193,21 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1280501"
+ },
+ {
+  "id": "890301",
+  "name": "IEC 60721-3-3:1994+AMD1:1995+AMD2:1996 CSV",
+  "title": "Classification of environmental conditions - Part 3: Classification of groups of environmental parameters and their severities - Section 3: Stationary use at weather protected locations",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2022-06-25",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/890301"
  },
  {
   "id": "890501",
@@ -3435,6 +3480,21 @@
   "url": "https://elstandard.se/standard/834001"
  },
  {
+  "id": "1280701",
+  "name": "IEC 60721-2-7:1987",
+  "title": "Classification of environmental conditions - Part 2: Environmental conditions appearing in nature - Fauna and flora",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 104",
+  "committee_intl": "TC 104",
+  "determination_date": "2001-12-18",
+  "annulment_date": "2021-04-22",
+  "pub_year": 2001,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1280701"
+ },
+ {
   "id": "889301",
   "name": "IEC 60721-2-3:1987",
   "title": "Classification of environmental conditions - Part 2: Environmental conditions appearing in nature - Air pressure",
@@ -3478,21 +3538,6 @@
   "pub_year": 2001,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/891401"
- },
- {
-  "id": "1280701",
-  "name": "IEC 60721-2-7:1987",
-  "title": "Classification of environmental conditions - Part 2: Environmental conditions appearing in nature - Fauna and flora",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 104",
-  "committee_intl": "TC 104",
-  "determination_date": "2001-12-18",
-  "annulment_date": "2021-04-22",
-  "pub_year": 2001,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1280701"
  },
  {
   "id": "891601",

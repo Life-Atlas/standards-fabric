@@ -2295,21 +2295,6 @@
   "url": "https://elstandard.se/standard/1181701"
  },
  {
-  "id": "1155801",
-  "name": "IEC 60437:1997",
-  "title": "Radio interference test on high-voltage insulators",
-  "prefix": "IEC",
-  "doc_type": "Standard",
-  "status": "upphavd",
-  "committee_sek": "TK 36",
-  "committee_intl": "TC 36",
-  "determination_date": "1997-11-27",
-  "annulment_date": "2027-01-18",
-  "pub_year": 1997,
-  "is_swedish": true,
-  "url": "https://elstandard.se/standard/1155801"
- },
- {
   "id": "1683001",
   "name": "IEC 61466-1:1997",
   "title": "Composite string insulator units for overhead lines with a nominal voltage greater than 1 kV - Part 1: Standard strength classes and end fittings",
@@ -2323,6 +2308,21 @@
   "pub_year": 1997,
   "is_swedish": true,
   "url": "https://elstandard.se/standard/1683001"
+ },
+ {
+  "id": "1155801",
+  "name": "IEC 60437:1997",
+  "title": "Radio interference test on high-voltage insulators",
+  "prefix": "IEC",
+  "doc_type": "Standard",
+  "status": "upphavd",
+  "committee_sek": "TK 36",
+  "committee_intl": "TC 36",
+  "determination_date": "1997-11-27",
+  "annulment_date": "2027-01-18",
+  "pub_year": 1997,
+  "is_swedish": true,
+  "url": "https://elstandard.se/standard/1155801"
  },
  {
   "id": "1181601",
