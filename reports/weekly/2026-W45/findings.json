@@ -1,0 +1,453 @@
+{
+ "period": "2026-W45",
+ "cadence": "weekly",
+ "generated": "2026-11-02",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4669,
+    "baseline_run": false,
+    "pipeline_open": 24
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61158-5-27, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-100:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-100:2023 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-1:2023 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-2:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-2:2023 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-3:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-3:2023 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-4:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-4:2023 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-5:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC/TR 62453-51-31:2017 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-3:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-4:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-2:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-13:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-13:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-12:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-9:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-9:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-7:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-7:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-8:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-8:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62541-11:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-4:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-109-1:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-109-1:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-3-8:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62453-1:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62453-2:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "CISPR 16-1-4:2010/A2:2017 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211bg: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211bg",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Beyond Smart Cities: OASC and Smart City Association explore European and Korean approaches to the Citiverse",
+     "source": "https://oascities.org/beyond-smart-cities-oasc-and-smart-city-association-explore-european-and-korean-approaches-to-the-citiverse/",
+     "date": "Mon, 02 Nov 2026 05:32:29 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-11-02",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
