@@ -1,0 +1,796 @@
+{
+ "period": "2026-W46",
+ "cadence": "weekly",
+ "generated": "2026-11-09",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4696,
+    "baseline_run": false,
+    "pipeline_open": 24
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 61158-5-27, utg 1:2023 — publicerad",
+     "source": "https://elstandard.se/standard/3084001",
+     "date": "2026-11-09",
+     "detail": "Industriell processtyrning - Fältbuss - Del 5-27: Definition av tjänster i applikationsskiktet - Delar i fältbuss, Typ 27",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-100:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2994101",
+     "date": "2026-11-09",
+     "detail": "Field device integration (FDI) - Part 100: Profiles - Generic protocols",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-100:2023 RLV — publicerad",
+     "source": "https://elstandard.se/standard/2994201",
+     "date": "2026-11-09",
+     "detail": "Field device integration (FDI) - Part 100: Profiles - Generic protocols",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-1:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2995001",
+     "date": "2026-11-09",
+     "detail": "Field device integration (FDI) - Part 1: Overview",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-1:2023 RLV — publicerad",
+     "source": "https://elstandard.se/standard/2995101",
+     "date": "2026-11-09",
+     "detail": "Field device integration (FDI) - Part 1: Overview",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-2:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2995201",
+     "date": "2026-11-09",
+     "detail": "Field Device Integration (FDI) - Part 2: FDI Client",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-2:2023 RLV — publicerad",
+     "source": "https://elstandard.se/standard/2995301",
+     "date": "2026-11-09",
+     "detail": "Field Device Integration (FDI) - Part 2: FDI Client",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-3:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2995401",
+     "date": "2026-11-09",
+     "detail": "Field Device Integration (FDI) - Part 3: Server",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-3:2023 RLV — publicerad",
+     "source": "https://elstandard.se/standard/2995501",
+     "date": "2026-11-09",
+     "detail": "Field Device Integration (FDI) - Part 3: Server",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-4:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2995601",
+     "date": "2026-11-09",
+     "detail": "Field Device Integration (FDI) - Part 4: FDI Packages",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-4:2023 RLV — publicerad",
+     "source": "https://elstandard.se/standard/2995701",
+     "date": "2026-11-09",
+     "detail": "Field Device Integration (FDI) - Part 4: FDI Packages",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-5:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2995801",
+     "date": "2026-11-09",
+     "detail": "Field Device Integration (FDI) - Part 5: Information Model",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TR 62453-51-31:2017 — publicerad",
+     "source": "https://elstandard.se/standard/1845201",
+     "date": "2026-11-09",
+     "detail": "Field device tool (FDT) interface specification - Part 51-31: Communication implementation for common object model - IEC 61784 CP 3/1 and CP 3/2",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-3:2007 — upphavd",
+     "source": "https://elstandard.se/standard/450301",
+     "date": "2026-11-09",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-3: Data-link layer service definition - Type 3 elements",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-3-4:2007 — upphavd",
+     "source": "https://elstandard.se/standard/450501",
+     "date": "2026-11-09",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-4: Data-link layer service definition - Type 4 elements",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-2:2007 — upphavd",
+     "source": "https://elstandard.se/standard/479901",
+     "date": "2026-11-09",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 2: Physical layer specification and service definition",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-4:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2228801",
+     "date": "2026-11-09",
+     "detail": "Field device integration (FDI) - Part 103-4: Profiles - PROFINET",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-109-1:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2228901",
+     "date": "2026-11-09",
+     "detail": "Field devices integration (FDI) - Part 109-1: Profiles - HART® and WirelessHART®",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-109-1:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2229001",
+     "date": "2026-11-09",
+     "detail": "Field devices integration (FDI) - Part 109-1: Profiles - HART® and WirelessHART®",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-13:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2251501",
+     "date": "2026-11-09",
+     "detail": "OPC Unified Architecture - Part 13: Aggregates",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-13:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2251601",
+     "date": "2026-11-09",
+     "detail": "OPC Unified Architecture - Part 13: Aggregates",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-12:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2252501",
+     "date": "2026-11-09",
+     "detail": "OPC unified architecture - Part 12: Discovery and global services",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-9:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2253601",
+     "date": "2026-11-09",
+     "detail": "OPC unified architecture - Part 9: Alarms and Conditions",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-9:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2253701",
+     "date": "2026-11-09",
+     "detail": "OPC unified architecture - Part 9: Alarms and Conditions",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-7:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2254701",
+     "date": "2026-11-09",
+     "detail": "OPC unified architecture - Part 7: Profiles",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-7:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2254801",
+     "date": "2026-11-09",
+     "detail": "OPC unified architecture - Part 7: Profiles",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-8:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2254901",
+     "date": "2026-11-09",
+     "detail": "OPC Unified Architecture - Part 8: Data Access",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-8:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2255001",
+     "date": "2026-11-09",
+     "detail": "OPC Unified Architecture - Part 8: Data Access",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62541-11:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2255601",
+     "date": "2026-11-09",
+     "detail": "OPC Unified Architecture - Part 11: Historical Access",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-3-8:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1716801",
+     "date": "2026-11-09",
+     "detail": "Industrial communication networks - Profiles - Part 3-8: Functional safety fieldbuses - Additional specifications for CPF 8",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-1:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1770901",
+     "date": "2026-11-09",
+     "detail": "Field device tool (FDT) interface specification - Part 1: Overview and guidance",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-2:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1771001",
+     "date": "2026-11-09",
+     "detail": "Field device tool (FDT) interface specification - Part 2: Concepts and detailed description",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4108601",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "CISPR 16-1-4:2010/A2:2017 — upphavd",
+     "source": "https://elstandard.se/standard/1778801",
+     "date": "2026-11-09",
+     "detail": "Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements",
+     "tags": [
+      "TK EMC",
+      "CISPR/CIS/A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 62877-1, utg 1:2016/AC1:2017: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1880901",
+     "date": "2026-11-09",
+     "detail": "Elektrolyt och vatten för ventilerade blybatterier - Del 1: Fordringar på elektrolyt",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 62877-1, utg 1:2016: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1719501",
+     "date": "2026-11-09",
+     "detail": "Elektrolyt och vatten för ventilerade blybatterier - Del 1: Fordringar på elektrolyt",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 50700, utg 1:2014: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1444501",
+     "date": "2026-11-09",
+     "detail": "Områdesnät (PDAN) för anslutning av fiberoptisk bredbandsservis",
+     "tags": [
+      "TK 215"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-4-2:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-23:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-24:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-28:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62453-309:2016 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 63115-2:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.39.0 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.39.0",
+     "date": "2026-11-07T14:39:01Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.38.1 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.38.1",
+     "date": "2026-11-06T14:57:48Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — v4.20.1-test.2",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/v4.20.1-test.2",
+     "date": "2026-11-04T14:47:18Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "chirpstack/chirpstack — api/go/v4.20.1-test.2",
+     "source": "https://github.com/chirpstack/chirpstack/releases/tag/api%2Fgo%2Fv4.20.1-test.2",
+     "date": "2026-11-04T14:47:18Z",
+     "detail": "LoRaWAN network server",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.11.0",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.11.0",
+     "date": "2026-11-04T17:32:55Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.11.0b6",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.11.0b6",
+     "date": "2026-11-04T16:27:17Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.11.0b5",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.11.0b5",
+     "date": "2026-11-04T12:26:47Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.11.0b4",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.11.0b4",
+     "date": "2026-11-03T13:48:24Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.11.0b3",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.11.0b3",
+     "date": "2026-11-02T16:53:20Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.141",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.141",
+     "date": "2026-11-04T03:05:52Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.34.0",
+     "source": "https://github.com/openremote/core/releases/tag/1.34.0",
+     "date": "2026-11-06T13:05:39Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-basyx/basyx-java-server-sdk — 2.0.0-milestone-16",
+     "source": "https://github.com/eclipse-basyx/basyx-java-server-sdk/releases/tag/2.0.0-milestone-16",
+     "date": "2026-11-04T10:40:00Z",
+     "detail": "Asset Administration Shell (IEC 63278)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.3.0.M4",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.3.0.M4",
+     "date": "2026-11-08T14:53:28Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.4",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.4",
+     "date": "2026-11-08T14:50:05Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707hr: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707hr",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211el: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211el",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211ro: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211ro",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211hr: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211hr",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43108390101309145cs: Bezpečné peněženky pro provozní spolehlivost v Data-space Federation, Interoperability, Security &amp; Zero-Knowledge PETs",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43108390101309145cs",
+     "date": null,
+     "detail": "status Ongoing; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-11-09",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
