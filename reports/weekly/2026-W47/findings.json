@@ -1,0 +1,485 @@
+{
+ "period": "2026-W47",
+ "cadence": "weekly",
+ "generated": "2026-11-16",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4690,
+    "baseline_run": false,
+    "pipeline_open": 21
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 62351-3, utg 1:2015/A2:2020: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/2245701",
+     "date": "2026-11-16",
+     "detail": "Styrning av kraftsystem och tillhörande informationsutbyte - IT-säkerhet - Del 3: Specifikation av säkerhet i kommunikationsnät baserade på TCP/IP",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 62351-3, utg 1:2015/A1:2018: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/2028401",
+     "date": "2026-11-16",
+     "detail": "Styrning av kraftsystem och tillhörande informationsutbyte - IT-säkerhet - Del 3: Specifikation av säkerhet i kommunikationsnät baserade på TCP/IP",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 62351-9, utg 1:2018: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1938101",
+     "date": "2026-11-16",
+     "detail": "Styrning av kraftsystem och tillhörande informationsutbyte - IT-säkerhet - Del 9: Cyber-säkerhetsrelaterad nyckelhantering",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 62351-3, utg 1:2015: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1554201",
+     "date": "2026-11-16",
+     "detail": "Styrning av kraftsystem och tillhörande informationsutbyte - IT-säkerhet - Del 3: Specifikation av säkerhet i kommunikationsnät baserade på TCP/IP",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4112601",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-4-2:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983401",
+     "date": "2026-11-16",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-2: Data-link layer protocol specification - Type 2 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-23:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983501",
+     "date": "2026-11-16",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-23: Application layer service definition - Type 23 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-24:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983601",
+     "date": "2026-11-16",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-24: Application layer service definition - Type 24 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61158-5-28:2023 — publicerad",
+     "source": "https://elstandard.se/standard/2983901",
+     "date": "2026-11-16",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-28: Application layer service definition - Type 28 elements",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65C"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 60534-1, utg 2:2005: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/23201",
+     "date": "2026-11-16",
+     "detail": "Industriell processtyrning - Del 1: Reglerventiler - Allmänt",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62453-309:2016 — upphavd",
+     "source": "https://elstandard.se/standard/1688201",
+     "date": "2026-11-16",
+     "detail": "Field device tool (FDT) interface specification - Part 309: Communication profile integration - IEC 61784 CPF 9",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "SS-EN 61000-4-6, utg 4:2014: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1374101",
+     "date": "2026-11-16",
+     "detail": "Elektromagnetisk kompatibilitet (EMC) - Del 4-6: Mät- och provningsmetoder - Immunitet mot ledningsbundna störningar orsakade av radiofrekventa fält",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4112901",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 21",
+      "TC 35"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 63115-2:2020 — publicerad",
+     "source": "https://elstandard.se/standard/2584201",
+     "date": "2026-11-16",
+     "detail": "Secondary cells and batteries containing alkaline or other non-acid electrolytes - Sealed nickel-metal hydride rechargeable cells and modules for use in industrial applications - Part 2: Safety",
+     "tags": [
+      "TK 21",
+      "TC 21/SC 21A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SEK TS 62933-3-1, utg 1:2018 — upphavd",
+     "source": "https://elstandard.se/standard/2037001",
+     "date": "2026-11-16",
+     "detail": "Elektriska energilagringssystem (EES) - Del 3-1: Planering och bedömning av elektriska energilagringssystem - Allmänt",
+     "tags": [
+      "TK 120",
+      "TC 120"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-5-6:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61784-5-10:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61298-3:1998 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-1:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-1:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-4:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-103-4:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-109-1:2020 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62769-109-1:2020 RLV — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 64"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC/TR 61000-2-15:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 3"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "TK 1"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "FIWARE/context.Orion-LD — Orion-LD version 1.13.0",
+     "source": "https://github.com/FIWARE/context.Orion-LD/releases/tag/1.13.0",
+     "date": "2026-11-15T10:45:10Z",
+     "detail": "NGSI-LD context broker (MIM1)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.11.1",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.11.1",
+     "date": "2026-11-09T18:52:28Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707sk: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707sk",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707hu: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707hu",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707lt: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707lt",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211sl: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211sl",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43108390101135988hr: AI-Enabled Data Lifecycles Optimization and Data Spaces Integration for Increased Efficiency and Interoperability",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43108390101135988hr",
+     "date": null,
+     "detail": "status Ongoing; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-11-16",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
