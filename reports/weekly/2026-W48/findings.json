@@ -1,0 +1,1544 @@
+{
+ "period": "2026-W48",
+ "cadence": "weekly",
+ "generated": "2026-11-23",
+ "agents": [
+  {
+   "name": "standards_watch",
+   "activity": "Standardisation",
+   "stats": {
+    "watchlist": 19,
+    "docs_tracked": 4699,
+    "baseline_run": false,
+    "pipeline_open": 21
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4114201",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "SK 1",
+      "SyC Smart Energy"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/TS 62325-504:2015: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1559301",
+     "date": "2026-11-23",
+     "detail": "Framework for energy market communications - Part 504: Utilization of web services for electronic data interchanges on the European energy market for electricity",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/PAS 61850-9-3:2015: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1568501",
+     "date": "2026-11-23",
+     "detail": "Communication networks and systems for power utility automation - Part 9-3: Precision time protocol profile for power utility automation",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/TS 62351-1:2007: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1113801",
+     "date": "2026-11-23",
+     "detail": "Power systems management and associated information exchange - Data and communications security - Part 1: Communication network and system security - Introduction to security issues",
+     "tags": [
+      "TK 57"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-10, utg 4:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3851201",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 10: Program",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-10, utg 4:2026 RLV — publicerad",
+     "source": "https://elstandard.se/standard/3851301",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 10: Program",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-11, utg 3:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3851401",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 11: Åtkomst till historiska data",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-11, utg 3:2026 RLV — publicerad",
+     "source": "https://elstandard.se/standard/3851501",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 11: Åtkomst till historiska data",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-13, utg 3:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3851601",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 13: Aggregering av data",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-13, utg 3:2026 RLV — publicerad",
+     "source": "https://elstandard.se/standard/3851701",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 13: Aggregering av data",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-3, utg 4:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3851801",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 3: Modell för adressrymd",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-3, utg 4:2026 RLV — publicerad",
+     "source": "https://elstandard.se/standard/3851901",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 3: Modell för adressrymd",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-6, utg 4:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852001",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 6: Mappningar",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-5, utg 4:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852101",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 5: Informationsmodell",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 61514, utg 2:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852201",
+     "date": "2026-11-23",
+     "detail": "Industriell processtyrning - Bestämning av egenskaper hos ventilinställare med pneumatisk utgång",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65B"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 61514, utg 2:2026 RLV — publicerad",
+     "source": "https://elstandard.se/standard/3852301",
+     "date": "2026-11-23",
+     "detail": "Industriell processtyrning - Bestämning av egenskaper hos ventilinställare med pneumatisk utgång",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65B"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-1, utg 1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852401",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 1: Översikt och koncept",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-1, utg 1:2026 RLV — publicerad",
+     "source": "https://elstandard.se/standard/3852501",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 1: Översikt och koncept",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-14, utg 2:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852601",
+     "date": "2026-11-23",
+     "detail": "OPC unified architecture - Del 14: PubSub",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 62541-7, utg 4:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852701",
+     "date": "2026-11-23",
+     "detail": "OPC Unified Architecture - Del 7: Profiler",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61784-3-18:2011+AMD1:2016+AMD2:2021 CSV: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/2635201",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 3-18: Functional safety fieldbuses - Additional specifications for CPF 18",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/PAS 63325:2020: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/2575601",
+     "date": "2026-11-23",
+     "detail": "Lifecycle requirements for functional safety and security for IACS",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/PAS 63088:2017: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1802501",
+     "date": "2026-11-23",
+     "detail": "Smart manufacturing - Reference architecture model industry 4.0 (RAMI4.0)",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/PAS 63131:2017: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1893501",
+     "date": "2026-11-23",
+     "detail": "System control diagram",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61784-3-18:2011+AMD1:2016 CSV: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1710401",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 3-18: Functional safety fieldbuses - Additional specifications for CPF 18",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61784-3-18:2011: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/940501",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 3-18: Functional safety fieldbuses - Additional specifications for CPF 18",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61784-3-18:2011/A1:2016: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1710301",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 3-18: Functional safety fieldbuses - Additional specifications for CPF 18",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61784-3-18:2011/A2:2021: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/2635101",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 3-18: Functional safety fieldbuses - Additional specifications for CPF 18",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 60770-1:2010: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/868101",
+     "date": "2026-11-23",
+     "detail": "Transmitters for use in industrial-process control systems - Part 1: Methods for performance evaluation",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-5-6:2007 — upphavd",
+     "source": "https://elstandard.se/standard/315501",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 5-6: Installation of fieldbuses - Installation profiles for CPF 6",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61784-5-10:2007 — upphavd",
+     "source": "https://elstandard.se/standard/315701",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 5-10: Installation of fieldbuses - Installation profiles for CPF 10",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 61298-3:1998 — upphavd",
+     "source": "https://elstandard.se/standard/329401",
+     "date": "2026-11-23",
+     "detail": "Process measurement and control devices - General methods and procedures for evaluating performance - Part 3: Tests for the effects of influence quantities",
+     "tags": [
+      "TK 65",
+      "TC 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-1:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2228501",
+     "date": "2026-11-23",
+     "detail": "Field device integration (FDI) - Part 103-1: Profiles - PROFIBUS",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-1:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2228601",
+     "date": "2026-11-23",
+     "detail": "Field Device Integration (FDI) - Part 103-1: Profiles - PROFIBUS",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-4:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2228701",
+     "date": "2026-11-23",
+     "detail": "Field device integration (FDI) - Part 103-4: Profiles - PROFINET",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-103-4:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2228801",
+     "date": "2026-11-23",
+     "detail": "Field device integration (FDI) - Part 103-4: Profiles - PROFINET",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-109-1:2020 — upphavd",
+     "source": "https://elstandard.se/standard/2228901",
+     "date": "2026-11-23",
+     "detail": "Field devices integration (FDI) - Part 109-1: Profiles - HART® and WirelessHART®",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC 62769-109-1:2020 RLV — upphavd",
+     "source": "https://elstandard.se/standard/2229001",
+     "date": "2026-11-23",
+     "detail": "Field devices integration (FDI) - Part 109-1: Profiles - HART® and WirelessHART®",
+     "tags": [
+      "TK 65",
+      "TC 65/SC 65E"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61784-5-18:2018: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/2004201",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Profiles - Part 5-18: Installation of fieldbuses - Installation profiles for CPF 18",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/PAS 63178:2018: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1993601",
+     "date": "2026-11-23",
+     "detail": "Smart manufacturing service platform - Service-oriented integration requirements of the manufacturing resource/capability",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/PAS 62953:2015: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1550101",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Fieldbus specifications",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61158-3-22:2014: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1423701",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 3-22: Data-link layer service definition - Type 22 elements",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61158-4-22:2014: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1430001",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 4-22: Data-link layer protocol specification - Type 22 elements",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61158-5-22:2014: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1431301",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 5-22: Application layer service definition - Type 22 elements",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61158-6-22:2014: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1432701",
+     "date": "2026-11-23",
+     "detail": "Industrial communication networks - Fieldbus specifications - Part 6-22: Application layer protocol specification - Type 22 elements",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4115901",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 64",
+      "TC 64"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/TS 60479-1:2005: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1072701",
+     "date": "2026-11-23",
+     "detail": "Effects of current on human beings and livestock - Part 1: General aspects",
+     "tags": [
+      "TK 64"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 60364-7-740:2000: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1578201",
+     "date": "2026-11-23",
+     "detail": "Electrical installatioons of buildings - Part 7-740: Requirements for special installations or locations - Temporary electrical installations for structures, amusement devices and booths at fairgrounds, amusement parks and circuces",
+     "tags": [
+      "TK 64"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 61000-6-3, utg 4:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3854101",
+     "date": "2026-11-23",
+     "detail": "Elektromagnetisk kompatibilitet (EMC) - Del 6-3: Generella fordringar - Emission från utrustning i bostäder och liknande miljöer",
+     "tags": [
+      "TK EMC",
+      "CISPR/CIS/H"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 61000-6-3, utg 4:2026 RLV — publicerad",
+     "source": "https://elstandard.se/standard/3854201",
+     "date": "2026-11-23",
+     "detail": "Elektromagnetisk kompatibilitet (EMC) - Del 6-3: Generella fordringar - Emission från utrustning i bostäder och liknande miljöer",
+     "tags": [
+      "TK EMC",
+      "CISPR/CIS/H"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "IEC/TR 61000-2-15:2023 — publicerad",
+     "source": "https://elstandard.se/standard/3020601",
+     "date": "2026-11-23",
+     "detail": "Electromagnetic compatibility - Part 2-15: Description of the characteristics of networks with high penetration of power electronics equipment",
+     "tags": [
+      "TK EMC",
+      "TC 77/SC 77A"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "CISPR 24:2010+AMD1:2015 CSV: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1546901",
+     "date": "2026-11-23",
+     "detail": "Information technology equipment - Immunity characteristics - Limits and methods of measurement",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/PAS 62825:2013: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1189701",
+     "date": "2026-11-23",
+     "detail": "Methods of measurement and limits for radiated disturbances from plasma display panel TVs in the frequency range 150 kHz to 30 MHz",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "CISPR 24:2010: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/850001",
+     "date": "2026-11-23",
+     "detail": "Information technology equipment - Immunity characteristics - Limits and methods of measurement",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "CISPR 24:2010/A1:2015: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1546801",
+     "date": "2026-11-23",
+     "detail": "Information technology equipment - Immunity characteristics - Limits and methods of measurement",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "CISPR 20:2006: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1329001",
+     "date": "2026-11-23",
+     "detail": "Sound and television broadcast receivers and associated equipment - Immunity characteristics - Limits and methods of measurement",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "CISPR 20:2006/A1:2013: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1328901",
+     "date": "2026-11-23",
+     "detail": "Sound and television broadcast receivers and associated equipment - Immunity characteristics - Limits and methods of measurement",
+     "tags": [
+      "TK EMC"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "nwp",
+     "title": "(draft)  — new_work_proposal",
+     "source": "https://elstandard.se/standard/4113801",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK EMC",
+      "CISPR/CIS/B"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 62053-23:2020: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/2253101",
+     "date": "2026-11-23",
+     "detail": "Electricity metering equipment - Particular requirements - Part 23: Static meters for reactive energy (classes 2 and 3)",
+     "tags": [
+      "TK 13"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 62053-31:1998: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/886801",
+     "date": "2026-11-23",
+     "detail": "Electricity metering equipment (a.c) - Particular requirements - Part 31: Pulse output devices for electromechanical and electronic meters (two wires only)",
+     "tags": [
+      "TK 13"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 63382-1, utg 1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852801",
+     "date": "2026-11-23",
+     "detail": "Hantering av distribuerad energilagring baserad på elfordonsbatterier - Del 1: Användningsfall och arkitektur",
+     "tags": [
+      "TK 69",
+      "TC 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "new-doc",
+     "title": "SS-EN IEC 63584-210, utg 1:2026 — publicerad",
+     "source": "https://elstandard.se/standard/3852901",
+     "date": "2026-11-23",
+     "detail": "Kommunikationsprotokoll för laddstationer (OCPP) 2.1",
+     "tags": [
+      "TK 69",
+      "TC 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/TR 62660-4:2017: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1793701",
+     "date": "2026-11-23",
+     "detail": "Secondary lithium-ion cells for the propulsion of electric road vehicles - Part 4: Candidate alternative test methods for the internal short circuit test of IEC 62660-3",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "ISO/IEC PAS 16898:2012: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/1854301",
+     "date": "2026-11-23",
+     "detail": "Electrically propelled road vehicles - Dimensions and designation of secondary lithium-ion cells",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "remiss",
+     "title": "(draft)  — remiss",
+     "source": "https://elstandard.se/standard/4117301",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 215",
+      ""
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC/IEEE/PAS 63547:2011: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/980901",
+     "date": "2026-11-23",
+     "detail": "Interconnecting distributed resources with electric power systems",
+     "tags": [
+      "TK 8"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "status-change",
+     "title": "IEC 61355-1:2008: publicerad → upphavd",
+     "source": "https://elstandard.se/standard/108801",
+     "date": "2026-11-23",
+     "detail": "Classification and designation of documents for plants, systems and equipment - Part 1: Rules and classification tables",
+     "tags": [
+      "TK 3"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-2-0, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-2-10, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-2-19, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-1-22, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-1-5, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-1-6, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-1-8, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "SS-EN IEC 61784-1-1, utg 1:2023 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 60584-3:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-1:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-12:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-13:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-14:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-19:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-2:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-3:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-3-4:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-2:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-5:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 61158-5-9:2007 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 65"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": "IEC 62055-41:2018 — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 13"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 69"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 21"
+     ]
+    },
+    {
+     "agent": "standards_watch",
+     "kind": "withdrawn",
+     "title": " — no longer in catalogue",
+     "source": "https://elstandard.se/",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "TK 3"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "platforms_overview",
+   "activity": "Standards & Platforms working group",
+   "stats": {
+    "repos": 20
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "stellio-hub/stellio-context-broker — 2.39.1 🌈",
+     "source": "https://github.com/stellio-hub/stellio-context-broker/releases/tag/2.39.1",
+     "date": "2026-11-17T16:45:16Z",
+     "detail": "NGSI-LD broker (EGM)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — 3.9.9",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/3.9.9",
+     "date": "2026-11-19T12:29:08Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-ditto/ditto — 3.8.15",
+     "source": "https://github.com/eclipse-ditto/ditto/releases/tag/3.8.15",
+     "date": "2026-11-19T12:29:06Z",
+     "detail": "Digital twin framework",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "home-assistant/core — 2026.11.2",
+     "source": "https://github.com/home-assistant/core/releases/tag/2026.11.2",
+     "date": "2026-11-16T20:03:59Z",
+     "detail": "Home automation (Matter/Thread adoption signal)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 5.0.10: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/5.0.10",
+     "date": "2026-11-17T10:58:39Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "node-red/node-red — 4.1.18: Maintenance Release",
+     "source": "https://github.com/node-red/node-red/releases/tag/4.1.18",
+     "date": "2026-11-17T13:05:05Z",
+     "detail": "Flow tooling",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.143",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.143",
+     "date": "2026-11-17T06:56:44Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "edgexfoundry/edgex-go — v4.1.0-dev.142",
+     "source": "https://github.com/edgexfoundry/edgex-go/releases/tag/v4.1.0-dev.142",
+     "date": "2026-11-17T06:53:04Z",
+     "detail": "Edge platform (LF Edge)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openremote/openremote — 1.34.1",
+     "source": "https://github.com/openremote/core/releases/tag/1.34.1",
+     "date": "2026-11-17T10:43:18Z",
+     "detail": "Open IoT platform",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "eclipse-basyx/basyx-java-server-sdk — 2.0.0-milestone-17",
+     "source": "https://github.com/eclipse-basyx/basyx-java-server-sdk/releases/tag/2.0.0-milestone-17",
+     "date": "2026-11-23T16:04:55Z",
+     "detail": "Asset Administration Shell (IEC 63278)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "RealEstateCore/rec — V4.2 -- Wing",
+     "source": "https://github.com/RealEstateCore/rec/releases/tag/v4.2.0",
+     "date": "2026-11-19T11:52:30Z",
+     "detail": "RealEstateCore ontology (SE)",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.3.0.M5",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.3.0.M5",
+     "date": "2026-11-18T18:14:35Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    },
+    {
+     "agent": "platforms_overview",
+     "kind": "market",
+     "title": "openhab/openhab-core — 5.2.5",
+     "source": "https://github.com/openhab/openhab-core/releases/tag/5.2.5",
+     "date": "2026-11-18T14:50:04Z",
+     "detail": "Home/building automation",
+     "tags": [
+      "platform"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu_monitor",
+   "activity": "EU engagement and monitoring",
+   "stats": {
+    "queries": 6
+   },
+   "errors": [],
+   "findings": [
+    {
+     "agent": "eu_monitor",
+     "kind": "eu-act",
+     "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
+     "source": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
+     "date": "Fri, 20 Nov 2026 10:30:00 +0000",
+     "detail": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education Anonymous (not verified) Fri, 11/20/2026 - 11:30 Today, the European Commission and eight Member States are launching the European Digi",
+     "tags": [
+      "interoperab"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707cs: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707cs",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707nl: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707nl",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "31045243777707lv: Real Smart Cities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/31045243777707lv",
+     "date": null,
+     "detail": "status Ended; query '\"smart cities\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43152860101226211cs: Local Digital Twins for Smart and Sustainable Communities",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43152860101226211cs",
+     "date": null,
+     "detail": "status Ongoing; query '\"local digital twins\"'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317sl: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317sl",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317ga: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317ga",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317mt: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317mt",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317it: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317it",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317es: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317es",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317fr: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317fr",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317pt: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317pt",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317el: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317el",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317bg: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317bg",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317ro: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317ro",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317hr: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317hr",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317pl: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317pl",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317nl: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317nl",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317sk: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317sk",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317hu: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317hu",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317et: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317et",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317da: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317da",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317de: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317de",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317lt: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317lt",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    },
+    {
+     "agent": "eu_monitor",
+     "kind": "funding-call",
+     "title": "43252476101355317lv: Qualification and conformance framework for Minimal Interoperability Mechanisms (MIMs) in data spaces",
+     "source": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/43252476101355317lv",
+     "date": null,
+     "detail": "status Forthcoming; query 'interoperability data spaces'",
+     "tags": [
+      "funding"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "county_iot",
+   "activity": "County-wide IoT",
+   "stats": {
+    "ted_total": 0
+   },
+   "errors": [],
+   "findings": []
+  },
+  {
+   "name": "municipal_iot",
+   "activity": "Municipal IoT",
+   "stats": {},
+   "errors": [],
+   "findings": [
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "From Specifications to Action: OASC Kicks Off the Road to MIMs Version 10",
+     "source": "https://oascities.org/from-specifications-to-action-oasc-kicks-off-the-road-to-mims-version-10/",
+     "date": "Tue, 17 Nov 2026 12:49:22 +0000",
+     "detail": "",
+     "tags": [
+      "OASC"
+     ]
+    },
+    {
+     "agent": "municipal_iot",
+     "kind": "note",
+     "title": "Playbook link not answering: https://www.iso.org/standard/88800.html",
+     "source": "https://www.iso.org/standard/88800.html",
+     "date": "2026-11-23",
+     "detail": "",
+     "tags": [
+      "playbook",
+      "dead-link"
+     ]
+    }
+   ]
+  }
+ ]
+}
